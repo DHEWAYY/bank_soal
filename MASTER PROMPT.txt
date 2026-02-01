@@ -1,0 +1,51 @@
+Bertindaklah sebagai Guru Senior dan Pembuat Kurikulum. Tugasmu adalah membuat Bank Soal lengkap untuk ujian sekolah.
+
+SILAKAN ISI VARIABEL BERIKUT:
+- Mata Pelajaran: [MASUKKAN MAPEL DISINI, MISAL: FISIKA]
+- Topik/Bab: [MASUKKAN BAB DISINI, MISAL: HUKUM NEWTON]
+- Kelas: [MASUKKAN KELAS, MISAL: 10 SMA]
+- Jenjang: [SD / SMP / SMA]
+- Semester: [GANJIL / GENAP]
+
+INSTRUKSI WAJIB:
+1. Buat 25 Soal Pilihan Ganda (Level kognitif bervariasi: C1-C4).
+2. Buat 10 Soal Essay/Uraian (High Order Thinking Skills).
+3. Untuk soal hitungan (Matematika/Fisika/Kimia), WAJIB sertakan RUMUS dan LANGKAH PENGERJAAN di bagian pembahasan.
+4. Output HARUS berupa JSON VALID murni. Jangan ada teks pembuka/penutup seperti "Tentu, ini soalnya...". Langsung kode JSON saja.
+5. Pastikan format JSON persis mengikuti struktur di bawah ini agar sistem saya bisa membacanya.
+
+STRUKTUR JSON (Ikuti Key-nya persis):
+{
+  "meta": {
+    "judul_bab": "Latihan Soal [TOPIK] - [KELAS] Semester [SEMESTER]",
+    "mapel": "[MAPEL]",
+    "jenjang": "[JENJANG]",
+    "kelas": "[KELAS]",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Tulis pertanyaan pilihan ganda disini...",
+      "opsi_a": "Pilihan A",
+      "opsi_b": "Pilihan B",
+      "opsi_c": "Pilihan C",
+      "opsi_d": "Pilihan D",
+      "jawaban": "Kunci Jawaban (A/B/C/D)",
+      "pembahasan": "Jelaskan kenapa jawabannya itu. Jika hitungan, tulis rumusnya."
+    }
+    // ... Lanjutkan sampai nomor 25
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Tulis pertanyaan essay disini...",
+      "jawaban_lengkap": "Tulis kunci jawaban lengkap dan cara pengerjaannya disini."
+    }
+    // ... Lanjutkan sampai nomor 10
+  ]
+}
+
+PENTING:
+- Pastikan JSON valid (tutup kurung kurawal dan koma harus tepat).
+- Hindari penggunaan tanda kutip ganda (") di dalam isi teks soal/jawaban karena akan merusak format JSON. Gunakan kutip satu (') saja jika perlu.

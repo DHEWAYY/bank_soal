@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Pecahan Senilai - 4 SD Semester Ganjil",
+    "mapel": "MATEMATIKA",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Pecahan yang nilainya tidak berubah meskipun pembilang dan penyebutnya dikalikan atau dibagi dengan bilangan yang sama (selain nol) disebut...",
+      "opsi_a": "Pecahan campuran",
+      "opsi_b": "Pecahan desimal",
+      "opsi_c": "Pecahan senilai",
+      "opsi_d": "Pecahan biasa",
+      "jawaban": "C",
+      "pembahasan": "Definisi pecahan senilai adalah pecahan yang dituliskan dalam bentuk berbeda, tetapi mempunyai nilai yang sama."
+    },
+    {
+      "no": 2,
+      "tanya": "Perhatikan pecahan 1/3. Pecahan di bawah ini yang senilai dengan 1/3 adalah...",
+      "opsi_a": "2/6",
+      "opsi_b": "3/6",
+      "opsi_c": "1/6",
+      "opsi_d": "4/6",
+      "jawaban": "A",
+      "pembahasan": "1/3 dikalikan 2 pada pembilang dan penyebut: (1x2)/(3x2) = 2/6."
+    },
+    {
+      "no": 3,
+      "tanya": "Pecahan 2/5 senilai dengan pecahan...",
+      "opsi_a": "4/15",
+      "opsi_b": "6/10",
+      "opsi_c": "6/15",
+      "opsi_d": "8/15",
+      "jawaban": "C",
+      "pembahasan": "Coba kalikan 2/5 dengan 3: (2x3)/(5x3) = 6/15. Jadi 2/5 senilai dengan 6/15."
+    },
+    {
+      "no": 4,
+      "tanya": "Bentuk sederhana dari pecahan 8/12 adalah...",
+      "opsi_a": "4/6",
+      "opsi_b": "2/3",
+      "opsi_c": "1/2",
+      "opsi_d": "3/4",
+      "jawaban": "B",
+      "pembahasan": "Mencari FPB dari 8 dan 12 adalah 4. Maka (8:4)/(12:4) = 2/3."
+    },
+    {
+      "no": 5,
+      "tanya": "Nilai n yang tepat agar 3/4 = 9/n adalah...",
+      "opsi_a": "12",
+      "opsi_b": "16",
+      "opsi_c": "15",
+      "opsi_d": "20",
+      "jawaban": "A",
+      "pembahasan": "Pembilang 3 menjadi 9 (dikali 3). Maka penyebut 4 juga harus dikali 3. n = 4 x 3 = 12."
+    },
+    {
+      "no": 6,
+      "tanya": "Manakah pasangan pecahan berikut yang senilai?",
+      "opsi_a": "1/2 dan 2/3",
+      "opsi_b": "3/5 dan 6/10",
+      "opsi_c": "2/7 dan 4/9",
+      "opsi_d": "3/4 dan 4/5",
+      "jawaban": "B",
+      "pembahasan": "3/5 jika dikali 2 menjadi (3x2)/(5x2) = 6/10."
+    },
+    {
+      "no": 7,
+      "tanya": "Pecahan 20/25 jika disederhanakan menjadi...",
+      "opsi_a": "4/5",
+      "opsi_b": "2/5",
+      "opsi_c": "1/5",
+      "opsi_d": "3/5",
+      "jawaban": "A",
+      "pembahasan": "Bagi pembilang dan penyebut dengan 5 (FPB dari 20 dan 25). (20:5)/(25:5) = 4/5."
+    },
+    {
+      "no": 8,
+      "tanya": "Ibu memotong kue menjadi 8 bagian sama besar. Adik memakan 2 bagian. Pecahan yang senilai dengan bagian yang dimakan adik adalah...",
+      "opsi_a": "1/2",
+      "opsi_b": "1/3",
+      "opsi_c": "1/4",
+      "opsi_d": "1/5",
+      "jawaban": "C",
+      "pembahasan": "Bagian adik = 2/8. Disederhanakan: (2:2)/(8:2) = 1/4."
+    },
+    {
+      "no": 9,
+      "tanya": "Bilangan yang tepat untuk mengisi titik-titik pada 5/8 = .../24 adalah...",
+      "opsi_a": "10",
+      "opsi_b": "15",
+      "opsi_c": "20",
+      "opsi_d": "12",
+      "jawaban": "B",
+      "pembahasan": "Penyebut 8 menjadi 24 (dikali 3). Maka pembilang 5 juga dikali 3. 5 x 3 = 15."
+    },
+    {
+      "no": 10,
+      "tanya": "Pecahan 16/24 senilai dengan pecahan 2/m. Nilai m adalah...",
+      "opsi_a": "2",
+      "opsi_b": "3",
+      "opsi_c": "4",
+      "opsi_d": "6",
+      "jawaban": "B",
+      "pembahasan": "Pembilang 16 menjadi 2 (dibagi 8). Maka penyebut 24 juga dibagi 8. m = 24 : 8 = 3."
+    },
+    {
+      "no": 11,
+      "tanya": "Di antara pecahan berikut, manakah yang TIDAK senilai dengan 2/3?",
+      "opsi_a": "4/6",
+      "opsi_b": "6/9",
+      "opsi_c": "8/12",
+      "opsi_d": "9/12",
+      "jawaban": "D",
+      "pembahasan": "A(4/6 = 2/3), B(6/9 = 2/3), C(8/12 = 2/3). Sedangkan D(9/12 = 3/4). Jadi D tidak senilai."
+    },
+    {
+      "no": 12,
+      "tanya": "Andi memiliki tali sepanjang 1/2 meter. Budi memiliki tali sepanjang 4/8 meter. Apakah tali mereka sama panjang?",
+      "opsi_a": "Ya, sama panjang",
+      "opsi_b": "Tidak, tali Andi lebih panjang",
+      "opsi_c": "Tidak, tali Budi lebih panjang",
+      "opsi_d": "Tidak bisa ditentukan",
+      "jawaban": "A",
+      "pembahasan": "4/8 jika disederhanakan dibagi 4 menjadi 1/2. Jadi 1/2 = 4/8."
+    },
+    {
+      "no": 13,
+      "tanya": "Pecahan paling sederhana dari 45/60 adalah...",
+      "opsi_a": "3/4",
+      "opsi_b": "9/12",
+      "opsi_c": "5/6",
+      "opsi_d": "15/20",
+      "jawaban": "A",
+      "pembahasan": "Bagi dengan FPB (15). 45:15 = 3, 60:15 = 4. Hasilnya 3/4."
+    },
+    {
+      "no": 14,
+      "tanya": "Jika 4/7 = 16/x, maka nilai x adalah...",
+      "opsi_a": "21",
+      "opsi_b": "28",
+      "opsi_c": "35",
+      "opsi_d": "42",
+      "jawaban": "B",
+      "pembahasan": "4 dikali 4 jadi 16. Maka 7 dikali 4 = 28. x = 28."
+    },
+    {
+      "no": 15,
+      "tanya": "Pecahan yang senilai dengan 7/9 dengan penyebut 27 adalah...",
+      "opsi_a": "14/27",
+      "opsi_b": "21/27",
+      "opsi_c": "27/27",
+      "opsi_d": "18/27",
+      "jawaban": "B",
+      "pembahasan": "9 menjadi 27 (dikali 3). Maka 7 dikali 3 = 21. Hasilnya 21/27."
+    },
+    {
+      "no": 16,
+      "tanya": "Pecahan a/b dikatakan senilai dengan c/d jika...",
+      "opsi_a": "a x d = b x c",
+      "opsi_b": "a x c = b x d",
+      "opsi_c": "a + b = c + d",
+      "opsi_d": "a - b = c - d",
+      "jawaban": "A",
+      "pembahasan": "Ini adalah sifat perkalian silang untuk mengecek pecahan senilai. a x d harus sama dengan b x c."
+    },
+    {
+      "no": 17,
+      "tanya": "Manakah urutan pecahan senilai yang benar?",
+      "opsi_a": "1/2, 2/4, 4/8, 8/16",
+      "opsi_b": "1/2, 2/3, 3/4, 4/5",
+      "opsi_c": "1/2, 1/3, 1/4, 1/5",
+      "opsi_d": "2/4, 3/4, 4/4, 5/4",
+      "jawaban": "A",
+      "pembahasan": "Semua pecahan di opsi A bernilai setengah (1/2)."
+    },
+    {
+      "no": 18,
+      "tanya": "Bentuk sederhana dari 30/75 adalah...",
+      "opsi_a": "2/3",
+      "opsi_b": "3/5",
+      "opsi_c": "2/5",
+      "opsi_d": "6/15",
+      "jawaban": "C",
+      "pembahasan": "FPB dari 30 dan 75 adalah 15. 30:15=2, 75:15=5. Hasil 2/5."
+    },
+    {
+      "no": 19,
+      "tanya": "Pecahan 14/35 dapat disederhanakan dengan membagi pembilang dan penyebut dengan angka...",
+      "opsi_a": "2",
+      "opsi_b": "5",
+      "opsi_c": "7",
+      "opsi_d": "14",
+      "jawaban": "C",
+      "pembahasan": "14 dan 35 sama-sama kelipatan 7. Maka dibagi 7."
+    },
+    {
+      "no": 20,
+      "tanya": "Jika 3/5 = a/20 = 15/b, maka nilai a dan b berturut-turut adalah...",
+      "opsi_a": "12 dan 25",
+      "opsi_b": "10 dan 25",
+      "opsi_c": "12 dan 30",
+      "opsi_d": "15 dan 20",
+      "jawaban": "A",
+      "pembahasan": "5 ke 20 (x4), maka 3x4 = 12 (a=12). 3 ke 15 (x5), maka 5x5 = 25 (b=25)."
+    },
+    {
+      "no": 21,
+      "tanya": "Siti membeli pizza dan memotongnya menjadi 12 bagian. Ia makan 3 potong. Bagian yang dimakan Siti senilai dengan...",
+      "opsi_a": "1/3",
+      "opsi_b": "1/4",
+      "opsi_c": "1/6",
+      "opsi_d": "3/10",
+      "jawaban": "B",
+      "pembahasan": "3 potong dari 12 = 3/12. Disederhanakan bagi 3 menjadi 1/4."
+    },
+    {
+      "no": 22,
+      "tanya": "Pecahan 6/9 senilai dengan n/3. Nilai n adalah...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "jawaban": "B",
+      "pembahasan": "9 menjadi 3 (dibagi 3). Maka 6 dibagi 3 = 2."
+    },
+    {
+      "no": 23,
+      "tanya": "Manakah pernyataan yang benar?",
+      "opsi_a": "2/3 = 4/9",
+      "opsi_b": "3/4 = 9/16",
+      "opsi_c": "5/6 = 10/12",
+      "opsi_d": "1/2 = 3/5",
+      "jawaban": "C",
+      "pembahasan": "5x2=10 dan 6x2=12. Maka 5/6 = 10/12."
+    },
+    {
+      "no": 24,
+      "tanya": "Bentuk pecahan senilai dari 10/100 dalam bentuk paling sederhana adalah...",
+      "opsi_a": "1/10",
+      "opsi_b": "1/5",
+      "opsi_c": "1/2",
+      "opsi_d": "10/10",
+      "jawaban": "A",
+      "pembahasan": "10:10 = 1, 100:10 = 10. Hasil 1/10."
+    },
+    {
+      "no": 25,
+      "tanya": "Sebuah kelas terdiri dari 40 siswa. 20 siswa adalah laki-laki. Pecahan yang menyatakan jumlah siswa laki-laki dalam bentuk paling sederhana adalah...",
+      "opsi_a": "20/40",
+      "opsi_b": "1/2",
+      "opsi_c": "2/4",
+      "opsi_d": "10/20",
+      "jawaban": "B",
+      "pembahasan": "20/40. Bagi 20 = 1/2."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Tentukan tiga pecahan yang senilai dengan 2/5!",
+      "jawaban_lengkap": "Caranya dengan mengalikan pembilang dan penyebut dengan angka yang sama. \n1) (2x2)/(5x2) = 4/10 \n2) (2x3)/(5x3) = 6/15 \n3) (2x4)/(5x4) = 8/20 \nJadi pecahan senilainya adalah 4/10, 6/15, dan 8/20."
+    },
+    {
+      "no": 2,
+      "tanya": "Sederhanakan pecahan 36/48 sampai ke bentuk paling sederhana!",
+      "jawaban_lengkap": "Cari FPB dari 36 dan 48. Faktor 36: 1,2,3,4,6,9,12,18,36. Faktor 48: 1,2,3,4,6,8,12,16,24,48. FPB-nya adalah 12. \nMaka: (36:12)/(48:12) = 3/4."
+    },
+    {
+      "no": 3,
+      "tanya": "Buktikan bahwa 3/4 dan 9/12 adalah pecahan senilai dengan menggunakan gambar atau perkalian silang!",
+      "jawaban_lengkap": "Menggunakan perkalian silang: \nKalikan pembilang pertama dengan penyebut kedua: 3 x 12 = 36. \nKalikan penyebut pertama dengan pembilang kedua: 4 x 9 = 36. \nKarena hasilnya sama (36), maka 3/4 dan 9/12 adalah senilai."
+    },
+    {
+      "no": 4,
+      "tanya": "Isilah titik-titik berikut agar menjadi pecahan senilai: 4/9 = .../27 = 20/...",
+      "jawaban_lengkap": "a) 4/9 = .../27. Penyebut 9 menjadi 27 (x3), maka pembilang 4 x 3 = 12. Jadi 12/27. \nb) 4/9 = 20/... Pembilang 4 menjadi 20 (x5), maka penyebut 9 x 5 = 45. Jadi 20/45. \nHasil lengkap: 4/9 = 12/27 = 20/45."
+    },
+    {
+      "no": 5,
+      "tanya": "Ayah mempunyai dua petak sawah. Petak pertama ditanami padi seluas 2/3 bagian. Petak kedua ditanami padi seluas 8/12 bagian. Apakah luas bagian yang ditanami padi pada kedua petak tersebut sama? Jelaskan!",
+      "jawaban_lengkap": "Ya, sama. \nPenjelasan: Sederhanakan 8/12. FPB 8 dan 12 adalah 4. \n(8:4)/(12:4) = 2/3. \nKarena 8/12 senilai dengan 2/3, maka luas bagian yang ditanami padi adalah sama."
+    },
+    {
+      "no": 6,
+      "tanya": "Carilah nilai n jika diketahui 5/n = 20/28!",
+      "jawaban_lengkap": "Pembilang 5 menjadi 20 dikali 4. \nMaka penyebut n jika dikali 4 hasilnya 28. \nn x 4 = 28 \nn = 28 : 4 \nn = 7."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebutkan langkah-langkah untuk menyederhanakan pecahan 42/56!",
+      "jawaban_lengkap": "1. Cari faktor persekutuan dari 42 dan 56. (Bisa bagi dengan 2 dulu: 21/28). \n2. Bagi lagi dengan 7: 21:7 = 3 dan 28:7 = 4. \n3. Atau langsung bagi dengan FPB 14: (42:14)/(56:14) = 3/4."
+    },
+    {
+      "no": 8,
+      "tanya": "Dalam sebuah keranjang terdapat 12 bola merah dan 18 bola biru. Tuliskan pecahan jumlah bola merah terhadap total bola dalam bentuk paling sederhana!",
+      "jawaban_lengkap": "Total bola = 12 + 18 = 30. \nPecahan bola merah = 12/30. \nSederhanakan dengan membagi 6 (FPB 12 dan 30). \n(12:6)/(30:6) = 2/5. \nJadi pecahannya adalah 2/5."
+    },
+    {
+      "no": 9,
+      "tanya": "Jika pecahan 3/x senilai dengan 15/25, berapakah nilai x + 5?",
+      "jawaban_lengkap": "Cari nilai x dulu. Pembilang 3 menjadi 15 (dikali 5). \nMaka x dikali 5 = 25. -> x = 5. \nDitanya nilai x + 5. \nMaka 5 + 5 = 10."
+    },
+    {
+      "no": 10,
+      "tanya": "Susunlah 3 pecahan yang senilai dengan 1/5, dimana penyebutnya lebih dari 10 dan kurang dari 30!",
+      "jawaban_lengkap": "Pecahan senilai 1/5: \n- Kali 3: 3/15 (Penyebut 15, masuk range). \n- Kali 4: 4/20 (Penyebut 20, masuk range). \n- Kali 5: 5/25 (Penyebut 25, masuk range). \nJawabannya: 3/15, 4/20, dan 5/25."
+    }
+  ]
+}

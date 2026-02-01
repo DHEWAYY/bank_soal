@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Tanah & Keberlangsungan Hidup - 9 SMP Semester Genap",
+    "mapel": "IPA",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Tanah memiliki peran penting bagi kehidupan. Berikut ini yang BUKAN merupakan peran tanah bagi kehidupan adalah...",
+      "opsi_a": "Penyedia air dan mineral bagi tumbuhan",
+      "opsi_b": "Tempat hidup berbagai organisme tanah",
+      "opsi_c": "Tempat terjadinya fotosintesis tumbuhan",
+      "opsi_d": "Penunjang kesehatan dan penyedia keperluan manusia",
+      "jawaban": "C",
+      "pembahasan": "Fotosintesis terjadi pada bagian tumbuhan yang mengandung klorofil (terutama daun), bukan di dalam tanah. Tanah berfungsi sebagai media tanam, penyedia hara, dan air."
+    },
+    {
+      "no": 2,
+      "tanya": "Proses hancurnya batuan menjadi tanah akibat pengaruh suhu, air, dan angin disebut pelapukan...",
+      "opsi_a": "Biologis",
+      "opsi_b": "Kimiawi",
+      "opsi_c": "Fisika",
+      "opsi_d": "Organik",
+      "jawaban": "C",
+      "pembahasan": "Pelapukan fisika (mekanis) adalah penghancuran batuan menjadi butiran yang lebih kecil tanpa mengubah sifat kimianya, biasanya disebabkan oleh faktor fisik seperti suhu, angin, dan air."
+    },
+    {
+      "no": 3,
+      "tanya": "Lapisan tanah yang paling banyak mengandung materi organik dan humus disebut...",
+      "opsi_a": "Horizon A (Topsoil)",
+      "opsi_b": "Horizon B (Subsoil)",
+      "opsi_c": "Horizon C",
+      "opsi_d": "Horizon D (Batuan Induk)",
+      "jawaban": "A",
+      "pembahasan": "Horizon A atau topsoil adalah lapisan tanah paling atas yang kaya akan bahan organik (humus) dan merupakan tempat utama aktivitas biologi tanah."
+    },
+    {
+      "no": 4,
+      "tanya": "Organisme tanah yang berperan dalam menguraikan bahan organik sisa makhluk hidup menjadi zat hara adalah...",
+      "opsi_a": "Herbivora",
+      "opsi_b": "Karnivora",
+      "opsi_c": "Produsen",
+      "opsi_d": "Dekomposer",
+      "jawaban": "D",
+      "pembahasan": "Dekomposer (pengurai) seperti bakteri dan jamur bertugas menguraikan materi organik mati menjadi unsur hara yang dapat diserap kembali oleh tumbuhan."
+    },
+    {
+      "no": 5,
+      "tanya": "Bakteri Rhizobium sp. yang bersimbiosis dengan akar tanaman kacang-kacangan bermanfaat untuk...",
+      "opsi_a": "Menyerap air dari dalam tanah",
+      "opsi_b": "Mengikat nitrogen bebas dari udara",
+      "opsi_c": "Menguraikan sampah organik",
+      "opsi_d": "Membunuh hama tanaman",
+      "jawaban": "B",
+      "pembahasan": "Bakteri Rhizobium sp. memiliki kemampuan mengikat (fiksasi) nitrogen bebas (N2) dari udara dan mengubahnya menjadi senyawa nitrogen yang dapat digunakan oleh tumbuhan."
+    },
+    {
+      "no": 6,
+      "tanya": "Tanah yang memiliki ukuran butiran sangat kecil, sulit ditembus air, dan lengket saat basah adalah ciri dari tanah...",
+      "opsi_a": "Pasir",
+      "opsi_b": "Lempung (Liat)",
+      "opsi_c": "Humus",
+      "opsi_d": "Kapur",
+      "jawaban": "B",
+      "pembahasan": "Tanah lempung (liat) terdiri dari partikel-partikel yang sangat halus, sehingga pori-porinya kecil, daya ikat air tinggi, dan sulit ditembus air (permeabilitas rendah)."
+    },
+    {
+      "no": 7,
+      "tanya": "Salah satu upaya untuk menjaga kesuburan tanah secara mekanik pada lahan miring agar tidak terjadi erosi adalah...",
+      "opsi_a": "Reboisasi",
+      "opsi_b": "Terasering (Sengkedan)",
+      "opsi_c": "Pemupukan",
+      "opsi_d": "Rotasi tanaman",
+      "jawaban": "B",
+      "pembahasan": "Terasering atau sengkedan adalah metode konservasi tanah secara mekanik dengan membuat teras-teras pada lahan miring untuk mengurangi laju aliran air permukaan dan mencegah erosi."
+    },
+    {
+      "no": 8,
+      "tanya": "Hujan asam dapat menyebabkan pH tanah turun drastis. Kondisi tanah yang terlalu asam dapat dinetralkan dengan penambahan...",
+      "opsi_a": "Kompos",
+      "opsi_b": "Kapur (Kalsium karbonat)",
+      "opsi_c": "Urea",
+      "opsi_d": "Belerang",
+      "jawaban": "B",
+      "pembahasan": "Pemberian kapur (pengapuran) seperti dolomit atau kalsium karbonat dapat meningkatkan pH tanah yang terlalu asam agar mendekati netral."
+    },
+    {
+      "no": 9,
+      "tanya": "Cacing tanah memiliki peran penting dalam kesuburan tanah karena...",
+      "opsi_a": "Memakan akar tanaman pengganggu",
+      "opsi_b": "Menghasilkan gas oksigen di dalam tanah",
+      "opsi_c": "Membantu aerasi tanah melalui lubang yang dibuatnya",
+      "opsi_d": "Mencegah terjadinya pelapukan batuan",
+      "jawaban": "C",
+      "pembahasan": "Pergerakan cacing tanah membuat rongga atau lubang di dalam tanah yang mempermudah masuknya udara (aerasi) dan air (drainase), serta kotorannya menyuburkan tanah."
+    },
+    {
+      "no": 10,
+      "tanya": "Perhatikan komponen tanah berikut: (1) Udara, (2) Air, (3) Mineral, (4) Bahan organik. Komponen penyusun tanah dengan persentase terbesar pada tanah yang ideal adalah...",
+      "opsi_a": "Udara",
+      "opsi_b": "Air",
+      "opsi_c": "Mineral",
+      "opsi_d": "Bahan organik",
+      "jawaban": "C",
+      "pembahasan": "Komposisi tanah ideal kira-kira terdiri dari: 45% Mineral, 25% Air, 25% Udara, dan 5% Bahan Organik. Jadi, porsi terbesar adalah mineral."
+    },
+    {
+      "no": 11,
+      "tanya": "Simbiosis antara jamur dengan akar tumbuhan yang membantu tumbuhan menyerap air dan hara disebut...",
+      "opsi_a": "Lichenes",
+      "opsi_b": "Mikoriza",
+      "opsi_c": "Antibiosis",
+      "opsi_d": "Rhizobium",
+      "jawaban": "B",
+      "pembahasan": "Mikoriza adalah bentuk simbiosis mutualisme antara jamur (fungi) dengan akar tumbuhan tingkat tinggi, yang memperluas bidang penyerapan akar."
+    },
+    {
+      "no": 12,
+      "tanya": "Penggunaan pupuk kimia yang berlebihan dan terus-menerus dapat berdampak negatif, yaitu...",
+      "opsi_a": "Tanah menjadi gembur",
+      "opsi_b": "Meningkatkan populasi cacing tanah",
+      "opsi_c": "Tanah menjadi keras dan organisme tanah mati",
+      "opsi_d": "Hasil panen meningkat selamanya",
+      "jawaban": "C",
+      "pembahasan": "Pupuk kimia berlebih dapat merusak struktur tanah (tanah menjadi keras/padat), mengubah pH tanah, dan membunuh mikroorganisme alami tanah."
+    },
+    {
+      "no": 13,
+      "tanya": "Faktor alam yang paling berpengaruh terhadap pembentukan tanah di Indonesia yang beriklim tropis adalah...",
+      "opsi_a": "Angin dan hewan",
+      "opsi_b": "Curah hujan dan suhu",
+      "opsi_c": "Manusia dan tumbuhan",
+      "opsi_d": "Topografi dan waktu",
+      "jawaban": "B",
+      "pembahasan": "Iklim (curah hujan dan suhu) adalah faktor utama yang mempercepat proses pelapukan batuan menjadi tanah di daerah tropis."
+    },
+    {
+      "no": 14,
+      "tanya": "Berikut ini yang merupakan contoh pelapukan biologi adalah...",
+      "opsi_a": "Batuan pecah karena perubahan suhu ekstrem",
+      "opsi_b": "Batuan larut oleh air hujan",
+      "opsi_c": "Batuan hancur karena akar tumbuhan yang menerobos",
+      "opsi_d": "Batuan terkikis oleh angin",
+      "jawaban": "C",
+      "pembahasan": "Pelapukan biologi disebabkan oleh aktivitas makhluk hidup, seperti akar tanaman yang memecah batuan atau aktivitas lumut."
+    },
+    {
+      "no": 15,
+      "tanya": "Tanah humus memiliki warna yang cenderung gelap. Warna gelap tersebut menandakan bahwa tanah...",
+      "opsi_a": "Banyak mengandung unsur hara dan bahan organik",
+      "opsi_b": "Banyak mengandung pasir",
+      "opsi_c": "Miskin mineral",
+      "opsi_d": "Memiliki kandungan air yang sangat sedikit",
+      "jawaban": "A",
+      "pembahasan": "Warna tanah yang gelap atau hitam biasanya mengindikasikan kandungan bahan organik (humus) yang tinggi, yang berarti tanah tersebut subur."
+    },
+    {
+      "no": 16,
+      "tanya": "Upaya penanaman kembali hutan yang gundul untuk mengembalikan fungsi tanah disebut...",
+      "opsi_a": "Reboisasi",
+      "opsi_b": "Diversifikasi",
+      "opsi_c": "Eutrofikasi",
+      "opsi_d": "Remediasi",
+      "jawaban": "A",
+      "pembahasan": "Reboisasi adalah penanaman kembali hutan yang telah ditebang atau tandus untuk mencegah erosi dan memulihkan fungsi ekosistem."
+    },
+    {
+      "no": 17,
+      "tanya": "Teknologi membersihkan tanah yang tercemar polutan dengan menggunakan mikroorganisme (bakteri/jamur) disebut...",
+      "opsi_a": "Biopori",
+      "opsi_b": "Bioremediasi",
+      "opsi_c": "Biodegradable",
+      "opsi_d": "Biogas",
+      "jawaban": "B",
+      "pembahasan": "Bioremediasi adalah proses pembersihan pencemaran tanah atau air dengan memanfaatkan kemampuan mikroorganisme untuk menguraikan limbah."
+    },
+    {
+      "no": 18,
+      "tanya": "Ion-ion penting dalam tanah yang dibutuhkan tumbuhan sebagai nutrisi antara lain...",
+      "opsi_a": "Nitrat, Fosfat, Kalium",
+      "opsi_b": "Merkuri, Timbal, Arsenik",
+      "opsi_c": "Oksigen, Karbon, Hidrogen",
+      "opsi_d": "Emas, Perak, Perunggu",
+      "jawaban": "A",
+      "pembahasan": "Nitrat (N), Fosfat (P), dan Kalium (K) adalah makronutrien utama yang dibutuhkan tumbuhan dari dalam tanah. Opsi B adalah logam berat berbahaya."
+    },
+    {
+      "no": 19,
+      "tanya": "Tanah pasir kurang baik untuk pertanian karena...",
+      "opsi_a": "Terlalu banyak mengandung air",
+      "opsi_b": "Partikelnya sangat halus",
+      "opsi_c": "Miskin zat hara dan sulit menahan air",
+      "opsi_d": "Memiliki pH yang sangat basa",
+      "jawaban": "C",
+      "pembahasan": "Tanah pasir memiliki pori-pori besar (makropori) sehingga air cepat meresap (drainase cepat) dan tidak tersimpan, serta umumnya kandungan haranya rendah."
+    },
+    {
+      "no": 20,
+      "tanya": "Lapisan tanah yang paling keras dan sulit ditembus air adalah...",
+      "opsi_a": "Topsoil",
+      "opsi_b": "Subsoil",
+      "opsi_c": "Batuan induk",
+      "opsi_d": "Humus",
+      "jawaban": "C",
+      "pembahasan": "Batuan induk (bedrock) adalah lapisan terbawah yang terdiri dari batuan padat yang belum mengalami pelapukan, sehingga sangat keras dan sulit ditembus."
+    },
+    {
+      "no": 21,
+      "tanya": "Pencemaran tanah oleh plastik sangat berbahaya karena...",
+      "opsi_a": "Plastik mudah terurai menjadi pupuk",
+      "opsi_b": "Plastik sulit diuraikan oleh mikroorganisme tanah",
+      "opsi_c": "Plastik meningkatkan aerasi tanah",
+      "opsi_d": "Plastik menyerap air terlalu banyak",
+      "jawaban": "B",
+      "pembahasan": "Plastik adalah bahan polimer sintetis yang non-biodegradable (sulit terurai secara alami), sehingga dapat mencemari tanah selama ratusan tahun."
+    },
+    {
+      "no": 22,
+      "tanya": "Salah satu keuntungan melakukan rotasi tanaman (pergiliran tanaman) adalah...",
+      "opsi_a": "Memutuskan siklus hidup hama dan penyakit tanaman",
+      "opsi_b": "Membuat tanah menjadi lebih keras",
+      "opsi_c": "Mengurangi kandungan organik tanah",
+      "opsi_d": "Meningkatkan erosi tanah",
+      "jawaban": "A",
+      "pembahasan": "Rotasi tanaman (menanam jenis tanaman berbeda secara bergantian) dapat memutus siklus hidup hama spesifik dan menjaga keseimbangan hara tanah."
+    },
+    {
+      "no": 23,
+      "tanya": "Peristiwa hilangnya lapisan permukaan tanah bagian atas oleh air mengalir atau angin disebut...",
+      "opsi_a": "Pelapukan",
+      "opsi_b": "Abrasi",
+      "opsi_c": "Erosi",
+      "opsi_d": "Sedimentasi",
+      "jawaban": "C",
+      "pembahasan": "Erosi adalah pengikisan atau pemindahan material tanah (terutama topsoil) dari satu tempat ke tempat lain oleh media alami seperti air atau angin."
+    },
+    {
+      "no": 24,
+      "tanya": "Bakteri *Nitrosomonas* dan *Nitrobacter* dalam tanah berperan dalam proses...",
+      "opsi_a": "Fermentasi",
+      "opsi_b": "Nitrifikasi",
+      "opsi_c": "Denitrifikasi",
+      "opsi_d": "Fotosintesis",
+      "jawaban": "B",
+      "pembahasan": "Nitrifikasi adalah proses pengubahan amonia menjadi nitrit (oleh Nitrosomonas) dan kemudian menjadi nitrat (oleh Nitrobacter), yang merupakan bentuk nitrogen yang bisa diserap tumbuhan."
+    },
+    {
+      "no": 25,
+      "tanya": "Ciri fisik tanah liat (lempung) yang membedakannya dengan tanah pasir adalah...",
+      "opsi_a": "Butiran kasar dan tidak lengket",
+      "opsi_b": "Butiran halus dan lengket jika basah",
+      "opsi_c": "Berwarna hitam pekat",
+      "opsi_d": "Mudah dilalui air",
+      "jawaban": "B",
+      "pembahasan": "Tanah liat memiliki partikel sangat kecil (halus), bersifat plastis (lengket/bisa dibentuk) saat basah, dan keras saat kering."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan proses pembentukan tanah mulai dari batuan induk hingga menjadi tanah yang subur!",
+      "jawaban_lengkap": "Proses pembentukan tanah diawali dengan pelapukan batuan induk (bedrock) baik secara fisik (suhu/angin), kimia (air hujan/asam), maupun biologi (lumut). Batuan yang hancur menjadi bahan induk (regolith). Selanjutnya, organisme perintis seperti lumut kerak tumbuh dan mati, menambahkan bahan organik. Seiring waktu, terbentuk lapisan tanah atas (topsoil) yang kaya humus dan lapisan bawah, hingga terbentuk profil tanah yang lengkap dan subur."
+    },
+    {
+      "no": 2,
+      "tanya": "Mengapa cacing tanah sering muncul ke permukaan tanah saat hujan lebat turun? Analisislah fenomena tersebut!",
+      "jawaban_lengkap": "Cacing tanah bernapas melalui kulitnya dengan cara difusi oksigen dari udara yang ada di rongga-rongga tanah. Saat hujan lebat, rongga-rongga tanah terisi penuh oleh air, sehingga ketersediaan oksigen berkurang drastis. Cacing naik ke permukaan untuk menghindari kondisi kekurangan oksigen (hipoksia) dan agar tetap bisa bernapas."
+    },
+    {
+      "no": 3,
+      "tanya": "Bandingkan sifat fisik antara tanah pasir dan tanah lempung (liat) ditinjau dari ukuran partikel dan kemampuan menahan air!",
+      "jawaban_lengkap": "1) Ukuran Partikel: Tanah pasir memiliki partikel kasar dan berukuran besar, sedangkan tanah lempung memiliki partikel yang sangat halus. 2) Kemampuan Menahan Air: Tanah pasir memiliki porositas tinggi (rongga besar) sehingga air cepat lolos (kemampuan menahan air rendah). Sebaliknya, tanah lempung memiliki pori-pori mikroskopis yang rapat, sehingga sulit ditembus air namun memiliki kemampuan menahan air yang sangat tinggi."
+    },
+    {
+      "no": 4,
+      "tanya": "Jelaskan bagaimana mekanisme bakteri Rhizobium sp. dalam menyuburkan tanah dan apa keuntungannya bagi petani!",
+      "jawaban_lengkap": "Bakteri Rhizobium sp. bersimbiosis pada bintil akar tanaman legum (kacang-kacangan). Bakteri ini mampu mengikat nitrogen bebas (N2) dari atmosfer yang tidak bisa diserap langsung oleh tumbuhan, lalu mengubahnya menjadi senyawa amonia/nitrat yang bisa digunakan tumbuhan. Keuntungannya bagi petani adalah mengurangi kebutuhan pupuk nitrogen kimia (urea) dan meningkatkan kesuburan tanah secara alami."
+    },
+    {
+      "no": 5,
+      "tanya": "Analisislah dampak negatif dari kegiatan pertanian monokultur (menanam satu jenis tanaman secara terus-menerus) terhadap kualitas tanah!",
+      "jawaban_lengkap": "Pertanian monokultur menyebabkan: 1) Penurunan unsur hara tertentu secara spesifik karena diserap terus-menerus oleh jenis tanaman yang sama. 2) Meningkatnya risiko serangan hama dan penyakit yang spesifik pada tanaman tersebut. 3) Berkurangnya keanekaragaman hayati mikroorganisme tanah, sehingga keseimbangan ekosistem tanah terganggu dan kesuburan menurun."
+    },
+    {
+      "no": 6,
+      "tanya": "Tanah di daerah pegunungan yang miring sangat rawan terjadi erosi. Jelaskan bagaimana metode terasering (sengkedan) dapat mencegah terjadinya erosi dan tanah longsor!",
+      "jawaban_lengkap": "Terasering bekerja dengan mengubah lereng miring menjadi serangkaian permukaan datar bertingkat-tingkat seperti tangga. Hal ini berfungsi untuk: 1) Memperpendek panjang lereng. 2) Memperlambat kecepatan aliran air permukaan (run-off) sehingga air memiliki waktu lebih banyak untuk meresap ke dalam tanah (infiltrasi). 3) Menahan partikel tanah agar tidak langsung hanyut terbawa air ke bawah, sehingga mengurangi erosi dan risiko longsor."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebutkan dan jelaskan tiga komponen utama penyusun tanah!",
+      "jawaban_lengkap": "1) Padatan (Mineral dan Bahan Organik): Mineral berasal dari pelapukan batuan (sekitar 45%), dan bahan organik berasal dari sisa makhluk hidup (sekitar 5%). 2) Air: Mengisi pori-pori tanah, berfungsi melarutkan nutrisi agar bisa diserap akar (sekitar 25%). 3) Udara: Mengisi pori-pori yang tidak terisi air, menyediakan oksigen untuk respirasi akar dan organisme tanah (sekitar 25%)."
+    },
+    {
+      "no": 8,
+      "tanya": "Bagaimana pengaruh pH tanah terhadap pertumbuhan tanaman? Apa yang harus dilakukan petani jika tanahnya terlalu asam?",
+      "jawaban_lengkap": "pH tanah mempengaruhi ketersediaan unsur hara. Pada pH netral (6,5 - 7,5), unsur hara mudah larut dan diserap tanaman. Jika tanah terlalu asam (pH rendah), unsur hara makro (seperti N, P, K) menjadi sulit diserap dan unsur logam beracun (seperti Al) bisa meningkat. Jika tanah terlalu asam, petani harus melakukan pengapuran (memberi kapur dolomit atau kalsium karbonat) untuk menaikkan pH tanah."
+    },
+    {
+      "no": 9,
+      "tanya": "Jelaskan peran organisme tanah (dekomposer) dalam rantai makanan ekosistem!",
+      "jawaban_lengkap": "Dekomposer (seperti bakteri, jamur, cacing) menempati posisi pengurai dalam rantai makanan. Peran utamanya adalah menguraikan materi organik dari sisa-sisa makhluk hidup mati (daun gugur, bangkai hewan) menjadi zat-zat anorganik/hara sederhana. Zat hara ini kemudian dikembalikan ke tanah untuk diserap kembali oleh produsen (tumbuhan), sehingga siklus materi dalam ekosistem terus berputar."
+    },
+    {
+      "no": 10,
+      "tanya": "Evaluasi dampak pencemaran tanah oleh limbah plastik dan styrofoam terhadap struktur dan fungsi tanah dalam jangka panjang!",
+      "jawaban_lengkap": "Limbah plastik dan styrofoam sulit terurai (non-biodegradable). Dampaknya: 1) Secara fisik menghalangi peresapan air dan sirkulasi udara di dalam tanah, sehingga tanah menjadi tidak subur. 2) Menghambat pertumbuhan akar tanaman karena terhalang fisik plastik. 3) Dapat terurai menjadi mikroplastik yang bisa masuk ke rantai makanan organisme tanah dan membahayakannya. 4) Mengurangi ruang hidup bagi mikroorganisme tanah."
+    }
+  ]
+}

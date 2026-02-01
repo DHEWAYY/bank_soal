@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{JUDUL_BAB}} - BankSoal.id</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    </head>
+<body class="bg-gray-50 font-sans text-gray-800">
+
+    <nav class="bg-white border-b shadow-sm sticky top-0 z-50">
+        <div class="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
+            <a href="index.html" class="font-bold text-xl text-blue-600 hover:text-blue-800 transition flex items-center gap-2">
+                <i class="fa-solid fa-graduation-cap"></i> BankSoal.id
+            </a>
+
+            <div class="flex gap-4 text-sm font-semibold text-gray-500">
+                <a href="index_sd.html" class="hover:text-blue-600 transition">SD</a>
+                <a href="index_smp.html" class="hover:text-blue-600 transition">SMP</a>
+                <a href="index_sma.html" class="hover:text-blue-600 transition">SMA</a>
+                <a href="index_smk.html" class="hover:text-blue-600 transition">SMK</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-4xl mx-auto px-4 py-6">
+
+        <div class="w-full h-[90px] bg-gray-100 rounded-md flex items-center justify-center text-xs text-gray-400 mb-6 border border-dashed border-gray-300">
+            [IKLAN ADSENSE 728x90 DISINI]
+        </div>
+
+        <div class="text-sm text-gray-500 mb-2">
+            <a href="index.html" class="hover:underline">Home</a> &rsaquo; {{JENJANG}} &rsaquo; {{MAPEL}} &rsaquo; {{KELAS}}
+        </div>
+
+        <h1 class="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
+            {{JUDUL_BAB}}
+        </h1>
+
+        <div class="bg-blue-50 border border-blue-100 rounded-xl p-6 mb-8 text-center">
+            <h3 class="font-semibold text-blue-900 mb-3">Butuh soal ini buat dicetak?</h3>
+            
+            <a href="{{LINK_DOWNLOAD}}" class="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-full transition-all shadow-lg transform hover:-translate-y-1">
+                <i class="fa-solid fa-file-word"></i> Download Word
+            </a>
+            <p class="text-xs text-gray-500 mt-2">*Tersedia format .Docx (Editable)</p>
+        </div>
+
+        <div class="space-y-8">
+            {{LIST_SOAL}} 
+        </div>
+
+    </main>
+
+    <footer class="text-center py-8 text-gray-400 text-sm border-t mt-12">
+        &copy; 2024 BankSoal.id - Engine by Dhewayy
+    </footer>
+
+    <script>
+        // Gak perlu script khusus, udah pake details/summary bawaan HTML5
+    </script>
+</body>
+</html>

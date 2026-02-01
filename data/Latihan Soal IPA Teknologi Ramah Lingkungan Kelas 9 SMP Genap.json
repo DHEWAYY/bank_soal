@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Teknologi Ramah Lingkungan - 9 SMP Semester Genap",
+    "mapel": "IPA",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Teknologi ramah lingkungan (sustainable technology) adalah bentuk penerapan teknologi yang memperhatikan prinsip-prinsip pelestarian lingkungan. Prinsip utama yang diterapkan adalah...",
+      "opsi_a": "Menghasilkan limbah B3 dalam jumlah besar",
+      "opsi_b": "Menggunakan sumber daya alam yang tidak dapat diperbarui",
+      "opsi_c": "Memperhatikan keseimbangan lingkungan, sosial, dan ekonomi",
+      "opsi_d": "Memaksimalkan keuntungan ekonomi tanpa mempedulikan limbah",
+      "jawaban": "C",
+      "pembahasan": "Prinsip teknologi ramah lingkungan adalah menjaga kelestarian lingkungan dengan tidak menghasilkan limbah berbahaya dan menggunakan sumber daya yang dapat diperbarui."
+    },
+    {
+      "no": 2,
+      "tanya": "Bahan bakar alternatif yang berasal dari bahan-bahan organik tumbuhan seperti biji jarak, kelapa sawit, atau minyak jelantah disebut...",
+      "opsi_a": "Bioetanol",
+      "opsi_b": "Biodiesel",
+      "opsi_c": "Biogas",
+      "opsi_d": "Geotermal",
+      "jawaban": "B",
+      "pembahasan": "Biodiesel adalah bahan bakar yang terbuat dari minyak nabati (lemak tumbuhan) seperti kelapa sawit atau biji jarak. Bioetanol dari fermentasi karbohidrat, Biogas dari fermentasi kotoran."
+    },
+    {
+      "no": 3,
+      "tanya": "Perhatikan data berikut: (1) Singkong, (2) Batubara, (3) Jagung, (4) Minyak Bumi, (5) Tebu. Bahan baku yang dapat diolah menjadi Bioetanol ditunjukkan oleh nomor...",
+      "opsi_a": "(1), (2), dan (3)",
+      "opsi_b": "(1), (3), dan (5)",
+      "opsi_c": "(2), (3), dan (4)",
+      "opsi_d": "(3), (4), dan (5)",
+      "jawaban": "B",
+      "pembahasan": "Bioetanol dihasilkan dari fermentasi bahan yang mengandung karbohidrat atau gula, seperti singkong, jagung, dan tebu."
+    },
+    {
+      "no": 4,
+      "tanya": "Gas yang dihasilkan dari fermentasi kotoran ternak atau limbah organik secara anaerob (tanpa oksigen) dan dapat digunakan sebagai bahan bakar kompor adalah...",
+      "opsi_a": "Oksigen",
+      "opsi_b": "Nitrogen",
+      "opsi_c": "Metana",
+      "opsi_d": "Hidrogen",
+      "jawaban": "C",
+      "pembahasan": "Biogas didominasi oleh gas metana (CH4) yang mudah terbakar dan dihasilkan dari aktivitas bakteri metanogenik dalam kondisi anaerob."
+    },
+    {
+      "no": 5,
+      "tanya": "Teknologi yang mengubah energi cahaya matahari menjadi energi listrik menggunakan panel surya disebut...",
+      "opsi_a": "Solar cell (Fotovoltaik)",
+      "opsi_b": "Hydropower",
+      "opsi_c": "Fuel Cell",
+      "opsi_d": "Biofuel",
+      "jawaban": "A",
+      "pembahasan": "Solar cell atau sel surya bekerja dengan prinsip efek fotovoltaik, yaitu mengubah energi foton dari matahari langsung menjadi arus listrik."
+    },
+    {
+      "no": 6,
+      "tanya": "Pembangkit listrik yang memanfaatkan panas bumi yang berasal dari dalam perut bumi disebut...",
+      "opsi_a": "PLTA (Air)",
+      "opsi_b": "PLTU (Uap Batubara)",
+      "opsi_c": "PLTP (Panas Bumi/Geotermal)",
+      "opsi_d": "PLTN (Nuklir)",
+      "jawaban": "C",
+      "pembahasan": "PLTP (Pembangkit Listrik Tenaga Panas Bumi) atau Geotermal memanfaatkan uap panas dari dalam bumi untuk menggerakkan turbin."
+    },
+    {
+      "no": 7,
+      "tanya": "Hydrogen Fuel Cell (Sel Bahan Bakar Hidrogen) merupakan teknologi ramah lingkungan karena sisa pembakarannya hanya berupa...",
+      "opsi_a": "Gas Karbondioksida (CO2)",
+      "opsi_b": "Gas Karbonmonoksida (CO)",
+      "opsi_c": "Uap air (H2O)",
+      "opsi_d": "Gas Metana (CH4)",
+      "jawaban": "C",
+      "pembahasan": "Reaksi kimia antara Hidrogen (H2) dan Oksigen (O2) dalam fuel cell menghasilkan energi listrik dan produk sampingan berupa uap air (H2O) yang tidak berbahaya."
+    },
+    {
+      "no": 8,
+      "tanya": "Teknologi lubang resapan biopori memiliki manfaat utama untuk...",
+      "opsi_a": "Menghasilkan gas alam",
+      "opsi_b": "Mencegah banjir dan menyuburkan tanah",
+      "opsi_c": "Menampung limbah pabrik",
+      "opsi_d": "Membangkitkan listrik tenaga air",
+      "jawaban": "B",
+      "pembahasan": "Biopori memperluas bidang penyerapan air (mencegah banjir) dan sampah organik di dalamnya menjadi kompos (menyuburkan tanah)."
+    },
+    {
+      "no": 9,
+      "tanya": "Penggunaan tumbuhan untuk menghilangkan, memindahkan, menstabilkan, atau menghancurkan bahan pencemar baik senyawa organik maupun anorganik disebut...",
+      "opsi_a": "Bioremediasi",
+      "opsi_b": "Fitoremediasi",
+      "opsi_c": "Fermentasi",
+      "opsi_d": "Reboisasi",
+      "jawaban": "B",
+      "pembahasan": "Fito artinya tumbuhan, remediasi artinya perbaikan. Fitoremediasi adalah penggunaan tumbuhan (seperti eceng gondok atau bunga matahari) untuk menyerap polutan."
+    },
+    {
+      "no": 10,
+      "tanya": "Salah satu contoh teknologi tidak ramah lingkungan adalah pengolahan minyak bumi. Dampak negatif dari kilang minyak adalah...",
+      "opsi_a": "Menghasilkan emisi gas rumah kaca dan pencemaran tanah",
+      "opsi_b": "Menghasilkan air bersih",
+      "opsi_c": "Menyuburkan tanaman di sekitarnya",
+      "opsi_d": "Mengurangi kadar CO2 di udara",
+      "jawaban": "A",
+      "pembahasan": "Pengolahan minyak bumi (fossil fuel) menghasilkan limbah cair, polusi udara, dan gas rumah kaca yang memicu pemanasan global."
+    },
+    {
+      "no": 11,
+      "tanya": "Mobil listrik dianggap lebih ramah lingkungan dibandingkan mobil konvensional karena...",
+      "opsi_a": "Memiliki suara mesin yang lebih bising",
+      "opsi_b": "Tidak menghasilkan emisi gas buang saat digunakan",
+      "opsi_c": "Menggunakan bahan bakar solar yang murah",
+      "opsi_d": "Memerlukan perawatan mesin yang lebih rumit",
+      "jawaban": "B",
+      "pembahasan": "Mobil listrik menggunakan baterai dan motor listrik, sehingga tidak ada pembakaran bahan bakar fosil dan tidak menghasilkan asap knalpot (zero emission) saat berjalan."
+    },
+    {
+      "no": 12,
+      "tanya": "Tumbuhan yang sering digunakan dalam fitoremediasi untuk menyerap limbah logam berat di perairan adalah...",
+      "opsi_a": "Kaktus",
+      "opsi_b": "Eceng Gondok",
+      "opsi_c": "Pohon Jati",
+      "opsi_d": "Tanaman Jagung",
+      "jawaban": "B",
+      "pembahasan": "Eceng gondok memiliki akar yang mampu menyerap zat organik dan logam berat dari air yang tercemar."
+    },
+    {
+      "no": 13,
+      "tanya": "Teknologi yang memanfaatkan perbedaan suhu antara permukaan air laut yang hangat dan air laut dalam yang dingin untuk menghasilkan listrik disebut...",
+      "opsi_a": "OTEC (Ocean Thermal Energy Conversion)",
+      "opsi_b": "Osmosis Balik",
+      "opsi_c": "Hydropower",
+      "opsi_d": "Tidal Power",
+      "jawaban": "A",
+      "pembahasan": "OTEC memanfaatkan perbedaan temperatur air laut untuk menguapkan fluida kerja (seperti amonia) guna menggerakkan turbin."
+    },
+    {
+      "no": 14,
+      "tanya": "Toilet pengompos (composting toilet) merupakan teknologi sanitasi yang hemat air. Prinsip kerjanya adalah...",
+      "opsi_a": "Menggunakan bahan kimia pemutih",
+      "opsi_b": "Mengalirkan kotoran langsung ke sungai",
+      "opsi_c": "Mengubah kotoran manusia menjadi pupuk kompos menggunakan serbuk gergaji/sabut kelapa",
+      "opsi_d": "Membakar kotoran menjadi abu",
+      "jawaban": "C",
+      "pembahasan": "Toilet pengompos mencampur kotoran dengan bahan organik kering (serbuk gergaji) untuk menyerap air dan memicu dekomposisi aerobik menjadi kompos."
+    },
+    {
+      "no": 15,
+      "tanya": "Dalam proses pemurnian air sederhana, lapisan yang berfungsi untuk menyerap bau, rasa, dan warna adalah...",
+      "opsi_a": "Kerikil",
+      "opsi_b": "Pasir",
+      "opsi_c": "Ijuk",
+      "opsi_d": "Arang (Karbon Aktif)",
+      "jawaban": "D",
+      "pembahasan": "Arang atau karbon aktif memiliki pori-pori yang sangat banyak yang berfungsi mengadsorpsi (menyerap) partikel penyebab bau, warna, dan racun."
+    },
+    {
+      "no": 16,
+      "tanya": "Teknologi Osmosis Balik (Reverse Osmosis) biasanya digunakan untuk...",
+      "opsi_a": "Membuat alkohol",
+      "opsi_b": "Mengubah air laut menjadi air tawar",
+      "opsi_c": "Membuat pupuk kompos",
+      "opsi_d": "Menghasilkan gas metana",
+      "jawaban": "B",
+      "pembahasan": "Osmosis balik menggunakan tekanan tinggi untuk memaksa air melewati membran semipermeabel, menyaring garam dan kotoran, sehingga air laut menjadi tawar."
+    },
+    {
+      "no": 17,
+      "tanya": "Salah satu kelemahan dari Pembangkit Listrik Tenaga Angin (Wind Power) adalah...",
+      "opsi_a": "Menghasilkan limbah beracun",
+      "opsi_b": "Ketersediaan angin yang tidak stabil/berfluktuasi",
+      "opsi_c": "Membutuhkan bahan bakar fosil",
+      "opsi_d": "Menyebabkan pemanasan global",
+      "jawaban": "B",
+      "pembahasan": "Kelemahan energi angin adalah intermittency, yaitu kecepatan angin tidak selalu konstan setiap saat."
+    },
+    {
+      "no": 18,
+      "tanya": "Biofuel dianggap lebih ramah lingkungan daripada bahan bakar fosil karena...",
+      "opsi_a": "Harganya sangat mahal",
+      "opsi_b": "Dapat diperbarui dan siklus karbonnya lebih pendek",
+      "opsi_c": "Sulit diproduksi",
+      "opsi_d": "Tidak menghasilkan energi panas",
+      "jawaban": "B",
+      "pembahasan": "Biofuel berasal dari tanaman yang menyerap CO2 saat tumbuh. Saat dibakar, CO2 yang dilepas setara dengan yang diserap, sehingga siklus karbonnya pendek/netral."
+    },
+    {
+      "no": 19,
+      "tanya": "Perilaku hemat energi yang mendukung teknologi ramah lingkungan dalam kehidupan sehari-hari adalah...",
+      "opsi_a": "Menyalakan lampu di siang hari",
+      "opsi_b": "Menggunakan peralatan elektronik berdaya rendah (hemat energi)",
+      "opsi_c": "Membiarkan charger hp tercolok meski tidak dipakai",
+      "opsi_d": "Menggunakan kendaraan pribadi untuk jarak dekat",
+      "jawaban": "B",
+      "pembahasan": "Menggunakan alat elektronik hemat energi mengurangi beban pembangkit listrik dan emisi karbon."
+    },
+    {
+      "no": 20,
+      "tanya": "Minyak bumi dan batu bara disebut teknologi tidak ramah lingkungan karena...",
+      "opsi_a": "Mudah didapatkan",
+      "opsi_b": "Proses pembakarannya menghasilkan gas rumah kaca dan polutan",
+      "opsi_c": "Dapat didaur ulang dengan cepat",
+      "opsi_d": "Tidak menyebabkan hujan asam",
+      "jawaban": "B",
+      "pembahasan": "Pembakaran bahan bakar fosil melepaskan CO2, SO2, dan NOx yang menyebabkan pemanasan global dan hujan asam."
+    },
+    {
+      "no": 21,
+      "tanya": "Teknologi biopulping dalam industri kertas menggunakan bantuan mikroorganisme untuk...",
+      "opsi_a": "Memutihkan kertas dengan klorin",
+      "opsi_b": "Menguraikan lignin dalam kayu secara alami",
+      "opsi_c": "Menebang pohon lebih cepat",
+      "opsi_d": "Mencetak kertas",
+      "jawaban": "B",
+      "pembahasan": "Biopulping menggunakan jamur (seperti Ceriporiopsis subvermispora) untuk melunakkan kayu dan menguraikan lignin, mengurangi penggunaan bahan kimia berbahaya."
+    },
+    {
+      "no": 22,
+      "tanya": "Biopori sebaiknya dibuat di lokasi...",
+      "opsi_a": "Dalam rumah yang berkeramik",
+      "opsi_b": "Jalan raya yang diaspal",
+      "opsi_c": "Halaman rumah atau taman yang tanahnya terbuka",
+      "opsi_d": "Atap rumah",
+      "jawaban": "C",
+      "pembahasan": "Biopori memerlukan tanah terbuka agar air dapat meresap ke dalam tanah dan organisme tanah dapat bekerja."
+    },
+    {
+      "no": 23,
+      "tanya": "Dampak negatif dari *fracking* (hydraulic fracturing) untuk mengambil minyak/gas serpih adalah...",
+      "opsi_a": "Meningkatkan kualitas air tanah",
+      "opsi_b": "Mencegah gempa bumi",
+      "opsi_c": "Berpotensi mencemari air tanah dan memicu gempa kecil",
+      "opsi_d": "Menyuburkan tanah pertanian",
+      "jawaban": "C",
+      "pembahasan": "Fracking menyuntikkan air, pasir, dan bahan kimia bertekanan tinggi ke dalam tanah, yang berisiko mencemari akuifer air tanah dan memicu pergeseran lapisan tanah."
+    },
+    {
+      "no": 24,
+      "tanya": "Konsep *Zero Waste* dalam teknologi ramah lingkungan berarti...",
+      "opsi_a": "Membuang sampah ke sungai",
+      "opsi_b": "Membakar semua sampah",
+      "opsi_c": "Meminimalkan produksi sampah dan memaksimalkan daur ulang",
+      "opsi_d": "Menimbun sampah di tanah",
+      "jawaban": "C",
+      "pembahasan": "Zero waste adalah filosofi untuk mendesain siklus sumber daya sehingga semua produk digunakan kembali dan tidak ada sampah yang dikirim ke TPA."
+    },
+    {
+      "no": 25,
+      "tanya": "Pemanfaatan tenaga air (hydropower) menggunakan prinsip perubahan energi...",
+      "opsi_a": "Energi Potensial Air -> Energi Kinetik -> Energi Listrik",
+      "opsi_b": "Energi Kimia -> Energi Panas -> Energi Listrik",
+      "opsi_c": "Energi Listrik -> Energi Gerak -> Energi Potensial",
+      "opsi_d": "Energi Surya -> Energi Kimia -> Energi Listrik",
+      "jawaban": "A",
+      "pembahasan": "Air di bendungan memiliki energi potensial, saat jatuh menjadi energi kinetik memutar turbin, yang kemudian menggerakkan generator menghasilkan listrik."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Sebutkan dan jelaskan 6 prinsip teknologi ramah lingkungan (6R)!",
+      "jawaban_lengkap": "1. Refine: Menggunakan bahan/proses yang lebih aman/ramah lingkungan.\n2. Reduce: Mengurangi penggunaan bahan baku dan energi serta limbah.\n3. Reuse: Menggunakan kembali barang-barang yang masih layak pakai.\n4. Recycle: Mendaur ulang limbah menjadi barang baru yang bermanfaat.\n5. Recovery: Pemanfaatan ulang material tertentu dari limbah untuk keperluan lain.\n6. Retrieve Energy: Penghematan energi dalam proses produksi."
+    },
+    {
+      "no": 2,
+      "tanya": "Jelaskan mekanisme kerja Biogas sehingga dapat menghasilkan energi dari kotoran ternak! 
+
+[Image of biogas digester diagram]
+",
+      "jawaban_lengkap": "Mekanisme Biogas:\n1. Pengumpulan: Kotoran ternak dicampur air dimasukkan ke dalam digester (tangki tertutup).\n2. Fermentasi Anaerob: Di dalam tangki kedap udara, bakteri anaerob (seperti Methanobacterium) menguraikan bahan organik.\n3. Produksi Gas: Proses ini menghasilkan gas metana (CH4) dan karbondioksida.\n4. Pemanfaatan: Gas metana disalurkan melalui pipa untuk bahan bakar kompor atau pembangkit listrik."
+    },
+    {
+      "no": 3,
+      "tanya": "Mengapa kendaraan bertenaga Hidrogen (Hydrogen Fuel Cell) disebut sebagai kendaraan masa depan yang paling bersih? Jelaskan reaksi kimianya secara sederhana!",
+      "jawaban_lengkap": "Disebut paling bersih karena tidak menghasilkan emisi karbon (CO2) sama sekali. Reaksi kimia dalam Fuel Cell:\nHidrogen (H2) dari tangki bereaksi dengan Oksigen (O2) dari udara. Reaksi ini menghasilkan aliran elektron (listrik) untuk menggerakkan motor, dan satu-satunya zat sisa yang dikeluarkan knalpot adalah air murni (H2O). Rumus: 2H2 + O2 -> 2H2O + Energi Listrik."
+    },
+    {
+      "no": 4,
+      "tanya": "Jelaskan cara kerja Lubang Resapan Biopori dan sebutkan 3 manfaat utamanya bagi lingkungan!",
+      "jawaban_lengkap": "Cara kerja: Membuat lubang silindris vertikal ke dalam tanah, lalu diisi sampah organik. Sampah organik memancing cacing dan fauna tanah membuat terowongan kecil (biopori) di dalam tanah.\nManfaat:\n1. Mencegah banjir (meningkatkan daya serap air tanah).\n2. Mengubah sampah organik menjadi kompos.\n3. Menyuburkan tanah dan menjaga ketersediaan air tanah."
+    },
+    {
+      "no": 5,
+      "tanya": "Apa yang dimaksud dengan Fitoremediasi? Berikan contoh tanaman yang bisa digunakan dan jenis polutan yang diserapnya!",
+      "jawaban_lengkap": "Fitoremediasi adalah teknologi penggunaan tumbuhan untuk menghilangkan/memulihkan tanah atau air yang tercemar.\nContoh:\n1. Bunga Matahari: Menyerap residu radioaktif (seperti di Chernobyl).\n2. Eceng Gondok: Menyerap logam berat dan residu pestisida di air.\n3. Lidah Mertua (Sansevieria): Menyerap polutan udara dalam ruangan."
+    },
+    {
+      "no": 6,
+      "tanya": "Analisis perbedaan dampak lingkungan antara Pembangkit Listrik Tenaga Uap (Batubara) dengan Pembangkit Listrik Tenaga Surya!",
+      "jawaban_lengkap": "PLTU Batubara: Tidak ramah lingkungan karena pembakarannya menghasilkan CO2 (penyebab pemanasan global), SO2 (hujan asam), dan limbah debu beracun. Sumber dayanya tidak dapat diperbarui.\nPLT Surya: Ramah lingkungan karena memanfaatkan sinar matahari (terbarukan), tidak menghasilkan emisi gas buang, dan tidak bising. Namun, membutuhkan area luas dan bergantung cuaca."
+    },
+    {
+      "no": 7,
+      "tanya": "Bagaimana cara membuat alat pemurnian air sederhana menggunakan bahan-bahan alam? Urutkan susunan bahannya dari atas ke bawah!",
+      "jawaban_lengkap": "Air kotor dialirkan dari atas melalui wadah yang berisi lapisan bahan penyaring. Susunan dari atas ke bawah (umumnya):\n1. Ijuk/Sabut kelapa (menyaring kotoran besar).\n2. Kerikil (penyaring celah).\n3. Pasir (menyaring kotoran halus).\n4. Arang/Karbon aktif (menyerap bau, warna, racun).\n5. Spons/Kain (penyaring akhir).\nAir bersih keluar dari bawah."
+    },
+    {
+      "no": 8,
+      "tanya": "Bioetanol dan Biodiesel sama-sama biofuel, tetapi memiliki perbedaan bahan baku. Jelaskan perbedaannya!",
+      "jawaban_lengkap": "Bioetanol: Dibuat dari fermentasi bahan mengandung karbohidrat/gula seperti tebu, jagung, singkong, atau ubi jalar. Digunakan sebagai pengganti bensin.\nBiodiesel: Dibuat dari reaksi kimia bahan mengandung lemak nabati/hewani seperti minyak kelapa sawit, biji jarak, atau minyak jelantah. Digunakan sebagai pengganti solar (diesel)."
+    },
+    {
+      "no": 9,
+      "tanya": "Meskipun mobil listrik ramah lingkungan saat digunakan, namun ada kritik mengenai sumber listrik dan baterainya. Jelaskan maksud pernyataan tersebut!",
+      "jawaban_lengkap": "Mobil listrik ramah lingkungan karena nol emisi di jalan. Namun, jika listrik untuk mengisi baterainya masih berasal dari PLTU Batubara, maka polusinya hanya berpindah ke pembangkit listrik. Selain itu, limbah baterai bekas (lithium-ion) jika tidak didaur ulang dengan benar dapat menjadi limbah B3 yang mencemari lingkungan."
+    },
+    {
+      "no": 10,
+      "tanya": "Rancanglah sebuah konsep 'Rumah Eco-Friendly' sederhana! Sebutkan minimal 4 fitur teknologi/desain yang akan kamu terapkan!",
+      "jawaban_lengkap": "Desain Rumah Eco-Friendly:\n1. Atap Panel Surya: Untuk sumber listrik mandiri.\n2. Panen Air Hujan: Sistem talang yang menampung air hujan untuk menyiram tanaman/cuci mobil.\n3. Biopori di Halaman: Untuk resapan air dan kompos.\n4. Ventilasi & Pencahayaan Alami: Jendela besar/skylight untuk mengurangi penggunaan lampu dan AC di siang hari.\n5. Lampu LED: Hemat energi."
+    }
+  ]
+}

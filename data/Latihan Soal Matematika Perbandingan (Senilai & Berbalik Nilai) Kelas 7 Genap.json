@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Perbandingan (Senilai & Berbalik Nilai) - 7 SMP Semester Genap",
+    "mapel": "Matematika",
+    "jenjang": "SMP",
+    "kelas": "7 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Bentuk paling sederhana dari perbandingan 45 : 75 adalah...",
+      "opsi_a": "2 : 3",
+      "opsi_b": "3 : 5",
+      "opsi_c": "5 : 9",
+      "opsi_d": "9 : 15",
+      "jawaban": "B",
+      "pembahasan": "Mencari FPB dari 45 dan 75. FPB-nya adalah 15. Maka: (45 : 15) : (75 : 15) = 3 : 5."
+    },
+    {
+      "no": 2,
+      "tanya": "Harga 3 kg apel adalah Rp75.000,00. Harga 5 kg apel tersebut adalah...",
+      "opsi_a": "Rp100.000,00",
+      "opsi_b": "Rp115.000,00",
+      "opsi_c": "Rp125.000,00",
+      "opsi_d": "Rp135.000,00",
+      "jawaban": "C",
+      "pembahasan": "Ini adalah perbandingan senilai. Rumus: a1/b1 = a2/b2. Harga per kg = 75.000 / 3 = 25.000. Maka harga 5 kg = 5 x 25.000 = Rp125.000,00."
+    },
+    {
+      "no": 3,
+      "tanya": "Sebuah mobil memerlukan 5 liter bensin untuk menempuh jarak 60 km. Jika mobil tersebut menghabiskan 40 liter bensin, maka jarak yang ditempuh adalah...",
+      "opsi_a": "200 km",
+      "opsi_b": "240 km",
+      "opsi_c": "300 km",
+      "opsi_d": "480 km",
+      "jawaban": "D",
+      "pembahasan": "Perbandingan senilai. 5 liter -> 60 km. 40 liter -> x km. x = (40 / 5) x 60 = 8 x 60 = 480 km."
+    },
+    {
+      "no": 4,
+      "tanya": "Suatu pekerjaan dapat diselesaikan oleh 12 orang dalam waktu 20 hari. Jika pekerjaan tersebut dikerjakan oleh 6 orang, maka waktu yang diperlukan adalah...",
+      "opsi_a": "10 hari",
+      "opsi_b": "30 hari",
+      "opsi_c": "40 hari",
+      "opsi_d": "60 hari",
+      "jawaban": "C",
+      "pembahasan": "Perbandingan berbalik nilai. Rumus: a1 x b1 = a2 x b2. 12 x 20 = 6 x h. 240 = 6h. h = 240 / 6 = 40 hari."
+    },
+    {
+      "no": 5,
+      "tanya": "Jarak kota A dan B pada peta adalah 5 cm. Jika skala peta 1 : 1.200.000, maka jarak sebenarnya adalah...",
+      "opsi_a": "6 km",
+      "opsi_b": "60 km",
+      "opsi_c": "600 km",
+      "opsi_d": "6.000 km",
+      "jawaban": "B",
+      "pembahasan": "Jarak Sebenarnya = Jarak Peta / Skala = 5 cm / (1/1.200.000) = 5 x 1.200.000 = 6.000.000 cm = 60 km."
+    },
+    {
+      "no": 6,
+      "tanya": "Perbandingan uang Ani dan Budi adalah 3 : 5. Jika jumlah uang mereka Rp400.000,00, maka uang Budi adalah...",
+      "opsi_a": "Rp150.000,00",
+      "opsi_b": "Rp200.000,00",
+      "opsi_c": "Rp250.000,00",
+      "opsi_d": "Rp300.000,00",
+      "jawaban": "C",
+      "pembahasan": "Total rasio = 3 + 5 = 8. Uang Budi = (5/8) x 400.000 = 5 x 50.000 = Rp250.000,00."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebuah lemari buku dapat menampung 36 buku dengan tebal 8 mm. Banyaknya buku yang dapat ditaruh di lemari tersebut jika tiap buku tebalnya 24 mm adalah...",
+      "opsi_a": "10 buku",
+      "opsi_b": "12 buku",
+      "opsi_c": "24 buku",
+      "opsi_d": "108 buku",
+      "jawaban": "B",
+      "pembahasan": "Perbandingan berbalik nilai (semakin tebal buku, semakin sedikit yang muat). 36 x 8 = x * 24. 288 = 24x. x = 288 / 24 = 12 buku."
+    },
+    {
+      "no": 8,
+      "tanya": "Perbandingan kelereng Dito dan Adul adalah 9 : 5. Sedangkan selisih kelereng mereka 28. Jumlah kelereng mereka adalah...",
+      "opsi_a": "48",
+      "opsi_b": "78",
+      "opsi_c": "98",
+      "opsi_d": "108",
+      "jawaban": "C",
+      "pembahasan": "Selisih rasio = 9 - 5 = 4. Nilai 1 bagian rasio = 28 / 4 = 7. Jumlah rasio = 9 + 5 = 14. Jumlah kelereng = 14 x 7 = 98 butir."
+    },
+    {
+      "no": 9,
+      "tanya": "Untuk membuat 60 pasang pakaian, seorang penjahit memerlukan waktu 18 hari. Jika penjahit tersebut bekerja selama 24 hari, berapa pasang pakaian yang dapat dibuat?",
+      "opsi_a": "45 pasang",
+      "opsi_b": "75 pasang",
+      "opsi_c": "80 pasang",
+      "opsi_d": "90 pasang",
+      "jawaban": "C",
+      "pembahasan": "Perbandingan senilai. 60 pasang / 18 hari = x pasang / 24 hari. x = (60 x 24) / 18 = 1440 / 18 = 80 pasang."
+    },
+    {
+      "no": 10,
+      "tanya": "Seorang peternak ayam mempunyai persediaan makanan untuk 150 ekor ayam selama 6 hari. Jika ia membeli 30 ekor ayam lagi, maka persediaan makanan akan habis dalam waktu...",
+      "opsi_a": "3 hari",
+      "opsi_b": "4 hari",
+      "opsi_c": "5 hari",
+      "opsi_d": "6 hari",
+      "jawaban": "C",
+      "pembahasan": "Total ayam sekarang = 150 + 30 = 180 ekor. Perbandingan berbalik nilai. 150 x 6 = 180 x hari. 900 = 180h. h = 900 / 180 = 5 hari."
+    },
+    {
+      "no": 11,
+      "tanya": "Sebuah gedung direncanakan selesai dibangun selama 20 hari oleh 28 pekerja. Setelah dikerjakan 8 hari, pekerjaan dihentikan selama 4 hari. Agar pekerjaan selesai tepat waktu, banyak pekerja yang harus ditambahkan adalah...",
+      "opsi_a": "10 orang",
+      "opsi_b": "12 orang",
+      "opsi_c": "14 orang",
+      "opsi_d": "16 orang",
+      "jawaban": "C",
+      "pembahasan": "Sisa hari normal = 20 - 8 = 12 hari. Sisa hari setelah berhenti = 12 - 4 = 8 hari. Beban kerja sisa = 28 pekerja x 12 hari. Pekerja yang dibutuhkan = (28 x 12) / 8 = 336 / 8 = 42 orang. Tambahan = 42 - 28 = 14 orang."
+    },
+    {
+      "no": 12,
+      "tanya": "Pada layar TV, sebuah gedung terlihat tingginya 16 cm dan lebarnya 9 cm. Jika lebar gedung sebenarnya 18 m, maka tinggi gedung sebenarnya adalah...",
+      "opsi_a": "30 m",
+      "opsi_b": "32 m",
+      "opsi_c": "34 m",
+      "opsi_d": "36 m",
+      "jawaban": "B",
+      "pembahasan": "Perbandingan senilai. T_tv / L_tv = T_sebenarnya / L_sebenarnya. 16/9 = T / 18. T = (16 x 18) / 9 = 16 x 2 = 32 m."
+    },
+    {
+      "no": 13,
+      "tanya": "Bentuk sederhana dari 2,5 kg : 50 ons adalah...",
+      "opsi_a": "1 : 2",
+      "opsi_b": "1 : 20",
+      "opsi_c": "1 : 5",
+      "opsi_d": "2 : 1",
+      "jawaban": "A",
+      "pembahasan": "Samakan satuan. 2,5 kg = 25 ons (karena 1 kg = 10 ons). Maka 25 ons : 50 ons = 1 : 2."
+    },
+    {
+      "no": 14,
+      "tanya": "Diketahui A : B = 5 : 6. Jika nilai A = 20, maka nilai B adalah...",
+      "opsi_a": "16",
+      "opsi_b": "20",
+      "opsi_c": "24",
+      "opsi_d": "30",
+      "jawaban": "C",
+      "pembahasan": "A/B = 5/6. 20/B = 5/6. 5B = 20 x 6. 5B = 120. B = 120 / 5 = 24."
+    },
+    {
+      "no": 15,
+      "tanya": "Sebuah mesin di pabrik dapat memproduksi 240 barang dalam waktu 4 jam. Berapa banyak barang yang diproduksi dalam waktu 7 jam?",
+      "opsi_a": "360 barang",
+      "opsi_b": "400 barang",
+      "opsi_c": "420 barang",
+      "opsi_d": "480 barang",
+      "jawaban": "C",
+      "pembahasan": "Kecepatan produksi = 240 / 4 = 60 barang/jam. Produksi 7 jam = 7 x 60 = 420 barang."
+    },
+    {
+      "no": 16,
+      "tanya": "Jarak Semarang - Jakarta adalah 450 km. Jika ditempuh dengan kecepatan 90 km/jam memerlukan waktu 5 jam. Jika kecepatan dikurangi menjadi 75 km/jam, waktu yang diperlukan adalah...",
+      "opsi_a": "4 jam",
+      "opsi_b": "5,5 jam",
+      "opsi_c": "6 jam",
+      "opsi_d": "7 jam",
+      "jawaban": "C",
+      "pembahasan": "Perbandingan berbalik nilai. V1 x T1 = V2 x T2. 90 x 5 = 75 x T2. 450 = 75 x T2. T2 = 450 / 75 = 6 jam."
+    },
+    {
+      "no": 17,
+      "tanya": "Perbandingan uang Rahmat dan uang Wati adalah 2 : 5. Jika selisih uang mereka Rp60.000,00, jumlah uang mereka adalah...",
+      "opsi_a": "Rp100.000,00",
+      "opsi_b": "Rp120.000,00",
+      "opsi_c": "Rp140.000,00",
+      "opsi_d": "Rp160.000,00",
+      "jawaban": "C",
+      "pembahasan": "Selisih rasio = 3. Nilai 1 bagian = 60.000 / 3 = 20.000. Jumlah rasio = 7. Total = 7 x 20.000 = Rp140.000,00."
+    },
+    {
+      "no": 18,
+      "tanya": "Sebuah peta dibuat dengan skala 1 : 2.500.000. Jika jarak dua kota sebenarnya adalah 400 km, jarak pada peta adalah...",
+      "opsi_a": "12 cm",
+      "opsi_b": "14 cm",
+      "opsi_c": "16 cm",
+      "opsi_d": "18 cm",
+      "jawaban": "C",
+      "pembahasan": "400 km = 40.000.000 cm. Jarak Peta = JS x Skala = 40.000.000 / 2.500.000 = 400 / 25 = 16 cm."
+    },
+    {
+      "no": 19,
+      "tanya": "Siswa kelas VII terdiri dari 15 siswa laki-laki dan 20 siswa perempuan. Perbandingan siswa laki-laki terhadap seluruh siswa adalah...",
+      "opsi_a": "3 : 4",
+      "opsi_b": "3 : 7",
+      "opsi_c": "4 : 7",
+      "opsi_d": "4 : 3",
+      "jawaban": "B",
+      "pembahasan": "Total siswa = 15 + 20 = 35. Rasio Laki : Total = 15 : 35 = (15:5) : (35:5) = 3 : 7."
+    },
+    {
+      "no": 20,
+      "tanya": "Sebuah mobil menghabiskan 8 liter bensin untuk menempuh jarak 56 km. Jika jarak yang ditempuh 84 km, bensin yang diperlukan adalah...",
+      "opsi_a": "10 liter",
+      "opsi_b": "10,5 liter",
+      "opsi_c": "11 liter",
+      "opsi_d": "12 liter",
+      "jawaban": "D",
+      "pembahasan": "Rasio km/liter = 56/8 = 7 km/liter. Bensin untuk 84 km = 84 / 7 = 12 liter."
+    },
+    {
+      "no": 21,
+      "tanya": "Ayah membagikan uang kepada 3 anaknya dengan perbandingan 2 : 3 : 5. Jika anak kedua mendapatkan Rp150.000,00, jumlah uang yang dibagikan Ayah adalah...",
+      "opsi_a": "Rp400.000,00",
+      "opsi_b": "Rp450.000,00",
+      "opsi_c": "Rp500.000,00",
+      "opsi_d": "Rp550.000,00",
+      "jawaban": "C",
+      "pembahasan": "Anak kedua (rasio 3) = 150.000. Nilai 1 bagian = 150.000 / 3 = 50.000. Total rasio = 2+3+5 = 10. Total uang = 10 x 50.000 = Rp500.000,00."
+    },
+    {
+      "no": 22,
+      "tanya": "Renovasi rumah diperkirakan selesai dalam 48 hari dengan 6 pekerja. Jika pemilik rumah ingin selesai dalam 32 hari, berapa pekerja yang perlu ditambahkan?",
+      "opsi_a": "3 orang",
+      "opsi_b": "4 orang",
+      "opsi_c": "8 orang",
+      "opsi_d": "9 orang",
+      "jawaban": "A",
+      "pembahasan": "48 hari x 6 pekerja = 32 hari x (total pekerja). 288 = 32P. P = 288 / 32 = 9 pekerja. Tambahan = 9 - 6 = 3 orang."
+    },
+    {
+      "no": 23,
+      "tanya": "Jika A : B = 2 : 3 dan B : C = 4 : 5, maka A : B : C adalah...",
+      "opsi_a": "2 : 3 : 5",
+      "opsi_b": "8 : 12 : 15",
+      "opsi_c": "8 : 12 : 20",
+      "opsi_d": "6 : 12 : 15",
+      "jawaban": "B",
+      "pembahasan": "Samakan nilai B. B di rasio pertama = 3, di rasio kedua = 4. KPK 3 dan 4 adalah 12. Rasio 1 dikali 4 -> A:B = 8:12. Rasio 2 dikali 3 -> B:C = 12:15. Gabungan: 8 : 12 : 15."
+    },
+    {
+      "no": 24,
+      "tanya": "Termometer Celcius menunjukkan angka 40 derajat. Angka yang ditunjukkan termometer Reamur adalah... (Perbandingan C : R = 5 : 4)",
+      "opsi_a": "24",
+      "opsi_b": "32",
+      "opsi_c": "48",
+      "opsi_d": "50",
+      "jawaban": "B",
+      "pembahasan": "R = (4/5) x C. R = (4/5) x 40 = 4 x 8 = 32 derajat Reamur."
+    },
+    {
+      "no": 25,
+      "tanya": "Suatu adonan kue memerlukan 4 butir telur untuk setiap 500 gram tepung. Jika tersedia 3 kg tepung, berapa butir telur yang dibutuhkan?",
+      "opsi_a": "12 butir",
+      "opsi_b": "20 butir",
+      "opsi_c": "24 butir",
+      "opsi_d": "30 butir",
+      "jawaban": "C",
+      "pembahasan": "3 kg = 3000 gram. Perbandingan senilai: 4/500 = x/3000. x = (4 x 3000) / 500 = 12000 / 500 = 24 butir."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Perbandingan umur Ayah, Ibu, dan Andi adalah 8 : 7 : 3. Jika jumlah umur mereka 90 tahun, hitunglah umur masing-masing!",
+      "jawaban_lengkap": "Total rasio = 8 + 7 + 3 = 18.\nUmur Ayah = (8/18) x 90 = 8 x 5 = 40 tahun.\nUmur Ibu = (7/18) x 90 = 7 x 5 = 35 tahun.\nUmur Andi = (3/18) x 90 = 3 x 5 = 15 tahun."
+    },
+    {
+      "no": 2,
+      "tanya": "Proyek perbaikan jalan harus selesai dalam 30 hari dengan 15 pekerja. Setelah 6 hari bekerja, proyek terhenti selama 4 hari karena cuaca buruk. Berapa banyak pekerja tambahan yang diperlukan agar proyek selesai tepat waktu?",
+      "jawaban_lengkap": "Sisa hari normal = 30 - 6 = 24 hari.\nSisa hari setelah berhenti = 24 - 4 = 20 hari.\nBeban kerja sisa = 24 hari x 15 pekerja.\nPekerja yang dibutuhkan = (24 x 15) / 20 = 360 / 20 = 18 pekerja.\nTambahan pekerja = 18 - 15 = 3 orang."
+    },
+    {
+      "no": 3,
+      "tanya": "Jarak kota A ke kota B pada peta X adalah 5 cm dengan skala 1 : 1.000.000. Jika peta tersebut diperbesar 2 kali, berapakah skala peta yang baru dan jarak pada peta yang baru?",
+      "jawaban_lengkap": "Jarak Sebenarnya (JS) = 5 cm x 1.000.000 = 5.000.000 cm.\nJika peta diperbesar 2x, maka skala menjadi lebih detail (angka pembagi makin kecil): Skala Baru = 1 : (1.000.000 / 2) = 1 : 500.000.\nJarak Peta Baru = JS / Skala Baru = 5.000.000 / 500.000 = 10 cm."
+    },
+    {
+      "no": 4,
+      "tanya": "Seorang peternak memiliki persediaan pakan untuk 20 ekor sapi selama 15 hari. Jika ia menjual 5 ekor sapinya, berapa hari pakan tersebut akan habis?",
+      "jawaban_lengkap": "Sapi awal = 20 ekor, Hari awal = 15 hari.\nSapi sisa = 20 - 5 = 15 ekor.\nPerbandingan berbalik nilai: \n20 x 15 = 15 x Hari Baru\n300 = 15h\nh = 300 / 15 = 20 hari."
+    },
+    {
+      "no": 5,
+      "tanya": "Pak Budi membagikan uang kepada 3 anaknya. Anak pertama mendapat 1/2 bagian, anak kedua mendapat 1/3 bagian, dan anak ketiga mendapat sisanya. Jika uang anak ketiga adalah Rp20.000,00, berapakah total uang yang dibagikan Pak Budi?",
+      "jawaban_lengkap": "Bagian anak 1 + anak 2 = 1/2 + 1/3 = 3/6 + 2/6 = 5/6 bagian.\nSisa untuk anak ke-3 = 1 - 5/6 = 1/6 bagian.\n1/6 bagian = Rp20.000.\nTotal uang (1 bagian utuh) = Rp20.000 x 6 = Rp120.000,00."
+    },
+    {
+      "no": 6,
+      "tanya": "Sebuah mobil memerlukan 4 liter bensin untuk menempuh jarak 36 km. a) Berapa jarak yang ditempuh dengan 10 liter bensin? b) Berapa liter bensin untuk menempuh 63 km?",
+      "jawaban_lengkap": "Rasio konsumsi = 36 km / 4 liter = 9 km/liter.\na) Jarak dengan 10 liter = 10 x 9 = 90 km.\nb) Bensin untuk 63 km = 63 / 9 = 7 liter."
+    },
+    {
+      "no": 7,
+      "tanya": "Perbandingan panjang dan lebar sebuah persegi panjang adalah 7 : 4. Jika keliling persegi panjang tersebut 66 cm, tentukan luasnya!",
+      "jawaban_lengkap": "Keliling = 2 x (p + l) = 66 -> p + l = 33.\nTotal rasio = 7 + 4 = 11.\nPanjang = (7/11) x 33 = 21 cm.\nLebar = (4/11) x 33 = 12 cm.\nLuas = p x l = 21 x 12 = 252 cm persegi."
+    },
+    {
+      "no": 8,
+      "tanya": "Dua buah roda gigi saling bersinggungan. Roda gigi A memiliki 30 gigi dan roda gigi B memiliki 12 gigi. Jika roda gigi A berputar 20 kali, berapa kali roda gigi B berputar?",
+      "jawaban_lengkap": "Perbandingan berbalik nilai (Roda besar berputar lebih sedikit, roda kecil lebih banyak).\nGigi A x Putaran A = Gigi B x Putaran B\n30 x 20 = 12 x Putaran B\n600 = 12P\nP = 600 / 12 = 50 kali."
+    },
+    {
+      "no": 9,
+      "tanya": "Suhu badan adik 35 derajat Celcius. Konversikan suhu tersebut ke dalam skala Reamur dan Fahrenheit!",
+      "jawaban_lengkap": "Perbandingan C : R : F (selisih) = 5 : 4 : 9.\nReamur = (4/5) x 35 = 4 x 7 = 28 derajat Reamur.\nFahrenheit = ((9/5) x 35) + 32 = (9 x 7) + 32 = 63 + 32 = 95 derajat Fahrenheit."
+    },
+    {
+      "no": 10,
+      "tanya": "Sebuah asrama memiliki persediaan beras yang cukup untuk 40 orang selama 18 hari. Jika penghuni asrama bertambah 5 orang, dan mereka ingin persediaan beras itu cukup untuk waktu yang sama (18 hari), berapa kg beras yang harus ditambah jika asumsi 1 orang makan 0,5 kg per hari?",
+      "jawaban_lengkap": "Soal ini menanyakan tambahan persediaan (Senilai), bukan waktu.\nTotal kebutuhan awal = 40 orang x 18 hari x 0,5 kg = 360 kg.\nTotal kebutuhan baru = 45 orang x 18 hari x 0,5 kg = 405 kg.\nBeras yang harus ditambah = 405 kg - 360 kg = 45 kg."
+    }
+  ]
+}

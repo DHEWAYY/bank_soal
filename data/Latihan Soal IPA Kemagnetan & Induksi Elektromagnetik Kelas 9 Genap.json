@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "nama_file": "ipa-smp-kls9-genap-kemagnetan",
+    "judul_seo": "Soal IPA Kelas 9 Semester Genap: Kemagnetan & Induksi + Kunci",
+    "judul_bab": "Latihan Soal Kemagnetan & Induksi Elektromagnetik - 9 SMP Semester Genap",
+    "mapel": "IPA",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "semester": "GENAP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Sifat kutub magnet yang benar adalah...",
+      "opsi_a": "Kutub senama tarik menarik",
+      "opsi_b": "Kutub tidak senama tolak menolak",
+      "opsi_c": "Kutub senama tolak menolak",
+      "opsi_d": "Kutub utara menarik kutub utara",
+      "jawaban": "C",
+      "pembahasan": "Hukum dasar magnet menyatakan bahwa kutub yang sejenis (senama) akan tolak-menolak, sedangkan kutub yang berbeda jenis (tidak senama) akan tarik-menarik."
+    },
+    {
+      "no": 2,
+      "tanya": "Benda yang ditarik kuat oleh magnet disebut...",
+      "opsi_a": "Paramagnetik",
+      "opsi_b": "Feromagnetik",
+      "opsi_c": "Diamagnetik",
+      "opsi_d": "Nonmagnetik",
+      "jawaban": "B",
+      "pembahasan": "Feromagnetik adalah benda yang ditarik kuat oleh magnet (contoh: besi, baja, nikel). Paramagnetik ditarik lemah, Diamagnetik ditolak lemah."
+    },
+    {
+      "no": 3,
+      "tanya": "Salah satu cara membuat magnet adalah dengan menggosok. Jika sebuah besi digosok dengan kutub Utara magnet tetap dari ujung A ke ujung B secara searah, maka kutub yang terbentuk pada ujung B besi adalah...",
+      "opsi_a": "Utara",
+      "opsi_b": "Selatan",
+      "opsi_c": "Netral",
+      "opsi_d": "Berubah-ubah",
+      "jawaban": "B",
+      "pembahasan": "Pada pembuatan magnet dengan cara menggosok, ujung terakhir yang digosok (lepas gosokan) akan memiliki kutub yang berlawanan dengan kutub magnet penggosoknya. Penggosok Kutub Utara -> Ujung B (akhir) menjadi Kutub Selatan."
+    },
+    {
+      "no": 4,
+      "tanya": "Sudut yang dibentuk oleh jarum kompas dengan arah utara-selatan geografis bumi disebut...",
+      "opsi_a": "Inklinasi",
+      "opsi_b": "Deklinasi",
+      "opsi_c": "Deviasi",
+      "opsi_d": "Rotasi",
+      "jawaban": "B",
+      "pembahasan": "Deklinasi adalah sudut penyimpangan antara jarum kompas dengan arah utara-selatan geografis bumi. Inklinasi adalah sudut kemiringan jarum kompas terhadap bidang horizontal."
+    },
+    {
+      "no": 5,
+      "tanya": "Berikut ini adalah cara untuk menghilangkan sifat kemagnetan suatu bahan, KECUALI...",
+      "opsi_a": "Dipukul-pukul",
+      "opsi_b": "Dipanaskan/dibakar",
+      "opsi_c": "Dialiri arus listrik AC",
+      "opsi_d": "Dialiri arus listrik DC",
+      "jawaban": "D",
+      "pembahasan": "Mengaliri arus DC (searah) justru merupakan cara untuk MEMBUAT magnet (elektromagnet), bukan menghilangkannya."
+    },
+    {
+      "no": 6,
+      "tanya": "Kawat penghantar sepanjang 10 meter dialiri arus listrik sebesar 5 mA. Jika kawat tersebut berada dalam medan magnet 20 Tesla, berapakah besar Gaya Lorentz yang timbul?",
+      "opsi_a": "1 N",
+      "opsi_b": "10 N",
+      "opsi_c": "100 N",
+      "opsi_d": "1000 N",
+      "jawaban": "A",
+      "pembahasan": "Diketahui: L = 10 m, I = 5 mA = 0,005 A, B = 20 T.\nRumus: F = B x I x L.\nPerhitungan: F = 20 x 0,005 x 10 = 1 Newton."
+    },
+    {
+      "no": 7,
+      "tanya": "Arah garis gaya magnet di luar magnet adalah...",
+      "opsi_a": "Dari kutub selatan ke kutub utara",
+      "opsi_b": "Dari kutub utara ke kutub selatan",
+      "opsi_c": "Dari tengah ke ujung",
+      "opsi_d": "Tidak beraturan",
+      "jawaban": "B",
+      "pembahasan": "Garis gaya magnet selalu keluar dari kutub Utara dan masuk ke kutub Selatan di bagian luar magnet."
+    },
+    {
+      "no": 8,
+      "tanya": "Peralatan berikut yang prinsip kerjanya memanfaatkan induksi elektromagnetik adalah...",
+      "opsi_a": "Kipas angin dan Solder",
+      "opsi_b": "Transformator dan Generator",
+      "opsi_c": "Bel listrik dan Setrika",
+      "opsi_d": "Lampu pijar dan Oven",
+      "jawaban": "B",
+      "pembahasan": "Transformator (trafo) dan Generator bekerja berdasarkan prinsip induksi elektromagnetik (perubahan fluks magnet menghasilkan listrik atau perubahan tegangan)."
+    },
+    {
+      "no": 9,
+      "tanya": "Sebuah trafo memiliki kumparan primer 200 lilitan dan kumparan sekunder 100 lilitan. Jika tegangan primer 220 Volt, maka tegangan sekundernya adalah...",
+      "opsi_a": "110 Volt",
+      "opsi_b": "220 Volt",
+      "opsi_c": "440 Volt",
+      "opsi_d": "55 Volt",
+      "jawaban": "A",
+      "pembahasan": "Rumus: Vp/Vs = Np/Ns.\n220/Vs = 200/100.\n220/Vs = 2.\nVs = 220/2 = 110 Volt."
+    },
+    {
+      "no": 10,
+      "tanya": "Hewan berikut yang memanfaatkan medan magnet bumi untuk migrasi adalah...",
+      "opsi_a": "Burung merpati dan Penyu",
+      "opsi_b": "Gajah dan Kucing",
+      "opsi_c": "Ayam dan Bebek",
+      "opsi_d": "Kambing dan Sapi",
+      "jawaban": "A",
+      "pembahasan": "Burung merpati, penyu, ikan salmon, dan lobster duri adalah contoh hewan yang memiliki biomagnetik untuk navigasi migrasi."
+    },
+    {
+      "no": 11,
+      "tanya": "Sebuah transformator step-down memiliki efisiensi 80%. Jika daya primer 100 Watt, maka daya sekunder trafo tersebut adalah...",
+      "opsi_a": "80 Watt",
+      "opsi_b": "100 Watt",
+      "opsi_c": "125 Watt",
+      "opsi_d": "20 Watt",
+      "jawaban": "A",
+      "pembahasan": "Efisiensi = (Ps/Pp) x 100%.\n80% = (Ps/100) x 100%.\n0,8 = Ps/100.\nPs = 80 Watt."
+    },
+    {
+      "no": 12,
+      "tanya": "Perhatikan faktor-faktor berikut: (1) Jumlah lilitan, (2) Kecepatan gerak magnet, (3) Kekuatan magnet, (4) Arah arus. Faktor yang mempengaruhi besarnya GGL induksi ditunjukkan oleh nomor...",
+      "opsi_a": "(1) dan (2)",
+      "opsi_b": "(1), (2), dan (3)",
+      "opsi_c": "(2) dan (4)",
+      "opsi_d": "(3) dan (4)",
+      "jawaban": "B",
+      "pembahasan": "Besar GGL induksi dipengaruhi oleh jumlah lilitan kumparan, kecepatan perubahan fluks magnet (gerak magnet), dan kekuatan magnet yang digunakan."
+    },
+    {
+      "no": 13,
+      "tanya": "Alat yang mengubah energi gerak menjadi energi listrik adalah...",
+      "opsi_a": "Motor listrik",
+      "opsi_b": "Generator",
+      "opsi_c": "Transformator",
+      "opsi_d": "Voltmeter",
+      "jawaban": "B",
+      "pembahasan": "Generator (dinamo) berfungsi mengubah energi mekanik (gerak) menjadi energi listrik melalui induksi elektromagnetik."
+    },
+    {
+      "no": 14,
+      "tanya": "Jika kawat berarus listrik berada dalam medan magnet, maka kawat tersebut akan mengalami gaya magnetik yang disebut...",
+      "opsi_a": "Gaya Gravitasi",
+      "opsi_b": "Gaya Coulomb",
+      "opsi_c": "Gaya Lorentz",
+      "opsi_d": "Gaya Gesek",
+      "jawaban": "C",
+      "pembahasan": "Gaya Lorentz adalah gaya yang timbul pada kawat berarus listrik yang berada di dalam medan magnet."
+    },
+    {
+      "no": 15,
+      "tanya": "Untuk memperbesar kekuatan elektromagnet, cara yang dapat dilakukan adalah...",
+      "opsi_a": "Mengurangi jumlah lilitan",
+      "opsi_b": "Memperkecil kuat arus",
+      "opsi_c": "Menambahkan inti besi ke dalam kumparan",
+      "opsi_d": "Mengganti inti besi dengan plastik",
+      "jawaban": "C",
+      "pembahasan": "Kekuatan elektromagnet dapat diperbesar dengan: memperbanyak lilitan, memperbesar arus listrik, dan memberi inti besi lunak."
+    },
+    {
+      "no": 16,
+      "tanya": "Sebuah trafo ideal memiliki tegangan primer 220 V dan tegangan sekunder 11 V. Jika kuat arus primer 0,5 A, maka kuat arus sekunder adalah...",
+      "opsi_a": "1 A",
+      "opsi_b": "5 A",
+      "opsi_c": "10 A",
+      "opsi_d": "20 A",
+      "jawaban": "C",
+      "pembahasan": "Trafo ideal: Vp.Ip = Vs.Is.\n220 x 0,5 = 11 x Is.\n110 = 11 x Is.\nIs = 110/11 = 10 A."
+    },
+    {
+      "no": 17,
+      "tanya": "Ciri-ciri transformator Step-Up adalah...",
+      "opsi_a": "Ns > Np dan Vs > Vp",
+      "opsi_b": "Ns < Np dan Vs < Vp",
+      "opsi_c": "Ns > Np dan Vs < Vp",
+      "opsi_d": "Is > Ip",
+      "jawaban": "A",
+      "pembahasan": "Trafo Step-Up berfungsi menaikkan tegangan, cirinya: Lilitan sekunder lebih banyak (Ns > Np), Tegangan sekunder lebih besar (Vs > Vp), dan Arus sekunder lebih kecil (Is < Ip)."
+    },
+    {
+      "no": 18,
+      "tanya": "Teknologi kedokteran yang memanfaatkan medan magnet kuat untuk pencitraan organ dalam tubuh adalah...",
+      "opsi_a": "USG",
+      "opsi_b": "Rontgen",
+      "opsi_c": "MRI",
+      "opsi_d": "CT Scan",
+      "jawaban": "C",
+      "pembahasan": "MRI (Magnetic Resonance Imaging) menggunakan medan magnet yang sangat kuat dan gelombang radio untuk menghasilkan gambar organ tubuh."
+    },
+    {
+      "no": 19,
+      "tanya": "Arah gaya Lorentz dapat ditentukan dengan kaidah tangan kanan. Jika ibu jari menunjukkan arah arus (I) dan jari telunjuk menunjukkan arah medan magnet (B), maka jari tengah menunjukkan arah...",
+      "opsi_a": "Gaya Lorentz (F)",
+      "opsi_b": "Tegangan (V)",
+      "opsi_c": "Hambatan (R)",
+      "opsi_d": "Muatan (Q)",
+      "jawaban": "A",
+      "pembahasan": "Sesuai kaidah tangan kanan (fleming), Ibu jari = Arus (I), Telunjuk = Medan Magnet (B), Jari Tengah/Telapak tangan = Gaya Lorentz (F)."
+    },
+    {
+      "no": 20,
+      "tanya": "Magnet jarum kompas selalu menunjuk arah utara-selatan karena pengaruh...",
+      "opsi_a": "Medan magnet bumi",
+      "opsi_b": "Gravitasi bumi",
+      "opsi_c": "Rotasi bumi",
+      "opsi_d": "Suhu bumi",
+      "jawaban": "A",
+      "pembahasan": "Bumi bertindak sebagai magnet raksasa. Kompas menunjuk arah utara-selatan karena ditarik oleh kutub-kutub magnet bumi."
+    },
+    {
+      "no": 21,
+      "tanya": "Jika sebuah magnet batang dipotong menjadi tiga bagian, maka bagian tengahnya...",
+      "opsi_a": "Tidak bersifat magnet",
+      "opsi_b": "Hanya memiliki kutub utara",
+      "opsi_c": "Hanya memiliki kutub selatan",
+      "opsi_d": "Tetap memiliki kutub utara dan selatan",
+      "jawaban": "D",
+      "pembahasan": "Setiap potongan magnet, sekecil apapun, akan tetap membentuk magnet baru yang utuh (memiliki dua kutub: utara dan selatan). Ini disebut teori domain magnet."
+    },
+    {
+      "no": 22,
+      "tanya": "Satuan dari kuat medan magnet dalam sistem internasional adalah...",
+      "opsi_a": "Newton",
+      "opsi_b": "Tesla",
+      "opsi_c": "Ampere",
+      "opsi_d": "Volt",
+      "jawaban": "B",
+      "pembahasan": "Satuan SI untuk induksi magnetik atau kuat medan magnet (B) adalah Tesla (T)."
+    },
+    {
+      "no": 23,
+      "tanya": "Perbedaan utama antara generator AC dan generator DC terletak pada...",
+      "opsi_a": "Adanya magnet",
+      "opsi_b": "Adanya kumparan",
+      "opsi_c": "Jenis cincin yang digunakan",
+      "opsi_d": "Arah putaran",
+      "jawaban": "C",
+      "pembahasan": "Generator AC menggunakan cincin luncur (slip rings) yang utuh, sedangkan Generator DC menggunakan cincin belah (komutator) untuk menyearahkan arus."
+    },
+    {
+      "no": 24,
+      "tanya": "Sebuah kawat lurus panjang berarus listrik 10 A. Jika kuat medan magnet 5 T memotong tegak lurus kawat sepanjang 2 meter, maka gaya Lorentz-nya adalah...",
+      "opsi_a": "10 N",
+      "opsi_b": "50 N",
+      "opsi_c": "100 N",
+      "opsi_d": "200 N",
+      "jawaban": "C",
+      "pembahasan": "Rumus F = B.I.L (sin 90 karena tegak lurus = 1). F = 5 x 10 x 2 = 100 Newton."
+    },
+    {
+      "no": 25,
+      "tanya": "Kereta Maglev (Magnetic Levitation) dapat bergerak sangat cepat karena...",
+      "opsi_a": "Menggunakan bahan bakar roket",
+      "opsi_b": "Roda kereta sangat licin",
+      "opsi_c": "Terapung di atas rel akibat gaya tolak magnet sehingga minim gesekan",
+      "opsi_d": "Ditarik oleh kabel baja yang kuat",
+      "jawaban": "C",
+      "pembahasan": "Maglev memanfaatkan gaya tolak menolak magnet superkonduktor sehingga kereta mengambang (levitasi) di atas rel. Hal ini menghilangkan gaya gesek antara roda dan rel, memungkinkan kecepatan tinggi."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan perbedaan antara bahan feromagnetik, paramagnetik, dan diamagnetik beserta masing-masing dua contohnya!",
+      "jawaban_lengkap": "1. Feromagnetik: Bahan yang ditarik sangat kuat oleh magnet. Contoh: Besi, Baja, Nikel, Kobalt.\n2. Paramagnetik: Bahan yang ditarik lemah oleh magnet. Contoh: Aluminium, Platina, Magnesium.\n3. Diamagnetik: Bahan yang ditolak lemah oleh magnet. Contoh: Emas, Seng, Bismut."
+    },
+    {
+      "no": 2,
+      "tanya": "Sebuah transformator step-down dihubungkan dengan sumber tegangan 220 V. Trafo ini digunakan untuk menyalakan lampu bertegangan 12 V. Jika jumlah lilitan primer adalah 1.100 lilitan, berapakah jumlah lilitan sekundernya?",
+      "jawaban_lengkap": "Diketahui:\nVp = 220 V\nVs = 12 V\nNp = 1.100 lilitan\n\nDitanya: Ns?\n\nRumus: Vp / Vs = Np / Ns\n220 / 12 = 1.100 / Ns\nNs = (12 x 1.100) / 220\nNs = 13.200 / 220\nNs = 60 lilitan."
+    },
+    {
+      "no": 3,
+      "tanya": "Jelaskan prinsip kerja dari bel listrik sederhana!",
+      "jawaban_lengkap": "Bel listrik bekerja menggunakan elektromagnet. \n\n
+
+[Image of electric bell diagram]
+\n Saat sakelar ditekan, arus mengalir ke kumparan, mengubah inti besi menjadi magnet. Magnet ini menarik pemukul besi sehingga memukul bel (bunyi). Saat pemukul tertarik, kontak interuptor terputus, arus mati, kemagnetan hilang, dan pemukul kembali ke posisi awal. Kontak tersambung lagi, dan siklus berulang terus menerus."
+    },
+    {
+      "no": 4,
+      "tanya": "Sebuah kawat penghantar sepanjang 50 cm dialiri arus listrik 4 A berada dalam medan magnet homogen 6 Tesla. Jika arah arus tegak lurus dengan arah medan magnet, hitunglah besar Gaya Lorentz yang dialami kawat tersebut!",
+      "jawaban_lengkap": "Diketahui:\nL = 50 cm = 0,5 m\nI = 4 A\nB = 6 T\nSudut = 90 derajat (sin 90 = 1)\n\nRumus: F = B x I x L\nF = 6 x 4 x 0,5\nF = 12 Newton."
+    },
+    {
+      "no": 5,
+      "tanya": "Mengapa jika magnet batang dipanaskan atau dipukul-pukul sifat kemagnetannya dapat hilang? Jelaskan berdasarkan teori magnet elementer!",
+      "jawaban_lengkap": "Menurut teori magnet elementer, sebuah benda bersifat magnet jika magnet-magnet elementernya tersusun rapi dan searah. Pemanasan atau pemukulan keras memberi energi pada partikel yang menyebabkan magnet elementer bergerak acak/tidak teratur. Ketika susunan magnet elementer menjadi acak, sifat kemagnetan benda tersebut akan hilang."
+    },
+    {
+      "no": 6,
+      "tanya": "Sebutkan 3 faktor yang memengaruhi besarnya GGL Induksi pada generator!",
+      "jawaban_lengkap": "1. Kecepatan perubahan fluks magnet (kecepatan gerak magnet atau putaran kumparan).\n2. Jumlah lilitan pada kumparan (semakin banyak, semakin besar GGL).\n3. Kekuatan medan magnet yang digunakan."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebuah trafo memiliki efisiensi 75%. Tegangan inputnya 220 V dan arus input 2 A. Jika tegangan outputnya 110 V, berapakah kuat arus output (sekunder) yang dihasilkan?",
+      "jawaban_lengkap": "Diketahui:\nEfisiensi = 75% = 0,75\nVp = 220 V\nIp = 2 A\nVs = 110 V\n\nDitanya: Is?\n\nRumus: Efisiensi = (Ps / Pp) x 100% = (Vs.Is / Vp.Ip) x 100%\n0,75 = (110 . Is) / (220 . 2)\n0,75 = (110 Is) / 440\n110 Is = 0,75 x 440\n110 Is = 330\nIs = 330 / 110 = 3 Ampere."
+    },
+    {
+      "no": 8,
+      "tanya": "Jelaskan apa yang dimaksud dengan Deklinasi dan Inklinasi pada kemagnetan bumi!",
+      "jawaban_lengkap": "1. Deklinasi: Sudut yang dibentuk oleh jarum kompas dengan arah utara-selatan geografis (sebenarnya). Hal ini terjadi karena letak kutub magnet bumi tidak berimpit persis dengan kutub geografis bumi.\n2. Inklinasi: Sudut kemiringan yang dibentuk oleh jarum kompas dengan bidang horizontal (mendatar) bumi."
+    },
+    {
+      "no": 9,
+      "tanya": "Bagaimana burung merpati memanfaatkan medan magnet bumi untuk melakukan migrasi atau pulang ke sarangnya?",
+      "jawaban_lengkap": "Di dalam paruh atau otak burung merpati terdapat butiran mineral magnetik (magnetite) yang berfungsi sebagai reseptor magnet. Reseptor ini sangat sensitif terhadap medan magnet bumi, sehingga burung dapat mendeteksi arah utara-selatan dan posisi geografis seperti memiliki kompas internal untuk navigasi."
+    },
+    {
+      "no": 10,
+      "tanya": "Tentukan arah gaya Lorentz jika arus listrik mengalir ke atas (sumbu Y positif) dan medan magnet mengarah ke kanan (sumbu X positif)! Jelaskan menggunakan kaidah tangan kanan!",
+      "jawaban_lengkap": "Menggunakan kaidah tangan kanan (telapak tangan terbuka):\n- Ibu jari (Arus/I) mengarah ke atas.\n- Empat jari (Medan Magnet/B) mengarah ke kanan.\n- Arah telapak tangan menghadap (Gaya Lorentz/F).\nJika dipraktikkan, telapak tangan akan menghadap MASUK ke bidang kertas (menjauhi pengamat/sumbu Z negatif)."
+    }
+  ]
+}

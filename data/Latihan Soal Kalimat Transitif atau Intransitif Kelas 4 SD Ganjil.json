@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Kalimat Transitif dan Intransitif - 4 SD Semester Ganjil",
+    "mapel": "B. Indonesia",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Kalimat transitif adalah kalimat yang predikatnya memerlukan...",
+      "opsi_a": "Subjek",
+      "opsi_b": "Objek",
+      "opsi_c": "Keterangan",
+      "opsi_d": "Pelengkap",
+      "jawaban": "B",
+      "pembahasan": "Kalimat transitif adalah kalimat yang memerlukan objek agar kalimat tersebut menjadi utuh dan bermakna."
+    },
+    {
+      "no": 2,
+      "tanya": "Kalimat yang tidak memerlukan objek disebut kalimat...",
+      "opsi_a": "Transitif",
+      "opsi_b": "Intransitif",
+      "opsi_c": "Pasif",
+      "opsi_d": "Majemuk",
+      "jawaban": "B",
+      "pembahasan": "Intransitif berarti tidak memerlukan objek. Kalimat ini sudah bisa dipahami hanya dengan Subjek dan Predikat (dan pelengkap/keterangan jika ada)."
+    },
+    {
+      "no": 3,
+      "tanya": "Manakah di bawah ini yang merupakan contoh kalimat transitif?",
+      "opsi_a": "Adik menangis tersedu-sedu.",
+      "opsi_b": "Budi tidur di kamar.",
+      "opsi_c": "Ibu memasak nasi goreng.",
+      "opsi_d": "Ayah berangkat ke kantor.",
+      "jawaban": "C",
+      "pembahasan": "Kalimat 'Ibu memasak nasi goreng' memiliki objek yaitu 'nasi goreng'. Tanpa objek, kalimat 'Ibu memasak' masih menimbulkan pertanyaan 'memasak apa?'."
+    },
+    {
+      "no": 4,
+      "tanya": "Manakah di bawah ini yang merupakan contoh kalimat intransitif?",
+      "opsi_a": "Siti menyapu lantai.",
+      "opsi_b": "Lani membaca buku.",
+      "opsi_c": "Edo berenang di kolam.",
+      "opsi_d": "Dayu memetik bunga.",
+      "jawaban": "C",
+      "pembahasan": "'Edo berenang' sudah jelas maknanya tanpa perlu objek. 'Di kolam' adalah keterangan tempat, bukan objek."
+    },
+    {
+      "no": 5,
+      "tanya": "Perhatikan kalimat berikut: 'Rani memegang boneka beruang.' Objek dalam kalimat tersebut adalah...",
+      "opsi_a": "Rani",
+      "opsi_b": "Memegang",
+      "opsi_c": "Boneka beruang",
+      "opsi_d": "Beruang",
+      "jawaban": "C",
+      "pembahasan": "Subjek=Rani, Predikat=memegang, Objek=boneka beruang."
+    },
+    {
+      "no": 6,
+      "tanya": "Salah satu ciri kalimat transitif adalah...",
+      "opsi_a": "Tidak bisa diubah menjadi kalimat pasif",
+      "opsi_b": "Bisa diubah menjadi kalimat pasif",
+      "opsi_c": "Predikatnya selalu berawalan ber-",
+      "opsi_d": "Hanya terdiri dari Subjek dan Predikat",
+      "jawaban": "B",
+      "pembahasan": "Kalimat transitif memiliki objek, sehingga objek tersebut bisa menjadi subjek dalam kalimat pasif. Contoh: Saya makan apel (Aktif) -> Apel dimakan saya (Pasif)."
+    },
+    {
+      "no": 7,
+      "tanya": "Kata kerja yang biasanya digunakan dalam kalimat intransitif memiliki imbuhan...",
+      "opsi_a": "Me-",
+      "opsi_b": "Me-kan",
+      "opsi_c": "Ber-",
+      "opsi_d": "Di-",
+      "jawaban": "C",
+      "pembahasan": "Imbuhan 'ber-' (seperti berlari, bermain, bernyanyi) umumnya membentuk kata kerja intransitif yang tidak butuh objek."
+    },
+    {
+      "no": 8,
+      "tanya": "'Ayah sedang membaca koran di teras.' Predikat dalam kalimat tersebut adalah...",
+      "opsi_a": "Ayah",
+      "opsi_b": "Sedang membaca",
+      "opsi_c": "Koran",
+      "opsi_d": "Di teras",
+      "jawaban": "B",
+      "pembahasan": "Predikat adalah kata kerja atau tindakan yang dilakukan subjek. Di sini tindakannya adalah 'sedang membaca'."
+    },
+    {
+      "no": 9,
+      "tanya": "Kalimat berikut yang memiliki pola S-P-O-K adalah...",
+      "opsi_a": "Burung terbang tinggi.",
+      "opsi_b": "Kakak mencuci mobil di garasi.",
+      "opsi_c": "Adik tidur siang.",
+      "opsi_d": "Kami belajar bersama.",
+      "jawaban": "B",
+      "pembahasan": "Kakak (S) - mencuci (P) - mobil (O) - di garasi (Keterangan Tempat)."
+    },
+    {
+      "no": 10,
+      "tanya": "Perhatikan kalimat: 'Kucing itu tidur pulas.' Kalimat ini termasuk jenis kalimat...",
+      "opsi_a": "Transitif",
+      "opsi_b": "Intransitif",
+      "opsi_c": "Pasif",
+      "opsi_d": "Perintah",
+      "jawaban": "B",
+      "pembahasan": "Kata kerja 'tidur' tidak memerlukan objek. 'Pulas' adalah kata keterangan cara/pelengkap, bukan objek yang dikenai pekerjaan."
+    },
+    {
+      "no": 11,
+      "tanya": "Manakah kalimat di bawah ini yang predikatnya berupa kata kerja transitif?",
+      "opsi_a": "Menari",
+      "opsi_b": "Menulis",
+      "opsi_c": "Berdiri",
+      "opsi_d": "Duduk",
+      "jawaban": "B",
+      "pembahasan": "Menulis membutuhkan objek (apa yang ditulis?). Sedangkan menari, berdiri, dan duduk bisa berdiri sendiri tanpa objek."
+    },
+    {
+      "no": 12,
+      "tanya": "'Sinta menyanyikan lagu Indonesia Raya.' Jika diubah menjadi kalimat pasif, maka susunannya menjadi...",
+      "opsi_a": "Lagu Indonesia Raya menyanyikan Sinta.",
+      "opsi_b": "Sinta dinyanyikan lagu Indonesia Raya.",
+      "opsi_c": "Lagu Indonesia Raya dinyanyikan oleh Sinta.",
+      "opsi_d": "Lagu Indonesia Raya bernyanyi untuk Sinta.",
+      "jawaban": "C",
+      "pembahasan": "Kalimat pasif mengubah Objek (Lagu Indonesia Raya) menjadi Subjek, dan predikat 'menyanyikan' menjadi 'dinyanyikan'."
+    },
+    {
+      "no": 13,
+      "tanya": "Perhatikan kalimat: 'Rudi bermain layang-layang.' Apakah kalimat ini bisa diubah menjadi pasif? Mengapa?",
+      "opsi_a": "Tidak, karena ini kalimat intransitif.",
+      "opsi_b": "Ya, karena memiliki objek 'layang-layang'.",
+      "opsi_c": "Tidak, karena predikatnya berawalan ber-.",
+      "opsi_d": "Ya, karena subjeknya Rudi.",
+      "jawaban": "B",
+      "pembahasan": "Meskipun berawalan 'ber-', kata 'bermain' dalam konteks ini diikuti objek 'layang-layang'. Kalimat pasifnya: 'Layang-layang dimainkan oleh Rudi.' Ini adalah contoh pengecualian/kontekstual transitif."
+    },
+    {
+      "no": 14,
+      "tanya": "Kalimat: 'Air sungai mengalir deras.' Unsur 'deras' berkedudukan sebagai...",
+      "opsi_a": "Objek",
+      "opsi_b": "Pelengkap",
+      "opsi_c": "Keterangan",
+      "opsi_d": "Subjek",
+      "jawaban": "C",
+      "pembahasan": "Deras menjelaskan 'bagaimana' air mengalir, jadi fungsinya adalah Keterangan Cara."
+    },
+    {
+      "no": 15,
+      "tanya": "Berikut ini pasangan kata kerja dan jenis kalimat yang TEPAT adalah...",
+      "opsi_a": "Melihat - Intransitif",
+      "opsi_b": "Membeli - Intransitif",
+      "opsi_c": "Menangis - Transitif",
+      "opsi_d": "Membawa - Transitif",
+      "jawaban": "D",
+      "pembahasan": "Membawa membutuhkan objek (membawa apa?). Melihat (transitif), Membeli (transitif), Menangis (intransitif)."
+    },
+    {
+      "no": 16,
+      "tanya": "Ibu guru _______ murid-murid di kelas. Kata kerja transitif yang tepat untuk melengkapi kalimat tersebut adalah...",
+      "opsi_a": "Berbicara",
+      "opsi_b": "Mengajar",
+      "opsi_c": "Berjalan",
+      "opsi_d": "Duduk",
+      "jawaban": "B",
+      "pembahasan": "Mengajar membutuhkan objek (siapa yang diajar?), yaitu murid-murid."
+    },
+    {
+      "no": 17,
+      "tanya": "Pak Tani menanam padi di sawah. Pola kalimat di atas adalah...",
+      "opsi_a": "S - P - O",
+      "opsi_b": "S - P - K",
+      "opsi_c": "S - P - O - K",
+      "opsi_d": "S - P - Pel",
+      "jawaban": "C",
+      "pembahasan": "Pak Tani (S) - menanam (P) - padi (O) - di sawah (K)."
+    },
+    {
+      "no": 18,
+      "tanya": "Manakah kalimat intransitif yang menggunakan Keterangan Waktu?",
+      "opsi_a": "Adik bangun tidur pukul lima pagi.",
+      "opsi_b": "Ibu memotong kue di dapur.",
+      "opsi_c": "Ayah mencuci motor hari Minggu.",
+      "opsi_d": "Kakak pergi ke sekolah.",
+      "jawaban": "A",
+      "pembahasan": "Pilihan A tidak punya objek (bangun tidur = predikat frasa) dan ada ket waktu (pukul lima pagi). Pilihan B dan C transitif. Pilihan D ket tempat."
+    },
+    {
+      "no": 19,
+      "tanya": "Kalimat yang TIDAK bisa diubah menjadi bentuk pasif adalah...",
+      "opsi_a": "Andi menendang bola.",
+      "opsi_b": "Siti menyiram bunga.",
+      "opsi_c": "Bayi itu tertawa lucu.",
+      "opsi_d": "Kucing mengejar tikus.",
+      "jawaban": "C",
+      "pembahasan": "Kalimat C adalah intransitif (tertawa), tidak memiliki objek, sehingga tidak bisa dipasifkan."
+    },
+    {
+      "no": 20,
+      "tanya": "Dalam kalimat 'Doni memukul gendang', kata 'gendang' berfungsi sebagai...",
+      "opsi_a": "Subjek",
+      "opsi_b": "Predikat",
+      "opsi_c": "Objek",
+      "opsi_d": "Keterangan",
+      "jawaban": "C",
+      "pembahasan": "Gendang adalah benda yang dikenai tindakan memukul."
+    },
+    {
+      "no": 21,
+      "tanya": "Perhatikan paragraf berikut: 'Riko suka bermain bola. Setiap sore ia pergi ke lapangan. Ia menendang bola dengan kuat.' Kalimat yang termasuk kalimat transitif dalam paragraf tersebut adalah...",
+      "opsi_a": "Riko suka bermain bola.",
+      "opsi_b": "Setiap sore ia pergi ke lapangan.",
+      "opsi_c": "Ia menendang bola dengan kuat.",
+      "opsi_d": "Kalimat pertama dan kedua.",
+      "jawaban": "C",
+      "pembahasan": "'Ia menendang bola' jelas transitif (S-P-O). 'Pergi ke lapangan' adalah intransitif (S-P-K). 'Bermain bola' secara struktur sering dianggap intransitif berpelengkap dalam bahasa Indonesia baku, namun 'menendang bola' pasti transitif."
+    },
+    {
+      "no": 22,
+      "tanya": "Kata kerja berikut yang bisa menjadi predikat dalam kalimat intransitif adalah...",
+      "opsi_a": "Membuat",
+      "opsi_b": "Lari",
+      "opsi_c": "Menyusun",
+      "opsi_d": "Membuka",
+      "jawaban": "B",
+      "pembahasan": "Lari tidak membutuhkan objek."
+    },
+    {
+      "no": 23,
+      "tanya": "Kalimat 'Anjing menggonggong' termasuk kalimat...",
+      "opsi_a": "Transitif lengkap",
+      "opsi_b": "Intransitif",
+      "opsi_c": "Transitif tak lengkap",
+      "opsi_d": "Pasif",
+      "jawaban": "B",
+      "pembahasan": "Menggonggong adalah aktivitas yang tidak memerlukan penderita/objek."
+    },
+    {
+      "no": 24,
+      "tanya": "Fungsi objek dalam kalimat transitif adalah...",
+      "opsi_a": "Menjelaskan tempat kejadian",
+      "opsi_b": "Menjadi penderita atau yang dikenai pekerjaan",
+      "opsi_c": "Melengkapi subjek",
+      "opsi_d": "Menunjukkan waktu kejadian",
+      "jawaban": "B",
+      "pembahasan": "Objek adalah sasaran dari tindakan predikat."
+    },
+    {
+      "no": 25,
+      "tanya": "Manakah kalimat di bawah ini yang strukturnya S-P-O?",
+      "opsi_a": "Adik menangis di kamar.",
+      "opsi_b": "Ibu membeli buah-buahan.",
+      "opsi_c": "Ayah bekerja keras.",
+      "opsi_d": "Burung terbang tinggi.",
+      "jawaban": "B",
+      "pembahasan": "Ibu (S) - membeli (P) - buah-buahan (O)."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan perbedaan utama antara kalimat transitif dan kalimat intransitif beserta contohnya!",
+      "jawaban_lengkap": "Perbedaan utamanya terletak pada keberadaan objek. Kalimat transitif MEMERLUKAN objek (Contoh: Ibu memotong kue), sedangkan kalimat intransitif TIDAK memerlukan objek (Contoh: Adik tidur)."
+    },
+    {
+      "no": 2,
+      "tanya": "Buatlah 3 contoh kalimat transitif dengan pola S-P-O!",
+      "jawaban_lengkap": "1. Budi menendang bola. 2. Siti menyapu lantai. 3. Ayah mencuci mobil."
+    },
+    {
+      "no": 3,
+      "tanya": "Buatlah 3 contoh kalimat intransitif dengan pola S-P-K!",
+      "jawaban_lengkap": "1. Mereka berlari di lapangan. 2. Kami berlibur ke Bali. 3. Adik menangis di kamar."
+    },
+    {
+      "no": 4,
+      "tanya": "Ubahlah kalimat aktif transitif berikut menjadi kalimat pasif: 'Kakak menutup jendela kamar.'",
+      "jawaban_lengkap": "Jendela kamar ditutup oleh Kakak."
+    },
+    {
+      "no": 5,
+      "tanya": "Identifikasi Subjek (S), Predikat (P), Objek (O), dan Keterangan (K) pada kalimat berikut: 'Paman memancing ikan di sungai.'",
+      "jawaban_lengkap": "Paman (S), memancing (P), ikan (O), di sungai (K)."
+    },
+    {
+      "no": 6,
+      "tanya": "Mengapa kalimat 'Adik menangis' tidak bisa diubah menjadi kalimat pasif? Jelaskan!",
+      "jawaban_lengkap": "Karena 'Adik menangis' adalah kalimat intransitif yang tidak memiliki objek. Syarat utama mengubah ke pasif adalah objek pada kalimat aktif berubah menjadi subjek pada kalimat pasif. Jika tidak ada objek, maka tidak bisa dipasifkan."
+    },
+    {
+      "no": 7,
+      "tanya": "Perbaikilah kalimat rumpang ini dengan kata kerja transitif yang tepat: 'Nelayan sedang ________ ikan di laut menggunakan jaring.'",
+      "jawaban_lengkap": "Menangkap (Nelayan sedang menangkap ikan di laut menggunakan jaring)."
+    },
+    {
+      "no": 8,
+      "tanya": "Tentukan apakah kalimat berikut Transitif atau Intransitif:\n a. Matahari bersinar terang.\n b. Petani mencangkul sawah.",
+      "jawaban_lengkap": "a. Intransitif (tidak ada objek). b. Transitif (objeknya 'sawah')."
+    },
+    {
+      "no": 9,
+      "tanya": "Buatlah satu kalimat yang menggunakan kata kerja 'memberi' dan jelaskan mana objeknya!",
+      "jawaban_lengkap": "Contoh kalimat: 'Ibu memberi adik uang jajan.' Objeknya adalah 'adik' (Objek Penyerta) dan 'uang jajan' (Objek Penderita). Atau kalimat sederhana: 'Saya memberi hadiah.' Objeknya adalah 'hadiah'."
+    },
+    {
+      "no": 10,
+      "tanya": "Analisislah kalimat ini: 'Siswa kelas 4 berdiskusi di perpustakaan.' Apakah kalimat tersebut memiliki objek? Jelaskan jenis kalimatnya!",
+      "jawaban_lengkap": "Kalimat tersebut TIDAK memiliki objek. 'Di perpustakaan' adalah Keterangan Tempat. Karena tidak punya objek, kalimat ini termasuk jenis kalimat INTRANSITIF."
+    }
+  ]
+}

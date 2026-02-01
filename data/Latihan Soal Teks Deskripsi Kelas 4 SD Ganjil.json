@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Teks Deskripsi - 4 SD Semester Ganjil",
+    "mapel": "B. Indonesia",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Teks deskripsi adalah teks yang berisi tentang...",
+      "opsi_a": "Langkah-langkah melakukan sesuatu",
+      "opsi_b": "Penggambaran suatu objek, tempat, atau peristiwa secara jelas",
+      "opsi_c": "Cerita khayalan yang tidak nyata",
+      "opsi_d": "Percakapan antara dua orang atau lebih",
+      "jawaban": "B",
+      "pembahasan": "Teks deskripsi bertujuan untuk menggambarkan atau melukiskan suatu objek, tempat, atau suasana sejelas-jelasnya dengan melibatkan kesan indra."
+    },
+    {
+      "no": 2,
+      "tanya": "Tujuan utama penulisan teks deskripsi adalah...",
+      "opsi_a": "Agar pembaca bisa ikut merasakan, melihat, atau mendengar apa yang digambarkan",
+      "opsi_b": "Agar pembaca terhibur dengan cerita lucu",
+      "opsi_c": "Agar pembaca mengetahui cara membuat sesuatu",
+      "opsi_d": "Agar pembaca setuju dengan pendapat penulis",
+      "jawaban": "A",
+      "pembahasan": "Tujuan teks deskripsi adalah membuat pembaca seolah-olah merasakan langsung objek yang sedang dibahas melalui panca indra."
+    },
+    {
+      "no": 3,
+      "tanya": "Salah satu ciri teks deskripsi adalah melibatkan panca indra. Kalimat berikut yang melibatkan indra penglihatan adalah...",
+      "opsi_a": "Udara di pegunungan terasa sangat dingin menusuk tulang.",
+      "opsi_b": "Suara kicauan burung terdengar merdu di pagi hari.",
+      "opsi_c": "Bunga mawar itu berwarna merah menyala dan sangat cantik.",
+      "opsi_d": "Wangi masakan ibu membuat perutku lapar.",
+      "jawaban": "C",
+      "pembahasan": "Kalimat C mendeskripsikan warna (merah menyala) dan rupa (cantik) yang ditangkap oleh mata (indra penglihatan)."
+    },
+    {
+      "no": 4,
+      "tanya": "Bacalah kalimat berikut: 'Bululu kucingku sangat halus dan lembut saat dibelai.' Kalimat tersebut menggunakan indra...",
+      "opsi_a": "Penglihatan",
+      "opsi_b": "Pendengaran",
+      "opsi_c": "Peraba",
+      "opsi_d": "Penciuman",
+      "jawaban": "C",
+      "pembahasan": "Kata 'halus' dan 'lembut' serta aktivitas 'dibelai' berkaitan dengan indra peraba (kulit)."
+    },
+    {
+      "no": 5,
+      "tanya": "Paragraf yang berisi penggambaran suatu objek disebut paragraf...",
+      "opsi_a": "Narasi",
+      "opsi_b": "Deskripsi",
+      "opsi_c": "Persuasi",
+      "opsi_d": "Argumentasi",
+      "jawaban": "B",
+      "pembahasan": "Paragraf deskripsi adalah paragraf yang menggambarkan objek secara detail."
+    },
+    {
+      "no": 6,
+      "tanya": "Objek yang sering dideskripsikan dalam teks deskripsi, KECUALI...",
+      "opsi_a": "Tempat wisata",
+      "opsi_b": "Hewan peliharaan",
+      "opsi_c": "Sosok ayah atau ibu",
+      "opsi_d": "Rumus matematika",
+      "jawaban": "D",
+      "pembahasan": "Rumus matematika bukan objek yang bisa dideskripsikan dengan panca indra (warna, rasa, bau, dll) dalam konteks sastra deskriptif."
+    },
+    {
+      "no": 7,
+      "tanya": "Kata sifat (adjektiva) sering digunakan dalam teks deskripsi. Contoh kata sifat adalah...",
+      "opsi_a": "Lari, makan, tidur",
+      "opsi_b": "Di, ke, dari",
+      "opsi_c": "Cantik, ramah, sejuk",
+      "opsi_d": "Saya, kamu, dia",
+      "jawaban": "C",
+      "pembahasan": "Kata sifat menjelaskan keadaan atau sifat suatu benda. Cantik, ramah, dan sejuk adalah contoh kata sifat."
+    },
+    {
+      "no": 8,
+      "tanya": "Bacalah teks berikut: 'Kamar udaraku sangat nyaman. Dindingnya berwarna biru muda. Ada jendela besar yang menghadap ke taman.' Objek yang dideskripsikan adalah...",
+      "opsi_a": "Taman",
+      "opsi_b": "Jendela",
+      "opsi_c": "Kamar",
+      "opsi_d": "Dinding",
+      "jawaban": "C",
+      "pembahasan": "Teks tersebut berfokus menggambarkan suasana dan isi dari 'Kamar'."
+    },
+    {
+      "no": 9,
+      "tanya": "Kalimat yang seolah-olah pembaca dapat mendengar suara (citraan pendengaran) adalah...",
+      "opsi_a": "Ombak bergulung-gulung memecah pantai.",
+      "opsi_b": "Gemericik air sungai terdengar menenangkan hati.",
+      "opsi_c": "Langit sore berwarna jingga keemasan.",
+      "opsi_d": "Kue bolu itu rasanya manis sekali.",
+      "jawaban": "B",
+      "pembahasan": "Kata 'Gemericik' dan 'terdengar' menunjukkan citraan pendengaran."
+    },
+    {
+      "no": 10,
+      "tanya": "Struktur teks deskripsi secara umum terdiri dari...",
+      "opsi_a": "Identifikasi, Deskripsi Bagian, Simpulan/Kesan",
+      "opsi_b": "Pembukaan, Isi, Penutup",
+      "opsi_c": "Orientasi, Komplikasi, Resolusi",
+      "opsi_d": "Tujuan, Alat dan Bahan, Langkah-langkah",
+      "jawaban": "A",
+      "pembahasan": "Struktur teks deskripsi meliputi Identifikasi (pengenalan objek), Deskripsi Bagian (rincian objek), dan Simpulan/Kesan."
+    },
+    {
+      "no": 11,
+      "tanya": "Bagian 'Identifikasi' dalam teks deskripsi berisi tentang...",
+      "opsi_a": "Rincian bagian-bagian objek",
+      "opsi_b": "Pengenalan nama objek dan gambaran umum",
+      "opsi_c": "Kesan penulis terhadap objek",
+      "opsi_d": "Langkah-langkah membuat objek",
+      "jawaban": "B",
+      "pembahasan": "Identifikasi berisi nama objek yang dideskripsikan, lokasi, sejarah lahirnya, makna nama, atau pernyataan umum tentang objek."
+    },
+    {
+      "no": 12,
+      "tanya": "Sinonim dari kata 'indah' yang sering digunakan dalam teks deskripsi pemandangan alam adalah...",
+      "opsi_a": "Molek",
+      "opsi_b": "Ganteng",
+      "opsi_c": "Mempesona",
+      "opsi_d": "Ramah",
+      "jawaban": "C",
+      "pembahasan": "Mempesona, elok, permai adalah sinonim indah untuk pemandangan. Molek biasanya untuk manusia, ganteng untuk laki-laki."
+    },
+    {
+      "no": 13,
+      "tanya": "Penggunaan huruf kapital yang benar untuk nama tempat dalam teks deskripsi adalah...",
+      "opsi_a": "pantai parangtritis",
+      "opsi_b": "Pantai Parangtritis",
+      "opsi_c": "pantai Parangtritis",
+      "opsi_d": "Pantai parangtritis",
+      "jawaban": "B",
+      "pembahasan": "Nama geografi yang diikuti nama diri (spesifik) harus diawali huruf kapital: Pantai Parangtritis."
+    },
+    {
+      "no": 14,
+      "tanya": "Manakah yang merupakan kalimat deskripsi tentang hewan?",
+      "opsi_a": "Kelinci itu melompat-lompat dengan riang.",
+      "opsi_b": "Kelinci memiliki dua telinga panjang dan bulu yang tebal.",
+      "opsi_c": "Kelinci suka makan wortel setiap pagi.",
+      "opsi_d": "Saya memelihara kelinci sejak kecil.",
+      "jawaban": "B",
+      "pembahasan": "Kalimat B menggambarkan ciri fisik (telinga panjang, bulu tebal) yang merupakan ciri khas teks deskripsi."
+    },
+    {
+      "no": 15,
+      "tanya": "Kata depan 'di' yang menunjukkan tempat ditulis...",
+      "opsi_a": "Digabung dengan kata yang mengikutinya",
+      "opsi_b": "Dipisah dengan kata yang mengikutinya",
+      "opsi_c": "Menggunakan huruf kapital",
+      "opsi_d": "Diakhiri tanda titik",
+      "jawaban": "B",
+      "pembahasan": "Kata depan 'di' (contoh: di pantai, di sekolah) penulisannya dipisah dari kata tempat yang mengikutinya."
+    },
+    {
+      "no": 16,
+      "tanya": "'Ayahku orang yang sabar. Wajahnya teduh dan selalu tersenyum.' Kutipan tersebut mendeskripsikan...",
+      "opsi_a": "Fisik dan sifat tokoh",
+      "opsi_b": "Keindahan alam",
+      "opsi_c": "Suasana rumah",
+      "opsi_d": "Cara ayah bekerja",
+      "jawaban": "A",
+      "pembahasan": "Menggambarkan sifat (sabar) dan fisik (wajah teduh, tersenyum)."
+    },
+    {
+      "no": 17,
+      "tanya": "Kalimat yang menggunakan majas personifikasi (menganggap benda mati seperti hidup) dalam teks deskripsi adalah...",
+      "opsi_a": "Angin pantai membelai lembut rambutku.",
+      "opsi_b": "Batu karang itu sangat besar dan keras.",
+      "opsi_c": "Pasir putih terhampar luas di pinggir laut.",
+      "opsi_d": "Matahari bersinar sangat terik siang ini.",
+      "jawaban": "A",
+      "pembahasan": "Angin (benda mati) dikatakan 'membelai' (sifat manusia/makhluk hidup)."
+    },
+    {
+      "no": 18,
+      "tanya": "Antonim dari kata 'bising' pada kalimat 'Suasana di perpustakaan tidak bising' adalah...",
+      "opsi_a": "Ramai",
+      "opsi_b": "Sepi",
+      "opsi_c": "Gaduh",
+      "opsi_d": "Ribut",
+      "jawaban": "B",
+      "pembahasan": "Bising artinya ribut/gaduh. Lawan katanya (antonim) adalah sepi atau tenang."
+    },
+    {
+      "no": 19,
+      "tanya": "Berikut ini adalah kata-kata yang berhubungan dengan indra penciuman, KECUALI...",
+      "opsi_a": "Harum",
+      "opsi_b": "Wangi",
+      "opsi_c": "Busuk",
+      "opsi_d": "Pahit",
+      "jawaban": "D",
+      "pembahasan": "Pahit berhubungan dengan indra pengecap (lidah), bukan penciuman (hidung)."
+    },
+    {
+      "no": 20,
+      "tanya": "Dalam mendeskripsikan sekolah, bagian yang bisa dideskripsikan adalah...",
+      "opsi_a": "Gedung, halaman, dan ruang kelas",
+      "opsi_b": "Jalan raya di depan sekolah saja",
+      "opsi_c": "Rumah penjaga sekolah yang jauh",
+      "opsi_d": "Pasar di dekat sekolah",
+      "jawaban": "A",
+      "pembahasan": "Bagian yang relevan dengan sekolah adalah gedung, halaman, ruang kelas, perpustakaan, dll."
+    },
+    {
+      "no": 21,
+      "tanya": "Fungsi kata sambung 'dan', 'tetapi', 'serta' dalam kalimat deskripsi adalah...",
+      "opsi_a": "Menghubungkan antar kalimat atau kata",
+      "opsi_b": "Menunjukkan tempat",
+      "opsi_c": "Menunjukkan waktu",
+      "opsi_d": "Mengakhiri kalimat",
+      "jawaban": "A",
+      "pembahasan": "Konjungsi (kata sambung) berfungsi menghubungkan kata dengan kata, frasa dengan frasa, atau kalimat dengan kalimat."
+    },
+    {
+      "no": 22,
+      "tanya": "Bacalah teks berikut: 'Rumah Tongkonan adalah rumah adat masyarakat Toraja. Atapnya melengkung menyerupai perahu.' Bagian yang digarisbawahi mendeskripsikan...",
+      "opsi_a": "Bahan bangunan",
+      "opsi_b": "Bentuk bangunan",
+      "opsi_c": "Warna bangunan",
+      "opsi_d": "Fungsi bangunan",
+      "jawaban": "B",
+      "pembahasan": "Kata 'melengkung menyerupai perahu' menjelaskan bentuk fisik atap."
+    },
+    {
+      "no": 23,
+      "tanya": "Agar deskripsi menjadi menarik, penulis sebaiknya menggunakan...",
+      "opsi_a": "Kata-kata yang sulit dimengerti",
+      "opsi_b": "Kalimat yang sangat panjang",
+      "opsi_c": "Variasi kata sifat dan pengindraan yang kuat",
+      "opsi_d": "Bahasa asing seluruhnya",
+      "jawaban": "C",
+      "pembahasan": "Variasi kata sifat dan detail pengindraan membuat pembaca lebih mudah membayangkan objek."
+    },
+    {
+      "no": 24,
+      "tanya": "Pernyataan berikut yang merupakan penutup atau simpulan teks deskripsi adalah...",
+      "opsi_a": "Pantai Kuta terletak di Bali.",
+      "opsi_b": "Pasirnya putih dan ombaknya tidak terlalu besar.",
+      "opsi_c": "Sungguh, Pantai Kuta adalah tempat wisata yang wajib dikunjungi.",
+      "opsi_d": "Di sana banyak turis asing berjemur.",
+      "jawaban": "C",
+      "pembahasan": "Kalimat C berisi kesan umum atau rekomendasi penulis yang biasanya ada di bagian penutup/simpulan."
+    },
+    {
+      "no": 25,
+      "tanya": "Makna kata 'elok' pada kalimat 'Pemandangan di desa itu sangat elok' adalah...",
+      "opsi_a": "Buruk",
+      "opsi_b": "Bagus sekali",
+      "opsi_c": "Biasa saja",
+      "opsi_d": "Menakutkan",
+      "jawaban": "B",
+      "pembahasan": "Elok bersinonim dengan bagus sekali, cantik, atau indah."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan pengertian teks deskripsi dengan bahasamu sendiri!",
+      "jawaban_lengkap": "Teks deskripsi adalah teks yang menggambarkan atau melukiskan suatu objek (seperti tempat, benda, atau orang) secara rinci dan jelas sehingga pembaca seolah-olah dapat melihat, mendengar, atau merasakan sendiri objek tersebut."
+    },
+    {
+      "no": 2,
+      "tanya": "Buatlah satu paragraf singkat (3-4 kalimat) yang mendeskripsikan 'Tas Sekolahmu'! Gunakan kata sifat yang sesuai.",
+      "jawaban_lengkap": "Contoh jawaban: Tas sekolahku berwarna biru tua kesukaanku. Bentuknya ransel dengan dua kantong di bagian samping untuk tempat botol minum. Bahannya tebal dan kuat sehingga bisa memuat banyak buku. Di bagian depan terdapat gambar tokoh kartun yang lucu."
+    },
+    {
+      "no": 3,
+      "tanya": "Sebutkan 3 contoh kata yang berhubungan dengan indra peraba (kulit) dan buatlah kalimat dari salah satu kata tersebut!",
+      "jawaban_lengkap": "Contoh kata: Kasar, halus, lembut, licin, panas, dingin. Contoh kalimat: 'Permukaan batu kali itu terasa kasar saat disentuh.'"
+    },
+    {
+      "no": 4,
+      "tanya": "Perbaikilah penulisan huruf kapital dan tanda baca pada kalimat berikut: 'liburan kemarin aku pergi ke danau toba di sumatera utara.'",
+      "jawaban_lengkap": "Liburan kemarin aku pergi ke Danau Toba di Sumatera Utara."
+    },
+    {
+      "no": 5,
+      "tanya": "Jelaskan perbedaan antara bagian 'Identifikasi' dan 'Deskripsi Bagian' dalam struktur teks deskripsi!",
+      "jawaban_lengkap": "Identifikasi berisi pengenalan nama objek, lokasi, atau gambaran umum objek. Sedangkan Deskripsi Bagian berisi perincian bagian-bagian objek secara lebih mendetail (seperti ciri fisik, warna, ukuran, atau suasana)."
+    },
+    {
+      "no": 6,
+      "tanya": "Bacalah kalimat ini: 'Taman bunga itu penuh warna-warni. Ada merah, kuning, dan ungu. Harum bunganya semerbak mewangi.' Sebutkan dua indra yang terlibat dalam deskripsi tersebut!",
+      "jawaban_lengkap": "1. Indra Penglihatan (melihat warna-warni, merah, kuning, ungu). 2. Indra Penciuman (mencium harum bunga semerbak)."
+    },
+    {
+      "no": 7,
+      "tanya": "Mengapa penulis teks deskripsi harus menggunakan kata-kata yang konkret dan rinci?",
+      "jawaban_lengkap": "Agar pembaca mendapatkan bayangan yang jelas dan nyata tentang objek yang diceritakan, seakan-akan pembaca berada di sana atau melihat objek itu secara langsung."
+    },
+    {
+      "no": 8,
+      "tanya": "Deskripsikan suasana kelasmu saat jam istirahat dalam 3 kalimat!",
+      "jawaban_lengkap": "Contoh: Saat jam istirahat, suasana kelas menjadi sangat ramai dan gaduh. Beberapa siswa berlarian kecil sambil tertawa riang. Bau bekal makanan yang lezat mulai tercium memenuhi ruangan."
+    },
+    {
+      "no": 9,
+      "tanya": "Ubahlah kalimat berikut menjadi lebih deskriptif: 'Ibu membeli baju baru.'",
+      "jawaban_lengkap": "Contoh: Ibu membeli baju baru berwarna merah muda yang berbahan sutra lembut dan memiliki hiasan renda putih di bagian kerahnya."
+    },
+    {
+      "no": 10,
+      "tanya": "Apa yang dimaksud dengan 'Kesan' atau 'Simpulan' pada bagian akhir teks deskripsi?",
+      "jawaban_lengkap": "Kesan atau simpulan adalah bagian penutup yang berisi pendapat, perasaan, atau kekaguman penulis terhadap objek yang telah dideskripsikan."
+    }
+  ]
+}

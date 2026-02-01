@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Perkalian & Pembagian - 4 SD Semester Ganjil",
+    "mapel": "MATEMATIKA",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Operasi perkalian 4 x 5 sama artinya dengan penjumlahan berulang...",
+      "opsi_a": "4 + 4 + 4 + 4",
+      "opsi_b": "5 + 5 + 5 + 5 + 5",
+      "opsi_c": "5 + 5 + 5 + 5",
+      "opsi_d": "4 + 5 + 4 + 5",
+      "jawaban": "C",
+      "pembahasan": "Konsep dasar perkalian a x b adalah penjumlahan b sebanyak a kali. Jadi 4 x 5 artinya angka 5 dijumlahkan sebanyak 4 kali (5 + 5 + 5 + 5)."
+    },
+    {
+      "no": 2,
+      "tanya": "Hasil dari 24 x 5 adalah...",
+      "opsi_a": "100",
+      "opsi_b": "110",
+      "opsi_c": "120",
+      "opsi_d": "125",
+      "jawaban": "C",
+      "pembahasan": "Cara susun: 1) 4 x 5 = 20 (tulis 0 simpan 2). 2) 2 x 5 = 10. 3) 10 + 2 = 12. Gabungkan menjadi 120."
+    },
+    {
+      "no": 3,
+      "tanya": "Pak Budi membeli 8 kardus mi instan. Setiap kardus berisi 40 bungkus. Berapa total mi instan yang dibeli Pak Budi?",
+      "opsi_a": "300",
+      "opsi_b": "320",
+      "opsi_c": "360",
+      "opsi_d": "280",
+      "jawaban": "B",
+      "pembahasan": "Rumus: Jumlah Kardus x Isi per Kardus. Hitungan: 8 x 40 = 320 bungkus."
+    },
+    {
+      "no": 4,
+      "tanya": "Hasil pembagian dari 96 : 6 adalah...",
+      "opsi_a": "14",
+      "opsi_b": "15",
+      "opsi_c": "16",
+      "opsi_d": "18",
+      "jawaban": "C",
+      "pembahasan": "Porogapit/Susun: 9 dibagi 6 dapat 1 sisa 3. Turunkan 6 jadi 36. 36 dibagi 6 dapat 6. Jadi hasilnya 16."
+    },
+    {
+      "no": 5,
+      "tanya": "Ibu mempunyai 150 permen yang akan dibagikan kepada 5 orang anaknya sama rata. Setiap anak mendapatkan...",
+      "opsi_a": "20 permen",
+      "opsi_b": "25 permen",
+      "opsi_c": "30 permen",
+      "opsi_d": "35 permen",
+      "jawaban": "C",
+      "pembahasan": "Total permen : Jumlah anak = 150 : 5 = 30 permen."
+    },
+    {
+      "no": 6,
+      "tanya": "Operasi hitung berikut yang hasilnya 360 adalah...",
+      "opsi_a": "12 x 30",
+      "opsi_b": "15 x 20",
+      "opsi_c": "18 x 15",
+      "opsi_d": "10 x 35",
+      "jawaban": "A",
+      "pembahasan": "A. 12 x 30 = 360. B. 15 x 20 = 300. C. 18 x 15 = 270. D. 10 x 35 = 350."
+    },
+    {
+      "no": 7,
+      "tanya": "Sifat komutatif (pertukaran) pada perkalian ditunjukkan oleh...",
+      "opsi_a": "10 x 2 = 20",
+      "opsi_b": "5 x 4 = 4 x 5",
+      "opsi_c": "3 x (2 + 4) = (3 x 2) + (3 x 4)",
+      "opsi_d": "12 x 1 = 12",
+      "jawaban": "B",
+      "pembahasan": "Sifat komutatif artinya posisi bilangan ditukar hasil tetap sama (a x b = b x a)."
+    },
+    {
+      "no": 8,
+      "tanya": "Hasil dari 15 x 12 adalah...",
+      "opsi_a": "180",
+      "opsi_b": "170",
+      "opsi_c": "160",
+      "opsi_d": "150",
+      "jawaban": "A",
+      "pembahasan": "15 x 10 = 150. 15 x 2 = 30. Total = 150 + 30 = 180."
+    },
+    {
+      "no": 9,
+      "tanya": "Jika 45 : n = 9, maka nilai n adalah...",
+      "opsi_a": "3",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "6",
+      "jawaban": "C",
+      "pembahasan": "Lawan pembagian adalah perkalian. Cari angka yang jika dikali 9 hasilnya 45. 9 x 5 = 45. Maka n = 5."
+    },
+    {
+      "no": 10,
+      "tanya": "Sisa dari pembagian 26 : 4 adalah...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "0",
+      "jawaban": "B",
+      "pembahasan": "Perkalian 4 yang mendekati 26 adalah 4 x 6 = 24. Sisa = 26 - 24 = 2."
+    },
+    {
+      "no": 11,
+      "tanya": "Seorang pedagang telur memiliki 500 butir telur. Telur tersebut akan dimasukkan ke dalam wadah yang masing-masing berisi 10 butir. Banyak wadah yang dibutuhkan adalah...",
+      "opsi_a": "40",
+      "opsi_b": "50",
+      "opsi_c": "60",
+      "opsi_d": "55",
+      "jawaban": "B",
+      "pembahasan": "500 : 10. Coret nol di belakang. 50 : 1 = 50 wadah."
+    },
+    {
+      "no": 12,
+      "tanya": "Hasil taksiran terbaik dari 24 x 38 adalah...",
+      "opsi_a": "600",
+      "opsi_b": "800",
+      "opsi_c": "1.000",
+      "opsi_d": "1.200",
+      "jawaban": "B",
+      "pembahasan": "24 dibulatkan ke bawah jadi 20. 38 dibulatkan ke atas jadi 40. Taksiran = 20 x 40 = 800."
+    },
+    {
+      "no": 13,
+      "tanya": "Setiap hari Siti menabung Rp2.000. Jumlah tabungan Siti setelah 25 hari adalah...",
+      "opsi_a": "Rp40.000",
+      "opsi_b": "Rp45.000",
+      "opsi_c": "Rp50.000",
+      "opsi_d": "Rp55.000",
+      "jawaban": "C",
+      "pembahasan": "2.000 x 25. Hitung 2 x 25 = 50. Tambahkan 3 nol. Hasil Rp50.000."
+    },
+    {
+      "no": 14,
+      "tanya": "Manakah pernyataan yang benar?",
+      "opsi_a": "100 : 5 < 20",
+      "opsi_b": "12 x 3 > 40",
+      "opsi_c": "50 : 2 = 20",
+      "opsi_d": "15 x 4 = 60",
+      "jawaban": "D",
+      "pembahasan": "A salah (20=20), B salah (36<40), C salah (25!=20), D benar (15x4=60)."
+    },
+    {
+      "no": 15,
+      "tanya": "Hasil dari 345 x 0 adalah...",
+      "opsi_a": "345",
+      "opsi_b": "0",
+      "opsi_c": "1",
+      "opsi_d": "3450",
+      "jawaban": "B",
+      "pembahasan": "Semua bilangan jika dikalikan dengan 0 hasilnya adalah 0."
+    },
+    {
+      "no": 16,
+      "tanya": "Perhatikan sifat distributif berikut: 6 x (10 + 5) = (6 x n) + (6 x 5). Nilai n adalah...",
+      "opsi_a": "10",
+      "opsi_b": "5",
+      "opsi_c": "6",
+      "opsi_d": "15",
+      "jawaban": "A",
+      "pembahasan": "Sifat distributif penyebaran: a x (b + c) = (a x b) + (a x c). Maka n = 10."
+    },
+    {
+      "no": 17,
+      "tanya": "Hasil pembagian 648 : 4 adalah...",
+      "opsi_a": "162",
+      "opsi_b": "112",
+      "opsi_c": "212",
+      "opsi_d": "126",
+      "jawaban": "A",
+      "pembahasan": "6:4=1 (sisa 2), 24:4=6, 8:4=2. Hasil: 162."
+    },
+    {
+      "no": 18,
+      "tanya": "Di perpustakaan ada 12 rak buku. Setiap rak berisi 25 buku. Berapa jumlah buku seluruhnya?",
+      "opsi_a": "250",
+      "opsi_b": "300",
+      "opsi_c": "350",
+      "opsi_d": "275",
+      "jawaban": "B",
+      "pembahasan": "12 x 25. Cara mudah: 12 x 100 : 4 = 1200 : 4 = 300. Atau susun ke bawah."
+    },
+    {
+      "no": 19,
+      "tanya": "Sebuah bus dapat mengangkut 40 penumpang. Jika ada 130 orang yang ingin pergi, berapa bus minimal yang harus disewa agar semua terangkut?",
+      "opsi_a": "3",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "2",
+      "jawaban": "B",
+      "pembahasan": "130 : 40 = 3 sisa 10. Karena masih ada sisa 10 orang, maka butuh 1 bus lagi. Total 3 + 1 = 4 bus."
+    },
+    {
+      "no": 20,
+      "tanya": "Bilangan kelipatan 10 yang jika dikalikan 5 hasilnya 250 adalah...",
+      "opsi_a": "40",
+      "opsi_b": "50",
+      "opsi_c": "60",
+      "opsi_d": "30",
+      "jawaban": "B",
+      "pembahasan": "n x 5 = 250. n = 250 : 5 = 50."
+    },
+    {
+      "no": 21,
+      "tanya": "Hasil dari (12 x 5) : 3 adalah...",
+      "opsi_a": "15",
+      "opsi_b": "20",
+      "opsi_c": "25",
+      "opsi_d": "30",
+      "jawaban": "B",
+      "pembahasan": "Kerjakan dalam kurung dulu. 12 x 5 = 60. Lalu 60 : 3 = 20."
+    },
+    {
+      "no": 22,
+      "tanya": "Harga 1 buku tulis Rp2.500. Jika Ani membeli 4 buku tulis, ia harus membayar...",
+      "opsi_a": "Rp8.000",
+      "opsi_b": "Rp10.000",
+      "opsi_c": "Rp12.000",
+      "opsi_d": "Rp7.500",
+      "jawaban": "B",
+      "pembahasan": "2.500 x 4 = 10.000."
+    },
+    {
+      "no": 23,
+      "tanya": "Bilangan ganjil dikalikan bilangan genap akan menghasilkan bilangan...",
+      "opsi_a": "Ganjil",
+      "opsi_b": "Genap",
+      "opsi_c": "Nol",
+      "opsi_d": "Tidak tentu",
+      "jawaban": "B",
+      "pembahasan": "Sifat perkalian: Ganjil x Genap = Genap (Contoh: 3 x 2 = 6)."
+    },
+    {
+      "no": 24,
+      "tanya": "Toko A punya stok 1 gross pensil. 1 gross sama dengan 144 buah. Jika pensil itu dimasukkan ke dalam 12 kotak sama banyak, isi tiap kotak adalah...",
+      "opsi_a": "10",
+      "opsi_b": "11",
+      "opsi_c": "12",
+      "opsi_d": "13",
+      "jawaban": "C",
+      "pembahasan": "144 : 12 = 12 (Karena 12 x 12 = 144)."
+    },
+    {
+      "no": 25,
+      "tanya": "Ayah membeli 3 kotak donat. Satu kotak berisi 6 donat. Jika donat tersebut dibagikan kepada 9 orang temannya, setiap teman mendapat...",
+      "opsi_a": "2 donat",
+      "opsi_b": "3 donat",
+      "opsi_c": "4 donat",
+      "opsi_d": "1 donat",
+      "jawaban": "A",
+      "pembahasan": "Total donat = 3 x 6 = 18. Dibagi 9 orang = 18 : 9 = 2 donat."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Hitunglah hasil dari 235 x 4 dengan cara bersusun pendek!",
+      "jawaban_lengkap": "Langkah 1: 5 x 4 = 20 (Tulis 0, simpan 2). Langkah 2: 3 x 4 = 12. Tambahkan simpanan (12+2=14). Tulis 4, simpan 1. Langkah 3: 2 x 4 = 8. Tambahkan simpanan (8+1=9). Jadi hasilnya 940."
+    },
+    {
+      "no": 2,
+      "tanya": "Pak Guru memiliki 156 lembar kertas. Kertas tersebut akan dibagikan kepada 6 kelompok siswa sama banyak. Berapa lembar kertas yang diterima setiap kelompok? (Gunakan cara porogapit)",
+      "jawaban_lengkap": "15 dibagi 6 dapat 2, sisa 3 (karena 2x6=12). Turunkan angka 6, menjadi 36. 36 dibagi 6 dapat 6. Jadi 156 : 6 = 26 lembar kertas."
+    },
+    {
+      "no": 3,
+      "tanya": "Sebuah gedung bioskop memiliki 15 baris kursi. Setiap baris terdiri dari 20 kursi. Jika harga satu tiket adalah Rp30.000, berapa total uang yang didapat jika semua kursi penuh?",
+      "jawaban_lengkap": "Total kursi = 15 x 20 = 300 kursi. Total uang = 300 x 30.000. Cara hitung: 3 x 3 = 9, tambahkan semua nol (2+4=6 nol). Hasil = Rp9.000.000."
+    },
+    {
+      "no": 4,
+      "tanya": "Gunakan sifat distributif untuk menghitung 8 x 125!",
+      "jawaban_lengkap": "8 x 125 = 8 x (100 + 20 + 5). = (8 x 100) + (8 x 20) + (8 x 5). = 800 + 160 + 40. = 800 + 200 = 1.000."
+    },
+    {
+      "no": 5,
+      "tanya": "Andi memiliki 3 kaleng kelereng. Kaleng pertama berisi 25 butir, kaleng kedua 30 butir, dan kaleng ketiga 35 butir. Semua kelereng itu dikumpulkan lalu dibagikan kepada 5 orang temannya. Berapa kelereng yang diterima setiap teman?",
+      "jawaban_lengkap": "Langkah 1 (Total kelereng): 25 + 30 + 35 = 90 butir. Langkah 2 (Pembagian): 90 : 5 = 18. Jadi setiap teman mendapat 18 butir."
+    },
+    {
+      "no": 6,
+      "tanya": "Jika A x B = 120 dan A = 8, berapakah nilai B? Jelaskan caramu!",
+      "jawaban_lengkap": "Karena perkalian adalah kebalikan pembagian, maka B = 120 : A. B = 120 : 8. Hitungan: 120 dibagi 8 adalah 15. Jadi B = 15."
+    },
+    {
+      "no": 7,
+      "tanya": "Buatlah soal cerita yang penyelesaiannya menggunakan kalimat matematika: (20 x 5) - 15!",
+      "jawaban_lengkap": "Contoh: Ibu membeli 20 kantong jeruk, setiap kantong berisi 5 buah jeruk. Ternyata sesampainya di rumah, ada 15 jeruk yang busuk dan dibuang. Berapa sisa jeruk Ibu yang masih bagus?"
+    },
+    {
+      "no": 8,
+      "tanya": "Sebuah truk mengangkut 8 peti telur. Setiap peti berisi 140 butir telur. Di perjalanan, 25 butir telur pecah. Berapa jumlah telur yang masih utuh?",
+      "jawaban_lengkap": "Langkah 1 (Total awal): 8 x 140 = 1.120 butir. Langkah 2 (Sisa utuh): 1.120 - 25 = 1.095 butir telur."
+    },
+    {
+      "no": 9,
+      "tanya": "Tentukan dua bilangan yang jika dikalikan hasilnya 48 dan jika dijumlahkan hasilnya 14!",
+      "jawaban_lengkap": "Faktor dari 48: 1x48, 2x24, 3x16, 4x12, 6x8. Pasangan yang jika dijumlahkan hasilnya 14 adalah 6 dan 8 (6+8=14). Jadi bilangannya adalah 6 dan 8."
+    },
+    {
+      "no": 10,
+      "tanya": "Budi menghitung 25 x 12 hasilnya 300. Coba buktikan kebenaran hitungan Budi dengan dua cara berbeda!",
+      "jawaban_lengkap": "Cara 1 (Susun): 25 x 10 = 250, 25 x 2 = 50, Total 300. Cara 2 (Pecah angka): 25 x 4 x 3 = 100 x 3 = 300. Kesimpulan: Hitungan Budi Benar."
+    }
+  ]
+}

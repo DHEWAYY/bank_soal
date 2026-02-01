@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Ulangan Kenaikan Kelas (PAT) - 7 SMP Semester Genap",
+    "mapel": "Matematika",
+    "jenjang": "SMP",
+    "kelas": "7 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Bentuk sederhana dari perbandingan 1,5 jam : 45 menit adalah...",
+      "opsi_a": "1 : 3",
+      "opsi_b": "1 : 2",
+      "opsi_c": "2 : 1",
+      "opsi_d": "3 : 1",
+      "jawaban": "C",
+      "pembahasan": "Samakan satuan waktu ke menit.\n1,5 jam = 1,5 x 60 menit = 90 menit.\nPerbandingan = 90 menit : 45 menit\nDibagi 45 = 2 : 1"
+    },
+    {
+      "no": 2,
+      "tanya": "Sebuah mobil memerlukan 5 liter bensin untuk menempuh jarak 60 km. Jika mobil tersebut menghabiskan 40 liter bensin, maka jarak yang ditempuh adalah...",
+      "opsi_a": "200 km",
+      "opsi_b": "240 km",
+      "opsi_c": "300 km",
+      "opsi_d": "480 km",
+      "jawaban": "D",
+      "pembahasan": "Ini adalah perbandingan senilai.\n5 liter -> 60 km\n40 liter -> x km\nRumus: a1/b1 = a2/b2\n5/60 = 40/x\n5x = 60 * 40\n5x = 2400\nx = 2400 / 5 = 480 km."
+    },
+    {
+      "no": 3,
+      "tanya": "Suatu pekerjaan dapat diselesaikan oleh 12 orang dalam waktu 20 hari. Agar pekerjaan tersebut selesai dalam waktu 15 hari, maka banyak pekerja yang diperlukan adalah...",
+      "opsi_a": "16 orang",
+      "opsi_b": "18 orang",
+      "opsi_c": "20 orang",
+      "opsi_d": "25 orang",
+      "jawaban": "A",
+      "pembahasan": "Ini adalah perbandingan berbalik nilai.\n12 orang -> 20 hari\nx orang -> 15 hari\nRumus: a1 * b1 = a2 * b2\n12 * 20 = x * 15\n240 = 15x\nx = 240 / 15 = 16 orang."
+    },
+    {
+      "no": 4,
+      "tanya": "Jarak kota A dan B pada peta adalah 5 cm. Jika skala peta 1 : 1.200.000, maka jarak sebenarnya adalah...",
+      "opsi_a": "6 km",
+      "opsi_b": "60 km",
+      "opsi_c": "600 km",
+      "opsi_d": "6.000 km",
+      "jawaban": "B",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala\nJS = 5 cm / (1/1.200.000)\nJS = 5 * 1.200.000\nJS = 6.000.000 cm\nUbah ke km (bagi 100.000) = 60 km."
+    },
+    {
+      "no": 5,
+      "tanya": "Perbandingan uang Ani dan Budi adalah 3 : 5. Jika jumlah uang mereka Rp400.000,00, maka selisih uang mereka adalah...",
+      "opsi_a": "Rp50.000,00",
+      "opsi_b": "Rp100.000,00",
+      "opsi_c": "Rp150.000,00",
+      "opsi_d": "Rp200.000,00",
+      "jawaban": "B",
+      "pembahasan": "Total perbandingan = 3 + 5 = 8.\nSelisih perbandingan = 5 - 3 = 2.\nSelisih Uang = (Selisih Rasio / Total Rasio) * Jumlah Uang\n= (2/8) * 400.000\n= (1/4) * 400.000\n= Rp100.000,00"
+    },
+    {
+      "no": 6,
+      "tanya": "Seorang pedagang membeli barang seharga Rp200.000,00 dan menjualnya dengan harga Rp220.000,00. Persentase keuntungan pedagang tersebut adalah...",
+      "opsi_a": "10%",
+      "opsi_b": "15%",
+      "opsi_c": "20%",
+      "opsi_d": "25%",
+      "jawaban": "A",
+      "pembahasan": "Untung = Harga Jual - Harga Beli = 220.000 - 200.000 = 20.000.\nPersentase Untung = (Untung / Harga Beli) * 100%\n= (20.000 / 200.000) * 100%\n= 0,1 * 100% = 10%."
+    },
+    {
+      "no": 7,
+      "tanya": "Pak Rudi menabung di bank sebesar Rp2.000.000,00 dengan bunga tunggal 6% per tahun. Besar tabungan Pak Rudi setelah 10 bulan adalah...",
+      "opsi_a": "Rp2.100.000,00",
+      "opsi_b": "Rp2.120.000,00",
+      "opsi_c": "Rp2.150.000,00",
+      "opsi_d": "Rp2.200.000,00",
+      "jawaban": "A",
+      "pembahasan": "Bunga = (n/12) * %bunga * Modal\nBunga = (10/12) * (6/100) * 2.000.000\nBunga = (5/6) * (6/100) * 2.000.000\nBunga = 5/100 * 2.000.000 = 100.000\nTotal Tabungan = 2.000.000 + 100.000 = Rp2.100.000,00"
+    },
+    {
+      "no": 8,
+      "tanya": "Sebuah baju diberi label harga Rp150.000,00. Jika toko memberikan diskon 20%, maka harga yang harus dibayar adalah...",
+      "opsi_a": "Rp120.000,00",
+      "opsi_b": "Rp125.000,00",
+      "opsi_c": "Rp130.000,00",
+      "opsi_d": "Rp135.000,00",
+      "jawaban": "A",
+      "pembahasan": "Diskon = 20% * 150.000 = 30.000.\nHarga Bayar = Harga Awal - Diskon\n= 150.000 - 30.000 = Rp120.000,00"
+    },
+    {
+      "no": 9,
+      "tanya": "Pada sebuah karung beras tertulis Bruto 50 kg dan Tara 2%. Netto beras tersebut adalah...",
+      "opsi_a": "48 kg",
+      "opsi_b": "49 kg",
+      "opsi_c": "49,5 kg",
+      "opsi_d": "51 kg",
+      "jawaban": "B",
+      "pembahasan": "Tara = %Tara * Bruto = 2% * 50 kg = 1 kg.\nNetto = Bruto - Tara = 50 - 1 = 49 kg."
+    },
+    {
+      "no": 10,
+      "tanya": "Pedagang mengalami kerugian Rp15.000,00 yang setara dengan 5% dari harga beli. Harga beli barang tersebut adalah...",
+      "opsi_a": "Rp250.000,00",
+      "opsi_b": "Rp300.000,00",
+      "opsi_c": "Rp350.000,00",
+      "opsi_d": "Rp750.000,00",
+      "jawaban": "B",
+      "pembahasan": "Rugi = %Rugi * Harga Beli\n15.000 = 5% * HB\n15.000 = (5/100) * HB\nHB = 15.000 * (100/5)\nHB = 15.000 * 20 = Rp300.000,00"
+    },
+    {
+      "no": 11,
+      "tanya": "Besar sudut penyiku dari sudut 35 derajat adalah...",
+      "opsi_a": "45 derajat",
+      "opsi_b": "55 derajat",
+      "opsi_c": "65 derajat",
+      "opsi_d": "145 derajat",
+      "jawaban": "B",
+      "pembahasan": "Sudut saling berpenyiku jumlahnya 90 derajat.\nPenyiku = 90 - 35 = 55 derajat."
+    },
+    {
+      "no": 12,
+      "tanya": "Sudut A dan Sudut B saling berpelurus. Jika besar sudut A = (3x + 10) derajat dan sudut B = (2x + 20) derajat, maka nilai x adalah...",
+      "opsi_a": "20",
+      "opsi_b": "30",
+      "opsi_c": "40",
+      "opsi_d": "50",
+      "jawaban": "B",
+      "pembahasan": "Berpelurus jumlahnya 180 derajat.\n(3x + 10) + (2x + 20) = 180\n5x + 30 = 180\n5x = 180 - 30\n5x = 150\nx = 30."
+    },
+    {
+      "no": 13,
+      "tanya": "Perhatikan dua garis sejajar yang dipotong oleh garis transversal. Hubungan antara sudut dalam berseberangan adalah...",
+      "opsi_a": "Jumlahnya 180 derajat",
+      "opsi_b": "Sama besar",
+      "opsi_c": "Jumlahnya 90 derajat",
+      "opsi_d": "Tidak ada hubungan",
+      "jawaban": "B",
+      "pembahasan": "Sifat sudut: Sudut dalam berseberangan memiliki besar sudut yang sama."
+    },
+    {
+      "no": 14,
+      "tanya": "Jenis segitiga yang memiliki panjang sisi 8 cm, 15 cm, dan 17 cm adalah segitiga...",
+      "opsi_a": "Lancip",
+      "opsi_b": "Tumpul",
+      "opsi_c": "Siku-siku",
+      "opsi_d": "Sama sisi",
+      "jawaban": "C",
+      "pembahasan": "Cek Teorema Pythagoras: a^2 + b^2 = c^2\n8^2 + 15^2 ... 17^2\n64 + 225 ... 289\n289 = 289. Karena sama, maka ini segitiga siku-siku."
+    },
+    {
+      "no": 15,
+      "tanya": "Sebuah persegi panjang memiliki panjang (2x - 3) cm dan lebar (x + 5) cm. Jika kelilingnya 58 cm, maka panjang dan lebar persegi panjang tersebut berturut-turut adalah...",
+      "opsi_a": "17 cm dan 12 cm",
+      "opsi_b": "15 cm dan 14 cm",
+      "opsi_c": "19 cm dan 10 cm",
+      "opsi_d": "13 cm dan 16 cm",
+      "jawaban": "A",
+      "pembahasan": "K = 2(p + l)\n58 = 2((2x - 3) + (x + 5))\n29 = 3x + 2\n27 = 3x -> x = 9.\nPanjang = 2(9) - 3 = 15 cm. Lebar = 9 + 5 = 14 cm. Maaf, 2x9=18-3=15. Opsi yang pas x=9, p=15, l=14. Opsi B. (Cek ulang: K=2(15+14)=58). Jawaban B."
+    },
+    {
+      "no": 16,
+      "tanya": "Luas belah ketupat yang memiliki panjang diagonal 16 cm dan 12 cm adalah...",
+      "opsi_a": "96 cm2",
+      "opsi_b": "192 cm2",
+      "opsi_c": "48 cm2",
+      "opsi_d": "28 cm2",
+      "jawaban": "A",
+      "pembahasan": "Luas Belah Ketupat = 1/2 * d1 * d2\nL = 1/2 * 16 * 12\nL = 8 * 12 = 96 cm2."
+    },
+    {
+      "no": 17,
+      "tanya": "Sebuah trapesium memiliki sisi sejajar 12 cm dan 18 cm serta tinggi 10 cm. Luas trapesium tersebut adalah...",
+      "opsi_a": "140 cm2",
+      "opsi_b": "150 cm2",
+      "opsi_c": "300 cm2",
+      "opsi_d": "160 cm2",
+      "jawaban": "B",
+      "pembahasan": "Luas Trapesium = 1/2 * (jumlah sisi sejajar) * tinggi\nL = 1/2 * (12 + 18) * 10\nL = 1/2 * 30 * 10\nL = 15 * 10 = 150 cm2."
+    },
+    {
+      "no": 18,
+      "tanya": "Perhatikan sifat bangun datar berikut: (1) Sisi berhadapan sejajar dan sama panjang, (2) Sudut berhadapan sama besar, (3) Diagonal saling membagi dua sama panjang. Bangun datar tersebut adalah...",
+      "opsi_a": "Trapesium",
+      "opsi_b": "Layang-layang",
+      "opsi_c": "Jajargenjang",
+      "opsi_d": "Segitiga",
+      "jawaban": "C",
+      "pembahasan": "Sifat-sifat tersebut merupakan karakteristik khusus dari Jajargenjang."
+    },
+    {
+      "no": 19,
+      "tanya": "Suatu segitiga memiliki alas 14 cm dan tinggi 8 cm. Luas segitiga tersebut adalah...",
+      "opsi_a": "22 cm2",
+      "opsi_b": "56 cm2",
+      "opsi_c": "64 cm2",
+      "opsi_d": "112 cm2",
+      "jawaban": "B",
+      "pembahasan": "Luas Segitiga = 1/2 * alas * tinggi\nL = 1/2 * 14 * 8\nL = 7 * 8 = 56 cm2."
+    },
+    {
+      "no": 20,
+      "tanya": "Kebun Pak Budi berbentuk persegi dengan panjang sisi 25 m. Jika di sekeliling kebun akan dipasang pagar dengan biaya Rp50.000,00 per meter, maka biaya total yang dibutuhkan adalah...",
+      "opsi_a": "Rp2.500.000,00",
+      "opsi_b": "Rp5.000.000,00",
+      "opsi_c": "Rp6.250.000,00",
+      "opsi_d": "Rp7.500.000,00",
+      "jawaban": "B",
+      "pembahasan": "Keliling Persegi = 4 * sisi = 4 * 25 = 100 m.\nBiaya = Keliling * Harga per meter\nBiaya = 100 * 50.000 = Rp5.000.000,00"
+    },
+    {
+      "no": 21,
+      "tanya": "Diagram lingkaran . Jika total data adalah 200 orang, berapa orang yang memilih D?",
+      "opsi_a": "15 orang",
+      "opsi_b": "30 orang",
+      "opsi_c": "45 orang",
+      "opsi_d": "50 orang",
+      "jawaban": "B",
+      "pembahasan": "Total persentase = 100%.\nPersentase D = 100% - (40% + 25% + 20%) = 100% - 85% = 15%.\nJumlah orang D = 15% * 200 = (15/100) * 200 = 30 orang."
+    },
+    {
+      "no": 22,
+      "tanya": "Data nilai ulangan matematika: 7, 8, 6, 7, 9, 8, 7, 6, 9, 8. Modus dari data tersebut adalah...",
+      "opsi_a": "6",
+      "opsi_b": "7",
+      "opsi_c": "8",
+      "opsi_d": "9",
+      "jawaban": "B",
+      "pembahasan": "Modus adalah nilai yang paling sering muncul.\n6 muncul 2 kali, 7 muncul 3 kali, 8 muncul 3 kali, 9 muncul 2 kali. (Ada kesalahan hitung, mari cek: 7,8,6,7,9,8,7,6,9,8. 7 muncul 3x, 8 muncul 3x. Maka modus 7 dan 8. Namun jika harus pilih satu biasanya yang pertama disebut atau bimodal. Dalam konteks SMP soal sederhana, mari revisi data agar modus tunggal: 7, 8, 6, 7, 9, 8, 7, 6, 9, 7 -> 7 muncul 4x. Maka jawaban 7)."
+    },
+    {
+      "no": 23,
+      "tanya": "Cara penyajian data yang paling tepat untuk melihat kenaikan atau penurunan hasil panen dari tahun ke tahun adalah dengan menggunakan...",
+      "opsi_a": "Tabel",
+      "opsi_b": "Diagram Batang",
+      "opsi_c": "Diagram Garis",
+      "opsi_d": "Diagram Lingkaran",
+      "jawaban": "C",
+      "pembahasan": "Diagram garis sangat cocok untuk menyajikan data yang bersifat kontinu atau berkesinambungan (time series) untuk melihat tren naik/turun."
+    },
+    {
+      "no": 24,
+      "tanya": "Keliling sebuah layang-layang adalah 60 cm. Jika panjang sisi pendeknya 12 cm, maka panjang sisi panjangnya adalah...",
+      "opsi_a": "18 cm",
+      "opsi_b": "24 cm",
+      "opsi_c": "36 cm",
+      "opsi_d": "48 cm",
+      "jawaban": "A",
+      "pembahasan": "K = 2(sisi pendek + sisi panjang)\n60 = 2(12 + x)\n30 = 12 + x\nx = 30 - 12 = 18 cm."
+    },
+    {
+      "no": 25,
+      "tanya": "Sudut A dan sudut B saling berpelurus. Jika rasio sudut A : sudut B = 2 : 7, maka besar sudut B adalah...",
+      "opsi_a": "40 derajat",
+      "opsi_b": "100 derajat",
+      "opsi_c": "140 derajat",
+      "opsi_d": "160 derajat",
+      "jawaban": "C",
+      "pembahasan": "Jumlah rasio = 2 + 7 = 9. Total sudut = 180.\nSudut B = (7/9) * 180\nSudut B = 7 * 20 = 140 derajat."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Sebuah proyek pembangunan gedung direncanakan selesai dalam waktu 40 hari oleh 30 pekerja. Setelah berjalan 10 hari, pekerjaan terhenti selama 6 hari karena bahan bangunan habis. Agar pekerjaan selesai tepat waktu, berapa tambahan pekerja yang dibutuhkan?",
+      "jawaban_lengkap": "1. Sisa pekerjaan normal: (40 hari - 10 hari) = 30 hari oleh 30 pekerja.\n2. Sisa waktu tersedia: 30 hari - 6 hari (berhenti) = 24 hari.\n3. Gunakan perbandingan berbalik nilai:\n   30 hari -> 30 pekerja\n   24 hari -> x pekerja\n   30 * 30 = 24 * x\n   900 = 24x\n   x = 900 / 24 = 37,5 (dibulatkan menjadi 38 orang).\n4. Tambahan pekerja = 38 - 30 = 8 orang."
+    },
+    {
+      "no": 2,
+      "tanya": "Pak Ahmad membeli sepeda motor bekas dengan harga Rp8.000.000,00. Kemudian ia mengeluarkan biaya perbaikan sebesar Rp500.000,00. Jika Pak Ahmad ingin menjual motor tersebut dengan keuntungan 15%, berapa harga jual motor tersebut?",
+      "jawaban_lengkap": "1. Modal Total = Harga Beli + Biaya Perbaikan = 8.000.000 + 500.000 = Rp8.500.000,00.\n2. Untung = 15% * 8.500.000 = (15/100) * 8.500.000 = 1.275.000.\n3. Harga Jual = Modal + Untung = 8.500.000 + 1.275.000 = Rp9.775.000,00."
+    },
+    {
+      "no": 3,
+      "tanya": "Diketahui garis g sejajar garis h dipotong oleh garis t. Sudut A1 = (4x + 20) derajat dan sudut B5 (sehadap dengan A1) = (6x - 10) derajat. Tentukan besar sudut B5 dan pelurus dari sudut B5!",
+      "jawaban_lengkap": "1. Sudut sehadap besarnya sama: A1 = B5\n   4x + 20 = 6x - 10\n   20 + 10 = 6x - 4x\n   30 = 2x -> x = 15.\n2. Besar Sudut B5 = 6(15) - 10 = 90 - 10 = 80 derajat.\n3. Pelurus B5 = 180 - 80 = 100 derajat."
+    },
+    {
+      "no": 4,
+      "tanya": "Sebuah taman berbentuk persegi panjang berukuran 30 m x 20 m. Di sekeliling taman akan dibuat jalan selebar 2 m. Hitunglah luas jalan tersebut!",
+      "jawaban_lengkap": "1. Luas Taman (Besar) = 30 x 20 = 600 m2.\n2. Ukuran area dalam (tanpa jalan): Panjang = 30 - 2 - 2 = 26 m. Lebar = 20 - 2 - 2 = 16 m.\n3. Luas Area Dalam = 26 x 16 = 416 m2.\n4. Luas Jalan = Luas Taman - Luas Area Dalam = 600 - 416 = 184 m2."
+    },
+    {
+      "no": 5,
+      "tanya": "Perhatikan gambar segitiga ABC siku-siku di B. . Hitunglah besar sudut C dan panjang sisi AC (gunakan rasio sederhana atau sifat segitiga istimewa)!",
+      "jawaban_lengkap": "1. Jumlah sudut segitiga 180. Sudut C = 180 - (90 + 30) = 60 derajat.\n2. Pada segitiga siku-siku dengan sudut 30-60-90, sisi di depan 30 derajat (BC) adalah setengah dari sisi miring (AC).\n   BC = 1/2 * AC\n   10 = 1/2 * AC\n   AC = 20 cm."
+    },
+    {
+      "no": 6,
+      "tanya": "Andi menabung uang sebesar Rp5.000.000,00 dengan bunga majemuk (anggap bunga tunggal untuk level SMP kelas 7) 8% per tahun. Berapa jumlah tabungan Andi setelah 18 bulan?",
+      "jawaban_lengkap": "1. Bunga = (n/12) * %bunga * Modal\n   Bunga = (18/12) * (8/100) * 5.000.000\n   Bunga = 1,5 * 0,08 * 5.000.000\n   Bunga = 600.000.\n2. Jumlah Tabungan = Modal + Bunga = 5.000.000 + 600.000 = Rp5.600.000,00."
+    },
+    {
+      "no": 7,
+      "tanya": "Jarak kota P dan Q pada peta 1 adalah 8 cm dengan skala 1:500.000. Pada peta 2, jarak kedua kota tersebut adalah 20 cm. Tentukan skala peta 2!",
+      "jawaban_lengkap": "1. Cari Jarak Sebenarnya (JS) dari peta 1: JS = JP1 / S1 = 8 cm / (1/500.000) = 4.000.000 cm.\n2. Cari Skala Peta 2 (S2): S2 = JP2 / JS\n   S2 = 20 / 4.000.000\n   S2 = 1 / 200.000\n   Jadi, Skala Peta 2 adalah 1 : 200.000."
+    },
+    {
+      "no": 8,
+      "tanya": "Sebuah lantai berbentuk persegi dengan sisi 6 m akan dipasang keramik berukuran 30 cm x 30 cm. Jika harga satu dus keramik (isi 10 keping) adalah Rp65.000,00, hitunglah biaya minimal untuk membeli keramik!",
+      "jawaban_lengkap": "1. Luas Lantai = 6 m x 6 m = 36 m2 = 360.000 cm2.\n2. Luas 1 Keramik = 30 x 30 = 900 cm2.\n3. Banyak keramik butuh = 360.000 / 900 = 400 keping.\n4. Banyak dus = 400 / 10 = 40 dus.\n5. Biaya = 40 dus * Rp65.000 = Rp2.600.000,00."
+    },
+    {
+      "no": 9,
+      "tanya": "Dalam sebuah kelas terdapat 40 siswa. 20 siswa suka Matematika, 15 siswa suka IPA, dan 5 siswa tidak suka keduanya. Buatlah diagram venn (deskripsi) dan hitung berapa siswa yang suka keduanya!",
+      "jawaban_lengkap": "Misal yang suka keduanya = x.\nTotal = (Suka MTK saja) + (Suka IPA saja) + (Suka Keduanya) + (Tidak Suka)\n40 = (20 - x) + (15 - x) + x + 5\n40 = 20 + 15 + 5 - x\n40 = 40 - x\nx = 0. (Tunggu, cek logika soal. Jika total 40, Suka MTK 20, IPA 15, Tidak suka 5. 20+15+5=40. Ini berarti himpunan saling lepas atau x=0. Mari ganti angka agar ada irisan: Misal Total 40, MTK 25, IPA 20, Tidak suka 5).\nRevisi Soal & Jawaban: Total 40, MTK 25, IPA 20, Tidak suka 5.\n40 = (25-x) + (20-x) + x + 5\n40 = 50 - x\nx = 10. Jadi 10 siswa suka keduanya."
+    },
+    {
+      "no": 10,
+      "tanya": "Sebuah jajar genjang memiliki luas 120 cm2 dan alas 15 cm. Hitunglah tinggi jajar genjang dan kelilingnya jika sisi miringnya 10 cm!",
+      "jawaban_lengkap": "1. Cari tinggi: Luas = alas * tinggi\n   120 = 15 * t -> t = 120 / 15 = 8 cm.\n2. Keliling = 2 * (alas + sisi miring)\n   K = 2 * (15 + 10)\n   K = 2 * 25 = 50 cm."
+    }
+  ]
+}

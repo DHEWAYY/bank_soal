@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Menyimak Instruksi - 4 SD Semester Ganjil",
+    "mapel": "B. Indonesia",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Tujuan utama dari teks petunjuk atau instruksi adalah untuk...",
+      "opsi_a": "Menghibur pembaca dengan cerita lucu",
+      "opsi_b": "Menjelaskan cara melakukan atau membuat sesuatu",
+      "opsi_c": "Menggambarkan keindahan suatu tempat",
+      "opsi_d": "Menyampaikan pendapat pribadi penulis",
+      "jawaban": "B",
+      "pembahasan": "Teks petunjuk atau instruksi bertujuan memberikan panduan atau arahan tentang cara melakukan, membuat, atau menggunakan sesuatu secara urut."
+    },
+    {
+      "no": 2,
+      "tanya": "Ciri khas kalimat yang digunakan dalam teks instruksi adalah...",
+      "opsi_a": "Kalimat tanya",
+      "opsi_b": "Kalimat perintah",
+      "opsi_c": "Kalimat berita",
+      "opsi_d": "Kalimat seru",
+      "jawaban": "B",
+      "pembahasan": "Instruksi berisi arahan agar seseorang melakukan sesuatu, sehingga jenis kalimat yang dominan digunakan adalah kalimat perintah (imperatif)."
+    },
+    {
+      "no": 3,
+      "tanya": "Perhatikan kalimat berikut: 'Masukkan adonan ke dalam cetakan!' Kalimat tersebut termasuk jenis kalimat...",
+      "opsi_a": "Perintah",
+      "opsi_b": "Larangan",
+      "opsi_c": "Saran",
+      "opsi_d": "Ajakan",
+      "jawaban": "A",
+      "pembahasan": "Kalimat tersebut diakhiri tanda seru dan bermakna menyuruh seseorang melakukan sesuatu, yaitu memasukkan adonan, sehingga termasuk kalimat perintah."
+    },
+    {
+      "no": 4,
+      "tanya": "Kata hubung yang sering digunakan untuk menunjukkan urutan waktu dalam instruksi adalah...",
+      "opsi_a": "Dan, atau, tetapi",
+      "opsi_b": "Pertama, selanjutnya, kemudian",
+      "opsi_c": "Karena, sebab, oleh karena itu",
+      "opsi_d": "Di, ke, dari",
+      "jawaban": "B",
+      "pembahasan": "Kata 'pertama', 'selanjutnya', dan 'kemudian' adalah konjungsi temporal yang berfungsi mengurutkan langkah-langkah kegiatan."
+    },
+    {
+      "no": 5,
+      "tanya": "Perhatikan petunjuk acak membuat teh manis berikut:\n1. Tuangkan air panas.\n2. Siapkan cangkir, teh, dan gula.\n3. Aduk hingga gula larut.\n4. Masukkan teh dan gula ke dalam cangkir.\nUrutan yang tepat adalah...",
+      "opsi_a": "2 - 4 - 1 - 3",
+      "opsi_b": "2 - 1 - 4 - 3",
+      "opsi_c": "1 - 2 - 4 - 3",
+      "opsi_d": "4 - 2 - 1 - 3",
+      "jawaban": "A",
+      "pembahasan": "Urutan logis: Siapkan alat bahan (2) -> Masukkan bahan ke wadah (4) -> Seduh air panas (1) -> Aduk (3)."
+    },
+    {
+      "no": 6,
+      "tanya": "Dalam menyimak instruksi lisan, hal terpenting yang harus dilakukan adalah...",
+      "opsi_a": "Mencatat setiap kata yang diucapkan",
+      "opsi_b": "Fokus mendengarkan dan mencatat poin penting",
+      "opsi_c": "Berbicara dengan teman saat instruksi diberikan",
+      "opsi_d": "Menghafal seluruh kalimat pembicara",
+      "jawaban": "B",
+      "pembahasan": "Menyimak efektif memerlukan fokus perhatian dan mencatat inti atau poin penting, bukan menghafal atau mencatat seluruh kata (verbatim)."
+    },
+    {
+      "no": 7,
+      "tanya": "'Jangan membuang sampah di sungai!' Kalimat instruksi tersebut bermakna...",
+      "opsi_a": "Perintah melakukan sesuatu",
+      "opsi_b": "Larangan melakukan sesuatu",
+      "opsi_c": "Ajakan melakukan sesuatu",
+      "opsi_d": "Pujian terhadap sesuatu",
+      "jawaban": "B",
+      "pembahasan": "Kata 'Jangan' merupakan penanda kalimat larangan, yang menginstruksikan seseorang untuk tidak melakukan perbuatan tertentu."
+    },
+    {
+      "no": 8,
+      "tanya": "Saat guru memberikan instruksi 'Bukalah buku paket halaman 45 dan kerjakan bagian A', tindakan yang tepat adalah...",
+      "opsi_a": "Membuka halaman 45 dan mengerjakan bagian B",
+      "opsi_b": "Membuka halaman 54 dan mengerjakan bagian A",
+      "opsi_c": "Membuka halaman 45 dan mengerjakan bagian A",
+      "opsi_d": "Menutup buku dan diam saja",
+      "jawaban": "C",
+      "pembahasan": "Tindakan harus sesuai dengan instruksi spesifik: Halaman 45, Bagian A."
+    },
+    {
+      "no": 9,
+      "tanya": "Penggunaan bahasa dalam teks petunjuk harus...",
+      "opsi_a": "Berbelit-belit dan panjang",
+      "opsi_b": "Singkat, padat, dan jelas",
+      "opsi_c": "Menggunakan bahasa kiasan",
+      "opsi_d": "Menggunakan bahasa asing",
+      "jawaban": "B",
+      "pembahasan": "Agar instruksi mudah dipahami dan diikuti, bahasa yang digunakan harus efektif (singkat, padat, dan jelas) agar tidak menimbulkan kebingungan."
+    },
+    {
+      "no": 10,
+      "tanya": "Perhatikan petunjuk pemakaian obat berikut: 'Diminum 3 x 1 sendok teh sesudah makan'. Maksud dari petunjuk tersebut adalah...",
+      "opsi_a": "Minum obat 3 sendok teh sekaligus sesudah makan",
+      "opsi_b": "Minum obat 1 sendok teh sebanyak 3 kali sehari sesudah makan",
+      "opsi_c": "Minum obat 3 kali sehari sebelum makan",
+      "opsi_d": "Minum obat setiap 3 jam sekali",
+      "jawaban": "B",
+      "pembahasan": "Notasi '3 x 1' dalam resep obat berarti frekuensinya 3 kali sehari, dan setiap kali minum takarannya 1 sendok/tablet."
+    },
+    {
+      "no": 11,
+      "tanya": "Bagian awal dalam teks prosedur atau instruksi biasanya berisi...",
+      "opsi_a": "Langkah-langkah",
+      "opsi_b": "Penutup",
+      "opsi_c": "Alat dan bahan",
+      "opsi_d": "Judul dan tujuan",
+      "jawaban": "D",
+      "pembahasan": "Struktur teks prosedur diawali dengan Judul/Tujuan, kemudian Alat & Bahan, lalu Langkah-langkah."
+    },
+    {
+      "no": 12,
+      "tanya": "Manakah di bawah ini yang merupakan kalimat perintah halus?",
+      "opsi_a": "Pergi dari sini!",
+      "opsi_b": "Tolong ambilkan buku itu.",
+      "opsi_c": "Jangan berisik!",
+      "opsi_d": "Awas ada anjing galak!",
+      "jawaban": "B",
+      "pembahasan": "Kata 'Tolong' digunakan untuk menghaluskan perintah agar terdengar lebih sopan."
+    },
+    {
+      "no": 13,
+      "tanya": "Jika instruksi tidak dilakukan secara urut, maka akibatnya adalah...",
+      "opsi_a": "Hasil yang diperoleh akan lebih baik",
+      "opsi_b": "Waktu pengerjaan menjadi lebih cepat",
+      "opsi_c": "Tujuan kegiatan mungkin tidak tercapai atau gagal",
+      "opsi_d": "Tidak ada pengaruh apa-apa",
+      "jawaban": "C",
+      "pembahasan": "Instruksi (prosedur) dirancang sistematis. Melompati atau mengacak urutan bisa menyebabkan kegagalan hasil atau bahkan kecelakaan kerja."
+    },
+    {
+      "no": 14,
+      "tanya": "Denah lokasi berfungsi sebagai petunjuk untuk...",
+      "opsi_a": "Mengetahui cara membuat sesuatu",
+      "opsi_b": "Menemukan arah atau tempat",
+      "opsi_c": "Mengetahui harga barang",
+      "opsi_d": "Mengukur luas bangunan",
+      "jawaban": "B",
+      "pembahasan": "Denah adalah instruksi visual yang bertujuan memudahkan seseorang menemukan lokasi atau arah suatu tempat."
+    },
+    {
+      "no": 15,
+      "tanya": "Kata kerja yang berakhiran '-lah' atau '-kan' sering ditemukan pada teks instruksi. Contohnya adalah...",
+      "opsi_a": "Memasak, menyapu",
+      "opsi_b": "Cucilah, bersihkan",
+      "opsi_c": "Tidur, makan",
+      "opsi_d": "Melihat, mendengar",
+      "jawaban": "B",
+      "pembahasan": "Partikel '-lah' dan akhiran '-kan' adalah ciri pembentuk kata kerja imperatif (perintah) seperti 'Cucilah' dan 'Bersihkan'."
+    },
+    {
+      "no": 16,
+      "tanya": "Perhatikan instruksi berikut: 'Simpan di tempat yang sejuk dan terhindar dari sinar matahari langsung'. Instruksi ini biasanya terdapat pada kemasan...",
+      "opsi_a": "Baju",
+      "opsi_b": "Makanan atau obat",
+      "opsi_c": "Mainan anak",
+      "opsi_d": "Buku tulis",
+      "jawaban": "B",
+      "pembahasan": "Instruksi penyimpanan agar terhindar dari matahari biasanya untuk produk yang mudah rusak oleh panas, seperti makanan, minuman, atau obat-obatan."
+    },
+    {
+      "no": 17,
+      "tanya": "Petunjuk arah mata angin yang menunjuk ke atas pada peta biasanya menunjukkan arah...",
+      "opsi_a": "Barat",
+      "opsi_b": "Timur",
+      "opsi_c": "Selatan",
+      "opsi_d": "Utara",
+      "jawaban": "D",
+      "pembahasan": "Dalam konvensi peta dan denah, arah atas selalu menunjukkan arah Utara."
+    },
+    {
+      "no": 18,
+      "tanya": "Berikut ini yang BUKAN termasuk contoh teks petunjuk adalah...",
+      "opsi_a": "Resep masakan",
+      "opsi_b": "Aturan minum obat",
+      "opsi_c": "Cerita dongeng",
+      "opsi_d": "Cara penggunaan blender",
+      "jawaban": "C",
+      "pembahasan": "Cerita dongeng adalah teks narasi fiksi, bukan teks petunjuk/instruksi."
+    },
+    {
+      "no": 19,
+      "tanya": "Tanda seru (!) dalam kalimat instruksi berfungsi untuk...",
+      "opsi_a": "Menanyakan sesuatu",
+      "opsi_b": "Mengakhiri kalimat berita",
+      "opsi_c": "Memberikan penekanan pada perintah",
+      "opsi_d": "Menunjukkan jeda kalimat",
+      "jawaban": "C",
+      "pembahasan": "Tanda seru digunakan pada kalimat perintah atau seruan untuk memberikan penekanan atau intonasi tegas."
+    },
+    {
+      "no": 20,
+      "tanya": "Dalam permainan 'Lampu Merah Lampu Hijau', instruksi 'Lampu Merah' berarti pemain harus...",
+      "opsi_a": "Berlari cepat",
+      "opsi_b": "Berjalan pelan",
+      "opsi_c": "Berhenti bergerak",
+      "opsi_d": "Melompat",
+      "jawaban": "C",
+      "pembahasan": "Dalam konteks permainan atau lalu lintas, instruksi 'Merah' adalah simbol universal untuk berhenti."
+    },
+    {
+      "no": 21,
+      "tanya": "Bacalah petunjuk berikut: (1) Tekan tombol power. (2) Pilih saluran yang diinginkan. (3) Atur volume suara. Petunjuk tersebut adalah cara menggunakan...",
+      "opsi_a": "Kipas angin",
+      "opsi_b": "Televisi",
+      "opsi_c": "Mesin cuci",
+      "opsi_d": "Setrika",
+      "jawaban": "B",
+      "pembahasan": "Langkah memilih saluran dan mengatur volume suara adalah karakteristik penggunaan televisi atau radio."
+    },
+    {
+      "no": 22,
+      "tanya": "Mengapa gambar sering disertakan dalam teks instruksi perakitan mainan?",
+      "opsi_a": "Agar terlihat mahal",
+      "opsi_b": "Untuk memperjelas langkah-langkah tulisan",
+      "opsi_c": "Untuk memenuhi halaman kertas",
+      "opsi_d": "Agar sulit ditiru orang lain",
+      "jawaban": "B",
+      "pembahasan": "Gambar ilustrasi berfungsi memvisualisasikan instruksi verbal sehingga lebih mudah dipahami, terutama untuk perakitan."
+    },
+    {
+      "no": 23,
+      "tanya": "Manakah kalimat yang menunjukkan 'syarat' dalam sebuah instruksi?",
+      "opsi_a": "Potonglah kertas menjadi dua bagian.",
+      "opsi_b": "Jika lampu indikator berkedip, segera cabut kabel.",
+      "opsi_c": "Sambungkan kabel A ke kabel B.",
+      "opsi_d": "Pewarna makanan ditambahkan terakhir.",
+      "jawaban": "B",
+      "pembahasan": "Kata 'Jika' menunjukkan adanya kondisi atau syarat tertentu yang harus dipenuhi sebelum melakukan tindakan selanjutnya."
+    },
+    {
+      "no": 24,
+      "tanya": "Anton diminta ibunya membeli: gula, garam, dan merica. Namun Anton pulang membawa: gula, garam, dan ketumbar. Kesalahan Anton terjadi karena...",
+      "opsi_a": "Kurang teliti menyimak instruksi",
+      "opsi_b": "Toko kehabisan merica",
+      "opsi_c": "Anton ingin memasak yang lain",
+      "opsi_d": "Ibu salah bicara",
+      "jawaban": "A",
+      "pembahasan": "Ketidaksesuaian barang yang dibeli dengan perintah menunjukkan kegagalan dalam menyimak detail instruksi (merica vs ketumbar)."
+    },
+    {
+      "no": 25,
+      "tanya": "Instruksi 'Kocok dahulu sebelum diminum' berarti...",
+      "opsi_a": "Minuman harus diaduk dengan sendok",
+      "opsi_b": "Botol kemasan harus digoyangkan agar isinya tercampur rata",
+      "opsi_c": "Minuman harus dipanaskan",
+      "opsi_d": "Minuman harus didinginkan",
+      "jawaban": "B",
+      "pembahasan": "Instruksi ini umum pada minuman suspensi (seperti susu atau obat cair) agar endapan tercampur rata dengan cara mengocok kemasan."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan mengapa kita harus membaca seluruh petunjuk terlebih dahulu sebelum mulai merakit atau membuat sesuatu!",
+      "jawaban_lengkap": "Kita harus membaca seluruh petunjuk di awal agar kita memahami gambaran besar prosesnya, mengetahui alat dan bahan apa saja yang perlu disiapkan, serta menghindari kesalahan langkah yang bisa merusak hasil akhir."
+    },
+    {
+      "no": 2,
+      "tanya": "Ubahlah kalimat berita berikut menjadi kalimat perintah yang sopan!\n'Adik harus merapikan mainan setelah digunakan.'",
+      "jawaban_lengkap": "Tolong rapikan mainanmu setelah digunakan, Dik. (Atau: Rapikanlah mainan setelah digunakan!)"
+    },
+    {
+      "no": 3,
+      "tanya": "Perhatikan langkah acak mencuci tangan berikut ini:\n(a) Bilas dengan air bersih.\n(b) Gosok telapak tangan, punggung tangan, dan sela jari.\n(c) Basahi tangan dengan air.\n(d) Keringkan tangan dengan handuk.\n(e) Tuangkan sabun secukupnya.\nUrutkan langkah-langkah tersebut menjadi instruksi yang benar!",
+      "jawaban_lengkap": "Urutan yang benar adalah: (c) Basahi tangan dengan air -> (e) Tuangkan sabun secukupnya -> (b) Gosok telapak tangan, punggung tangan, dan sela jari -> (a) Bilas dengan air bersih -> (d) Keringkan tangan dengan handuk."
+    },
+    {
+      "no": 4,
+      "tanya": "Buatlah 3 (tiga) kalimat instruksi atau petunjuk cara merawat tanaman di pot!",
+      "jawaban_lengkap": "1. Siramlah tanaman secara rutin setiap pagi atau sore hari.\n2. Berilah pupuk secukupnya agar tanaman tumbuh subur.\n3. Letakkan pot di tempat yang terkena sinar matahari."
+    },
+    {
+      "no": 5,
+      "tanya": "Apa yang dimaksud dengan instruksi lisan dan instruksi tulisan? Berikan masing-masing satu contoh!",
+      "jawaban_lengkap": "Instruksi lisan adalah petunjuk yang disampaikan melalui ucapan (suara). Contoh: Guru berkata, 'Duduklah yang rapi!'.\nInstruksi tulisan adalah petunjuk yang disampaikan melalui teks atau gambar. Contoh: Tulisan 'Buanglah sampah pada tempatnya' di dinding sekolah."
+    },
+    {
+      "no": 6,
+      "tanya": "Sebutkan ciri-ciri bahasa yang baik digunakan dalam membuat poster petunjuk arah (denah)!",
+      "jawaban_lengkap": "Bahasa dalam poster petunjuk arah harus: Singkat, Jelas, Tidak bermakna ganda (ambigu), Menggunakan tulisan yang mudah terbaca, dan Komunikatif."
+    },
+    {
+      "no": 7,
+      "tanya": "Ani melihat rambu lalu lintas bergambar huruf 'P' dicoret dengan garis merah. Jelaskan makna instruksi visual tersebut dan apa akibatnya jika Ani melanggarnya!",
+      "jawaban_lengkap": "Makna rambu 'P' dicoret adalah 'Dilarang Parkir' di area tersebut. Jika Ani melanggar, akibatnya bisa ditegur petugas, ditilang polisi, atau menyebabkan kemacetan lalu lintas."
+    },
+    {
+      "no": 8,
+      "tanya": "Identifikasi alat dan bahan dari teks petunjuk membuat layang-layang berikut:\n'Siapkan bambu, kertas minyak, lem, benang, dan gunting. Raut bambu hingga halus, lalu ikat membentuk kerangka.'",
+      "jawaban_lengkap": "Alat: Gunting (untuk memotong), Pisau (tersirat dari kata 'raut').\nBahan: Bambu, Kertas minyak, Lem, Benang."
+    },
+    {
+      "no": 9,
+      "tanya": "Mengapa dalam instruksi penggunaan alat elektronik sering terdapat kalimat peringatan (WARNING)?",
+      "jawaban_lengkap": "Kalimat peringatan (WARNING) disertakan untuk menjaga keselamatan pengguna agar terhindar dari bahaya seperti tersengat listrik, kebakaran, atau kerusakan alat akibat kesalahan pemakaian."
+    },
+    {
+      "no": 10,
+      "tanya": "Buatlah teks petunjuk singkat (3-4 langkah) tentang cara meminjam buku di perpustakaan sekolahmu!",
+      "jawaban_lengkap": "1. Pilihlah buku yang ingin dipinjam dari rak buku.\n2. Bawa buku tersebut ke meja petugas perpustakaan beserta kartu anggota.\n3. Tunggu petugas mencatat data peminjaman.\n4. Simpan buku dengan baik dan kembalikan tepat waktu."
+    }
+  ]
+}

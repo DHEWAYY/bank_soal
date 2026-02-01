@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Aritmatika Sosial - 7 SMP Semester Genap",
+    "mapel": "Matematika",
+    "jenjang": "SMP",
+    "kelas": "7 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Dalam aritmatika sosial, kondisi untung terjadi jika...",
+      "opsi_a": "Harga Beli lebih tinggi dari Harga Jual",
+      "opsi_b": "Harga Jual lebih tinggi dari Harga Beli",
+      "opsi_c": "Harga Beli sama dengan Harga Jual",
+      "opsi_d": "Harga Jual ditambah Biaya Operasional",
+      "jawaban": "B",
+      "pembahasan": "Untung (Laba) diperoleh jika Harga Penjualan (HJ) lebih besar daripada Harga Pembelian (HB). Rumus: Untung = HJ - HB."
+    },
+    {
+      "no": 2,
+      "tanya": "Pak Budi membeli sepeda seharga Rp800.000,00. Kemudian sepeda tersebut dijual kembali dengan harga Rp950.000,00. Berapa keuntungan yang diperoleh Pak Budi?",
+      "opsi_a": "Rp100.000,00",
+      "opsi_b": "Rp150.000,00",
+      "opsi_c": "Rp200.000,00",
+      "opsi_d": "Rp250.000,00",
+      "jawaban": "B",
+      "pembahasan": "Diketahui: HB = Rp800.000, HJ = Rp950.000. \nUntung = HJ - HB \nUntung = 950.000 - 800.000 = Rp150.000."
+    },
+    {
+      "no": 3,
+      "tanya": "Seorang pedagang membeli barang seharga Rp200.000,00. Karena butuh uang cepat, ia menjualnya dengan kerugian 10%. Berapakah harga jual barang tersebut?",
+      "opsi_a": "Rp180.000,00",
+      "opsi_b": "Rp190.000,00",
+      "opsi_c": "Rp210.000,00",
+      "opsi_d": "Rp220.000,00",
+      "jawaban": "A",
+      "pembahasan": "Diketahui: HB = 200.000, %Rugi = 10%. \nBesar Rugi = 10% x 200.000 = Rp20.000. \nHJ = HB - Rugi \nHJ = 200.000 - 20.000 = Rp180.000,00."
+    },
+    {
+      "no": 4,
+      "tanya": "Ani membeli tas seharga Rp150.000,00 dan menjualnya dengan harga Rp180.000,00. Persentase keuntungan yang diperoleh Ani adalah...",
+      "opsi_a": "15%",
+      "opsi_b": "20%",
+      "opsi_c": "25%",
+      "opsi_d": "30%",
+      "jawaban": "B",
+      "pembahasan": "Untung = 180.000 - 150.000 = 30.000. \n%Untung = (Untung / HB) x 100% \n%Untung = (30.000 / 150.000) x 100% \n%Untung = 0,2 x 100% = 20%."
+    },
+    {
+      "no": 5,
+      "tanya": "Sebuah barang dijual dengan harga Rp220.000,00. Jika dari penjualan tersebut pedagang mendapat untung 10%, berapakah harga pembelian barang tersebut?",
+      "opsi_a": "Rp198.000,00",
+      "opsi_b": "Rp200.000,00",
+      "opsi_c": "Rp210.000,00",
+      "opsi_d": "Rp242.000,00",
+      "jawaban": "B",
+      "pembahasan": "Diketahui: HJ = 220.000, %U = 10%. \nRumus Mencari HB jika diketahui %Untung: \nHB = (100 / (100 + %U)) x HJ \nHB = (100 / 110) x 220.000 \nHB = 20.000.000 / 110 = Rp200.000,00."
+    },
+    {
+      "no": 6,
+      "tanya": "Istilah berat kotor dalam aritmatika sosial disebut...",
+      "opsi_a": "Netto",
+      "opsi_b": "Tara",
+      "opsi_c": "Bruto",
+      "opsi_d": "Diskon",
+      "jawaban": "C",
+      "pembahasan": "Bruto adalah berat kotor (isi + kemasan). Netto adalah berat bersih (isi saja). Tara adalah berat kemasan."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebuah karung beras bertuliskan Bruto = 50 kg dan Tara = 2%. Berapakah Netto beras tersebut?",
+      "opsi_a": "48 kg",
+      "opsi_b": "49 kg",
+      "opsi_c": "49,5 kg",
+      "opsi_d": "51 kg",
+      "jawaban": "B",
+      "pembahasan": "Tara = 2% x 50 kg = 0,02 x 50 = 1 kg. \nNetto = Bruto - Tara \nNetto = 50 kg - 1 kg = 49 kg."
+    },
+    {
+      "no": 8,
+      "tanya": "Sebuah toko memberikan diskon 20% untuk sebuah baju yang harganya Rp120.000,00. Berapakah uang yang harus dibayarkan pembeli?",
+      "opsi_a": "Rp24.000,00",
+      "opsi_b": "Rp96.000,00",
+      "opsi_c": "Rp100.000,00",
+      "opsi_d": "Rp114.000,00",
+      "jawaban": "B",
+      "pembahasan": "Besar Diskon = 20% x 120.000 = Rp24.000. \nHarga Bayar = Harga Awal - Diskon \nHarga Bayar = 120.000 - 24.000 = Rp96.000,00."
+    },
+    {
+      "no": 9,
+      "tanya": "Bu Susi menyimpan uang di bank sebesar Rp4.000.000,00 dengan bunga tunggal 12% per tahun. Berapakah besar bunga yang diterima Bu Susi setelah menabung selama 9 bulan?",
+      "opsi_a": "Rp270.000,00",
+      "opsi_b": "Rp300.000,00",
+      "opsi_c": "Rp360.000,00",
+      "opsi_d": "Rp480.000,00",
+      "jawaban": "C",
+      "pembahasan": "Rumus Bunga = (n/12) x %Bunga x Modal \nBunga = (9/12) x 12% x 4.000.000 \nBunga = (3/4) x (12/100) x 4.000.000 \nBunga = 3 x 3 x 40.000 = Rp360.000,00."
+    },
+    {
+      "no": 10,
+      "tanya": "Pak Rudi membeli motor bekas seharga Rp5.000.000,00. Kemudian ia mengeluarkan biaya perbaikan Rp500.000,00. Jika ia ingin untung Rp1.000.000,00, maka ia harus menjual motor tersebut dengan harga...",
+      "opsi_a": "Rp6.000.000,00",
+      "opsi_b": "Rp6.500.000,00",
+      "opsi_c": "Rp7.000.000,00",
+      "opsi_d": "Rp7.500.000,00",
+      "jawaban": "B",
+      "pembahasan": "Modal Total = Harga Beli + Biaya Perbaikan \nModal = 5.000.000 + 500.000 = 5.500.000. \nHarga Jual = Modal + Untung \nHarga Jual = 5.500.000 + 1.000.000 = Rp6.500.000,00."
+    },
+    {
+      "no": 11,
+      "tanya": "Seorang pedagang membeli 1 lusin piring seharga Rp48.000,00. Jika ia ingin mendapat untung Rp12.000,00 dari penjualan seluruh piring tersebut, maka harga jual per piring adalah...",
+      "opsi_a": "Rp4.000,00",
+      "opsi_b": "Rp5.000,00",
+      "opsi_c": "Rp5.500,00",
+      "opsi_d": "Rp6.000,00",
+      "jawaban": "B",
+      "pembahasan": "Total Harga Jual = Harga Beli + Untung \nTotal HJ = 48.000 + 12.000 = 60.000. \nHarga per piring = 60.000 / 12 = Rp5.000,00."
+    },
+    {
+      "no": 12,
+      "tanya": "Pajak Pertambahan Nilai (PPN) biasanya dikenakan pada...",
+      "opsi_a": "Gaji pegawai",
+      "opsi_b": "Pembelian barang konsumsi",
+      "opsi_c": "Simpanan di bank",
+      "opsi_d": "Hadiah undian",
+      "jawaban": "B",
+      "pembahasan": "PPN dikenakan pada pembelian barang kena pajak, misalnya makanan di restoran atau barang elektronik. Gaji dikenakan PPh."
+    },
+    {
+      "no": 13,
+      "tanya": "Ayah membeli televisi seharga Rp3.000.000,00 dan dikenakan PPN sebesar 10%. Berapa total uang yang harus dibayarkan Ayah?",
+      "opsi_a": "Rp3.100.000,00",
+      "opsi_b": "Rp3.200.000,00",
+      "opsi_c": "Rp3.300.000,00",
+      "opsi_d": "Rp3.500.000,00",
+      "jawaban": "C",
+      "pembahasan": "Besar PPN = 10% x 3.000.000 = Rp300.000. \nTotal Bayar = Harga Barang + PPN \nTotal = 3.000.000 + 300.000 = Rp3.300.000,00."
+    },
+    {
+      "no": 14,
+      "tanya": "Tabungan Andi di bank mula-mula Rp2.000.000,00. Setelah beberapa waktu, tabungannya menjadi Rp2.200.000,00. Jika bunga bank 12% per tahun, berapa lama Andi menabung?",
+      "opsi_a": "8 bulan",
+      "opsi_b": "9 bulan",
+      "opsi_c": "10 bulan",
+      "opsi_d": "12 bulan",
+      "jawaban": "C",
+      "pembahasan": "Bunga (Rp) = 2.200.000 - 2.000.000 = 200.000. \nRumus: Bunga = (n/12) x %B x Modal \n200.000 = (n/12) x (12/100) x 2.000.000 \n200.000 = n x 1/100 x 2.000.000 \n200.000 = n x 20.000 \nn = 200.000 / 20.000 = 10 bulan."
+    },
+    {
+      "no": 15,
+      "tanya": "Toko A memberikan diskon 30% untuk sepatu seharga Rp200.000,00. Toko B memberikan diskon 40% untuk sepatu yang sama. Selisih harga yang harus dibayar di kedua toko adalah...",
+      "opsi_a": "Rp10.000,00",
+      "opsi_b": "Rp20.000,00",
+      "opsi_c": "Rp30.000,00",
+      "opsi_d": "Rp40.000,00",
+      "jawaban": "B",
+      "pembahasan": "Selisih Diskon (%) = 40% - 30% = 10%. \nSelisih Harga = 10% x 200.000 = Rp20.000,00. \n(Atau hitung manual: Toko A bayar 140k, Toko B bayar 120k, selisih 20k)."
+    },
+    {
+      "no": 16,
+      "tanya": "Seorang karyawan memiliki gaji Rp4.000.000,00 sebulan. Penghasilan Tidak Kena Pajak (PTKP) adalah Rp1.000.000,00. Jika PPh (Pajak Penghasilan) sebesar 10%, berapakah gaji bersih yang diterima karyawan tersebut?",
+      "opsi_a": "Rp3.600.000,00",
+      "opsi_b": "Rp3.700.000,00",
+      "opsi_c": "Rp3.800.000,00",
+      "opsi_d": "Rp3.900.000,00",
+      "jawaban": "B",
+      "pembahasan": "Penghasilan Kena Pajak (PKP) = Gaji - PTKP = 4.000.000 - 1.000.000 = 3.000.000. \nBesar Pajak = 10% x 3.000.000 = 300.000. \nGaji Bersih = Gaji Awal - Pajak = 4.000.000 - 300.000 = Rp3.700.000,00."
+    },
+    {
+      "no": 17,
+      "tanya": "Bruto satu dus barang adalah 20 kg. Jika taranya 0,5 kg, maka persentase taranya adalah...",
+      "opsi_a": "2,0%",
+      "opsi_b": "2,5%",
+      "opsi_c": "4,0%",
+      "opsi_d": "5,0%",
+      "jawaban": "B",
+      "pembahasan": "%Tara = (Tara / Bruto) x 100% \n%Tara = (0,5 / 20) x 100% \n%Tara = 0,025 x 100% = 2,5%."
+    },
+    {
+      "no": 18,
+      "tanya": "Sebuah barang dijual dengan rugi 20%. Jika harga beli barang tersebut Rp500.000,00, maka harga jualnya adalah...",
+      "opsi_a": "Rp350.000,00",
+      "opsi_b": "Rp400.000,00",
+      "opsi_c": "Rp450.000,00",
+      "opsi_d": "Rp480.000,00",
+      "jawaban": "B",
+      "pembahasan": "Besar Rugi = 20% x 500.000 = 100.000. \nHJ = HB - Rugi = 500.000 - 100.000 = Rp400.000,00."
+    },
+    {
+      "no": 19,
+      "tanya": "Koperasi sekolah membeli 50 buku dengan harga Rp3.000,00 per buku. Jika koperasi menginginkan keuntungan total Rp50.000,00, berapa harga jual per buku?",
+      "opsi_a": "Rp3.500,00",
+      "opsi_b": "Rp4.000,00",
+      "opsi_c": "Rp4.500,00",
+      "opsi_d": "Rp5.000,00",
+      "jawaban": "B",
+      "pembahasan": "Total Modal = 50 x 3.000 = 150.000. \nTarget Penjualan Total = Modal + Untung = 150.000 + 50.000 = 200.000. \nHarga Jual per buku = 200.000 / 50 = Rp4.000,00."
+    },
+    {
+      "no": 20,
+      "tanya": "Anto meminjam uang di koperasi sebesar Rp6.000.000,00 dengan bunga 1,5% per bulan. Jika lama meminjam 10 bulan, besar angsuran yang harus dibayar setiap bulan adalah...",
+      "opsi_a": "Rp600.000,00",
+      "opsi_b": "Rp660.000,00",
+      "opsi_c": "Rp690.000,00",
+      "opsi_d": "Rp750.000,00",
+      "jawaban": "C",
+      "pembahasan": "Bunga per bulan = 1,5% x 6.000.000 = Rp90.000. \nPokok angsuran per bulan = 6.000.000 / 10 = Rp600.000. \nTotal Angsuran = Pokok + Bunga = 600.000 + 90.000 = Rp690.000,00."
+    },
+    {
+      "no": 21,
+      "tanya": "Jika harga beli Rp100.000,00 dan dijual Rp80.000,00, maka persentase kerugiannya adalah...",
+      "opsi_a": "10%",
+      "opsi_b": "20%",
+      "opsi_c": "25%",
+      "opsi_d": "30%",
+      "jawaban": "B",
+      "pembahasan": "Rugi = 100.000 - 80.000 = 20.000. \n%Rugi = (20.000 / 100.000) x 100% = 20%."
+    },
+    {
+      "no": 22,
+      "tanya": "Harga awal sebuah kemeja adalah Rp200.000,00. Toko memberikan diskon 50% + 20%. Harga akhir kemeja tersebut adalah...",
+      "opsi_a": "Rp60.000,00",
+      "opsi_b": "Rp80.000,00",
+      "opsi_c": "Rp100.000,00",
+      "opsi_d": "Rp120.000,00",
+      "jawaban": "B",
+      "pembahasan": "Diskon pertama 50%: Harga menjadi 50% x 200.000 = 100.000. \nDiskon kedua 20% dari harga baru: 20% x 100.000 = 20.000. \nHarga Akhir = 100.000 - 20.000 = Rp80.000,00. \n(Catatan: 50%+20% bukan 70%)."
+    },
+    {
+      "no": 23,
+      "tanya": "Pedagang buah membeli 20 kg jeruk seharga Rp160.000,00. 1 kg jeruk busuk dan tidak bisa dijual. Sisanya dijual dengan harga Rp10.000,00 per kg. Berapa keuntungan pedagang?",
+      "opsi_a": "Rp20.000,00",
+      "opsi_b": "Rp30.000,00",
+      "opsi_c": "Rp40.000,00",
+      "opsi_d": "Rp50.000,00",
+      "jawaban": "B",
+      "pembahasan": "Jeruk yang bisa dijual = 20 - 1 = 19 kg. \nTotal HJ = 19 kg x 10.000 = 190.000. \nUntung = 190.000 - 160.000 = Rp30.000,00."
+    },
+    {
+      "no": 24,
+      "tanya": "Pak Hasan menabung Rp10.000.000,00 di bank. Setelah 6 bulan uangnya menjadi Rp10.600.000,00. Suku bunga per tahun bank tersebut adalah...",
+      "opsi_a": "6%",
+      "opsi_b": "8%",
+      "opsi_c": "10%",
+      "opsi_d": "12%",
+      "jawaban": "D",
+      "pembahasan": "Bunga (6 bulan) = 600.000. \nBunga 1 tahun = (12/6) x 600.000 = 1.200.000. \n%Bunga per tahun = (1.200.000 / 10.000.000) x 100% = 12%."
+    },
+    {
+      "no": 25,
+      "tanya": "Sebuah barang dijual Rp115.000,00 dan pedagang untung 15%. Besar keuntungan nominalnya adalah...",
+      "opsi_a": "Rp10.000,00",
+      "opsi_b": "Rp15.000,00",
+      "opsi_c": "Rp17.250,00",
+      "opsi_d": "Rp20.000,00",
+      "jawaban": "B",
+      "pembahasan": "Cari HB dulu. \nHB = (100 / 115) x 115.000 = 100.000. \nUntung = HJ - HB = 115.000 - 100.000 = Rp15.000,00."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Seorang pedagang membeli 50 kg mangga dengan harga Rp400.000,00. Sebanyak 40 kg dijual dengan harga Rp10.000,00 per kg, dan sisanya dijual dengan harga Rp8.000,00 per kg. Tentukan apakah pedagang tersebut untung atau rugi, dan berapa persentasenya!",
+      "jawaban_lengkap": "1. Modal (HB) = Rp400.000\n2. Penjualan 1: 40 kg x Rp10.000 = Rp400.000\n3. Penjualan 2 (Sisa): 10 kg x Rp8.000 = Rp80.000\n4. Total HJ = 400.000 + 80.000 = Rp480.000\n5. Karena HJ > HB, pedagang UNTUNG.\n6. Besar Untung = 480.000 - 400.000 = Rp80.000\n7. %Untung = (80.000 / 400.000) x 100% = 20%."
+    },
+    {
+      "no": 2,
+      "tanya": "Ayah meminjam uang di bank sebesar Rp12.000.000,00 yang akan dilunasi dengan cara diangsur selama 10 bulan. Jika bank menetapkan bunga pinjaman sebesar 10% per tahun, hitunglah besar angsuran yang harus dibayar Ayah setiap bulannya!",
+      "jawaban_lengkap": "1. Pokok Pinjaman = Rp12.000.000\n2. Bunga per tahun = 10%\n3. Bunga untuk 10 bulan = (10/12) x 10% x 12.000.000 = (10/12) x 1.200.000 = Rp1.000.000\n4. Total Hutang = Pokok + Bunga = 12.000.000 + 1.000.000 = Rp13.000.000\n5. Angsuran per bulan = Total Hutang / 10 = 13.000.000 / 10 = Rp1.300.000,00."
+    },
+    {
+      "no": 3,
+      "tanya": "Sebuah toko elektronik memberikan diskon 15% untuk semua barang. Jika Budi membeli sebuah laptop dan membayar sebesar Rp4.250.000,00 setelah didiskon, berapakah harga awal laptop tersebut sebelum didiskon?",
+      "jawaban_lengkap": "1. Persentase harga setelah diskon = 100% - 15% = 85%\n2. Harga Awal = (100 / 85) x Harga Bayar\n3. Harga Awal = (100 / 85) x 4.250.000\n4. Harga Awal = 100 x 50.000 = Rp5.000.000,00."
+    },
+    {
+      "no": 4,
+      "tanya": "Pak Ahmad membeli 2 karung gula pasir dengan berat masing-masing 50 kg dan tara 2%. Harga pembelian setiap karung adalah Rp400.000,00. Jika Pak Ahmad menjual gula pasir itu secara eceran dengan harga Rp10.000,00 per kg, berapakah total keuntungan yang diperolehnya?",
+      "jawaban_lengkap": "1. Total Modal = 2 karung x Rp400.000 = Rp800.000\n2. Bruto total = 2 x 50 kg = 100 kg\n3. Tara = 2% x 100 kg = 2 kg\n4. Netto total = 100 kg - 2 kg = 98 kg\n5. Total Penjualan (HJ) = 98 kg x Rp10.000 = Rp980.000\n6. Untung = HJ - HB = 980.000 - 800.000 = Rp180.000,00."
+    },
+    {
+      "no": 5,
+      "tanya": "Ani menabung di bank dengan bunga tunggal 8% per tahun. Jika ia ingin jumlah tabungannya menjadi Rp2.160.000,00 dari modal awal Rp2.000.000,00, berapa bulan Ani harus menabung?",
+      "jawaban_lengkap": "1. Bunga yang diharapkan (Rp) = 2.160.000 - 2.000.000 = 160.000\n2. Rumus: Bunga = (n/12) x %B x Modal\n3. 160.000 = (n/12) x (8/100) x 2.000.000\n4. 160.000 = (n/12) x 160.000\n5. 160.000 / 160.000 = n/12\n6. 1 = n/12, maka n = 12 bulan."
+    },
+    {
+      "no": 6,
+      "tanya": "Seorang karyawan menerima gaji Rp5.000.000,00 sebulan dengan penghasilan tidak kena pajak (PTKP) Rp1.500.000,00. Jika pajak penghasilan (PPh) sebesar 10%, hitunglah gaji bersih yang diterima karyawan tersebut dalam satu tahun!",
+      "jawaban_lengkap": "1. Penghasilan Kena Pajak (PKP) per bulan = 5.000.000 - 1.500.000 = 3.500.000\n2. Pajak per bulan = 10% x 3.500.000 = 350.000\n3. Gaji bersih per bulan = 5.000.000 - 350.000 = 4.650.000\n4. Gaji bersih setahun = 4.650.000 x 12 = Rp55.800.000,00."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebuah barang dibeli dengan harga Rp1.000.000,00. Pedagang ingin menjual barang tersebut dengan memberikan diskon 20% kepada pembeli, namun tetap ingin mendapatkan untung 20% dari harga beli. Berapakah harga label yang harus dipasang pada barang tersebut?",
+      "jawaban_lengkap": "1. Harga Jual (Netto) yang diinginkan = Modal + (20% x Modal) = 1.000.000 + 200.000 = 1.200.000.\n2. Harga Jual ini adalah 80% dari Harga Label (karena diskon 20%).\n3. Harga Label = (100 / 80) x Harga Jual Netto\n4. Harga Label = (100 / 80) x 1.200.000 = 1,25 x 1.200.000\n5. Harga Label = Rp1.500.000,00."
+    },
+    {
+      "no": 8,
+      "tanya": "Toko A dan Toko B menjual jenis jaket yang sama dengan harga Rp200.000,00. Toko A memberikan diskon tunggal 30%. Toko B memberikan diskon bertingkat 20% + 10%. Toko manakah yang lebih murah dan berapa selisih harganya?",
+      "jawaban_lengkap": "1. Toko A: Diskon 30% x 200.000 = 60.000. Bayar = 140.000.\n2. Toko B: Diskon I = 20% x 200.000 = 40.000. Sisa = 160.000.\n   Diskon II = 10% x 160.000 = 16.000. Total Diskon = 56.000. Bayar = 144.000.\n3. Kesimpulan: Toko A lebih murah.\n4. Selisih = 144.000 - 140.000 = Rp4.000,00."
+    },
+    {
+      "no": 9,
+      "tanya": "Pak Dedi membeli 10 peti telur dengan harga Rp180.000,00 per peti. Setiap peti memiliki bruto 20 kg dan tara 5%. Telur tersebut dijual eceran dengan harga Rp12.000,00 per kg. Hitunglah total keuntungan Pak Dedi!",
+      "jawaban_lengkap": "1. Total Modal = 10 x 180.000 = 1.800.000.\n2. Total Bruto = 10 x 20 kg = 200 kg.\n3. Total Tara = 5% x 200 kg = 10 kg.\n4. Total Netto = 200 - 10 = 190 kg.\n5. Total Penjualan = 190 kg x 12.000 = 2.280.000.\n6. Keuntungan = 2.280.000 - 1.800.000 = Rp480.000,00."
+    },
+    {
+      "no": 10,
+      "tanya": "Seseorang meminjam uang di bank sebesar Rp10.000.000,00. Ia mengembalikan pinjaman tersebut dengan angsuran Rp1.100.000,00 per bulan selama 10 bulan. Hitunglah persentase bunga per tahun yang ditetapkan bank tersebut!",
+      "jawaban_lengkap": "1. Total yang dibayarkan = 1.100.000 x 10 = 11.000.000.\n2. Total Bunga (10 bulan) = 11.000.000 - 10.000.000 = 1.000.000.\n3. Rumus: Bunga = (n/12) x %B x Modal\n   1.000.000 = (10/12) x %B x 10.000.000\n   1.000.000 = (5/6) x 10.000.000 x %B\n   1.000.000 = 8.333.333 x %B\n   %B = 1.000.000 / 8.333.333 = 0,12 = 12%.\n4. Jadi, bunga per tahun adalah 12%."
+    }
+  ]
+}

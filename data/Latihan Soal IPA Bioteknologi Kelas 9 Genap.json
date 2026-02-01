@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Bioteknologi - 9 SMP Semester Genap",
+    "mapel": "IPA",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Penerapan prinsip-prinsip biologi, biokimia, dan rekayasa dalam pengolahan bahan dengan memanfaatkan agen hayati dan komponen-komponennya untuk menghasilkan barang dan jasa disebut...",
+      "opsi_a": "Biologi murni",
+      "opsi_b": "Bioteknologi",
+      "opsi_c": "Mikrobiologi",
+      "opsi_d": "Kimia pangan",
+      "jawaban": "B",
+      "pembahasan": "Ini adalah definisi standar dari bioteknologi, yaitu pemanfaatan makhluk hidup (bakteri, jamur, virus) atau produknya untuk menghasilkan barang dan jasa bagi manusia."
+    },
+    {
+      "no": 2,
+      "tanya": "Perbedaan mendasar antara bioteknologi konvensional dan bioteknologi modern terletak pada...",
+      "opsi_a": "Manfaat yang dihasilkan",
+      "opsi_b": "Mikroorganisme yang digunakan",
+      "opsi_c": "Prinsip ilmiah dan peralatan yang digunakan",
+      "opsi_d": "Lama waktu proses pembuatannya",
+      "jawaban": "C",
+      "pembahasan": "Bioteknologi konvensional menggunakan peralatan sederhana dan fermentasi alami. Bioteknologi modern menggunakan prinsip rekayasa genetika, peralatan canggih, dan manipulasi DNA."
+    },
+    {
+      "no": 3,
+      "tanya": "Dalam pembuatan tempe, jamur yang berperan penting untuk mengubah kedelai menjadi tempe adalah...",
+      "opsi_a": "Saccharomyces cerevisiae",
+      "opsi_b": "Rhizopus oryzae",
+      "opsi_c": "Aspergillus wentii",
+      "opsi_d": "Lactobacillus bulgaricus",
+      "jawaban": "B",
+      "pembahasan": "Rhizopus oryzae adalah jamur yang tumbuh pada kedelai dan membentuk benang-benang hifa yang menyatukan biji kedelai menjadi tempe."
+    },
+    {
+      "no": 4,
+      "tanya": "Mikroorganisme yang digunakan dalam pembuatan yoghurt adalah...",
+      "opsi_a": "Lactobacillus bulgaricus dan Streptococcus thermophilus",
+      "opsi_b": "Rhizopus oligosporus dan Acetobacter xylinum",
+      "opsi_c": "Saccharomyces cerevisiae dan Aspergillus oryzae",
+      "opsi_d": "Neurospora crassa dan Pseudomonas sp.",
+      "jawaban": "A",
+      "pembahasan": "Lactobacillus bulgaricus dan Streptococcus thermophilus adalah bakteri asam laktat yang memfermentasi susu menjadi yoghurt."
+    },
+    {
+      "no": 5,
+      "tanya": "Pada proses pembuatan roti, adonan dapat mengembang karena aktivitas ragi (yeast) yang menghasilkan gas...",
+      "opsi_a": "Oksigen",
+      "opsi_b": "Nitrogen",
+      "opsi_c": "Karbondioksida",
+      "opsi_d": "Hidrogen",
+      "jawaban": "C",
+      "pembahasan": "Saccharomyces cerevisiae melakukan fermentasi alkohol yang menghasilkan alkohol dan gas karbondioksida (CO2). Gas inilah yang terperangkap dalam adonan dan membuatnya mengembang."
+    },
+    {
+      "no": 6,
+      "tanya": "Hubungan yang tepat antara produk bioteknologi dan mikroorganisme yang berperan adalah...",
+      "opsi_a": "Kecap - Rhizopus oryzae",
+      "opsi_b": "Nata de coco - Acetobacter xylinum",
+      "opsi_c": "Keju - Saccharomyces cerevisiae",
+      "opsi_d": "Oncom - Aspergillus wentii",
+      "jawaban": "B",
+      "pembahasan": "A salah (Kecap = Aspergillus wentii), C salah (Keju = Bakteri asam laktat/Lactobacillus), D salah (Oncom = Neurospora crassa). B benar (Nata de coco = Acetobacter xylinum)."
+    },
+    {
+      "no": 7,
+      "tanya": "Teknik rekayasa genetika yang digunakan untuk menghasilkan hormon insulin buatan melibatkan bakteri...",
+      "opsi_a": "Escherichia coli",
+      "opsi_b": "Bacillus thuringiensis",
+      "opsi_c": "Staphylococcus aureus",
+      "opsi_d": "Salmonella typhi",
+      "jawaban": "A",
+      "pembahasan": "Gen penghasil insulin manusia disisipkan ke dalam plasmid bakteri Escherichia coli (E. coli) agar bakteri tersebut dapat memproduksi insulin."
+    },
+    {
+      "no": 8,
+      "tanya": "Prinsip dasar kultur jaringan tumbuhan adalah...",
+      "opsi_a": "Manipulasi susunan gen dalam kromosom",
+      "opsi_b": "Penggabungan dua sel dari organisme berbeda",
+      "opsi_c": "Totipotensi sel",
+      "opsi_d": "Fermentasi aerob",
+      "jawaban": "C",
+      "pembahasan": "Totipotensi adalah kemampuan setiap sel tumbuhan untuk tumbuh menjadi individu baru yang utuh jika berada dalam lingkungan yang sesuai."
+    },
+    {
+      "no": 9,
+      "tanya": "Organisme transgenik adalah...",
+      "opsi_a": "Organisme yang tidak memiliki materi genetik",
+      "opsi_b": "Organisme yang materi genetiknya telah disisipi gen dari organisme lain",
+      "opsi_c": "Organisme yang berkembang biak dengan tunas",
+      "opsi_d": "Organisme yang mengalami mutasi alami",
+      "jawaban": "B",
+      "pembahasan": "Transgenik berarti 'pindah gen'. Organisme ini memiliki DNA rekombinan dimana gen asing disisipkan ke dalam tubuhnya untuk mendapatkan sifat unggul."
+    },
+    {
+      "no": 10,
+      "tanya": "Dampak negatif yang mungkin ditimbulkan oleh tanaman transgenik terhadap lingkungan adalah...",
+      "opsi_a": "Meningkatkan keanekaragaman hayati",
+      "opsi_b": "Menyebabkan polusi udara",
+      "opsi_c": "Terbentuknya gulma super (superweeds) akibat transfer gen",
+      "opsi_d": "Tanah menjadi lebih subur",
+      "jawaban": "C",
+      "pembahasan": "Gen tahan herbisida dari tanaman transgenik bisa berpindah ke gulma liar melalui penyerbukan silang, menyebabkan gulma tersebut kebal terhadap herbisida (gulma super)."
+    },
+    {
+      "no": 11,
+      "tanya": "Bioteknologi modern dalam bidang pertanian menghasilkan tanaman Jagung Bt yang memiliki keunggulan...",
+      "opsi_a": "Tahan terhadap hama serangga",
+      "opsi_b": "Buahnya berwarna-warni",
+      "opsi_c": "Mampu hidup di air asin",
+      "opsi_d": "Mengandung vitamin A tinggi",
+      "jawaban": "A",
+      "pembahasan": "Jagung Bt disisipi gen dari bakteri Bacillus thuringiensis yang menghasilkan racun bagi hama serangga, sehingga tanaman menjadi tahan hama."
+    },
+    {
+      "no": 12,
+      "tanya": "Proses pembersihan zat pencemar lingkungan (seperti tumpahan minyak) dengan menggunakan mikroorganisme disebut...",
+      "opsi_a": "Bioetanol",
+      "opsi_b": "Bioremediasi",
+      "opsi_c": "Biogas",
+      "opsi_d": "Biofertilizer",
+      "jawaban": "B",
+      "pembahasan": "Bioremediasi adalah penggunaan mikroorganisme untuk mengurangi polutan di lingkungan. Contohnya menggunakan bakteri Pseudomonas untuk menguraikan minyak."
+    },
+    {
+      "no": 13,
+      "tanya": "Antibiotik penisilin dihasilkan oleh jamur...",
+      "opsi_a": "Penicillium notatum",
+      "opsi_b": "Penicillium camemberti",
+      "opsi_c": "Aspergillus flavus",
+      "opsi_d": "Volvariella volvacea",
+      "jawaban": "A",
+      "pembahasan": "Alexander Fleming menemukan antibiotik pertama dari jamur Penicillium notatum."
+    },
+    {
+      "no": 14,
+      "tanya": "Kloning pada hewan domba Dolly dilakukan dengan menggunakan teknik...",
+      "opsi_a": "Fertilisasi in vitro",
+      "opsi_b": "Transfer inti sel somatik",
+      "opsi_c": "Hibridoma",
+      "opsi_d": "Inseminasi buatan",
+      "jawaban": "B",
+      "pembahasan": "Kloning Dolly dilakukan dengan mengambil inti sel tubuh (sel somatik) dari kelenjar susu domba donor dan memasukkannya ke dalam sel telur yang intinya sudah dibuang."
+    },
+    {
+      "no": 15,
+      "tanya": "Pemanfaatan teknik inseminasi buatan pada sapi bertujuan untuk...",
+      "opsi_a": "Menghasilkan sapi yang tahan penyakit",
+      "opsi_b": "Mendapatkan susu dengan kadar lemak rendah",
+      "opsi_c": "Memperbaiki kualitas keturunan dan mempercepat reproduksi",
+      "opsi_d": "Membuat sapi berumur panjang",
+      "jawaban": "C",
+      "pembahasan": "Inseminasi buatan (kawin suntik) memungkinkan sperma dari pejantan unggul membuahi banyak betina tanpa harus bertemu langsung, sehingga memperbaiki mutu genetik ternak."
+    },
+    {
+      "no": 16,
+      "tanya": "Makanan tradisional Jepang 'Natto' terbuat dari kedelai yang difermentasi oleh bakteri...",
+      "opsi_a": "Bacillus subtilis",
+      "opsi_b": "Rhizopus oryzae",
+      "opsi_c": "Lactobacillus casei",
+      "opsi_d": "Acetobacter xylinum",
+      "jawaban": "A",
+      "pembahasan": "Natto adalah produk fermentasi kedelai yang menggunakan bakteri Bacillus subtilis var. natto."
+    },
+    {
+      "no": 17,
+      "tanya": "Plasmid adalah komponen penting dalam rekayasa genetika. Plasmid adalah...",
+      "opsi_a": "Kromosom utama bakteri",
+      "opsi_b": "DNA berbentuk sirkuler di luar kromosom bakteri",
+      "opsi_c": "Virus yang menyerang bakteri",
+      "opsi_d": "Enzim pemotong DNA",
+      "jawaban": "B",
+      "pembahasan": "Plasmid adalah DNA ekstrakromosomal pada bakteri yang berbentuk lingkaran kecil dan dapat disisipi gen asing sebagai vektor."
+    },
+    {
+      "no": 18,
+      "tanya": "Golden Rice adalah beras transgenik yang direkayasa agar mengandung beta-karoten untuk mencegah kekurangan...",
+      "opsi_a": "Vitamin C",
+      "opsi_b": "Vitamin B",
+      "opsi_c": "Vitamin A",
+      "opsi_d": "Vitamin D",
+      "jawaban": "C",
+      "pembahasan": "Beta-karoten adalah provitamin A yang di dalam tubuh akan diubah menjadi vitamin A."
+    },
+    {
+      "no": 19,
+      "tanya": "Enzim yang berfungsi sebagai 'gunting biologi' untuk memotong rantai DNA dalam rekayasa genetika adalah...",
+      "opsi_a": "Enzim Ligase",
+      "opsi_b": "Enzim Restriksi",
+      "opsi_c": "Enzim Polimerase",
+      "opsi_d": "Enzim Amilase",
+      "jawaban": "B",
+      "pembahasan": "Enzim Restriksi (endonuklease restriksi) digunakan untuk memotong DNA pada urutan basa tertentu. Ligase digunakan untuk menyambung."
+    },
+    {
+      "no": 20,
+      "tanya": "Jika proses pembuatan tapai ketan dibiarkan terbuka (terkena udara), maka tapai akan terasa masam atau gagal. Hal ini karena...",
+      "opsi_a": "Jamur Saccharomyces mati terkena udara",
+      "opsi_b": "Terjadi fermentasi asam cuka oleh bakteri aerob",
+      "opsi_c": "Suhu menjadi terlalu dingin",
+      "opsi_d": "Alkohol menguap terlalu cepat",
+      "jawaban": "B",
+      "pembahasan": "Fermentasi alkohol oleh ragi bersifat anaerob (tidak butuh oksigen). Jika terbuka, alkohol yang terbentuk akan diubah menjadi asam asetat (cuka) oleh bakteri Acetobacter yang bersifat aerob, membuat tapai masam."
+    },
+    {
+      "no": 21,
+      "tanya": "Protein Sel Tunggal (PST) adalah makanan sumber protein yang berasal dari...",
+      "opsi_a": "Daging sapi pilihan",
+      "opsi_b": "Telur ayam ras",
+      "opsi_c": "Mikroorganisme (alga, bakteri, jamur)",
+      "opsi_d": "Kacang kedelai",
+      "jawaban": "C",
+      "pembahasan": "PST adalah biomassa kering dari mikroorganisme (seperti Spirulina, Chlorella) yang kaya protein."
+    },
+    {
+      "no": 22,
+      "tanya": "Bayi tabung (Fertilisasi in vitro) merupakan bioteknologi yang bertujuan untuk...",
+      "opsi_a": "Mengubah jenis kelamin bayi",
+      "opsi_b": "Membantu pasangan yang sulit memiliki keturunan",
+      "opsi_c": "Menciptakan manusia super",
+      "opsi_d": "Mencegah penyakit menular",
+      "jawaban": "B",
+      "pembahasan": "IVF adalah teknik pembuahan sel telur oleh sperma di luar tubuh wanita (di cawan petri) untuk mengatasi masalah infertilitas."
+    },
+    {
+      "no": 23,
+      "tanya": "Salah satu kelebihan kultur jaringan dibandingkan perkembangbiakan konvensional adalah...",
+      "opsi_a": "Menghasilkan bibit dalam jumlah banyak, seragam, dan cepat",
+      "opsi_b": "Tanaman menjadi lebih besar dari induknya",
+      "opsi_c": "Membutuhkan lahan yang sangat luas",
+      "opsi_d": "Tanaman tahan terhadap segala cuaca",
+      "jawaban": "A",
+      "pembahasan": "Kultur jaringan sangat efektif untuk perbanyakan massal tanaman yang memiliki sifat identik dengan induknya dalam waktu singkat."
+    },
+    {
+      "no": 24,
+      "tanya": "Teknologi Hibridoma (fusi sel) digunakan untuk menghasilkan...",
+      "opsi_a": "Insulin",
+      "opsi_b": "Antibodi monoklonal",
+      "opsi_c": "Vaksin",
+      "opsi_d": "Enzim",
+      "jawaban": "B",
+      "pembahasan": "Fusi sel antara sel limfosit B (penghasil antibodi) dan sel kanker (myeloma) menghasilkan sel hibridoma yang memproduksi antibodi monoklonal."
+    },
+    {
+      "no": 25,
+      "tanya": "Bahan bakar alternatif yang dihasilkan dari fermentasi bahan organik seperti kotoran hewan disebut...",
+      "opsi_a": "Biodiesel",
+      "opsi_b": "Biogas",
+      "opsi_c": "Bioetanol",
+      "opsi_d": "Bensin",
+      "jawaban": "B",
+      "pembahasan": "Biogas (terutama metana) dihasilkan dari fermentasi anaerobik bahan organik (limbah, kotoran) oleh bakteri metanogenik."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan perbedaan antara bioteknologi konvensional dan bioteknologi modern ditinjau dari aspek: a) Teknik yang digunakan, b) Peralatan, dan c) Contoh produk!",
+      "jawaban_lengkap": "a) Teknik: Konvensional menggunakan fermentasi alami tanpa rekayasa genetik. Modern menggunakan rekayasa genetika (manipulasi DNA) dan teknologi reproduksi.\nb) Peralatan: Konvensional menggunakan alat sederhana. Modern menggunakan alat canggih dan laboratorium steril.\nc) Produk: Konvensional (Tempe, Kecap, Tapai). Modern (Insulin buatan, Tanaman Transgenik, Vaksin rekombinan)."
+    },
+    {
+      "no": 2,
+      "tanya": "Mengapa dalam pembuatan tapai singkong, ragi harus ditaburkan saat singkong sudah dingin? Jelaskan alasan ilmiahnya!",
+      "jawaban_lengkap": "Ragi mengandung mikroorganisme hidup (Saccharomyces cerevisiae). Jika ditaburkan saat singkong masih panas, suhu tinggi akan membunuh mikroorganisme tersebut sehingga proses fermentasi tidak akan terjadi (gagal). Suhu ruang/dingin adalah suhu optimal bagi ragi untuk bekerja."
+    },
+    {
+      "no": 3,
+      "tanya": "Jelaskan langkah-langkah proses pembuatan insulin menggunakan teknik rekayasa genetika (DNA rekombinan)!",
+      "jawaban_lengkap": "1. Mengisolasi gen penghasil insulin dari sel pankreas manusia.\n2. Mengisolasi plasmid dari bakteri (misal E. coli).\n3. Memotong plasmid dan gen insulin menggunakan enzim restriksi.\n4. Menyambungkan gen insulin ke dalam plasmid menggunakan enzim ligase (terbentuk DNA rekombinan).\n5. Memasukkan plasmid rekombinan kembali ke dalam bakteri.\n6. Mengembangbiakkan bakteri tersebut sehingga menghasilkan insulin dalam jumlah banyak."
+    },
+    {
+      "no": 4,
+      "tanya": "
+
+[Image of tissue culture process]
+ \nJelaskan konsep 'Totipotensi' yang menjadi dasar teknik kultur jaringan tumbuhan!",
+      "jawaban_lengkap": "Totipotensi adalah kemampuan setiap sel tumbuhan yang hidup untuk tumbuh dan berkembang menjadi individu baru yang lengkap dan utuh (memiliki akar, batang, daun) jika ditempatkan pada lingkungan/media yang sesuai. Artinya, satu sel daun bisa dikultur menjadi satu pohon lengkap."
+    },
+    {
+      "no": 5,
+      "tanya": "Sebutkan dan jelaskan dua dampak negatif penggunaan Organisme Hasil Modifikasi Genetik (GMO/Transgenik) terhadap kesehatan manusia!",
+      "jawaban_lengkap": "1. Alergi: Gen asing yang disisipkan (misal dari kacang ke tanaman lain) bisa memicu reaksi alergi pada orang yang sensitif.\n2. Resistensi Antibiotik: Penggunaan gen penanda resistensi antibiotik dalam pembuatan GMO dikhawatirkan dapat berpindah ke bakteri dalam tubuh manusia, membuat bakteri tersebut kebal obat."
+    },
+    {
+      "no": 6,
+      "tanya": "Bagaimana mekanisme kerja bakteri Bacillus thuringiensis (Bt) dalam membasmi hama pada tanaman jagung transgenik?",
+      "jawaban_lengkap": "Tanaman Jagung Bt telah disisipi gen dari bakteri Bacillus thuringiensis yang mengkode protein kristal racun (delta-endotoxin). Ketika ulat/hama memakan daun jagung tersebut, racun akan masuk ke pencernaan hama, aktif dalam suasana basa di usus, merusak dinding usus, dan menyebabkan hama mati."
+    },
+    {
+      "no": 7,
+      "tanya": "Apa yang dimaksud dengan Bioremediasi? Berikan contoh penerapannya dalam mengatasi pencemaran laut!",
+      "jawaban_lengkap": "Bioremediasi adalah proses penggunaan makhluk hidup, terutama mikroorganisme (bakteri, jamur), untuk mendegradasi atau menghilangkan polutan/limbah dari lingkungan. Contohnya adalah penggunaan bakteri Pseudomonas putida untuk menguraikan tumpahan minyak mentah di laut menjadi senyawa yang lebih sederhana dan tidak berbahaya."
+    },
+    {
+      "no": 8,
+      "tanya": "Analisis mengapa adonan roti bisa mengembang dan berpori-pori setelah ditambahkan ragi!",
+      "jawaban_lengkap": "Ragi (Saccharomyces cerevisiae) melakukan fermentasi terhadap gula dalam tepung. Proses ini menghasilkan gas Karbondioksida (CO2) dan alkohol. Gas CO2 terperangkap di dalam jaringan gluten tepung, menyebabkan adonan mendesak ke atas (mengembang). Saat dipanggang, gas memuai dan meninggalkan rongga-rongga (pori) pada roti."
+    },
+    {
+      "no": 9,
+      "tanya": "Kloning pada hewan seringkali menimbulkan perdebatan etika. Jelaskan secara biologis bagaimana domba Dolly dihasilkan!",
+      "jawaban_lengkap": "Domba Dolly dihasilkan melalui Transfer Inti Sel Somatik. \n1. Sel telur diambil dari domba A dan intinya dibuang (enukleasi).\n2. Sel tubuh (kelenjar susu) diambil dari domba B (donor).\n3. Inti sel domba B dimasukkan ke dalam sel telur kosong domba A dengan kejutan listrik.\n4. Embrio yang terbentuk ditanam di rahim domba C (ibu pengganti).\n5. Lahir domba Dolly yang identik secara genetik dengan domba B."
+    },
+    {
+      "no": 10,
+      "tanya": "Jelaskan peran bioteknologi dalam bidang forensik, khususnya teknik DNA Fingerprinting!",
+      "jawaban_lengkap": "DNA Fingerprinting digunakan untuk mengidentifikasi seseorang berdasarkan profil DNA-nya yang unik. Teknik ini berguna untuk: \n1. Menentukan pelaku kejahatan dengan mencocokkan DNA di TKP (darah, rambut) dengan tersangka.\n2. Tes paternitas (menentukan orang tua kandung seorang anak).\n3. Mengidentifikasi korban bencana yang sulit dikenali fisiknya."
+    }
+  ]
+}

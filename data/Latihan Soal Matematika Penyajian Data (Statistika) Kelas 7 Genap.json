@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Penyajian Data (Statistika) - 7 SMP Semester Genap",
+    "mapel": "Matematika",
+    "jenjang": "SMP",
+    "kelas": "7 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Kumpulan informasi atau keterangan yang diperoleh dari suatu pengamatan disebut...",
+      "opsi_a": "Populasi",
+      "opsi_b": "Sampel",
+      "opsi_c": "Data",
+      "opsi_d": "Statistika",
+      "jawaban": "C",
+      "pembahasan": "Data adalah sekumpulan informasi atau keterangan yang diperoleh dari pengamatan atau sumber tertentu."
+    },
+    {
+      "no": 2,
+      "tanya": "Seorang peneliti ingin mengetahui rata-rata tinggi badan siswa kelas 7 di seluruh Indonesia. Karena tidak mungkin mengukur semua siswa, ia hanya mengambil data dari beberapa sekolah di setiap provinsi. Seluruh siswa kelas 7 se-Indonesia disebut...",
+      "opsi_a": "Data",
+      "opsi_b": "Sampel",
+      "opsi_c": "Populasi",
+      "opsi_d": "Datum",
+      "jawaban": "C",
+      "pembahasan": "Populasi adalah seluruh objek yang menjadi sasaran penelitian. Sampel adalah sebagian dari populasi yang diambil untuk diamati."
+    },
+    {
+      "no": 3,
+      "tanya": "Berikut ini adalah cara pengumpulan data, KECUALI...",
+      "opsi_a": "Wawancara",
+      "opsi_b": "Kuesioner (Angket)",
+      "opsi_c": "Observasi",
+      "opsi_d": "Manipulasi",
+      "jawaban": "D",
+      "pembahasan": "Cara pengumpulan data yang umum adalah wawancara, kuesioner, observasi, dan studi literatur. Manipulasi bukan cara pengumpulan data yang benar dalam statistika."
+    },
+    {
+      "no": 4,
+      "tanya": "Perhatikan data nilai ulangan matematika berikut: 7, 8, 6, 7, 9, 8, 7, 6, 9, 8, 8, 7, 8. Modus dari data tersebut adalah...",
+      "opsi_a": "6",
+      "opsi_b": "7",
+      "opsi_c": "8",
+      "opsi_d": "9",
+      "jawaban": "C",
+      "pembahasan": "Modus adalah nilai yang paling sering muncul. \nNilai 6 muncul 2 kali.\nNilai 7 muncul 4 kali.\nNilai 8 muncul 5 kali.\nNilai 9 muncul 2 kali.\nJadi, modusnya adalah 8."
+    },
+    {
+      "no": 5,
+      "tanya": "Data berat badan (kg) sekelompok siswa: 35, 37, 36, 35, 38, 36, 35, 37, 36, 35. Tabel frekuensi yang tepat untuk berat badan 35 kg adalah...",
+      "opsi_a": "2",
+      "opsi_b": "3",
+      "opsi_c": "4",
+      "opsi_d": "5",
+      "jawaban": "C",
+      "pembahasan": "Hitung jumlah munculnya angka 35. Data 35 muncul sebanyak 4 kali."
+    },
+    {
+      "no": 6,
+      "tanya": "Penyajian data yang menggunakan gambar atau lambang untuk mewakili jumlah data disebut...",
+      "opsi_a": "Diagram Batang",
+      "opsi_b": "Diagram Garis",
+      "opsi_c": "Piktogram",
+      "opsi_d": "Diagram Lingkaran",
+      "jawaban": "C",
+      "pembahasan": "Piktogram (diagram gambar) adalah penyajian data yang menggunakan gambar atau lambang."
+    },
+    {
+      "no": 7,
+      "tanya": "Diketahui data penjualan buku: Senin (20), Selasa (15), Rabu (25), Kamis (30), Jumat (10). Selisih penjualan buku terbanyak dan terendah adalah...",
+      "opsi_a": "10 buku",
+      "opsi_b": "15 buku",
+      "opsi_c": "20 buku",
+      "opsi_d": "25 buku",
+      "jawaban": "C",
+      "pembahasan": "Penjualan terbanyak = Kamis (30). Penjualan terendah = Jumat (10). \nSelisih = 30 - 10 = 20 buku."
+    },
+    {
+      "no": 8,
+      "tanya": "Diagram yang paling tepat untuk menggambarkan perkembangan atau perubahan data secara terus-menerus (kontinu) dari waktu ke waktu adalah...",
+      "opsi_a": "Diagram Batang",
+      "opsi_b": "Diagram Garis",
+      "opsi_c": "Diagram Lingkaran",
+      "opsi_d": "Diagram Venn",
+      "jawaban": "B",
+      "pembahasan": "Diagram garis sangat cocok untuk menyajikan data yang berkesinambungan/berkala, seperti suhu pasien per jam, kurs rupiah per hari, dsb."
+    },
+    {
+      "no": 9,
+      "tanya": "Perhatikan data hobi siswa: Sepak Bola (40%), Basket (25%), Renang (15%), dan sisanya Melukis. Jika total siswa ada 200 orang, berapa siswa yang hobi Melukis?",
+      "opsi_a": "20 orang",
+      "opsi_b": "30 orang",
+      "opsi_c": "40 orang",
+      "opsi_d": "50 orang",
+      "jawaban": "C",
+      "pembahasan": "Persentase Melukis = 100% - (40% + 25% + 15%) = 100% - 80% = 20%.\nJumlah siswa Melukis = 20% x 200 = (20/100) x 200 = 40 orang."
+    },
+    {
+      "no": 10,
+      "tanya": "Jika dalam diagram lingkaran, sudut pusat untuk data 'Petani' adalah 90 derajat, berapa persentase data tersebut?",
+      "opsi_a": "20%",
+      "opsi_b": "25%",
+      "opsi_c": "30%",
+      "opsi_d": "50%",
+      "jawaban": "B",
+      "pembahasan": "Persentase = (Sudut Pusat / 360) x 100% \nPersentase = (90/360) x 100% = (1/4) x 100% = 25%."
+    },
+    {
+      "no": 11,
+      "tanya": "Rata-rata (Mean) dari data: 6, 7, 8, 6, 9, 6 adalah...",
+      "opsi_a": "6,5",
+      "opsi_b": "7",
+      "opsi_c": "7,5",
+      "opsi_d": "8",
+      "jawaban": "B",
+      "pembahasan": "Rumus Mean = Jumlah Data / Banyak Data.\nJumlah Data = 6+7+8+6+9+6 = 42.\nBanyak Data = 6.\nMean = 42 / 6 = 7."
+    },
+    {
+      "no": 12,
+      "tanya": "Median dari data: 5, 6, 9, 6, 7, 8, 7, 9, 6 adalah...",
+      "opsi_a": "6",
+      "opsi_b": "7",
+      "opsi_c": "8",
+      "opsi_d": "9",
+      "jawaban": "B",
+      "pembahasan": "Urutkan data dari terkecil: 5, 6, 6, 6, 7, 7, 8, 9, 9.\nBanyak data (n) = 9 (ganjil). Median adalah data ke-(9+1)/2 = data ke-5.\nData ke-5 adalah 7."
+    },
+    {
+      "no": 13,
+      "tanya": "Dalam sebuah kelas terdapat 10 siswa laki-laki dan 15 siswa perempuan. Jika dibuat diagram lingkaran, berapa derajat sudut juring untuk siswa laki-laki?",
+      "opsi_a": "120 derajat",
+      "opsi_b": "144 derajat",
+      "opsi_c": "150 derajat",
+      "opsi_d": "160 derajat",
+      "jawaban": "B",
+      "pembahasan": "Total siswa = 10 + 15 = 25.\nSudut Laki-laki = (Jumlah Laki-laki / Total) x 360 derajat\nSudut = (10/25) x 360 = 0,4 x 360 = 144 derajat."
+    },
+    {
+      "no": 14,
+      "tanya": "Data nilai siswa: 6, 6, 7, 7, 7, 8, 8, 9, 10. Jika KKM adalah 7,5, berapa banyak siswa yang harus remedial?",
+      "opsi_a": "3 siswa",
+      "opsi_b": "4 siswa",
+      "opsi_c": "5 siswa",
+      "opsi_d": "6 siswa",
+      "jawaban": "C",
+      "pembahasan": "Siswa remedial adalah yang nilainya < 7,5.\nNilai tersebut adalah: 6, 6, 7, 7, 7.\nJadi ada 5 siswa."
+    },
+    {
+      "no": 15,
+      "tanya": "Rata-rata nilai ulangan 4 siswa adalah 75. Jika nilai Andi dimasukkan, rata-ratanya menjadi 76. Berapakah nilai Andi?",
+      "opsi_a": "76",
+      "opsi_b": "78",
+      "opsi_c": "80",
+      "opsi_d": "82",
+      "jawaban": "C",
+      "pembahasan": "Jumlah nilai 4 siswa = 4 x 75 = 300.\nJumlah nilai 5 siswa (termasuk Andi) = 5 x 76 = 380.\nNilai Andi = 380 - 300 = 80."
+    },
+    {
+      "no": 16,
+      "tanya": "Perhatikan tabel frekuensi berikut:\nNilai: 5, 6, 7, 8\nFrekuensi: 2, 4, 3, 1\nMedian dari data tersebut adalah...",
+      "opsi_a": "5,5",
+      "opsi_b": "6",
+      "opsi_c": "6,5",
+      "opsi_d": "7",
+      "jawaban": "B",
+      "pembahasan": "Total frekuensi = 2 + 4 + 3 + 1 = 10 (Genap).\nMedian = (Data ke-5 + Data ke-6) / 2.\nUrutan data: 5, 5, 6, 6, 6, 6, 7, 7, 7, 8.\nData ke-5 = 6, Data ke-6 = 6.\nMedian = (6+6)/2 = 6."
+    },
+    {
+      "no": 17,
+      "tanya": "Jangkauan (Range) dari data: 12, 15, 10, 20, 18, 25 adalah...",
+      "opsi_a": "10",
+      "opsi_b": "12",
+      "opsi_c": "15",
+      "opsi_d": "25",
+      "jawaban": "C",
+      "pembahasan": "Jangkauan = Nilai Terbesar - Nilai Terkecil.\nNilai Terbesar = 25.\nNilai Terkecil = 10.\nJangkauan = 25 - 10 = 15."
+    },
+    {
+      "no": 18,
+      "tanya": "Sebuah diagram batang menunjukkan produksi padi: 2018 (20 ton), 2019 (25 ton), 2020 (30 ton), 2021 (45 ton). Kenaikan produksi terbesar terjadi pada tahun...",
+      "opsi_a": "2018 ke 2019",
+      "opsi_b": "2019 ke 2020",
+      "opsi_c": "2020 ke 2021",
+      "opsi_d": "2021",
+      "jawaban": "C",
+      "pembahasan": "Kenaikan 2018-2019: 25-20 = 5 ton.\nKenaikan 2019-2020: 30-25 = 5 ton.\nKenaikan 2020-2021: 45-30 = 15 ton.\nKenaikan terbesar adalah pada tahun 2020 ke 2021."
+    },
+    {
+      "no": 19,
+      "tanya": "Jika rata-rata dari data 7, 5, 8, x, 7 adalah 7, maka nilai x adalah...",
+      "opsi_a": "6",
+      "opsi_b": "7",
+      "opsi_c": "8",
+      "opsi_d": "9",
+      "jawaban": "C",
+      "pembahasan": "Rata-rata = (7+5+8+x+7) / 5 = 7\n(27 + x) / 5 = 7\n27 + x = 35\nx = 35 - 27\nx = 8."
+    },
+    {
+      "no": 20,
+      "tanya": "Dalam diagram lingkaran, jika juring A siku-siku, maka persentase A adalah...",
+      "opsi_a": "20%",
+      "opsi_b": "25%",
+      "opsi_c": "50%",
+      "opsi_d": "90%",
+      "jawaban": "B",
+      "pembahasan": "Sudut siku-siku = 90 derajat.\nPersentase = (90/360) x 100% = 1/4 x 100% = 25%."
+    },
+    {
+      "no": 21,
+      "tanya": "Tanda yang digunakan dalam tabel distribusi frekuensi untuk menghitung jumlah data satu per satu disebut...",
+      "opsi_a": "Frekuensi",
+      "opsi_b": "Turus (Tally)",
+      "opsi_c": "Interval",
+      "opsi_d": "Datum",
+      "jawaban": "B",
+      "pembahasan": "Turus atau tally adalah tanda garis lurus yang digunakan untuk mencatat jumlah data saat melakukan penghitungan manual."
+    },
+    {
+      "no": 22,
+      "tanya": "Pada piktogram, satu gambar mobil mewakili 10 unit. Jika terdapat 4,5 gambar mobil, maka jumlah unit mobil sebenarnya adalah...",
+      "opsi_a": "40",
+      "opsi_b": "45",
+      "opsi_c": "50",
+      "opsi_d": "55",
+      "jawaban": "B",
+      "pembahasan": "Jumlah = 4,5 x 10 = 45 unit mobil."
+    },
+    {
+      "no": 23,
+      "tanya": "Data tinggi badan (cm): 140, 142, 140, 145, 142, 140, 145. Modus data tersebut adalah...",
+      "opsi_a": "140",
+      "opsi_b": "142",
+      "opsi_c": "145",
+      "opsi_d": "Tidak ada",
+      "jawaban": "A",
+      "pembahasan": "140 muncul 3 kali.\n142 muncul 2 kali.\n145 muncul 2 kali.\nModus adalah 140."
+    },
+    {
+      "no": 24,
+      "tanya": "Jumlah siswa kelas 7A adalah 30 orang. Jika 1/3 bagian menyukai Bakso dan sisanya menyukai Mie Ayam, berapa orang yang menyukai Mie Ayam?",
+      "opsi_a": "10 orang",
+      "opsi_b": "15 orang",
+      "opsi_c": "20 orang",
+      "opsi_d": "25 orang",
+      "jawaban": "C",
+      "pembahasan": "Suka Bakso = 1/3 x 30 = 10 orang.\nSuka Mie Ayam = Total - Suka Bakso = 30 - 10 = 20 orang."
+    },
+    {
+      "no": 25,
+      "tanya": "Dalam penyajian data, sumbu mendatar pada diagram batang biasanya menunjukkan...",
+      "opsi_a": "Frekuensi",
+      "opsi_b": "Kategori/Jenis Data",
+      "opsi_c": "Judul",
+      "opsi_d": "Persentase",
+      "jawaban": "B",
+      "pembahasan": "Pada diagram batang vertikal, sumbu mendatar (horizontal/X) biasanya menunjukkan kategori atau jenis data, sedangkan sumbu tegak (vertikal/Y) menunjukkan frekuensi atau jumlah."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan langkah-langkah membuat diagram batang dari data tabel frekuensi!",
+      "jawaban_lengkap": "Langkah-langkah membuat diagram batang:\n1. Buatlah sumbu mendatar (X) dan sumbu tegak (Y).\n2. Tuliskan kategori data pada sumbu mendatar dan skala frekuensi pada sumbu tegak.\n3. Buatlah batang berbentuk persegi panjang untuk setiap kategori dengan tinggi sesuai dengan frekuensinya.\n4. Pastikan lebar setiap batang sama dan jarak antar batang juga sama.\n5. Berilah judul pada diagram batang tersebut agar mudah dimengerti."
+    },
+    {
+      "no": 2,
+      "tanya": "Berikut adalah data nilai ulangan IPA siswa kelas 7: 6, 7, 8, 6, 9, 8, 7, 7, 10, 8. 
+
+[Image of raw data]
+. Buatlah Tabel Distribusi Frekuensinya!",
+      "jawaban_lengkap": "Data diurutkan: 6, 6, 7, 7, 7, 8, 8, 8, 9, 10.\nTabel Distribusi Frekuensi:\nNilai | Turus | Frekuensi\n---|---|---\n6 | || | 2\n7 | ||| | 3\n8 | ||| | 3\n9 | | | 1\n10 | | | 1\nTotal | | 10"
+    },
+    {
+      "no": 3,
+      "tanya": "Diagram lingkaran menunjukkan data pekerjaan orang tua siswa: PNS 90 derajat, Pegawai Swasta 120 derajat, TNI/Polri 60 derajat, dan sisanya Petani. Jika jumlah total orang tua adalah 120 orang, hitunglah jumlah orang tua yang bekerja sebagai Petani!",
+      "jawaban_lengkap": "1. Hitung sudut derajat untuk Petani:\nSudut Petani = 360 - (90 + 120 + 60) = 360 - 270 = 90 derajat.\n2. Hitung jumlah orang:\nJumlah Petani = (Sudut Petani / 360) x Total Orang\nJumlah Petani = (90 / 360) x 120\nJumlah Petani = (1/4) x 120 = 30 orang."
+    },
+    {
+      "no": 4,
+      "tanya": "Rata-rata nilai ulangan matematika dari 9 siswa adalah 70. Kemudian, nilai Budi digabungkan sehingga rata-ratanya menjadi 71. Berapakah nilai ulangan Budi?",
+      "jawaban_lengkap": "1. Total nilai 9 siswa = 9 x 70 = 630.\n2. Total nilai 10 siswa (9 siswa + Budi) = 10 x 71 = 710.\n3. Nilai Budi = Total nilai 10 siswa - Total nilai 9 siswa\n4. Nilai Budi = 710 - 630 = 80.\nJadi, nilai ulangan Budi adalah 80."
+    },
+    {
+      "no": 5,
+      "tanya": "Sebutkan kelebihan dan kekurangan penyajian data menggunakan Diagram Lingkaran!",
+      "jawaban_lengkap": "Kelebihan:\n- Menarik secara visual.\n- Mudah melihat perbandingan bagian terhadap keseluruhan (proporsi).\n- Hemat tempat.\n\nKekurangan:\n- Sulit mengetahui nilai frekuensi pasti jika tidak dicantumkan angkanya.\n- Kurang efektif untuk data dengan banyak kategori kecil.\n- Membutuhkan perhitungan derajat/persen untuk membuatnya."
+    },
+    {
+      "no": 6,
+      "tanya": "Perhatikan data berikut: 4, 5, 5, 6, 7, 7, 8, 8, 8, 9, 9. Tentukan Mean (Rata-rata), Median, dan Modusnya!",
+      "jawaban_lengkap": "1. Modus: Nilai yang paling sering muncul adalah 8 (muncul 3 kali).\n2. Median: Data sudah urut. Banyak data n = 11 (ganjil). Median = Data ke-(11+1)/2 = Data ke-6. Urutan ke-6 adalah 7.\n3. Mean: Jumlah semua data / Banyak data\nMean = (4+5+5+6+7+7+8+8+8+9+9) / 11\nMean = 76 / 11 = 6,9 (dibulatkan)."
+    },
+    {
+      "no": 7,
+      "tanya": "Diketahui data pengunjung perpustakaan selama 5 hari: Senin (40), Selasa (30), Rabu (50), Kamis (45), Jumat (35). Buatlah perhitungan untuk menentukan rata-rata pengunjung per hari!",
+      "jawaban_lengkap": "Rumus Rata-rata = Jumlah Pengunjung / Jumlah Hari\nJumlah Pengunjung = 40 + 30 + 50 + 45 + 35 = 200 orang.\nJumlah Hari = 5.\nRata-rata = 200 / 5 = 40 orang per hari."
+    },
+    {
+      "no": 8,
+      "tanya": "Sebuah diagram batang menunjukkan data tinggi badan siswa: 140 cm (5 siswa), 145 cm (8 siswa), 150 cm (10 siswa), 155 cm (7 siswa). Berapa persentase siswa yang memiliki tinggi badan di atas 145 cm?",
+      "jawaban_lengkap": "1. Total siswa = 5 + 8 + 10 + 7 = 30 siswa.\n2. Siswa dengan tinggi > 145 cm adalah tinggi 150 cm dan 155 cm.\n3. Jumlah siswa > 145 cm = 10 + 7 = 17 siswa.\n4. Persentase = (Jumlah > 145 cm / Total) x 100%\n5. Persentase = (17 / 30) x 100% = 56,67%."
+    },
+    {
+      "no": 9,
+      "tanya": "Jelaskan perbedaan antara Populasi dan Sampel dengan memberikan satu contoh konkret!",
+      "jawaban_lengkap": "Populasi adalah seluruh objek yang menjadi sasaran penelitian, sedangkan Sampel adalah sebagian dari populasi yang diambil untuk mewakili seluruh populasi.\n\nContoh:\nSeorang peneliti ingin meneliti kualitas beras di sebuah Gudang Bulog (Populasi). Peneliti tersebut mengambil satu cangkir beras dari setiap karung untuk diperiksa kualitasnya di laboratorium (Sampel)."
+    },
+    {
+      "no": 10,
+      "tanya": "Dalam sebuah piktogram, gambar 1 buku mewakili 50 eksemplar. Jika pada tahun 2020 terdapat 3 gambar buku penuh dan 1 gambar setengah buku, berapa jumlah buku pada tahun 2020?",
+      "jawaban_lengkap": "1. 1 gambar penuh = 50 buku.\n2. 1 gambar setengah = 50 / 2 = 25 buku.\n3. Jumlah buku = (3 x 50) + 25\n4. Jumlah buku = 150 + 25 = 175 buku."
+    }
+  ]
+}

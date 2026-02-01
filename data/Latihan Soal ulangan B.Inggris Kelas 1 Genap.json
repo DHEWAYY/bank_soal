@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Ulangan - 1 SD Semester Genap",
+    "mapel": "B.Inggris",
+    "jenjang": "SD",
+    "kelas": "1 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Look at the picture! (Gambar mata). \n This is my ...",
+      "opsi_a": "Nose",
+      "opsi_b": "Eye",
+      "opsi_c": "Ear",
+      "opsi_d": "Mouth",
+      "jawaban": "B",
+      "pembahasan": "Gambar tersebut adalah mata. Bahasa Inggris mata adalah 'Eye'."
+    },
+    {
+      "no": 2,
+      "tanya": "We have two ... for walking.",
+      "opsi_a": "Hands",
+      "opsi_b": "Ears",
+      "opsi_c": "Legs",
+      "opsi_d": "Noses",
+      "jawaban": "C",
+      "pembahasan": "Anggota tubuh yang digunakan untuk berjalan (walking) adalah kaki (legs)."
+    },
+    {
+      "no": 3,
+      "tanya": "The number after ten is ...",
+      "opsi_a": "Nine",
+      "opsi_b": "Eleven",
+      "opsi_c": "Twelve",
+      "opsi_d": "Eight",
+      "jawaban": "B",
+      "pembahasan": "Angka setelah 10 (ten) adalah 11. Bahasa Inggris 11 adalah 'Eleven'."
+    },
+    {
+      "no": 4,
+      "tanya": "What is 5 + 7 ?",
+      "opsi_a": "Twelve",
+      "opsi_b": "Thirteen",
+      "opsi_c": "Twenty",
+      "opsi_d": "Ten",
+      "jawaban": "A",
+      "pembahasan": "5 + 7 = 12. Bahasa Inggris 12 adalah 'Twelve'."
+    },
+    {
+      "no": 5,
+      "tanya": "Mother cooks in the ...",
+      "opsi_a": "Bathroom",
+      "opsi_b": "Bedroom",
+      "opsi_c": "Living room",
+      "opsi_d": "Kitchen",
+      "jawaban": "D",
+      "pembahasan": "Ibu memasak (cooks) di dapur. Bahasa Inggris dapur adalah 'Kitchen'."
+    },
+    {
+      "no": 6,
+      "tanya": "Where do you take a bath?",
+      "opsi_a": "Dining room",
+      "opsi_b": "Bathroom",
+      "opsi_c": "Garden",
+      "opsi_d": "Garage",
+      "jawaban": "B",
+      "pembahasan": "Tempat untuk mandi (take a bath) adalah kamar mandi (Bathroom)."
+    },
+    {
+      "no": 7,
+      "tanya": "It is a big animal. It has a long trunk. It is an ...",
+      "opsi_a": "Ant",
+      "opsi_b": "Elephant",
+      "opsi_c": "Cat",
+      "opsi_d": "Bird",
+      "jawaban": "B",
+      "pembahasan": "Hewan besar dengan belalai panjang (long trunk) adalah Gajah (Elephant)."
+    },
+    {
+      "no": 8,
+      "tanya": "A rabbit likes to eat ...",
+      "opsi_a": "Carrot",
+      "opsi_b": "Fish",
+      "opsi_c": "Meat",
+      "opsi_d": "Bone",
+      "jawaban": "A",
+      "pembahasan": "Makanan kesukaan kelinci (rabbit) adalah wortel (carrot)."
+    },
+    {
+      "no": 9,
+      "tanya": "The color of a banana is ...",
+      "opsi_a": "Red",
+      "opsi_b": "Yellow",
+      "opsi_c": "Blue",
+      "opsi_d": "Purple",
+      "jawaban": "B",
+      "pembahasan": "Warna pisang (banana) yang matang adalah kuning (Yellow)."
+    },
+    {
+      "no": 10,
+      "tanya": "My father reads a ... in the living room.",
+      "opsi_a": "Radio",
+      "opsi_b": "Television",
+      "opsi_c": "Newspaper",
+      "opsi_d": "Table",
+      "jawaban": "C",
+      "pembahasan": "Benda yang dibaca (reads) adalah koran (Newspaper)."
+    },
+    {
+      "no": 11,
+      "tanya": "Arrange the letters: H - O - S - U - E",
+      "opsi_a": "Horse",
+      "opsi_b": "House",
+      "opsi_c": "Hoseu",
+      "opsi_d": "Mouse",
+      "jawaban": "B",
+      "pembahasan": "Susunan huruf yang benar untuk membentuk kata 'Rumah' adalah House."
+    },
+    {
+      "no": 12,
+      "tanya": "Teacher: 'Good morning, students.' \n Students: '...'",
+      "opsi_a": "Good afternoon",
+      "opsi_b": "Good night",
+      "opsi_c": "Good evening",
+      "opsi_d": "Good morning",
+      "jawaban": "D",
+      "pembahasan": "Jawaban sapaan 'Good morning' adalah 'Good morning'."
+    },
+    {
+      "no": 13,
+      "tanya": "I wear ... on my feet.",
+      "opsi_a": "Hat",
+      "opsi_b": "Tie",
+      "opsi_c": "Shoes",
+      "opsi_d": "Shirt",
+      "jawaban": "C",
+      "pembahasan": "Benda yang dipakai di kaki (feet) adalah sepatu (shoes)."
+    },
+    {
+      "no": 14,
+      "tanya": "Eko: 'How are you?' \n Rio: 'I am ..., thank you.'",
+      "opsi_a": "Fine",
+      "opsi_b": "Sorry",
+      "opsi_c": "Name",
+      "opsi_d": "Bye",
+      "jawaban": "A",
+      "pembahasan": "Jawaban untuk menanyakan kabar adalah 'I am fine' (Saya baik-baik saja)."
+    },
+    {
+      "no": 15,
+      "tanya": "Is this a pencil?",
+      "opsi_a": "Yes, it is not",
+      "opsi_b": "No, it is",
+      "opsi_c": "Yes, it is",
+      "opsi_d": "No, it does",
+      "jawaban": "C",
+      "pembahasan": "Jika bendanya benar pensil, jawabannya adalah 'Yes, it is'."
+    },
+    {
+      "no": 16,
+      "tanya": "The shape of a ball is ...",
+      "opsi_a": "Square",
+      "opsi_b": "Triangle",
+      "opsi_c": "Circle",
+      "opsi_d": "Star",
+      "jawaban": "C",
+      "pembahasan": "Bentuk bola adalah bulat/lingkaran (Circle/Round)."
+    },
+    {
+      "no": 17,
+      "tanya": "We use an umbrella when it is ...",
+      "opsi_a": "Sunny",
+      "opsi_b": "Raining",
+      "opsi_c": "Night",
+      "opsi_d": "Morning",
+      "jawaban": "B",
+      "pembahasan": "Kita menggunakan payung (umbrella) saat hujan (Raining)."
+    },
+    {
+      "no": 18,
+      "tanya": "A cow produces ...",
+      "opsi_a": "Milk",
+      "opsi_b": "Egg",
+      "opsi_c": "Honey",
+      "opsi_d": "Wool",
+      "jawaban": "A",
+      "pembahasan": "Sapi (cow) menghasilkan susu (milk)."
+    },
+    {
+      "no": 19,
+      "tanya": "Seven, Eight, Nine, ...",
+      "opsi_a": "Six",
+      "opsi_b": "Ten",
+      "opsi_c": "Eleven",
+      "opsi_d": "Five",
+      "jawaban": "B",
+      "pembahasan": "Urutan angka: 7, 8, 9, 10. Bahasa Inggris 10 adalah Ten."
+    },
+    {
+      "no": 20,
+      "tanya": "Father, Mother, Brother, and Sister are my ...",
+      "opsi_a": "School",
+      "opsi_b": "Family",
+      "opsi_c": "Friends",
+      "opsi_d": "Class",
+      "jawaban": "B",
+      "pembahasan": "Ayah, Ibu, Kakak/Adik adalah bagian dari Keluarga (Family)."
+    },
+    {
+      "no": 21,
+      "tanya": "Which one is a vegetable?",
+      "opsi_a": "Apple",
+      "opsi_b": "Spinach",
+      "opsi_c": "Grape",
+      "opsi_d": "Mango",
+      "jawaban": "B",
+      "pembahasan": "Bayam (Spinach) adalah sayuran. Sisanya adalah buah."
+    },
+    {
+      "no": 22,
+      "tanya": "We taste food with our ...",
+      "opsi_a": "Tongue",
+      "opsi_b": "Nose",
+      "opsi_c": "Ear",
+      "opsi_d": "Hair",
+      "jawaban": "A",
+      "pembahasan": "Kita mengecap rasa makanan menggunakan lidah (Tongue)."
+    },
+    {
+      "no": 23,
+      "tanya": "Grandmother is my father's ...",
+      "opsi_a": "Sister",
+      "opsi_b": "Wife",
+      "opsi_c": "Mother",
+      "opsi_d": "Daughter",
+      "jawaban": "C",
+      "pembahasan": "Nenek (Grandmother) adalah ibu (Mother) dari ayah kita."
+    },
+    {
+      "no": 24,
+      "tanya": "There are ... days in a week.",
+      "opsi_a": "Six",
+      "opsi_b": "Seven",
+      "opsi_c": "Twelve",
+      "opsi_d": "Thirty",
+      "jawaban": "B",
+      "pembahasan": "Ada 7 hari dalam seminggu. Bahasa Inggris 7 adalah Seven."
+    },
+    {
+      "no": 25,
+      "tanya": "Translate to Indonesia: 'Open the door'.",
+      "opsi_a": "Tutup pintu",
+      "opsi_b": "Buka jendela",
+      "opsi_c": "Buka pintu",
+      "opsi_d": "Tutup jendela",
+      "jawaban": "C",
+      "pembahasan": "Open = Buka, Door = Pintu. Jadi 'Buka pintu'."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Mention 3 (three) fruits that have red color!",
+      "jawaban_lengkap": "Apple, Strawberry, Cherry, Watermelon. (Siswa cukup menyebutkan 3)."
+    },
+    {
+      "no": 2,
+      "tanya": "Arrange these words into a good sentence: \n like - I - chicken - fried",
+      "jawaban_lengkap": "I like fried chicken."
+    },
+    {
+      "no": 3,
+      "tanya": "Complete the missing letters: S - ... - H - O - ...",
+      "jawaban_lengkap": "SCHOOL (S - C - H - O - O - L)."
+    },
+    {
+      "no": 4,
+      "tanya": "Mention 3 (three) things in the bedroom!",
+      "jawaban_lengkap": "Bed, Pillow, Bolster, Blanket, Lamp. (Siswa cukup menyebutkan 3)."
+    },
+    {
+      "no": 5,
+      "tanya": "Translate into English: 'Saya punya dua kaki.'",
+      "jawaban_lengkap": "I have two legs."
+    },
+    {
+      "no": 6,
+      "tanya": "If today is Monday, tomorrow is ...",
+      "jawaban_lengkap": "Tuesday."
+    },
+    {
+      "no": 7,
+      "tanya": "Write the numbers in English: \n a. 15 \n b. 20",
+      "jawaban_lengkap": "a. Fifteen \n b. Twenty"
+    },
+    {
+      "no": 8,
+      "tanya": "What animal says 'Moo moo'?",
+      "jawaban_lengkap": "Cow."
+    },
+    {
+      "no": 9,
+      "tanya": "Mention 3 (three) parts of your face!",
+      "jawaban_lengkap": "Eyes, Nose, Mouth, Ears, Cheek, Chin. (Siswa cukup menyebutkan 3)."
+    },
+    {
+      "no": 10,
+      "tanya": "Look at the pattern: One, Two, One, Two, ... \n What is the next number?",
+      "jawaban_lengkap": "One."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Bilangan Cacah Besar s.d 10.000 - 4 SD Semester Ganjil",
+    "mapel": "MATEMATIKA",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Bilangan 'tujuh ribu tiga ratus lima' jika ditulis dalam lambang bilangan adalah...",
+      "opsi_a": "7.305",
+      "opsi_b": "7.350",
+      "opsi_c": "7.035",
+      "opsi_d": "7.530",
+      "jawaban": "A",
+      "pembahasan": "Tujuh ribu (7.000) + tiga ratus (300) + lima (5) = 7.305."
+    },
+    {
+      "no": 2,
+      "tanya": "Perhatikan bilangan 9.420. Angka 4 menempati nilai tempat...",
+      "opsi_a": "Ribuan",
+      "opsi_b": "Ratusan",
+      "opsi_c": "Puluhan",
+      "opsi_d": "Satuan",
+      "jawaban": "B",
+      "pembahasan": "Posisi dari belakang: 0 (satuan), 2 (puluhan), 4 (ratusan), 9 (ribuan)."
+    },
+    {
+      "no": 3,
+      "tanya": "Nilai angka 8 pada bilangan 8.125 adalah...",
+      "opsi_a": "8",
+      "opsi_b": "80",
+      "opsi_c": "800",
+      "opsi_d": "8.000",
+      "jawaban": "D",
+      "pembahasan": "Angka 8 berada di posisi ribuan, sehingga nilainya 8 x 1.000 = 8.000."
+    },
+    {
+      "no": 4,
+      "tanya": "Bentuk panjang dari bilangan 6.094 adalah...",
+      "opsi_a": "6.000 + 900 + 4",
+      "opsi_b": "6.000 + 90 + 4",
+      "opsi_c": "6.000 + 0 + 90 + 4",
+      "opsi_d": "600 + 90 + 4",
+      "jawaban": "C",
+      "pembahasan": "6 ribuan, 0 ratusan, 9 puluhan, 4 satuan. Jadi 6.000 + 0 + 90 + 4."
+    },
+    {
+      "no": 5,
+      "tanya": "Bilangan yang terletak di antara 8.998 dan 9.000 adalah...",
+      "opsi_a": "8.997",
+      "opsi_b": "8.999",
+      "opsi_c": "9.001",
+      "opsi_d": "9.002",
+      "jawaban": "B",
+      "pembahasan": "Urutan bilangan: 8.998, 8.999, 9.000."
+    },
+    {
+      "no": 6,
+      "tanya": "Tanda perbandingan yang tepat untuk 5.432 ... 5.423 adalah...",
+      "opsi_a": ">",
+      "opsi_b": "<",
+      "opsi_c": "=",
+      "opsi_d": "+",
+      "jawaban": "A",
+      "pembahasan": "Perhatikan angka puluhan. 3 (30) lebih besar dari 2 (20). Maka 5.432 > 5.423."
+    },
+    {
+      "no": 7,
+      "tanya": "Urutan bilangan berikut dari yang terkecil adalah: 3.250, 3.050, 3.500, 3.150.",
+      "opsi_a": "3.500, 3.250, 3.150, 3.050",
+      "opsi_b": "3.050, 3.150, 3.250, 3.500",
+      "opsi_c": "3.050, 3.250, 3.150, 3.500",
+      "opsi_d": "3.500, 3.150, 3.250, 3.050",
+      "jawaban": "B",
+      "pembahasan": "Urutan dari nilai terkecil: 3.050, lalu 3.150, lalu 3.250, terakhir 3.500."
+    },
+    {
+      "no": 8,
+      "tanya": "Hasil penjumlahan 4.500 + 2.350 adalah...",
+      "opsi_a": "6.800",
+      "opsi_b": "6.850",
+      "opsi_c": "6.950",
+      "opsi_d": "7.850",
+      "jawaban": "B",
+      "pembahasan": "4.500 + 2.350. (4+2)ribuan, (5+3)ratusan, (0+5)puluhan, (0+0)satuan = 6.850."
+    },
+    {
+      "no": 9,
+      "tanya": "Selisih antara 8.750 dan 3.200 adalah...",
+      "opsi_a": "5.450",
+      "opsi_b": "5.550",
+      "opsi_c": "5.500",
+      "opsi_d": "4.550",
+      "jawaban": "B",
+      "pembahasan": "Selisih berarti pengurangan. 8.750 - 3.200 = 5.550."
+    },
+    {
+      "no": 10,
+      "tanya": "Pak Budi memanen 2.150 kg jagung pada bulan Januari dan 3.425 kg pada bulan Februari. Total panen Pak Budi adalah...",
+      "opsi_a": "5.575 kg",
+      "opsi_b": "5.475 kg",
+      "opsi_c": "5.675 kg",
+      "opsi_d": "6.575 kg",
+      "jawaban": "A",
+      "pembahasan": "Total = 2.150 + 3.425 = 5.575 kg."
+    },
+    {
+      "no": 11,
+      "tanya": "Bilangan kelipatan 1.000 sebelum 10.000 adalah...",
+      "opsi_a": "8.000",
+      "opsi_b": "9.000",
+      "opsi_c": "9.500",
+      "opsi_d": "9.900",
+      "jawaban": "B",
+      "pembahasan": "Urutan ribuan: 7.000, 8.000, 9.000, 10.000. Tepat sebelum 10.000 adalah 9.000."
+    },
+    {
+      "no": 12,
+      "tanya": "Jumlah nilai angka 5 dan angka 2 pada bilangan 5.420 adalah...",
+      "opsi_a": "7",
+      "opsi_b": "5.020",
+      "opsi_c": "5.200",
+      "opsi_d": "520",
+      "jawaban": "B",
+      "pembahasan": "Nilai angka 5 = 5.000. Nilai angka 2 = 20. Jumlah = 5.000 + 20 = 5.020."
+    },
+    {
+      "no": 13,
+      "tanya": "10 lembar uang seribuan nilainya sama dengan...",
+      "opsi_a": "1 lembar lima ribuan",
+      "opsi_b": "1 lembar sepuluh ribuan",
+      "opsi_c": "2 lembar sepuluh ribuan",
+      "opsi_d": "5 lembar dua ribuan",
+      "jawaban": "B",
+      "pembahasan": "10 x 1.000 = 10.000. Sama dengan 1 lembar uang sepuluh ribuan."
+    },
+    {
+      "no": 14,
+      "tanya": "Bilangan 7.456 jika dibulatkan ke ratusan terdekat menjadi...",
+      "opsi_a": "7.400",
+      "opsi_b": "7.500",
+      "opsi_c": "7.000",
+      "opsi_d": "7.450",
+      "jawaban": "B",
+      "pembahasan": "Lihat angka puluhan (5). Karena 5 atau lebih, maka pembulatan naik. 400 menjadi 500. Jadi 7.500."
+    },
+    {
+      "no": 15,
+      "tanya": "Hasil dari 9.000 - 1.250 adalah...",
+      "opsi_a": "7.750",
+      "opsi_b": "7.250",
+      "opsi_c": "8.750",
+      "opsi_d": "8.250",
+      "jawaban": "A",
+      "pembahasan": "9.000 - 1.250. 0-0=0, 10-5=5, 9-2=7, 8-1=7. Hasil 7.750."
+    },
+    {
+      "no": 16,
+      "tanya": "Ibu membeli belanjaan seharga Rp6.500. Ibu membayar dengan uang Rp10.000. Kembalian yang diterima Ibu adalah...",
+      "opsi_a": "Rp4.500",
+      "opsi_b": "Rp3.500",
+      "opsi_c": "Rp2.500",
+      "opsi_d": "Rp3.000",
+      "jawaban": "B",
+      "pembahasan": "10.000 - 6.500 = 3.500."
+    },
+    {
+      "no": 17,
+      "tanya": "Manakah pernyataan yang SALAH?",
+      "opsi_a": "4.000 + 500 = 4.500",
+      "opsi_b": "7.200 > 7.199",
+      "opsi_c": "5 ribuan sama dengan 50 ratusan",
+      "opsi_d": "6.000 kurang dari 5.900",
+      "jawaban": "D",
+      "pembahasan": "Pernyataan D salah karena 6.000 seharusnya LEBIH DARI 5.900."
+    },
+    {
+      "no": 18,
+      "tanya": "Pola bilangan: 1.200, 1.400, 1.600, ..., 2.000. Bilangan yang tepat untuk mengisi titik-titik adalah...",
+      "opsi_a": "1.700",
+      "opsi_b": "1.800",
+      "opsi_c": "1.900",
+      "opsi_d": "1.650",
+      "jawaban": "B",
+      "pembahasan": "Pola bertambah 200. 1.600 + 200 = 1.800."
+    },
+    {
+      "no": 19,
+      "tanya": "Sebuah perpustakaan memiliki 2.450 buku fiksi dan 1.300 buku non-fiksi. Kemudian perpustakaan mendapat sumbangan 150 buku lagi. Total buku sekarang adalah...",
+      "opsi_a": "3.800",
+      "opsi_b": "3.900",
+      "opsi_c": "4.000",
+      "opsi_d": "3.750",
+      "jawaban": "B",
+      "pembahasan": "(2.450 + 1.300) + 150 = 3.750 + 150 = 3.900."
+    },
+    {
+      "no": 20,
+      "tanya": "Bilangan ganjil terbesar yang dapat disusun dari angka 2, 5, 8, 3 adalah...",
+      "opsi_a": "8.523",
+      "opsi_b": "8.532",
+      "opsi_c": "8.325",
+      "opsi_d": "8.253",
+      "jawaban": "A",
+      "pembahasan": "Agar terbesar, susun dari angka besar di depan: 8, 5... Sisa 2 dan 3. Agar ganjil, angka terakhir harus ganjil (3 atau 5). Karena 5 sudah dipakai di ratusan, cek kombinasi. Terbesar mungkin: 8.523 (Ganjil). Cek 8.532 (Genap). Jadi 8.523."
+    },
+    {
+      "no": 21,
+      "tanya": "Jika A = 2.500 dan B = 1.500, maka nilai A + B - 1.000 adalah...",
+      "opsi_a": "2.000",
+      "opsi_b": "3.000",
+      "opsi_c": "4.000",
+      "opsi_d": "5.000",
+      "jawaban": "B",
+      "pembahasan": "2.500 + 1.500 = 4.000. Lalu 4.000 - 1.000 = 3.000."
+    },
+    {
+      "no": 22,
+      "tanya": "Selisih nilai angka 7 pada bilangan 7.700 adalah...",
+      "opsi_a": "0",
+      "opsi_b": "6.300",
+      "opsi_c": "7.000",
+      "opsi_d": "700",
+      "jawaban": "B",
+      "pembahasan": "Nilai 7 pertama (ribuan) = 7.000. Nilai 7 kedua (ratusan) = 700. Selisih = 7.000 - 700 = 6.300."
+    },
+    {
+      "no": 23,
+      "tanya": "Budi menabung Rp2.000 setiap hari. Setelah 5 hari, jumlah tabungan Budi adalah...",
+      "opsi_a": "Rp8.000",
+      "opsi_b": "Rp9.000",
+      "opsi_c": "Rp10.000",
+      "opsi_d": "Rp12.000",
+      "jawaban": "C",
+      "pembahasan": "5 x 2.000 = 10.000."
+    },
+    {
+      "no": 24,
+      "tanya": "Bilangan cacah yang tepat untuk mengisi kotak: [ ] - 2.500 = 4.000 adalah...",
+      "opsi_a": "6.000",
+      "opsi_b": "6.500",
+      "opsi_c": "1.500",
+      "opsi_d": "2.500",
+      "jawaban": "B",
+      "pembahasan": "Operasi kebalikan pengurangan adalah penjumlahan. 4.000 + 2.500 = 6.500."
+    },
+    {
+      "no": 25,
+      "tanya": "Sekolah A memiliki 1.254 siswa. Sekolah B memiliki 1.245 siswa. Sekolah C memiliki 1.524 siswa. Urutan sekolah dari jumlah siswa paling sedikit adalah...",
+      "opsi_a": "A, B, C",
+      "opsi_b": "B, A, C",
+      "opsi_c": "C, A, B",
+      "opsi_d": "B, C, A",
+      "jawaban": "B",
+      "pembahasan": "B (1.245) < A (1.254) < C (1.524). Urutan: B, A, C."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Susunlah 4 angka berikut: 3, 0, 8, 5 menjadi bilangan ribuan terkecil dan terbesar!",
+      "jawaban_lengkap": "Terbesar: Susun dari angka paling besar ke kecil = 8.530. Terkecil: Angka 0 tidak boleh di depan untuk ribuan, jadi ambil angka terkecil kedua (3) di depan, lalu 0, lalu sisanya urut kecil ke besar = 3.058."
+    },
+    {
+      "no": 2,
+      "tanya": "Sebuah truk mengangkut 4.500 batu bata. Di perjalanan, truk menurunkan 1.250 batu bata di toko A dan 1.100 batu bata di toko B. Berapa sisa batu bata di dalam truk?",
+      "jawaban_lengkap": "Total awal = 4.500. Diturunkan total = 1.250 + 1.100 = 2.350. Sisa = 4.500 - 2.350 = 2.150 batu bata."
+    },
+    {
+      "no": 3,
+      "tanya": "Uraikan bilangan 9.075 berdasarkan nilai tempatnya!",
+      "jawaban_lengkap": "9.075 = 9 ribuan + 0 ratusan + 7 puluhan + 5 satuan. Atau ditulis: 9.000 + 0 + 70 + 5."
+    },
+    {
+      "no": 4,
+      "tanya": "Ayah ingin membeli sepatu seharga Rp9.500 (dalam ribuan maksudnya Rp95.000, tapi sesuai konteks soal bilangan cacah < 10.000, anggap ini unit poin). Ayah punya poin 6.250. Paman memberi tambahan poin 2.500. Apakah poin Ayah cukup? Jelaskan!",
+      "jawaban_lengkap": "Total poin Ayah = 6.250 + 2.500 = 8.750. Harga sepatu = 9.500. Karena 8.750 < 9.500, maka poin Ayah BELUM cukup. Kurangnya adalah 9.500 - 8.750 = 750 poin."
+    },
+    {
+      "no": 5,
+      "tanya": "Tentukan hasil dari (3.000 + 400) + (5.000 - 200) dengan cara susun!",
+      "jawaban_lengkap": "Langkah 1: 3.000 + 400 = 3.400. Langkah 2: 5.000 - 200 = 4.800. Langkah 3: 3.400 + 4.800 = 8.200."
+    },
+    {
+      "no": 6,
+      "tanya": "Aku adalah sebuah bilangan 4 angka. Angka ribuanku adalah 7. Angka satuanku adalah bilangan genap terkecil (selain 0). Angka ratusanku adalah setengah dari angka ribuanku (dibulatkan ke bawah, misal 3). Angka puluhanku adalah 0. Bilangan berapakah aku?",
+      "jawaban_lengkap": "Ribuan = 7. Satuan = 2 (genap terkecil selain 0). Ratusan = setengah dari 7 (3,5) dibulatkan ke bawah = 3. Puluhan = 0. Maka bilangan itu adalah 7.302."
+    },
+    {
+      "no": 7,
+      "tanya": "Desa A penduduknya 3.456 orang. Desa B penduduknya 3.465 orang. Desa C penduduknya 3.546 orang. Urutkan desa dari yang paling padat (penduduk terbanyak) dan hitung selisih penduduk terbanyak dengan tersedikit!",
+      "jawaban_lengkap": "Urutan dari terbanyak: C (3.546) > B (3.465) > A (3.456). Desa C, Desa B, Desa A. Selisih terbanyak (C) dan tersedikit (A) = 3.546 - 3.456 = 90 orang."
+    },
+    {
+      "no": 8,
+      "tanya": "Bulatkan bilangan 2.875 dan 3.210 ke ribuan terdekat, lalu jumlahkan hasil pembulatannya!",
+      "jawaban_lengkap": "2.875 dibulatkan ke ribuan terdekat menjadi 3.000 (karena 800 >= 500). 3.210 dibulatkan ke ribuan terdekat menjadi 3.000 (karena 200 < 500). Jumlah = 3.000 + 3.000 = 6.000."
+    },
+    {
+      "no": 9,
+      "tanya": "Jelaskan mengapa nilai angka 5 pada 5.000 lebih besar daripada nilai angka 5 pada 500!",
+      "jawaban_lengkap": "Pada 5.000, angka 5 menempati tempat ribuan sehingga nilainya 5 x 1.000 = 5.000. Pada 500, angka 5 menempati tempat ratusan sehingga nilainya 5 x 100 = 500. Karena 5.000 > 500, maka nilai angka 5 pada ribuan lebih besar."
+    },
+    {
+      "no": 10,
+      "tanya": "Buatlah dua kemungkinan penjumlahan dua bilangan yang hasilnya 8.000!",
+      "jawaban_lengkap": "Kemungkinan 1: 4.000 + 4.000 = 8.000. Kemungkinan 2: 3.500 + 4.500 = 8.000. (Jawaban siswa bisa bervariasi asalkan hasil penjumlahannya benar 8.000)."
+    }
+  ]
+}

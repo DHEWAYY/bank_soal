@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Listrik Dinamis - 9 SMP Semester Genap",
+    "mapel": "IPA",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Aliran muatan listrik yang mengalir dari potensial tinggi ke potensial rendah disebut...",
+      "opsi_a": "Arus elektron",
+      "opsi_b": "Arus listrik",
+      "opsi_c": "Tegangan listrik",
+      "opsi_d": "Hambatan listrik",
+      "jawaban": "B",
+      "pembahasan": "Arus listrik didefinisikan sebagai aliran muatan positif dari potensial tinggi ke potensial rendah. Kebalikannya adalah arus elektron yang mengalir dari potensial rendah ke tinggi."
+    },
+    {
+      "no": 2,
+      "tanya": "Muatan listrik sebesar 600 Coulomb mengalir selama 1 menit pada seutas kawat penghantar. Besarnya kuat arus yang mengalir adalah...",
+      "opsi_a": "10 A",
+      "opsi_b": "20 A",
+      "opsi_c": "30 A",
+      "opsi_d": "60 A",
+      "jawaban": "A",
+      "pembahasan": "Diketahui: Q = 600 C, t = 1 menit = 60 detik. Rumus: I = Q / t. Perhitungan: I = 600 / 60 = 10 A."
+    },
+    {
+      "no": 3,
+      "tanya": "Alat yang digunakan untuk mengukur kuat arus listrik dan cara pemasangannya dalam rangkaian adalah...",
+      "opsi_a": "Voltmeter, dipasang seri",
+      "opsi_b": "Voltmeter, dipasang paralel",
+      "opsi_c": "Amperemeter, dipasang seri",
+      "opsi_d": "Amperemeter, dipasang paralel",
+      "jawaban": "C",
+      "pembahasan": "Alat ukur kuat arus adalah Amperemeter. Agar arus yang diukur melewati alat tersebut, maka harus dipasang secara SERI dengan beban."
+    },
+    {
+      "no": 4,
+      "tanya": "Perhatikan faktor-faktor berikut: (1) Panjang kawat, (2) Luas penampang kawat, (3) Jenis bahan kawat, (4) Warna kawat. Faktor yang mempengaruhi besar hambatan suatu penghantar ditunjukkan oleh nomor...",
+      "opsi_a": "(1) dan (2)",
+      "opsi_b": "(1), (2), dan (3)",
+      "opsi_c": "(2) dan (4)",
+      "opsi_d": "(3) dan (4)",
+      "jawaban": "B",
+      "pembahasan": "Rumus hambatan kawat: R = ρ . (L / A). Jadi faktornya adalah hambat jenis (jenis bahan), panjang kawat (L), dan luas penampang (A). Warna tidak berpengaruh."
+    },
+    {
+      "no": 5,
+      "tanya": "Jika sebuah lampu dihubungkan dengan tegangan 12 Volt mengalirkan arus sebesar 0,5 Ampere, maka hambatan lampu tersebut adalah...",
+      "opsi_a": "6 Ohm",
+      "opsi_b": "12 Ohm",
+      "opsi_c": "24 Ohm",
+      "opsi_d": "48 Ohm",
+      "jawaban": "C",
+      "pembahasan": "Diketahui: V = 12 V, I = 0,5 A. Rumus Hukum Ohm: V = I . R atau R = V / I. Perhitungan: R = 12 / 0,5 = 24 Ohm."
+    },
+    {
+      "no": 6,
+      "tanya": "Tiga buah hambatan masing-masing 2 Ohm, 3 Ohm, dan 6 Ohm disusun secara paralel. Hambatan pengganti rangkaian tersebut adalah...",
+      "opsi_a": "1 Ohm",
+      "opsi_b": "2 Ohm",
+      "opsi_c": "3 Ohm",
+      "opsi_d": "11 Ohm",
+      "jawaban": "A",
+      "pembahasan": "Rumus paralel: 1/Rp = 1/R1 + 1/R2 + 1/R3. 1/Rp = 1/2 + 1/3 + 1/6. Samakan penyebut jadi 6: 1/Rp = 3/6 + 2/6 + 1/6 = 6/6. Rp = 1 Ohm."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebuah rangkaian listrik tertutup memiliki baterai 12 V dengan hambatan dalam 1 Ohm. Jika dihubungkan dengan hambatan luar 5 Ohm, maka kuat arus yang mengalir adalah...",
+      "opsi_a": "1 A",
+      "opsi_b": "2 A",
+      "opsi_c": "3 A",
+      "opsi_d": "4 A",
+      "jawaban": "B",
+      "pembahasan": "Diketahui: E = 12 V, r = 1 Ohm, R = 5 Ohm. Rumus: I = E / (R + r). Perhitungan: I = 12 / (5 + 1) = 12 / 6 = 2 A."
+    },
+    {
+      "no": 8,
+      "tanya": "Menurut Hukum Kirchhoff I, jika arus yang masuk ke titik percabangan adalah I1=5A dan I2=3A, sedangkan arus yang keluar adalah I3=4A dan I4, maka besar I4 adalah...",
+      "opsi_a": "2 A",
+      "opsi_b": "4 A",
+      "opsi_c": "8 A",
+      "opsi_d": "12 A",
+      "jawaban": "B",
+      "pembahasan": "Hukum Kirchhoff I: Sigma I_masuk = Sigma I_keluar. I1 + I2 = I3 + I4. 5 + 3 = 4 + I4. 8 = 4 + I4. I4 = 8 - 4 = 4 A."
+    },
+    {
+      "no": 9,
+      "tanya": "Upaya yang dapat dilakukan untuk memperbesar arus listrik pada suatu rangkaian adalah...",
+      "opsi_a": "Memperbesar hambatan dan memperkecil tegangan",
+      "opsi_b": "Memperkecil hambatan dan memperbesar tegangan",
+      "opsi_c": "Memperkecil tegangan saja",
+      "opsi_d": "Memperbesar hambatan saja",
+      "jawaban": "B",
+      "pembahasan": "Berdasarkan I = V / R, arus (I) berbanding lurus dengan tegangan (V) dan berbanding terbalik dengan hambatan (R). Jadi V harus diperbesar dan R diperkecil."
+    },
+    {
+      "no": 10,
+      "tanya": "Sebuah setrika listrik dipasang pada tegangan 220 Volt dan kuat arus 2 Ampere. Energi yang diperlukan selama 30 menit adalah...",
+      "opsi_a": "13.200 Joule",
+      "opsi_b": "132.000 Joule",
+      "opsi_c": "792.000 Joule",
+      "opsi_d": "7.920.000 Joule",
+      "jawaban": "C",
+      "pembahasan": "Diketahui: V=220 V, I=2 A, t=30 menit = 1800 detik. Rumus: W = V . I . t. Perhitungan: W = 220 x 2 x 1800 = 440 x 1800 = 792.000 Joule."
+    },
+    {
+      "no": 11,
+      "tanya": "Lampu pijar bertuliskan 60 Watt / 220 Volt. Jika lampu tersebut dipasang pada tegangan 110 Volt, maka daya lampu menjadi...",
+      "opsi_a": "15 Watt",
+      "opsi_b": "30 Watt",
+      "opsi_c": "60 Watt",
+      "opsi_d": "120 Watt",
+      "jawaban": "A",
+      "pembahasan": "Daya sebanding dengan kuadrat tegangan: P2/P1 = (V2/V1)^2. P2 = P1 x (V2/V1)^2. P2 = 60 x (110/220)^2 = 60 x (1/2)^2 = 60 x 1/4 = 15 Watt."
+    },
+    {
+      "no": 12,
+      "tanya": "Manakah pernyataan yang benar mengenai rangkaian seri?",
+      "opsi_a": "Tegangan di setiap hambatan sama",
+      "opsi_b": "Kuat arus di setiap hambatan sama",
+      "opsi_c": "Jika satu lampu mati, lampu lain tetap menyala",
+      "opsi_d": "Hambatan pengganti lebih kecil dari hambatan terkecil",
+      "jawaban": "B",
+      "pembahasan": "Sifat rangkaian seri: Kuat arus yang mengalir di setiap komponen sama besar (I total = I1 = I2), sedangkan tegangan terbagi."
+    },
+    {
+      "no": 13,
+      "tanya": "Bahan yang tidak dapat menghantarkan arus listrik disebut...",
+      "opsi_a": "Konduktor",
+      "opsi_b": "Isolator",
+      "opsi_c": "Semikonduktor",
+      "opsi_d": "Superkonduktor",
+      "jawaban": "B",
+      "pembahasan": "Isolator adalah bahan yang elektron-elektronnya terikat kuat pada inti atom sehingga sulit mengalirkan arus listrik (contoh: karet, plastik)."
+    },
+    {
+      "no": 14,
+      "tanya": "Dalam sebuah rumah terdapat 4 lampu 20 Watt menyala 10 jam/hari, dan TV 60 Watt menyala 5 jam/hari. Jika tarif listrik Rp1.000,00 per kWh, biaya listrik selama 30 hari adalah...",
+      "opsi_a": "Rp33.000,00",
+      "opsi_b": "Rp36.000,00",
+      "opsi_c": "Rp45.000,00",
+      "opsi_d": "Rp60.000,00",
+      "jawaban": "A",
+      "pembahasan": "Energi per hari: Lampu (4x20x10=800 Wh) + TV (60x5=300 Wh) = 1100 Wh = 1,1 kWh. Biaya 1 bulan = 1,1 kWh x 30 hari x Rp1.000 = Rp33.000,00."
+    },
+    {
+      "no": 15,
+      "tanya": "Fungsi sekering pada rangkaian listrik rumah tangga adalah...",
+      "opsi_a": "Menaikkan tegangan listrik",
+      "opsi_b": "Mengukur pemakaian energi listrik",
+      "opsi_c": "Memutus arus jika terjadi korsleting",
+      "opsi_d": "Menyalakan dan mematikan lampu",
+      "jawaban": "C",
+      "pembahasan": "Sekering berfungsi sebagai pengaman yang akan putus (meleleh) jika arus yang mengalir melebihi batas maksimum, misalnya saat terjadi hubungan pendek (korsleting)."
+    },
+    {
+      "no": 16,
+      "tanya": "Sebuah kawat penghantar memiliki hambatan R. Jika panjang kawat dipotong menjadi setengahnya, maka hambatannya menjadi...",
+      "opsi_a": "2 R",
+      "opsi_b": "R",
+      "opsi_c": "1/2 R",
+      "opsi_d": "1/4 R",
+      "jawaban": "C",
+      "pembahasan": "R sebanding dengan L (panjang). Jika L menjadi 1/2 kali semula, maka R juga menjadi 1/2 kali semula."
+    },
+    {
+      "no": 17,
+      "tanya": "Hambatan jenis suatu penghantar dipengaruhi oleh...",
+      "opsi_a": "Panjang dan luas penampang",
+      "opsi_b": "Suhu dan jenis bahan",
+      "opsi_c": "Tegangan dan arus",
+      "opsi_d": "Bentuk penghantar",
+      "jawaban": "B",
+      "pembahasan": "Hambatan jenis (rho) adalah karakteristik intrinsik bahan yang bergantung pada jenis bahan dan suhunya."
+    },
+    {
+      "no": 18,
+      "tanya": "Jika dua buah baterai identik 1,5 V dipasang secara seri, maka tegangan totalnya adalah...",
+      "opsi_a": "1,5 V",
+      "opsi_b": "3,0 V",
+      "opsi_c": "0,75 V",
+      "opsi_d": "2,25 V",
+      "jawaban": "B",
+      "pembahasan": "Pada rangkaian seri sumber tegangan, tegangan total dijumlahkan. Vtotal = 1,5 V + 1,5 V = 3,0 V."
+    },
+    {
+      "no": 19,
+      "tanya": "Pemasangan lampu di rumah-rumah umumnya menggunakan rangkaian paralel. Alasannya adalah...",
+      "opsi_a": "Menghemat kabel",
+      "opsi_b": "Nyala lampu lebih redup",
+      "opsi_c": "Jika satu lampu mati, yang lain tetap menyala",
+      "opsi_d": "Arus yang mengalir lebih kecil",
+      "jawaban": "C",
+      "pembahasan": "Keuntungan utama rangkaian paralel untuk instalasi rumah adalah independensi tiap beban. Mematikan satu lampu tidak memutus arus ke lampu lain."
+    },
+    {
+      "no": 20,
+      "tanya": "Benda yang dapat mengubah energi listrik menjadi energi gerak adalah...",
+      "opsi_a": "Solder",
+      "opsi_b": "Kipas angin",
+      "opsi_c": "Lampu neon",
+      "opsi_d": "Aki",
+      "jawaban": "B",
+      "pembahasan": "Kipas angin menggunakan motor listrik untuk mengubah energi listrik menjadi energi mekanik (gerak)."
+    },
+    {
+      "no": 21,
+      "tanya": "Satuan dari daya listrik dalam Sistem Internasional (SI) adalah...",
+      "opsi_a": "Joule",
+      "opsi_b": "Coulomb",
+      "opsi_c": "Watt",
+      "opsi_d": "Volt",
+      "jawaban": "C",
+      "pembahasan": "Joule (Energi), Coulomb (Muatan), Volt (Tegangan), Watt (Daya)."
+    },
+    {
+      "no": 22,
+      "tanya": "Dua hambatan 4 Ohm dan 12 Ohm disusun paralel dan dihubungkan dengan tegangan 24 Volt. Kuat arus total yang mengalir adalah...",
+      "opsi_a": "2 A",
+      "opsi_b": "4 A",
+      "opsi_c": "6 A",
+      "opsi_d": "8 A",
+      "jawaban": "D",
+      "pembahasan": "Cari Rp dulu: 1/Rp = 1/4 + 1/12 = 3/12 + 1/12 = 4/12. Rp = 12/4 = 3 Ohm. Cari I: I = V/Rp = 24/3 = 8 A."
+    },
+    {
+      "no": 23,
+      "tanya": "Peristiwa pergerakan muatan listrik akibat adanya beda potensial disebut...",
+      "opsi_a": "Gaya gerak listrik",
+      "opsi_b": "Listrik statis",
+      "opsi_c": "Listrik dinamis",
+      "opsi_d": "Induksi elektromagnetik",
+      "jawaban": "C",
+      "pembahasan": "Listrik dinamis adalah listrik yang bergerak atau mengalir dalam suatu rangkaian tertutup."
+    },
+    {
+      "no": 24,
+      "tanya": "Rumus energi listrik (W) yang melibatkan tegangan (V), hambatan (R), dan waktu (t) adalah...",
+      "opsi_a": "W = I . R . t",
+      "opsi_b": "W = (V^2 / R) . t",
+      "opsi_c": "W = V . I^2 . t",
+      "opsi_d": "W = V . R . t",
+      "jawaban": "B",
+      "pembahasan": "Rumus dasar W = V.I.t. Substitusi I = V/R, maka W = V.(V/R).t = (V^2/R).t."
+    },
+    {
+      "no": 25,
+      "tanya": "Jika kita menyentuh kabel terkelupas yang dialiri arus listrik, kita bisa tersengat. Hal ini karena tubuh manusia bersifat...",
+      "opsi_a": "Isolator",
+      "opsi_b": "Konduktor",
+      "opsi_c": "Semikonduktor",
+      "opsi_d": "Isolator sempurna",
+      "jawaban": "B",
+      "pembahasan": "Tubuh manusia mengandung banyak air dan ion, sehingga bersifat konduktor yang dapat mengalirkan arus listrik."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan perbedaan antara arus listrik dan arus elektron dalam suatu rangkaian tertutup!",
+      "jawaban_lengkap": "Arus listrik didefinisikan sebagai aliran muatan positif dari kutub positif (potensial tinggi) ke kutub negatif (potensial rendah). Sedangkan arus elektron adalah aliran muatan negatif (elektron) yang sebenarnya bergerak dari kutub negatif (potensial rendah) ke kutub positif (potensial tinggi). Jadi, arah keduanya berlawanan."
+    },
+    {
+      "no": 2,
+      "tanya": "Sebuah kawat penghantar memiliki panjang 100 meter dan luas penampang 2,5 mm². Jika hambatan jenis kawat tersebut adalah 1,7 x 10^-8 Ohm.meter, hitunglah besar hambatan kawat tersebut!",
+      "jawaban_lengkap": "Diketahui:\nL = 100 m\nA = 2,5 mm² = 2,5 x 10^-6 m²\nρ = 1,7 x 10^-8 Ω.m\nRumus: R = ρ . (L / A)\nPerhitungan:\nR = (1,7 x 10^-8) . (100 / 2,5 x 10^-6)\nR = (1,7 x 10^-8) . (40 x 10^6)\nR = 68 x 10^-2\nR = 0,68 Ohm."
+    },
+    {
+      "no": 3,
+      "tanya": "Tiga buah hambatan masing-masing 2 Ω, 3 Ω, dan 4 Ω. Gambarkan bagaimana menyusun ketiga hambatan tersebut agar menghasilkan hambatan pengganti yang paling kecil, dan hitunglah nilainya!",
+      "jawaban_lengkap": "Agar hambatan pengganti paling kecil, hambatan harus disusun secara PARALEL.\n
+
+[Image of parallel circuit with 3 resistors]
+\nPerhitungan:\n1/Rp = 1/2 + 1/3 + 1/4\nSamakan penyebut (12):\n1/Rp = 6/12 + 4/12 + 3/12\n1/Rp = 13/12\nRp = 12/13 = 0,92 Ohm."
+    },
+    {
+      "no": 4,
+      "tanya": "Sebuah rumah menggunakan peralatan listrik sebagai berikut:\n- 5 lampu 10 Watt menyala 10 jam/hari\n- 1 TV 100 Watt menyala 5 jam/hari\n- 1 Kulkas 150 Watt menyala 24 jam/hari\nHitunglah energi total yang digunakan dalam satu hari (dalam kWh)!",
+      "jawaban_lengkap": "1. Lampu: 5 x 10 W x 10 h = 500 Wh\n2. TV: 1 x 100 W x 5 h = 500 Wh\n3. Kulkas: 1 x 150 W x 24 h = 3600 Wh\nTotal Energi Sehari = 500 + 500 + 3600 = 4600 Wh\nUbah ke kWh = 4600 / 1000 = 4,6 kWh."
+    },
+    {
+      "no": 5,
+      "tanya": "Dua buah lampu identik masing-masing memiliki hambatan 10 Ohm. Bandingkan daya total yang diserap jika kedua lampu disusun seri dengan jika disusun paralel pada tegangan baterai 20 Volt!",
+      "jawaban_lengkap": "1. Susunan Seri:\nRs = 10 + 10 = 20 Ohm\nP_seri = V² / Rs = 20² / 20 = 400 / 20 = 20 Watt.\n2. Susunan Paralel:\n1/Rp = 1/10 + 1/10 = 2/10 -> Rp = 5 Ohm\nP_paralel = V² / Rp = 20² / 5 = 400 / 5 = 80 Watt.\nKesimpulan: Daya pada susunan paralel (80W) lebih besar 4 kali lipat dari susunan seri (20W), sehingga lampu menyala lebih terang pada susunan paralel."
+    },
+    {
+      "no": 6,
+      "tanya": "Jelaskan prinsip kerja dari elemen volta (baterai) dalam menghasilkan arus listrik!",
+      "jawaban_lengkap": "Elemen volta mengubah energi kimia menjadi energi listrik. Di dalamnya terdapat dua elektroda (logam berbeda, misal Tembaga/Katoda dan Seng/Anoda) dan larutan elektrolit. Reaksi kimia menyebabkan pemisahan muatan, di mana elektron terkumpul di anoda (negatif). Ketika dihubungkan dengan kawat, elektron mengalir dari anoda ke katoda, menghasilkan arus listrik."
+    },
+    {
+      "no": 7,
+      "tanya": "Sebuah pemanas air memiliki spesifikasi 220 V / 500 W. Jika pemanas tersebut dipasang pada tegangan 110 V, berapakah daya yang dikeluarkan pemanas tersebut sekarang? Jelaskan mengapa dayanya berubah!",
+      "jawaban_lengkap": "Diketahui: P1 = 500 W, V1 = 220 V, V2 = 110 V.\nHambatan alat (R) tetap.\nP2 = P1 x (V2 / V1)²\nP2 = 500 x (110 / 220)²\nP2 = 500 x (1/2)²\nP2 = 500 x 1/4 = 125 Watt.\nDaya berubah karena daya berbanding lurus dengan kuadrat tegangan. Jika tegangan turun setengahnya, daya turun menjadi seperempatnya."
+    },
+    {
+      "no": 8,
+      "tanya": "Sebutkan 3 upaya penghematan energi listrik yang dapat dilakukan di rumah beserta alasannya!",
+      "jawaban_lengkap": "1. Menggunakan lampu LED: Karena lebih hemat daya dibandingkan lampu pijar untuk terang yang sama.\n2. Mematikan alat elektronik saat tidak digunakan (cabut steker): Menghindari arus bocor (vampire power).\n3. Mengatur suhu AC tidak terlalu dingin (misal 24-25°C): Kerja kompresor lebih ringan sehingga daya yang diserap lebih sedikit."
+    },
+    {
+      "no": 9,
+      "tanya": "Perhatikan rangkaian berikut: R1=4Ω, R2=4Ω dipasang paralel. Kemudian diserikan dengan R3=3Ω. Jika dihubungkan tegangan 10 V, hitung kuat arus total!",
+      "jawaban_lengkap": "\nLangkah 1: Hitung paralel R1 dan R2\n1/Rp = 1/4 + 1/4 = 2/4 -> Rp = 2 Ω\nLangkah 2: Hitung R total (Seri)\nR_tot = Rp + R3 = 2 + 3 = 5 Ω\nLangkah 3: Hitung Arus\nI = V / R_tot = 10 / 5 = 2 Ampere."
+    },
+    {
+      "no": 10,
+      "tanya": "Mengapa burung yang bertengger di atas satu kabel listrik tegangan tinggi tidak tersengat listrik? Jelaskan konsep fisikanya!",
+      "jawaban_lengkap": "Agar arus mengalir dan menyengat, harus ada beda potensial. Burung hanya menyentuh satu kabel, sehingga kedua kakinya berada pada potensial yang sama (beda potensial = 0). Arus listrik tidak akan mengalir melalui tubuh burung karena arus memilih jalur kawat yang hambatannya jauh lebih kecil. Burung akan tersengat jika menyentuh dua kabel berbeda (fasa dan netral) atau menyentuh kabel dan tiang (tanah) secara bersamaan."
+    }
+  ]
+}

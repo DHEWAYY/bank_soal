@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Teks Diskusi - 9 SMP Semester Genap",
+    "mapel": "B. Indonesia",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Teks yang menyajikan dua sudut pandang yang berbeda (pro dan kontra) mengenai suatu masalah atau isu disebut...",
+      "opsi_a": "Teks Eksposisi",
+      "opsi_b": "Teks Diskusi",
+      "opsi_c": "Teks Tanggapan",
+      "opsi_d": "Teks Persuasi",
+      "jawaban": "B",
+      "pembahasan": "Teks diskusi adalah teks yang menyajikan dua pendapat yang berbeda (mendukung dan menentang) tentang suatu hal atau masalah."
+    },
+    {
+      "no": 2,
+      "tanya": "Tujuan utama dari teks diskusi adalah...",
+      "opsi_a": "Mempengaruhi pembaca untuk mengikuti satu pendapat",
+      "opsi_b": "Mencari kesepakatan atau solusi dari dua gagasan yang berbeda",
+      "opsi_c": "Menjelaskan langkah-langkah melakukan sesuatu",
+      "opsi_d": "Menggambarkan suatu objek secara rinci",
+      "jawaban": "B",
+      "pembahasan": "Tujuan teks diskusi adalah menyajikan berbagai sudut pandang (pro dan kontra) untuk mencapai kesepakatan, solusi, atau rekomendasi yang berimbang."
+    },
+    {
+      "no": 3,
+      "tanya": "Struktur teks diskusi yang benar secara berurutan adalah...",
+      "opsi_a": "Isu - Argumen Mendukung - Argumen Menentang - Simpulan",
+      "opsi_b": "Orientasi - Komplikasi - Resolusi",
+      "opsi_c": "Tesis - Argumentasi - Penegasan Ulang",
+      "opsi_d": "Pernyataan Umum - Deretan Penjelas - Interpretasi",
+      "jawaban": "A",
+      "pembahasan": "Struktur teks diskusi terdiri dari: 1. Isu (Masalah), 2. Argumen Mendukung (Pro), 3. Argumen Menentang (Kontra), 4. Simpulan/Saran."
+    },
+    {
+      "no": 4,
+      "tanya": "Bagian teks diskusi yang berisi pengenalan masalah atau topik yang akan dibahas disebut...",
+      "opsi_a": "Simpulan",
+      "opsi_b": "Argumen Pro",
+      "opsi_c": "Argumen Kontra",
+      "opsi_d": "Isu",
+      "jawaban": "D",
+      "pembahasan": "Isu adalah bagian pendahuluan yang memuat gambaran umum mengenai masalah yang akan didiskusikan."
+    },
+    {
+      "no": 5,
+      "tanya": "Perhatikan kutipan berikut: 'Banyak orang tua yang setuju jika anak-anak dibatasi penggunaan gawai. Mereka berpendapat bahwa gawai dapat mengurangi interaksi sosial anak.' Kutipan tersebut termasuk bagian...",
+      "opsi_a": "Isu",
+      "opsi_b": "Argumen Mendukung (Pro)",
+      "opsi_c": "Argumen Menentang (Kontra)",
+      "opsi_d": "Simpulan",
+      "jawaban": "B",
+      "pembahasan": "Kutipan tersebut berisi pendapat yang setuju atau mendukung pembatasan gawai, ditandai dengan kata 'setuju' dan alasan positifnya."
+    },
+    {
+      "no": 6,
+      "tanya": "Perhatikan kutipan berikut: 'Namun, sebagian pihak berpendapat bahwa gawai justru menjadi sarana belajar yang efektif jika diawasi dengan benar.' Kata 'Namun' menunjukkan adanya...",
+      "opsi_a": "Hubungan sebab akibat",
+      "opsi_b": "Hubungan penambahan",
+      "opsi_c": "Hubungan pertentangan",
+      "opsi_d": "Hubungan pemilihan",
+      "jawaban": "C",
+      "pembahasan": "Kata 'Namun' adalah konjungsi antarkalimat yang menyatakan pertentangan atau perlawanan terhadap gagasan sebelumnya."
+    },
+    {
+      "no": 7,
+      "tanya": "Berikut ini yang merupakan ciri kebahasaan teks diskusi adalah, KECUALI...",
+      "opsi_a": "Menggunakan kata hubung perlawanan",
+      "opsi_b": "Menggunakan kata kerja aksi",
+      "opsi_c": "Menggunakan modalitas",
+      "opsi_d": "Menggunakan alur maju mundur",
+      "jawaban": "D",
+      "pembahasan": "Alur maju mundur adalah ciri teks narasi (cerpen/novel). Teks diskusi menggunakan konjungsi perlawanan, kohesi, dan modalitas."
+    },
+    {
+      "no": 8,
+      "tanya": "Kata-kata seperti 'harus', 'wajib', 'akan', 'ingin', dan 'mungkin' termasuk dalam kategori...",
+      "opsi_a": "Verba material",
+      "opsi_b": "Konjungsi",
+      "opsi_c": "Modalitas",
+      "opsi_d": "Nomina",
+      "jawaban": "C",
+      "pembahasan": "Modalitas adalah kata yang mempunyai makna kemungkinan, keharusan, atau kenyataan yang dinyatakan dalam kalimat."
+    },
+    {
+      "no": 9,
+      "tanya": "Bagian simpulan dalam teks diskusi biasanya berisi...",
+      "opsi_a": "Ringkasan argumen dan rekomendasi jalan tengah",
+      "opsi_b": "Penjelasan detail mengenai isu",
+      "opsi_c": "Kritik pedas terhadap salah satu pihak",
+      "opsi_d": "Data statistik yang rumit",
+      "jawaban": "A",
+      "pembahasan": "Simpulan dalam teks diskusi merangkum kedua belah pendapat dan memberikan rekomendasi atau jalan tengah yang tidak memihak salah satu sisi secara mutlak."
+    },
+    {
+      "no": 10,
+      "tanya": "Manakah kalimat berikut yang mengandung kohesi leksikal (pengulangan kata/sinonim)?",
+      "opsi_a": "Siswa dilarang membawa HP. Namun, aturan ini diprotes.",
+      "opsi_b": "Olahraga sangat penting. Aktivitas fisik ini membuat tubuh bugar.",
+      "opsi_c": "Dia pergi ke pasar, lalu pulang ke rumah.",
+      "opsi_d": "Karena hujan, banjir terjadi di mana-mana.",
+      "jawaban": "B",
+      "pembahasan": "Kohesi leksikal terlihat pada penggunaan 'Olahraga' yang digantikan dengan sinonim/kata terkait 'Aktivitas fisik' untuk menjaga keterkaitan antarkalimat."
+    },
+    {
+      "no": 11,
+      "tanya": "Konjungsi yang tepat untuk menghubungkan argumen pro dan kontra dalam satu paragraf adalah...",
+      "opsi_a": "Dan, serta",
+      "opsi_b": "Sebaliknya, di sisi lain",
+      "opsi_c": "Karena, sebab",
+      "opsi_d": "Lalu, kemudian",
+      "jawaban": "B",
+      "pembahasan": "Untuk menghubungkan dua gagasan yang bertolak belakang (pro dan kontra), digunakan konjungsi pertentangan seperti 'sebaliknya', 'di sisi lain', 'namun', atau 'akan tetapi'."
+    },
+    {
+      "no": 12,
+      "tanya": "Bacalah teks: 'Full day school dianggap membebani siswa karena waktu istirahat berkurang.' Kalimat tersebut merupakan contoh...",
+      "opsi_a": "Argumen mendukung full day school",
+      "opsi_b": "Argumen menentang full day school",
+      "opsi_c": "Isu atau masalah",
+      "opsi_d": "Simpulan",
+      "jawaban": "B",
+      "pembahasan": "Kalimat tersebut berisi keberatan atau dampak negatif (membebani, istirahat berkurang), sehingga termasuk argumen menentang (kontra)."
+    },
+    {
+      "no": 13,
+      "tanya": "Pernyataan yang bersifat netral dan tidak memihak disebut...",
+      "opsi_a": "Subjektif",
+      "opsi_b": "Objektif",
+      "opsi_c": "Provokatif",
+      "opsi_d": "Persuasif",
+      "jawaban": "B",
+      "pembahasan": "Objektif berarti berdasarkan fakta dan tidak dipengaruhi oleh perasaan atau pendapat pribadi yang memihak (netral)."
+    },
+    {
+      "no": 14,
+      "tanya": "Contoh isu yang tepat untuk dijadikan bahan teks diskusi adalah...",
+      "opsi_a": "Cara membuat nasi goreng yang enak",
+      "opsi_b": "Keindahan Pantai Kuta di Bali",
+      "opsi_c": "Dampak positif dan negatif pembelajaran jarak jauh",
+      "opsi_d": "Sejarah kemerdekaan Indonesia",
+      "jawaban": "C",
+      "pembahasan": "Topik diskusi haruslah sesuatu yang kontroversial atau memiliki dua sisi pandang (positif-negatif), seperti pembelajaran jarak jauh. Opsi lain bersifat prosedur, deskripsi, atau narasi sejarah."
+    },
+    {
+      "no": 15,
+      "tanya": "Penggunaan kata 'saya rasa', 'menurut pendapat saya', 'pikir saya' menunjukkan ciri kebahasaan...",
+      "opsi_a": "Evaluatif",
+      "opsi_b": "Emotif",
+      "opsi_c": "Modalitas",
+      "opsi_d": "Penanda personal",
+      "jawaban": "A",
+      "pembahasan": "Meskipun sering dihindari dalam teks formal, kata-kata tersebut menunjukkan bahasa evaluatif untuk menilai sesuatu dari sudut pandang penulis."
+    },
+    {
+      "no": 16,
+      "tanya": "Dalam teks diskusi, argumen yang disampaikan harus disertai dengan...",
+      "opsi_a": "Emosi yang meluap-luap",
+      "opsi_b": "Bukti, fakta, atau alasan yang logis",
+      "opsi_c": "Paksaan kepada pembaca",
+      "opsi_d": "Cerita fiksi",
+      "jawaban": "B",
+      "pembahasan": "Agar argumen kuat dan dapat diterima, harus didukung oleh bukti nyata, data fakta, atau alasan yang masuk akal (logis)."
+    },
+    {
+      "no": 17,
+      "tanya": "Manakah kalimat yang menggunakan konjungsi kausalitas (sebab-akibat)?",
+      "opsi_a": "Siswa harus belajar giat agar lulus ujian.",
+      "opsi_b": "Sampah plastik mencemari lingkungan, oleh sebab itu kita harus menguranginya.",
+      "opsi_c": "Dia belajar matematika dan bahasa Inggris.",
+      "opsi_d": "Meskipun hujan, dia tetap berangkat.",
+      "jawaban": "B",
+      "pembahasan": "Frasa 'oleh sebab itu' menunjukkan hubungan sebab-akibat (kausalitas)."
+    },
+    {
+      "no": 18,
+      "tanya": "Simpulan teks diskusi yang baik harus...",
+      "opsi_a": "Memihak pada argumen yang paling banyak",
+      "opsi_b": "Mengabaikan salah satu argumen",
+      "opsi_c": "Merangkum kedua sisi dan memberikan rekomendasi bijak",
+      "opsi_d": "Menambah masalah baru",
+      "jawaban": "C",
+      "pembahasan": "Simpulan yang baik mengakomodasi kedua sudut pandang yang telah dibahas dan memberikan jalan keluar yang solutif."
+    },
+    {
+      "no": 19,
+      "tanya": "Bacalah teks: 'Permainan video game memang menghibur. Akan tetapi, jika berlebihan dapat menyebabkan kecanduan dan gangguan kesehatan mata.' Kalimat kedua berfungsi untuk...",
+      "opsi_a": "Mendukung kalimat pertama",
+      "opsi_b": "Menjelaskan kalimat pertama",
+      "opsi_c": "Menyanggah atau membatasi pernyataan kalimat pertama",
+      "opsi_d": "Memberikan contoh",
+      "jawaban": "C",
+      "pembahasan": "Kalimat kedua diawali 'Akan tetapi' yang berfungsi menyanggah atau memberikan batasan negatif terhadap pernyataan positif di kalimat pertama."
+    },
+    {
+      "no": 20,
+      "tanya": "Teks diskusi sering ditemukan dalam kegiatan...",
+      "opsi_a": "Upacara bendera",
+      "opsi_b": "Debat atau rapat",
+      "opsi_c": "Pementasan drama",
+      "opsi_d": "Senam pagi",
+      "jawaban": "B",
+      "pembahasan": "Debat dan rapat adalah forum yang melibatkan pertukaran pendapat pro dan kontra, sesuai dengan karakteristik teks diskusi."
+    },
+    {
+      "no": 21,
+      "tanya": "Kata 'sebaliknya', 'namun', 'tetapi' adalah jenis kohesi...",
+      "opsi_a": "Gramatikal",
+      "opsi_b": "Leksikal",
+      "opsi_c": "Referensi",
+      "opsi_d": "Substitusi",
+      "jawaban": "A",
+      "pembahasan": "Konjungsi (kata hubung) termasuk dalam kohesi gramatikal (tata bahasa) yang menghubungkan antarklausa atau antarkalimat."
+    },
+    {
+      "no": 22,
+      "tanya": "Apa yang dimaksud dengan argumen kontra?",
+      "opsi_a": "Pendapat yang mendukung topik",
+      "opsi_b": "Pendapat yang menentang atau tidak setuju dengan topik",
+      "opsi_c": "Pendapat yang netral",
+      "opsi_d": "Pendapat ahli",
+      "jawaban": "B",
+      "pembahasan": "Kontra berarti berlawanan atau menentang. Argumen kontra berisi alasan ketidaksetujuan terhadap isu yang dibahas."
+    },
+    {
+      "no": 23,
+      "tanya": "Judul yang paling sesuai untuk teks diskusi tentang lingkungan adalah...",
+      "opsi_a": "Cara Menanam Pohon Jati",
+      "opsi_b": "Larangan Membawa Plastik: Efektif atau Merepotkan?",
+      "opsi_c": "Keindahan Hutan Tropis Indonesia",
+      "opsi_d": "Pengalaman Berkebun di Rumah",
+      "jawaban": "B",
+      "pembahasan": "Judul B mengandung pertanyaan yang memancing dua sudut pandang (efektif vs merepotkan), ciri khas teks diskusi."
+    },
+    {
+      "no": 24,
+      "tanya": "Dalam menyusun teks diskusi, penulis harus bersikap...",
+      "opsi_a": "Egois",
+      "opsi_b": "Memihak",
+      "opsi_c": "Netral",
+      "opsi_d": "Emosional",
+      "jawaban": "C",
+      "pembahasan": "Penulis teks diskusi harus menyajikan kedua sisi argumen secara seimbang (netral) sebelum memberikan simpulan."
+    },
+    {
+      "no": 25,
+      "tanya": "Kalimat rekomendasi biasanya ditandai dengan kata...",
+      "opsi_a": "Adalah, merupakan",
+      "opsi_b": "Sedangkan, tetapi",
+      "opsi_c": "Sebaiknya, hendaknya, perlu",
+      "opsi_d": "Kemarin, besok",
+      "jawaban": "C",
+      "pembahasan": "Kata 'sebaiknya', 'hendaknya', dan 'perlu' menunjukkan saran atau rekomendasi tindakan yang harus dilakukan."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan pengertian Teks Diskusi dan sebutkan tujuan utamanya!",
+      "jawaban_lengkap": "Pengertian: Teks diskusi adalah teks yang menyajikan dua pendapat yang berbeda (pro dan kontra) mengenai suatu isu atau masalah tertentu.\nTujuan Utama: Untuk menyajikan sudut pandang yang berbeda terhadap suatu masalah agar pembaca dapat melihat isu tersebut dari berbagai sisi sebelum mengambil keputusan atau kesimpulan."
+    },
+    {
+      "no": 2,
+      "tanya": "Sebutkan dan jelaskan 4 struktur teks diskusi secara lengkap!",
+      "jawaban_lengkap": "1. Isu: Bagian pengantar yang berisi masalah atau topik yang akan didiskusikan.\n2. Argumen Mendukung (Pro): Bagian yang berisi alasan-alasan positif yang mendukung topik atau isu tersebut.\n3. Argumen Menentang (Kontra): Bagian yang berisi alasan-alasan negatif atau keberatan yang menentang topik tersebut.\n4. Simpulan/Saran: Bagian akhir yang berisi rangkuman dari kedua argumen dan rekomendasi jalan tengah atau solusi."
+    },
+    {
+      "no": 3,
+      "tanya": "Buatlah satu paragraf 'Isu' dengan topik 'Penggunaan Seragam Sekolah'!",
+      "jawaban_lengkap": "Penggunaan seragam sekolah masih menjadi topik perbincangan yang hangat di kalangan masyarakat. Sebagian pihak menganggap seragam sekolah sebagai identitas dan sarana kedisiplinan. Namun, ada pula yang berpendapat bahwa seragam sekolah membatasi ekspresi siswa dan menambah beban biaya bagi orang tua. Perbedaan pandangan ini menarik untuk didiskusikan lebih lanjut."
+    },
+    {
+      "no": 4,
+      "tanya": "Apa yang dimaksud dengan kohesi dan koherensi dalam teks diskusi? Jelaskan!",
+      "jawaban_lengkap": "Kohesi adalah kepaduan bentuk atau hubungan antarkata dan antarkalimat yang ditandai dengan penggunaan konjungsi, kata ganti, atau pengulangan kata (secara tata bahasa/leksikal). Sedangkan Koherensi adalah kepaduan makna, di mana ide atau gagasan antarparagraf saling nyambung dan logis sehingga teks mudah dipahami."
+    },
+    {
+      "no": 5,
+      "tanya": "Sebutkan 3 contoh konjungsi pertentangan yang sering digunakan dalam teks diskusi dan buatlah kalimatnya!",
+      "jawaban_lengkap": "1. Namun: Gedung itu megah, namun fasilitasnya kurang memadai.\n2. Sebaliknya: Anak itu sangat rajin, sebaliknya adiknya sangat pemalas.\n3. Akan tetapi: Rencana itu bagus, akan tetapi biayanya terlalu mahal."
+    },
+    {
+      "no": 6,
+      "tanya": "Tuliskan 2 argumen mendukung (pro) dan 2 argumen menentang (kontra) mengenai topik 'Pemberian PR (Pekerjaan Rumah) bagi Siswa'!",
+      "jawaban_lengkap": "Argumen Pro:\n1. PR membantu siswa mengulang materi pelajaran di rumah agar lebih paham.\n2. PR melatih tanggung jawab dan manajemen waktu siswa.\n\nArgumen Kontra:\n1. PR menyita waktu istirahat siswa dan waktu berkumpul dengan keluarga.\n2. Terlalu banyak PR dapat menyebabkan stres dan kelelahan pada siswa."
+    },
+    {
+      "no": 7,
+      "tanya": "Apa fungsi modalitas dalam teks diskusi? Berikan contoh kalimatnya!",
+      "jawaban_lengkap": "Fungsi modalitas adalah untuk menunjukkan derajat kepastian, keharusan, atau kemungkinan terhadap suatu pernyataan.\nContoh: 'Pemerintah *seharusnya* meninjau kembali kebijakan tersebut agar tidak merugikan rakyat kecil.' (Kata 'seharusnya' menunjukkan keharusan/saran)."
+    },
+    {
+      "no": 8,
+      "tanya": "Mengapa bahasa dalam teks diskusi harus bersifat evaluatif?",
+      "jawaban_lengkap": "Bahasa harus bersifat evaluatif karena teks diskusi bertujuan untuk menilai atau mengevaluasi suatu argumen (baik pro maupun kontra). Penulis perlu menggunakan kata-kata yang dapat menimbang baik-buruk atau untung-rugi dari suatu masalah untuk membantu pembaca mengambil simpulan."
+    },
+    {
+      "no": 9,
+      "tanya": "Identifikasi kesalahan pada struktur teks berikut: 'Paragraf 1: Isu, Paragraf 2: Simpulan, Paragraf 3: Argumen Pro, Paragraf 4: Argumen Kontra'. Jelaskan susunan yang benar!",
+      "jawaban_lengkap": "Kesalahannya terletak pada penempatan 'Simpulan' yang berada di paragraf 2. Simpulan harusnya berada di akhir teks.\nSusunan yang benar adalah: Paragraf 1 (Isu) -> Paragraf 2 (Argumen Pro) -> Paragraf 3 (Argumen Kontra) -> Paragraf 4 (Simpulan)."
+    },
+    {
+      "no": 10,
+      "tanya": "Susunlah sebuah simpulan singkat berdasarkan topik 'Membawa Bekal Makanan dari Rumah'!",
+      "jawaban_lengkap": "Berdasarkan pembahasan di atas, membawa bekal dari rumah memiliki dampak positif bagi kesehatan dan penghematan uang saku. Meskipun sedikit merepotkan harus menyiapkannya pagi-pagi, manfaat kesehatan jangka panjang jauh lebih penting. Oleh karena itu, siswa disarankan untuk membawa bekal, namun kantin sekolah juga tetap perlu menyediakan makanan sehat sebagai alternatif."
+    }
+  ]
+}

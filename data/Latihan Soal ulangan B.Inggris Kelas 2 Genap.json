@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Ulangan Bahasa Inggris - 2 SD Semester Genap",
+    "mapel": "B.Inggris",
+    "jenjang": "SD",
+    "kelas": "2 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "It is a fruit. It is red and round. It is an ...",
+      "opsi_a": "Apple",
+      "opsi_b": "Banana",
+      "opsi_c": "Grape",
+      "opsi_d": "Orange",
+      "jawaban": "A",
+      "pembahasan": "Buah yang berwarna merah dan bulat umumnya adalah apel (Apple). Banana (kuning/panjang), Grape (ungu/hijau), Orange (oranye)."
+    },
+    {
+      "no": 2,
+      "tanya": "A cow eats ...",
+      "opsi_a": "Meat",
+      "opsi_b": "Grass",
+      "opsi_c": "Rice",
+      "opsi_d": "Fish",
+      "jawaban": "B",
+      "pembahasan": "Sapi (Cow) adalah hewan herbivora yang memakan rumput (Grass)."
+    },
+    {
+      "no": 3,
+      "tanya": "What is 'Tujuh belas' in English?",
+      "opsi_a": "Seven",
+      "opsi_b": "Seventeen",
+      "opsi_c": "Seventy",
+      "opsi_d": "Seventh",
+      "jawaban": "B",
+      "pembahasan": "Tujuh belas dalam bahasa Inggris adalah 'Seventeen'."
+    },
+    {
+      "no": 4,
+      "tanya": "My father goes to the office by car. 'Car' in Indonesian is ...",
+      "opsi_a": "Sepeda",
+      "opsi_b": "Kereta",
+      "opsi_c": "Mobil",
+      "opsi_d": "Pesawat",
+      "jawaban": "C",
+      "pembahasan": "'Car' dalam bahasa Indonesia artinya Mobil."
+    },
+    {
+      "no": 5,
+      "tanya": "Look at the picture! (Gambar Matahari). \n The sun is ...",
+      "opsi_a": "Blue",
+      "opsi_b": "Green",
+      "opsi_c": "Yellow",
+      "opsi_d": "Black",
+      "jawaban": "C",
+      "pembahasan": "Warna matahari (Sun) adalah kuning (Yellow)."
+    },
+    {
+      "no": 6,
+      "tanya": "We use ... to brush our teeth.",
+      "opsi_a": "Comb",
+      "opsi_b": "Soap",
+      "opsi_c": "Shampoo",
+      "opsi_d": "Toothbrush",
+      "jawaban": "D",
+      "pembahasan": "Alat untuk menggosok gigi adalah sikat gigi (Toothbrush)."
+    },
+    {
+      "no": 7,
+      "tanya": "An elephant is big, but an ant is ...",
+      "opsi_a": "Small",
+      "opsi_b": "Large",
+      "opsi_c": "Long",
+      "opsi_d": "Tall",
+      "jawaban": "A",
+      "pembahasan": "Gajah itu besar (big), lawan katanya adalah semut itu kecil (small)."
+    },
+    {
+      "no": 8,
+      "tanya": "Where do you sleep?",
+      "opsi_a": "In the kitchen",
+      "opsi_b": "In the bathroom",
+      "opsi_c": "In the bedroom",
+      "opsi_d": "In the garden",
+      "jawaban": "C",
+      "pembahasan": "Tempat untuk tidur adalah kamar tidur (Bedroom)."
+    },
+    {
+      "no": 9,
+      "tanya": "10 + 5 = ...",
+      "opsi_a": "Ten",
+      "opsi_b": "Five",
+      "opsi_c": "Fifteen",
+      "opsi_d": "Fifty",
+      "jawaban": "C",
+      "pembahasan": "10 ditambah 5 sama dengan 15. Bahasa Inggris 15 adalah Fifteen."
+    },
+    {
+      "no": 10,
+      "tanya": "A fish lives in the ...",
+      "opsi_a": "Water",
+      "opsi_b": "Tree",
+      "opsi_c": "Sky",
+      "opsi_d": "Land",
+      "jawaban": "A",
+      "pembahasan": "Ikan (Fish) hidup di dalam air (Water)."
+    },
+    {
+      "no": 11,
+      "tanya": "I have two ... to listen to music.",
+      "opsi_a": "Eyes",
+      "opsi_b": "Noses",
+      "opsi_c": "Ears",
+      "opsi_d": "Hands",
+      "jawaban": "C",
+      "pembahasan": "Anggota tubuh untuk mendengarkan (listen) adalah telinga (Ears)."
+    },
+    {
+      "no": 12,
+      "tanya": "My mother is cooking in the ...",
+      "opsi_a": "Garage",
+      "opsi_b": "Living room",
+      "opsi_c": "Kitchen",
+      "opsi_d": "Terrace",
+      "jawaban": "C",
+      "pembahasan": "Ibu memasak (cooking) di dapur (Kitchen)."
+    },
+    {
+      "no": 13,
+      "tanya": "Which one is a vegetable?",
+      "opsi_a": "Spinach",
+      "opsi_b": "Mango",
+      "opsi_c": "Papaya",
+      "opsi_d": "Apple",
+      "jawaban": "A",
+      "pembahasan": "Spinach (bayam) adalah sayuran. Mango, Papaya, dan Apple adalah buah."
+    },
+    {
+      "no": 14,
+      "tanya": "Mr. Budi is a doctor. He works in the ...",
+      "opsi_a": "School",
+      "opsi_b": "Market",
+      "opsi_c": "Hospital",
+      "opsi_d": "Police station",
+      "jawaban": "C",
+      "pembahasan": "Seorang dokter (Doctor) bekerja di rumah sakit (Hospital)."
+    },
+    {
+      "no": 15,
+      "tanya": "My grandfather is old. 'Old' means ...",
+      "opsi_a": "Muda",
+      "opsi_b": "Tua",
+      "opsi_c": "Kuat",
+      "opsi_d": "Lemah",
+      "jawaban": "B",
+      "pembahasan": "'Old' dalam bahasa Indonesia artinya Tua."
+    },
+    {
+      "no": 16,
+      "tanya": "We wear ... to school.",
+      "opsi_a": "Pajamas",
+      "opsi_b": "Uniform",
+      "opsi_c": "Swimsuit",
+      "opsi_d": "Raincoat",
+      "jawaban": "B",
+      "pembahasan": "Pakaian yang dipakai ke sekolah adalah seragam (Uniform)."
+    },
+    {
+      "no": 17,
+      "tanya": "A bird can ...",
+      "opsi_a": "Swim",
+      "opsi_b": "Run fast",
+      "opsi_c": "Fly",
+      "opsi_d": "Crawling",
+      "jawaban": "C",
+      "pembahasan": "Burung (Bird) dapat terbang (Fly)."
+    },
+    {
+      "no": 18,
+      "tanya": "The shape of a wheel is ...",
+      "opsi_a": "Square",
+      "opsi_b": "Triangle",
+      "opsi_c": "Circle",
+      "opsi_d": "Rectangle",
+      "jawaban": "C",
+      "pembahasan": "Bentuk roda (Wheel) adalah lingkaran (Circle)."
+    },
+    {
+      "no": 19,
+      "tanya": "I am thirsty. I want to ...",
+      "opsi_a": "Eat",
+      "opsi_b": "Drink",
+      "opsi_c": "Sleep",
+      "opsi_d": "Run",
+      "jawaban": "B",
+      "pembahasan": "Jika haus (thirsty), kita ingin minum (Drink)."
+    },
+    {
+      "no": 20,
+      "tanya": "Translate into English: 'Buku saya biru'",
+      "opsi_a": "My book is blue",
+      "opsi_b": "My book is red",
+      "opsi_c": "Your book is blue",
+      "opsi_d": "My pen is blue",
+      "jawaban": "A",
+      "pembahasan": "Buku saya = My book, Biru = Blue. Jadi 'My book is blue'."
+    },
+    {
+      "no": 21,
+      "tanya": "Doni : 'Good afternoon, Sinta.' \n Sinta : '...'",
+      "opsi_a": "Good morning",
+      "opsi_b": "Good night",
+      "opsi_c": "Good afternoon",
+      "opsi_d": "Goodbye",
+      "jawaban": "C",
+      "pembahasan": "Balasan untuk sapaan 'Good afternoon' adalah 'Good afternoon'."
+    },
+    {
+      "no": 22,
+      "tanya": "There are ... days in a week.",
+      "opsi_a": "Six",
+      "opsi_b": "Seven",
+      "opsi_c": "Twelve",
+      "opsi_d": "Thirty",
+      "jawaban": "B",
+      "pembahasan": "Ada 7 hari dalam seminggu. Bahasa Inggris 7 adalah Seven."
+    },
+    {
+      "no": 23,
+      "tanya": "Arrange the word: N - K - S - A - E",
+      "opsi_a": "Snake",
+      "opsi_b": "Snack",
+      "opsi_c": "Sneak",
+      "opsi_d": "Sanke",
+      "jawaban": "A",
+      "pembahasan": "Susunan huruf yang benar untuk nama hewan adalah Snake (Ular)."
+    },
+    {
+      "no": 24,
+      "tanya": "Is this a pencil? (Gambar Pensil)",
+      "opsi_a": "Yes, it is not",
+      "opsi_b": "No, it is not",
+      "opsi_c": "Yes, it is",
+      "opsi_d": "No, it does",
+      "jawaban": "C",
+      "pembahasan": "Karena gambarnya sesuai (Pensil), maka jawabannya 'Yes, it is'."
+    },
+    {
+      "no": 25,
+      "tanya": "A train stops at the ...",
+      "opsi_a": "Airport",
+      "opsi_b": "Harbor",
+      "opsi_c": "Railway station",
+      "opsi_d": "Bus station",
+      "jawaban": "C",
+      "pembahasan": "Kereta api (Train) berhenti di stasiun kereta (Railway station)."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Mention 3 (three) fruits you like!",
+      "jawaban_lengkap": "Apple, Banana, Mango (Jawaban bisa bervariasi, contoh lain: Orange, Grape, Watermelon)."
+    },
+    {
+      "no": 2,
+      "tanya": "Translate to Indonesia: 'I like fried chicken.'",
+      "jawaban_lengkap": "Saya suka ayam goreng."
+    },
+    {
+      "no": 3,
+      "tanya": "Arrange these words into a good sentence: \n play - football - We - field - in - the",
+      "jawaban_lengkap": "We play football in the field."
+    },
+    {
+      "no": 4,
+      "tanya": "Write the numbers in English: \n a. 12 \n b. 20",
+      "jawaban_lengkap": "a. Twelve \n b. Twenty"
+    },
+    {
+      "no": 5,
+      "tanya": "Mention 3 (three) animals that have four legs!",
+      "jawaban_lengkap": "Cow, Horse, Cat (Jawaban bisa bervariasi, contoh lain: Dog, Lion, Elephant, Tiger)."
+    },
+    {
+      "no": 6,
+      "tanya": "Complete the missing letters: \n S - C - ... - O - O - ...",
+      "jawaban_lengkap": "SCHOOL (Huruf yang hilang: H dan L)."
+    },
+    {
+      "no": 7,
+      "tanya": "What comes after Sunday?",
+      "jawaban_lengkap": "Monday."
+    },
+    {
+      "no": 8,
+      "tanya": "Translate into English: 'Ibu saya memasak di dapur.'",
+      "jawaban_lengkap": "My mother cooks in the kitchen."
+    },
+    {
+      "no": 9,
+      "tanya": "Mention 3 (three) things in your bag!",
+      "jawaban_lengkap": "Book, Pencil, Eraser (Jawaban bisa bervariasi, contoh lain: Ruler, Pen, Sharpener)."
+    },
+    {
+      "no": 10,
+      "tanya": "Look at the pattern: Red, Blue, Red, Blue, ... \n What is the next color?",
+      "jawaban_lengkap": "Red."
+    }
+  ]
+}

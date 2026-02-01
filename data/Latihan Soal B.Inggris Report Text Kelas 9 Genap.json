@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Report Text - 9 SMP Semester Genap",
+    "mapel": "B.Inggris",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Read the following text!\n\nWhales are sea-living mammals. They therefore breathe air but cannot survive on land. Some species are very large indeed and the blue whale, which can exceed 30m in length, is the largest animal to have lived on earth. Superficially, the whale looks rather like a fish, but there are important differences in its external structure: its tail consists of a pair of broad, flat, horizontal paddles (the tail of a fish is vertical) and it has a single nostril on top of its large, broad head.\n\nWhat is the purpose of the text above?",
+      "opsi_a": "To tell a story about a specific whale",
+      "opsi_b": "To describe a particular whale",
+      "opsi_c": "To describe whales in general",
+      "opsi_d": "To explain how whales swim",
+      "jawaban": "C",
+      "pembahasan": "Teks tersebut adalah Report Text yang bertujuan untuk menjelaskan atau mendeskripsikan sesuatu secara umum (in general). Teks membahas 'Whales' sebagai spesies, bukan satu paus tertentu."
+    },
+    {
+      "no": 2,
+      "tanya": "Based on the text in question no 1, what makes whales different from fish regarding their physical structure?",
+      "opsi_a": "They live in the sea",
+      "opsi_b": "They have vertical tails",
+      "opsi_c": "They have horizontal tail paddles",
+      "opsi_d": "They breathe water",
+      "jawaban": "C",
+      "pembahasan": "Berdasarkan teks: 'its tail consists of a pair of broad, flat, horizontal paddles (the tail of a fish is vertical)'."
+    },
+    {
+      "no": 3,
+      "tanya": "Read the text!\n\nLightning is a sudden, violent flash of electricity between a cloud and the ground, or from cloud to cloud. A lightning flash, or bolt, can be several miles long. It is so hot, with an average temperature of 34,000 degrees Celsius, that the air around it suddenly expands with a loud blast. This is the thunder we hear.\n\nThe text above is a report text because...",
+      "opsi_a": "It tells a myth about lightning",
+      "opsi_b": "It describes lightning scientifically and generally",
+      "opsi_c": "It teaches how to make lightning",
+      "opsi_d": "It retells an experience of seeing lightning",
+      "jawaban": "B",
+      "pembahasan": "Ciri utama report text adalah mendeskripsikan fenomena alam, sosial, atau benda buatan manusia secara objektif, ilmiah, dan umum."
+    },
+    {
+      "no": 4,
+      "tanya": "Refer to the text in question no 3. What causes thunder?",
+      "opsi_a": "The collision of clouds",
+      "opsi_b": "The heavy rain falling",
+      "opsi_c": "The sudden expansion of air due to heat",
+      "opsi_d": "The electricity hitting the ground",
+      "jawaban": "C",
+      "pembahasan": "Dinyatakan dalam teks: 'It is so hot... that the air around it suddenly expands with a loud blast. This is the thunder we hear.'"
+    },
+    {
+      "no": 5,
+      "tanya": "The generic structure of a report text consists of...",
+      "opsi_a": "Orientation - Complication - Resolution",
+      "opsi_b": "Goal - Materials - Steps",
+      "opsi_c": "General Classification - Description",
+      "opsi_d": "Identification - Description",
+      "jawaban": "C",
+      "pembahasan": "Struktur umum Report Text adalah General Classification (klasifikasi umum) dan Description (deskripsi bagian, fungsi, atau karakteristik)."
+    },
+    {
+      "no": 6,
+      "tanya": "Read the text!\n\nCacti (Cactaceae) are plants that are adapted to extremely dry, hot environments. They have modified leaves called spines. These spines protect the plant from animals and reduce water loss. Cacti store water in their thick, fleshy stems.\n\nWhat is the function of spines on cacti?",
+      "opsi_a": "To absorb sunlight",
+      "opsi_b": "To produce flowers",
+      "opsi_c": "To store water",
+      "opsi_d": "To protect from animals and reduce water loss",
+      "jawaban": "D",
+      "pembahasan": "Berdasarkan teks: 'These spines protect the plant from animals and reduce water loss.'"
+    },
+    {
+      "no": 7,
+      "tanya": "Which sentence uses the Simple Present Tense correctly for a report text?",
+      "opsi_a": "The cat was sleeping on the sofa.",
+      "opsi_b": "Elephants have long trunks.",
+      "opsi_c": "I saw a tiger in the zoo yesterday.",
+      "opsi_d": "The sun is rising now.",
+      "jawaban": "B",
+      "pembahasan": "Report text menggunakan Simple Present Tense untuk menyatakan fakta umum. 'Elephants have long trunks' adalah fakta umum."
+    },
+    {
+      "no": 8,
+      "tanya": "Read the text!\n\nJasmine is an evergreen semi-vining shrub native to tropical areas of Southeast Asia, Africa, and Australia. The leaves are either opposite or alternate. The flowers are white or yellow, and some species are very fragrant. The flowers are often used for tea or perfumes.\n\nWhat is the main idea of the text?",
+      "opsi_a": "How to plant Jasmine",
+      "opsi_b": "The fragrant smell of Jasmine",
+      "opsi_c": "General description of Jasmine plants",
+      "opsi_d": "The price of Jasmine tea",
+      "jawaban": "C",
+      "pembahasan": "Teks tersebut memberikan deskripsi umum mengenai tanaman melati (Jasmine), mulai dari asal, daun, bunga, hingga kegunaannya."
+    },
+    {
+      "no": 9,
+      "tanya": "Refer to the text in question no 8. 'The flowers are often used for tea or perfumes.' The passive voice structure in this sentence is used to...",
+      "opsi_a": "Emphasize the object (flowers) rather than the doer",
+      "opsi_b": "Show that the writer likes flowers",
+      "opsi_c": "Tell a past event",
+      "opsi_d": "Make the sentence longer",
+      "jawaban": "A",
+      "pembahasan": "Passive voice (are used) digunakan dalam report text untuk menekankan pada objek yang dibahas, bukan siapa yang melakukan aksi tersebut."
+    },
+    {
+      "no": 10,
+      "tanya": "Which of the following titles is most likely a Report Text?",
+      "opsi_a": "My Holiday in Bali",
+      "opsi_b": "How to Make Fried Rice",
+      "opsi_c": "The Legend of Toba Lake",
+      "opsi_d": "Kangaroos",
+      "jawaban": "D",
+      "pembahasan": "Judul 'Kangaroos' mengindikasikan pembahasan umum tentang spesies hewan tersebut (Report). Judul A (Recount), B (Procedure), C (Narrative)."
+    },
+    {
+      "no": 11,
+      "tanya": "Read the text!\n\nGold is a precious metal. It is yellow and shiny. It is soft and malleable, which means it can be hammered into thin sheets. Gold is used for jewelry, dentistry, and electronics because it does not rust or tarnish.\n\nWhy is gold used for electronics?",
+      "opsi_a": "Because it is yellow",
+      "opsi_b": "Because it is expensive",
+      "opsi_c": "Because it does not rust or tarnish",
+      "opsi_d": "Because it is heavy",
+      "jawaban": "C",
+      "pembahasan": "Berdasarkan teks: 'Gold is used for... electronics because it does not rust or tarnish' (tidak berkarat atau kusam)."
+    },
+    {
+      "no": 12,
+      "tanya": "Refer to the text in question no 11. 'It is soft and **malleable**...' The underlined word means...",
+      "opsi_a": "Hard to break",
+      "opsi_b": "Easy to shape or bend",
+      "opsi_c": "Very expensive",
+      "opsi_d": "Dangerous",
+      "jawaban": "B",
+      "pembahasan": "Malleable artinya mudah ditempa atau dibentuk. Penjelasan ada di kalimat selanjutnya: 'can be hammered into thin sheets'."
+    },
+    {
+      "no": 13,
+      "tanya": "Read the text!\n\nKomodo dragons are the largest living lizards in the world. They are identified by their massive size, flat heads, bowed legs, and long, thick tails. They can grow up to 3 meters long. They are carnivores and can eat very large prey, such as water buffalo, deer, and pigs.\n\nThe phrase 'living lizards' implies that...",
+      "opsi_a": "They are extinct",
+      "opsi_b": "They are still alive today",
+      "opsi_c": "They live in water",
+      "opsi_d": "They are toys",
+      "jawaban": "B",
+      "pembahasan": "'Living lizards' berarti jenis kadal yang masih hidup (belum punah) hingga saat ini."
+    },
+    {
+      "no": 14,
+      "tanya": "What is the difference between Report Text and Descriptive Text?",
+      "opsi_a": "Report text describes specific things, Descriptive text describes general things",
+      "opsi_b": "Report text describes general things, Descriptive text describes specific things",
+      "opsi_c": "Report text is fiction, Descriptive text is non-fiction",
+      "opsi_d": "There is no difference",
+      "jawaban": "B",
+      "pembahasan": "Report text membahas fenomena atau benda secara umum (kelas/spesies), sedangkan Descriptive text membahas satu benda/orang/tempat yang spesifik (khusus)."
+    },
+    {
+      "no": 15,
+      "tanya": "Read the text!\n\nMobile phones are electronic devices used for full-duplex two-way radio telecommunication over a cellular network of base stations known as cell sites. Modern mobile phones support a wide variety of other services, such as text messaging, MMS, email, Internet access, short-range wireless communications (infrared, Bluetooth), business applications, video games, and digital photography.\n\nWhat is the general classification of the text above?",
+      "opsi_a": "Modern mobile phones support a wide variety of services.",
+      "opsi_b": "Mobile phones are used for playing games.",
+      "opsi_c": "Mobile phones are electronic devices used for telecommunication.",
+      "opsi_d": "Cellular network is important.",
+      "jawaban": "C",
+      "pembahasan": "General Classification biasanya ada di kalimat pertama yang mendefinisikan objek secara umum."
+    },
+    {
+      "no": 16,
+      "tanya": "Refer to the text in question no 15. Which feature is NOT mentioned as a service of modern mobile phones?",
+      "opsi_a": "Digital photography",
+      "opsi_b": "Cooking",
+      "opsi_c": "Internet access",
+      "opsi_d": "Video games",
+      "jawaban": "B",
+      "pembahasan": "Memasak (Cooking) tidak disebutkan dalam teks sebagai fitur ponsel."
+    },
+    {
+      "no": 17,
+      "tanya": "A report text usually contains...",
+      "opsi_a": "Dialogues between characters",
+      "opsi_b": "Steps to do something",
+      "opsi_c": "Facts and scientific information",
+      "opsi_d": "Personal opinions of the writer",
+      "jawaban": "C",
+      "pembahasan": "Report text berisi fakta ilmiah dan informasi objektif, bukan opini pribadi atau dialog."
+    },
+    {
+      "no": 18,
+      "tanya": "Read the text!\n\nBees are flying insects closely related to wasps and ants. They are known for their role in pollination and for producing honey and beeswax. There are nearly 20,000 known species of bees. Bees have a long proboscis (a complex 'tongue') that enables them to obtain the nectar from flowers.\n\nWhat enables bees to get nectar from flowers?",
+      "opsi_a": "Their wings",
+      "opsi_b": "Their proboscis",
+      "opsi_c": "Their legs",
+      "opsi_d": "Their sting",
+      "jawaban": "B",
+      "pembahasan": "Berdasarkan teks: 'Bees have a long proboscis... that enables them to obtain the nectar'."
+    },
+    {
+      "no": 19,
+      "tanya": "Refer to the text in question no 18. 'They are known for their role in pollination...' The word 'pollination' is related to...",
+      "opsi_a": "Making honey",
+      "opsi_b": "Reproduction of plants",
+      "opsi_c": "Building hives",
+      "opsi_d": "Eating insects",
+      "jawaban": "B",
+      "pembahasan": "Pollination (penyerbukan) adalah proses yang berkaitan dengan reproduksi tanaman (transfer serbuk sari)."
+    },
+    {
+      "no": 20,
+      "tanya": "The following are general nouns, EXCEPT...",
+      "opsi_a": "Lions",
+      "opsi_b": "My lovely cat named Kitty",
+      "opsi_c": "Computers",
+      "opsi_d": "Volcanoes",
+      "jawaban": "B",
+      "pembahasan": "General nouns merujuk pada benda/hewan secara umum (Lions, Computers, Volcanoes). 'My lovely cat named Kitty' adalah specific participant (Descriptive Text)."
+    },
+    {
+      "no": 21,
+      "tanya": "Read the text!\n\nTsunamis are giant waves caused by earthquakes or volcanic eruptions under the sea. Out in the depths of the ocean, tsunami waves do not dramatically increase in height. But as the waves travel inland, they build up to higher and higher heights as the depth of the ocean decreases.\n\nWhat happens to tsunami waves as they travel inland?",
+      "opsi_a": "They become smaller",
+      "opsi_b": "They stop moving",
+      "opsi_c": "They disappear",
+      "opsi_d": "They build up to higher heights",
+      "jawaban": "D",
+      "pembahasan": "Berdasarkan teks: 'as the waves travel inland, they build up to higher and higher heights'."
+    },
+    {
+      "no": 22,
+      "tanya": "Refer to the text in question no 21. What causes Tsunamis?",
+      "opsi_a": "Strong winds",
+      "opsi_b": "Heavy rain",
+      "opsi_c": "Earthquakes or volcanic eruptions under the sea",
+      "opsi_d": "Ships moving in the ocean",
+      "jawaban": "C",
+      "pembahasan": "Tertulis jelas di kalimat pertama: 'caused by earthquakes or volcanic eruptions under the sea'."
+    },
+    {
+      "no": 23,
+      "tanya": "In report texts, we often use 'Relating Verbs' to define or classify subjects. Which one is a Relating Verb?",
+      "opsi_a": "Eat",
+      "opsi_b": "Run",
+      "opsi_c": "Is / Are",
+      "opsi_d": "Sleep",
+      "jawaban": "C",
+      "pembahasan": "Relating verbs (linking verbs) seperti 'is', 'are', 'have', 'belong to' digunakan untuk menghubungkan subjek dengan penjelasannya."
+    },
+    {
+      "no": 24,
+      "tanya": "Read the text!\n\nBats are mammals. They are the only mammals that can fly. They have wings covered by skin. Bats are nocturnal animals, which means they sleep during the day and are active at night. They use echolocation to find food in the dark.\n\nWhat does 'nocturnal' mean?",
+      "opsi_a": "Active during the day",
+      "opsi_b": "Can fly high",
+      "opsi_c": "Active at night",
+      "opsi_d": "Eat meat only",
+      "jawaban": "C",
+      "pembahasan": "Definisi nocturnal ada di teks: 'means they sleep during the day and are active at night'."
+    },
+    {
+      "no": 25,
+      "tanya": "Refer to the text in question no 24. How do bats find food in the dark?",
+      "opsi_a": "By using their sharp eyes",
+      "opsi_b": "By using echolocation",
+      "opsi_c": "By using their nose",
+      "opsi_d": "By walking on the ground",
+      "jawaban": "B",
+      "pembahasan": "Berdasarkan teks: 'They use echolocation to find food in the dark.'"
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Explain the difference between Report Text and Descriptive Text based on their purpose!",
+      "jawaban_lengkap": "The purpose of Report Text is to present information about something generally (as a result of systematic observation and analysis), describing an entire class of things. Meanwhile, the purpose of Descriptive Text is to describe a particular person, place, or thing specifically."
+    },
+    {
+      "no": 2,
+      "tanya": "Mention the two main parts of the generic structure of a Report Text!",
+      "jawaban_lengkap": "1. General Classification: Stating classification of general aspects of thing; animal, public place, plant, etc. which will be discussed in general.\n2. Description: Describing the thing which will be discussed in detail; part per part, customs or deeds for living creature and usage for materials."
+    },
+    {
+      "no": 3,
+      "tanya": "Read the short text below and determine the 'General Classification' sentence!\n'Kangaroos are marsupials native to Australia. They have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head.'",
+      "jawaban_lengkap": "The General Classification is: 'Kangaroos are marsupials native to Australia.'"
+    },
+    {
+      "no": 4,
+      "tanya": "Change the following sentence into Passive Voice (commonly used in report text):\n'People find polar bears in the Arctic Circle.'",
+      "jawaban_lengkap": "Polar bears are found (by people) in the Arctic Circle."
+    },
+    {
+      "no": 5,
+      "tanya": "Write 3 facts about 'Computers' that could be included in a report text!",
+      "jawaban_lengkap": "1. Computers are electronic devices that manipulate information, or data.\n2. A computer has a central processing unit (CPU).\n3. Computers can be used for typing documents, sending emails, and browsing the internet."
+    },
+    {
+      "no": 6,
+      "tanya": "Find the synonym of the word 'consume' in the sentence: 'Pandas consume bamboo as their main diet.'",
+      "jawaban_lengkap": "Eat / Devour / Ingest."
+    },
+    {
+      "no": 7,
+      "tanya": "Rearrange these words into a good sentence:\nanimals - are - cold-blooded - Snakes - reptiles - which - are",
+      "jawaban_lengkap": "Snakes are reptiles which are cold-blooded animals."
+    },
+    {
+      "no": 8,
+      "tanya": "Translate the following sentence into Indonesian:\n'Mangrove forests grow along the coastlines in tropical and subtropical regions.'",
+      "jawaban_lengkap": "Hutan bakau tumbuh di sepanjang garis pantai di wilayah tropis dan subtropis."
+    },
+    {
+      "no": 9,
+      "tanya": "Why do report texts use General Nouns instead of Specific Nouns? Give an example!",
+      "jawaban_lengkap": "Report texts use General Nouns because they describe a whole class of things, not a specific individual. Example: Using 'Cats' (general) instead of 'My cat, Snowy' (specific)."
+    },
+    {
+      "no": 10,
+      "tanya": "Complete the text with the correct words: (herbivores, long, trunk)\n'Elephants are largest land mammals. They are (a) ..., meaning they eat plants. They have a distinctive (b) ... used for lifting objects.'",
+      "jawaban_lengkap": "a. herbivores\nb. trunk"
+    }
+  ]
+}

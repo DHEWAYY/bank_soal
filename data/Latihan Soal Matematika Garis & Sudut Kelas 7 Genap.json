@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Garis & Sudut - 7 SMP Semester Genap",
+    "mapel": "Matematika",
+    "jenjang": "SMP",
+    "kelas": "7 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Bagian dari garis yang memiliki dua titik ujung dan panjang yang terbatas disebut...",
+      "opsi_a": "Sinar Garis",
+      "opsi_b": "Ruas Garis",
+      "opsi_c": "Garis Lurus",
+      "opsi_d": "Sudut",
+      "jawaban": "B",
+      "pembahasan": "Ruas garis adalah kurva lurus yang mempunyai pangkal dan ujung (terbatas). Sinar garis punya pangkal tidak punya ujung. Garis lurus tidak punya pangkal dan ujung."
+    },
+    {
+      "no": 2,
+      "tanya": "Besar sudut 1/5 putaran penuh adalah...",
+      "opsi_a": "36 derajat",
+      "opsi_b": "72 derajat",
+      "opsi_c": "90 derajat",
+      "opsi_d": "108 derajat",
+      "jawaban": "B",
+      "pembahasan": "Satu putaran penuh = 360 derajat.\n1/5 x 360 = 72 derajat."
+    },
+    {
+      "no": 3,
+      "tanya": "Sudut yang besarnya lebih dari 90 derajat dan kurang dari 180 derajat disebut sudut...",
+      "opsi_a": "Lancip",
+      "opsi_b": "Siku-siku",
+      "opsi_c": "Tumpul",
+      "opsi_d": "Refleks",
+      "jawaban": "C",
+      "pembahasan": "Lancip: 0 < x < 90.\nSiku-siku: x = 90.\nTumpul: 90 < x < 180.\nRefleks: 180 < x < 360."
+    },
+    {
+      "no": 4,
+      "tanya": "Penyiku dari sudut 35 derajat adalah...",
+      "opsi_a": "45 derajat",
+      "opsi_b": "55 derajat",
+      "opsi_c": "65 derajat",
+      "opsi_d": "145 derajat",
+      "jawaban": "B",
+      "pembahasan": "Sudut saling berpenyiku jumlahnya 90 derajat.\nPenyiku = 90 - 35 = 55 derajat."
+    },
+    {
+      "no": 5,
+      "tanya": "Pelurus dari sudut 72 derajat adalah...",
+      "opsi_a": "18 derajat",
+      "opsi_b": "28 derajat",
+      "opsi_c": "108 derajat",
+      "opsi_d": "118 derajat",
+      "jawaban": "C",
+      "pembahasan": "Sudut saling berpelurus jumlahnya 180 derajat.\nPelurus = 180 - 72 = 108 derajat."
+    },
+    {
+      "no": 6,
+      "tanya": "Diketahui sudut A dan sudut B saling berpenyiku. Jika besar sudut A = (3x + 5) derajat dan sudut B = (2x + 10) derajat, maka nilai x adalah...",
+      "opsi_a": "10",
+      "opsi_b": "15",
+      "opsi_c": "25",
+      "opsi_d": "30",
+      "jawaban": "B",
+      "pembahasan": "Berpenyiku -> A + B = 90\n(3x + 5) + (2x + 10) = 90\n5x + 15 = 90\n5x = 75\nx = 15."
+    },
+    {
+      "no": 7,
+      "tanya": "Perhatikan dua garis sejajar yang dipotong oleh garis transversal. Pasangan sudut berikut yang jumlahnya 180 derajat adalah...",
+      "opsi_a": "Sudut sehadap",
+      "opsi_b": "Sudut dalam berseberangan",
+      "opsi_c": "Sudut luar berseberangan",
+      "opsi_d": "Sudut dalam sepihak",
+      "jawaban": "D",
+      "pembahasan": "Sudut yang jumlahnya 180 derajat adalah sudut berpelurus dan sudut sepihak (baik dalam sepihak maupun luar sepihak). Sudut sehadap dan berseberangan besarnya sama."
+    },
+    {
+      "no": 8,
+      "tanya": "Jika sudut P = 42 derajat, maka besar sudut refleks P adalah...",
+      "opsi_a": "138 derajat",
+      "opsi_b": "222 derajat",
+      "opsi_c": "318 derajat",
+      "opsi_d": "328 derajat",
+      "jawaban": "C",
+      "pembahasan": "Sudut refleks + Sudut biasa = 360 derajat.\nRefleks P = 360 - 42 = 318 derajat."
+    },
+    {
+      "no": 9,
+      "tanya": "Dua sudut saling bertolak belakang. Jika sudut pertama besarnya (4a + 10) dan sudut kedua (2a + 40), maka nilai a adalah...",
+      "opsi_a": "10",
+      "opsi_b": "15",
+      "opsi_c": "20",
+      "opsi_d": "25",
+      "jawaban": "B",
+      "pembahasan": "Sudut bertolak belakang besarnya SAMA.\n4a + 10 = 2a + 40\n4a - 2a = 40 - 10\n2a = 30\na = 15."
+    },
+    {
+      "no": 10,
+      "tanya": "Besar sudut terkecil yang dibentuk oleh jarum jam pada pukul 04.00 adalah...",
+      "opsi_a": "90 derajat",
+      "opsi_b": "100 derajat",
+      "opsi_c": "120 derajat",
+      "opsi_d": "150 derajat",
+      "jawaban": "C",
+      "pembahasan": "Setiap loncat 1 angka pada jam = 30 derajat.\nPukul 04.00 berjarak 4 angka.\nSudut = 4 x 30 = 120 derajat."
+    },
+    {
+      "no": 11,
+      "tanya": "Besar sudut terkecil yang dibentuk jarum jam pada pukul 03.30 adalah...",
+      "opsi_a": "75 derajat",
+      "opsi_b": "90 derajat",
+      "opsi_c": "105 derajat",
+      "opsi_d": "120 derajat",
+      "jawaban": "A",
+      "pembahasan": "Jarum menit di angka 6 (30 menit).\nJarum jam bergeser dari angka 3: 3 + (30/60) = 3,5.\nJarak = 6 - 3,5 = 2,5 bagian.\nSudut = 2,5 x 30 = 75 derajat."
+    },
+    {
+      "no": 12,
+      "tanya": "Nilai 45 derajat 30 menit sama dengan...",
+      "opsi_a": "45,3 derajat",
+      "opsi_b": "45,5 derajat",
+      "opsi_c": "46 derajat",
+      "opsi_d": "46,5 derajat",
+      "jawaban": "B",
+      "pembahasan": "1 derajat = 60 menit.\n30 menit = 30/60 derajat = 0,5 derajat.\n45 + 0,5 = 45,5 derajat."
+    },
+    {
+      "no": 13,
+      "tanya": "Sudut A dan Sudut B saling berpelurus. Jika perbandingan Sudut A : Sudut B = 4 : 5, maka besar Sudut B adalah...",
+      "opsi_a": "80 derajat",
+      "opsi_b": "90 derajat",
+      "opsi_c": "100 derajat",
+      "opsi_d": "120 derajat",
+      "jawaban": "C",
+      "pembahasan": "Total bagian = 4 + 5 = 9.\nTotal sudut berpelurus = 180.\nSudut B = (5/9) x 180 = 5 x 20 = 100 derajat."
+    },
+    {
+      "no": 14,
+      "tanya": "Garis A sejajar dengan Garis B dipotong garis C. Jika sudut dalam berseberangan besarnya (3x - 15) dan (2x + 10), maka besar sudut tersebut adalah...",
+      "opsi_a": "25 derajat",
+      "opsi_b": "50 derajat",
+      "opsi_c": "60 derajat",
+      "opsi_d": "75 derajat",
+      "jawaban": "C",
+      "pembahasan": "Sudut dalam berseberangan SAMA BESAR.\n3x - 15 = 2x + 10\n3x - 2x = 10 + 15\nx = 25.\nBesar sudut = 2(25) + 10 = 60 derajat."
+    },
+    {
+      "no": 15,
+      "tanya": "Perhatikan segitiga ABC. Jika sudut A = 50 derajat dan sudut B = 70 derajat, maka besar sudut luar C adalah...",
+      "opsi_a": "60 derajat",
+      "opsi_b": "110 derajat",
+      "opsi_c": "120 derajat",
+      "opsi_d": "130 derajat",
+      "jawaban": "C",
+      "pembahasan": "Sudut dalam C = 180 - (50 + 70) = 60.\nSudut Luar C = 180 - Sudut dalam C = 180 - 60 = 120.\nATAU Sudut Luar C = Sudut A + Sudut B = 50 + 70 = 120."
+    },
+    {
+      "no": 16,
+      "tanya": "Diketahui garis g sejajar h. Garis k memotong g dan h. Jika sudut A1 (kiri atas) = 110 derajat, maka besar sudut B4 (kanan bawah) pada perpotongan garis h adalah...",
+      "opsi_a": "70 derajat",
+      "opsi_b": "110 derajat",
+      "opsi_c": "120 derajat",
+      "opsi_d": "180 derajat",
+      "jawaban": "B",
+      "pembahasan": "Sudut A1 dan Sudut B4 adalah sudut LUAR BERSEBERANGAN. Sifatnya sama besar. Maka B4 = 110 derajat."
+    },
+    {
+      "no": 17,
+      "tanya": "Sebuah sudut besarnya 4 kali penyikunya. Besar sudut tersebut adalah...",
+      "opsi_a": "18 derajat",
+      "opsi_b": "36 derajat",
+      "opsi_c": "72 derajat",
+      "opsi_d": "144 derajat",
+      "jawaban": "C",
+      "pembahasan": "Misal sudut = A, penyiku = 90-A.\nA = 4(90 - A)\nA = 360 - 4A\n5A = 360\nA = 72."
+    },
+    {
+      "no": 18,
+      "tanya": "Hasil dari 25 derajat 15 menit + 14 derajat 55 menit adalah...",
+      "opsi_a": "39 derajat 10 menit",
+      "opsi_b": "40 derajat 10 menit",
+      "opsi_c": "39 derajat 70 menit",
+      "opsi_d": "40 derajat 70 menit",
+      "jawaban": "B",
+      "pembahasan": "25d 15m + 14d 55m = 39d 70m.\nKarena 60 menit = 1 derajat, maka 70m = 1d 10m.\n39d + 1d 10m = 40 derajat 10 menit."
+    },
+    {
+      "no": 19,
+      "tanya": "Dua garis dikatakan sejajar apabila...",
+      "opsi_a": "Terletak pada satu bidang dan berpotongan di satu titik",
+      "opsi_b": "Terletak pada satu bidang dan tidak pernah berpotongan meskipun diperpanjang",
+      "opsi_c": "Terletak pada satu bidang dan membentuk sudut 90 derajat",
+      "opsi_d": "Tidak terletak pada satu bidang",
+      "jawaban": "B",
+      "pembahasan": "Definisi garis sejajar adalah dua garis pada bidang datar yang tidak akan pernah bertemu/berpotongan jika diperpanjang sampai tak hingga."
+    },
+    {
+      "no": 20,
+      "tanya": "Jika sudut x dan y saling berpelurus, dan x - y = 40 derajat, maka nilai x adalah...",
+      "opsi_a": "70 derajat",
+      "opsi_b": "90 derajat",
+      "opsi_c": "110 derajat",
+      "opsi_d": "130 derajat",
+      "jawaban": "C",
+      "pembahasan": "x + y = 180\nx - y = 40\n---------- + (eliminasi y)\n2x = 220\nx = 110."
+    },
+    {
+      "no": 21,
+      "tanya": "Diketahui dua garis sejajar dipotong garis ketiga. Sudut A = 3x dan Sudut B = 120 derajat. Jika A dan B adalah pasangan sudut dalam sepihak, nilai x adalah...",
+      "opsi_a": "20",
+      "opsi_b": "30",
+      "opsi_c": "40",
+      "opsi_d": "60",
+      "jawaban": "A",
+      "pembahasan": "Sudut dalam sepihak jumlahnya 180 derajat.\nA + B = 180\n3x + 120 = 180\n3x = 60\nx = 20."
+    },
+    {
+      "no": 22,
+      "tanya": "Perhatikan gambar 
+
+[Image of transversal line]
+. Jika sudut A = 75 derajat, maka sudut luar sepihak dengan A besarnya adalah...",
+      "opsi_a": "75 derajat",
+      "opsi_b": "105 derajat",
+      "opsi_c": "115 derajat",
+      "opsi_d": "125 derajat",
+      "jawaban": "B",
+      "pembahasan": "Sudut luar sepihak jumlahnya 180 derajat.\nMisal sudut tersebut Y.\n75 + Y = 180\nY = 105 derajat."
+    },
+    {
+      "no": 23,
+      "tanya": "Pernyataan yang BENAR mengenai garis berimpit adalah...",
+      "opsi_a": "Memiliki satu titik persekutuan",
+      "opsi_b": "Memiliki jarak yang tetap",
+      "opsi_c": "Memiliki tak hingga titik persekutuan (terlihat sebagai satu garis)",
+      "opsi_d": "Membentuk sudut siku-siku",
+      "jawaban": "C",
+      "pembahasan": "Garis berimpit adalah dua garis yang terletak pada satu garis lurus sehingga terlihat hanya satu garis (semua titiknya bersekutu)."
+    },
+    {
+      "no": 24,
+      "tanya": "Diketahui segitiga sama kaki PQR dengan PQ = PR. Jika sudut P = 40 derajat, maka besar sudut Q adalah...",
+      "opsi_a": "40 derajat",
+      "opsi_b": "70 derajat",
+      "opsi_c": "80 derajat",
+      "opsi_d": "140 derajat",
+      "jawaban": "B",
+      "pembahasan": "Sudut P (puncak) = 40.\nSisa sudut = 180 - 40 = 140.\nKarena sama kaki, Sudut Q = Sudut R.\nSudut Q = 140 / 2 = 70 derajat."
+    },
+    {
+      "no": 25,
+      "tanya": "Sudut putar terkecil dari arah Timur ke Barat Daya adalah...",
+      "opsi_a": "135 derajat",
+      "opsi_b": "225 derajat",
+      "opsi_c": "90 derajat",
+      "opsi_d": "45 derajat",
+      "jawaban": "A",
+      "pembahasan": "Timur (0) -> Selatan (90) -> Barat Daya (90+45).\nTotal = 135 derajat."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Hitunglah hasil dari operasi sudut berikut: 50 derajat 45 menit 15 detik - 20 derajat 50 menit 30 detik!",
+      "jawaban_lengkap": "Langkah pengerjaan:\n1. Susun ke bawah.\n   50d 45m 15d\n   20d 50m 30d\n2. Karena 15 detik < 30 detik, pinjam 1 menit (60 detik) dari 45 menit.\n   Menjadi: 50d 44m (15+60)d -> 50d 44m 75d\n3. Karena 44 menit < 50 menit, pinjam 1 derajat (60 menit) dari 50 derajat.\n   Menjadi: 49d (44+60)m 75d -> 49d 104m 75d\n4. Lakukan pengurangan:\n   49d 104m 75d\n   20d  50m 30d\n   ------------ -\n   29d  54m 45d\nJadi, hasilnya adalah 29 derajat 54 menit 45 detik."
+    },
+    {
+      "no": 2,
+      "tanya": "Diketahui dua garis sejajar dipotong oleh garis transversal. Sudut A dan B adalah pasangan sudut luar sepihak. Jika Sudut A = (4x + 10) derajat dan Sudut B = (5x - 10) derajat, tentukan nilai x dan besar masing-masing sudut!",
+      "jawaban_lengkap": "Konsep: Jumlah sudut luar sepihak adalah 180 derajat.\n1. Mencari x:\n   (4x + 10) + (5x - 10) = 180\n   9x = 180\n   x = 20\n2. Mencari sudut A:\n   A = 4(20) + 10 = 80 + 10 = 90 derajat.\n3. Mencari sudut B:\n   B = 5(20) - 10 = 100 - 10 = 90 derajat."
+    },
+    {
+      "no": 3,
+      "tanya": "Pelurus dari suatu sudut adalah 3 kali penyikunya. Berapakah besar sudut tersebut?",
+      "jawaban_lengkap": "Misal sudut tersebut adalah x.\nPelurus x = 180 - x\nPenyiku x = 90 - x\nPersamaan:\n(180 - x) = 3 * (90 - x)\n180 - x = 270 - 3x\n-x + 3x = 270 - 180\n2x = 90\nx = 45 derajat.\nJadi, besar sudut tersebut adalah 45 derajat."
+    },
+    {
+      "no": 4,
+      "tanya": "Hitunglah besar sudut terkecil yang dibentuk oleh jarum jam pada pukul 07.20!",
+      "jawaban_lengkap": "1. Posisi jarum menit (panjang) pada angka 4 -> 4 x 30 = 120 derajat.\n2. Posisi jarum jam (pendek): 7 lebih 20 menit.\n   Angka 7 = 7 x 30 = 210 derajat.\n   Pergeseran = (20/60) x 30 = 1/3 x 30 = 10 derajat.\n   Posisi total jarum jam = 210 + 10 = 220 derajat.\n3. Selisih = 220 - 120 = 100 derajat.\nJadi, besar sudut terkecilnya adalah 100 derajat."
+    },
+    {
+      "no": 5,
+      "tanya": "Perhatikan gambar garis zig-zag (M-shape) antara dua garis sejajar. Sudut yang menghadap ke kiri adalah 35 derajat dan 45 derajat. Tentukan besar sudut yang menghadap ke kanan (sudut tengah)!",
+      "jawaban_lengkap": "Konsep: Pada garis sejajar yang membentuk pola zig-zag, jumlah sudut yang menghadap ke satu arah sama dengan jumlah sudut yang menghadap ke arah sebaliknya (Sudut Kiri = Sudut Kanan).\nSudut Kiri 1 = 35 derajat\nSudut Kiri 2 = 45 derajat\nSudut Kanan (tengah) = x\nx = 35 + 45\nx = 80 derajat."
+    },
+    {
+      "no": 6,
+      "tanya": "Diketahui segitiga ABC. Perbandingan sudut A : sudut B : sudut C adalah 2 : 3 : 4. Tentukan besar setiap sudutnya!",
+      "jawaban_lengkap": "Jumlah sudut dalam segitiga = 180 derajat.\nTotal rasio = 2 + 3 + 4 = 9.\n1. Sudut A = (2/9) x 180 = 2 x 20 = 40 derajat.\n2. Sudut B = (3/9) x 180 = 3 x 20 = 60 derajat.\n3. Sudut C = (4/9) x 180 = 4 x 20 = 80 derajat."
+    },
+    {
+      "no": 7,
+      "tanya": "Sudut A dan sudut B saling berpelurus. Jika 2/3 sudut A sama dengan sudut B, tentukan besar sudut A!",
+      "jawaban_lengkap": "Persamaan 1: A + B = 180\nPersamaan 2: B = (2/3)A\nSubstitusi Persamaan 2 ke 1:\nA + (2/3)A = 180\n(3/3)A + (2/3)A = 180\n(5/3)A = 180\nA = 180 x (3/5)\nA = 36 x 3\nA = 108 derajat."
+    },
+    {
+      "no": 8,
+      "tanya": "Sebuah tangga disandarkan pada tembok. Sudut antara tangga dan tanah adalah (2x + 10) derajat, dan sudut antara tangga dan tembok adalah (3x - 5) derajat. Jika tembok tegak lurus terhadap tanah, tentukan nilai x!",
+      "jawaban_lengkap": "Membentuk segitiga siku-siku (karena tembok tegak lurus tanah, salah satu sudutnya 90 derajat).\nJumlah dua sudut lainnya harus 90 derajat (agar total 180).\n(2x + 10) + (3x - 5) = 90\n5x + 5 = 90\n5x = 85\nx = 17."
+    },
+    {
+      "no": 9,
+      "tanya": "Diketahui garis m // n. Garis k memotong m dan n. Sudut A (pada garis m) dan Sudut B (pada garis n) adalah sudut dalam berseberangan. Jika Sudut A = (x^2 + 2x) dan Sudut B = (x^2 + 30), tentukan nilai x!",
+      "jawaban_lengkap": "Konsep: Sudut dalam berseberangan besarnya SAMA.\nx^2 + 2x = x^2 + 30\n(x^2 di kedua sisi saling menghilangkan)\n2x = 30\nx = 15."
+    },
+    {
+      "no": 10,
+      "tanya": "Sebutkan 3 sifat-sifat garis sejajar yang dipotong oleh garis transversal (hubungan sudut-sudutnya)!",
+      "jawaban_lengkap": "1. Sudut sehadap sama besar.\n2. Sudut dalam berseberangan sama besar (begitu juga luar berseberangan).\n3. Sudut dalam sepihak jumlahnya 180 derajat (begitu juga luar sepihak)."
+    }
+  ]
+}

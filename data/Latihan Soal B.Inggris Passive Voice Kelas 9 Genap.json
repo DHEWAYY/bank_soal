@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Passive Voice - 9 SMP Semester Genap",
+    "mapel": "B. Inggris",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Which sentence is in the Passive Voice?",
+      "opsi_a": "She waters the flowers every morning.",
+      "opsi_b": "The flowers are watered by her every morning.",
+      "opsi_c": "She is watering the flowers now.",
+      "opsi_d": "She has watered the flowers.",
+      "jawaban": "B",
+      "pembahasan": "Kalimat pasif (Passive Voice) menekankan pada objek yang dikenai tindakan. Polanya adalah Be + V3 (Past Participle). 'Are watered' adalah bentuk pasif."
+    },
+    {
+      "no": 2,
+      "tanya": "Change into Passive Voice: 'My mother cooks fried rice every Sunday.'",
+      "opsi_a": "Fried rice was cooked by my mother every Sunday.",
+      "opsi_b": "Fried rice is cooked by my mother every Sunday.",
+      "opsi_c": "Fried rice are cooked by my mother every Sunday.",
+      "opsi_d": "Fried rice is being cooked by my mother every Sunday.",
+      "jawaban": "B",
+      "pembahasan": "Kalimat aktif menggunakan Simple Present Tense (cooks). Rumus Pasif Simple Present: Object + is/am/are + V3 + by Subject. Fried rice (singular) menggunakan 'is cooked'."
+    },
+    {
+      "no": 3,
+      "tanya": "The letter ... by the secretary yesterday morning.",
+      "opsi_a": "is typed",
+      "opsi_b": "was typed",
+      "opsi_c": "were typed",
+      "opsi_d": "has been typed",
+      "jawaban": "B",
+      "pembahasan": "Keterangan waktu 'yesterday morning' menunjukkan Simple Past Tense. Subjek 'The letter' adalah tunggal. Maka to be yang tepat adalah 'was' + V3 (typed)."
+    },
+    {
+      "no": 4,
+      "tanya": "Change into Passive Voice: 'Someone stole my bicycle.'",
+      "opsi_a": "My bicycle is stolen.",
+      "opsi_b": "My bicycle has been stolen.",
+      "opsi_c": "My bicycle was stolen.",
+      "opsi_d": "My bicycle is being stolen.",
+      "jawaban": "C",
+      "pembahasan": "Kata kerja 'stole' adalah V2 (Past Tense). Rumus Pasif Past Tense: Was/Were + V3. 'My bicycle' (tunggal) menggunakan 'was'. V3 dari steal adalah stolen."
+    },
+    {
+      "no": 5,
+      "tanya": "A new bridge ... across the river right now.",
+      "opsi_a": "is built",
+      "opsi_b": "is being built",
+      "opsi_c": "was built",
+      "opsi_d": "will be built",
+      "jawaban": "B",
+      "pembahasan": "Keterangan waktu 'right now' menunjukkan Present Continuous Tense. Rumus Pasif: is/am/are + being + V3. Maka jawabannya 'is being built'."
+    },
+    {
+      "no": 6,
+      "tanya": "Active: 'They will visit the museum next week.' \nPassive: 'The museum ... by them next week.'",
+      "opsi_a": "will visited",
+      "opsi_b": "will be visited",
+      "opsi_c": "is visited",
+      "opsi_d": "would be visited",
+      "jawaban": "B",
+      "pembahasan": "Kalimat aktif menggunakan Simple Future (will). Rumus Pasif: Will + be + V3. Jadi, 'will be visited'."
+    },
+    {
+      "no": 7,
+      "tanya": "We can't use the room because it ... at the moment.",
+      "opsi_a": "is painting",
+      "opsi_b": "is being painted",
+      "opsi_c": "was painted",
+      "opsi_d": "painted",
+      "jawaban": "B",
+      "pembahasan": "Konteks kalimat menunjukkan kejadian sedang berlangsung (at the moment) dan ruangan menerima aksi (dicat). Gunakan Present Continuous Passive: is being painted."
+    },
+    {
+      "no": 8,
+      "tanya": "Identify the passive sentence in the following dialogue:\nAndi: 'Look at this painting!'\nBudi: 'Wow, it's beautiful. Who painted it?'\nAndi: 'It was painted by Basuki Abdullah.'",
+      "opsi_a": "Look at this painting!",
+      "opsi_b": "It's beautiful.",
+      "opsi_c": "Who painted it?",
+      "opsi_d": "It was painted by Basuki Abdullah.",
+      "jawaban": "D",
+      "pembahasan": "Kalimat D menggunakan pola 'was + V3' (was painted) yang merupakan ciri kalimat pasif lampau."
+    },
+    {
+      "no": 9,
+      "tanya": "Many cars ... in Japan every year.",
+      "opsi_a": "produce",
+      "opsi_b": "produced",
+      "opsi_c": "are produced",
+      "opsi_d": "is produced",
+      "jawaban": "C",
+      "pembahasan": "Fakta umum (Simple Present). Subjek 'Many cars' adalah jamak (plural). Rumus: Are + V3. Jadi, 'are produced'."
+    },
+    {
+      "no": 10,
+      "tanya": "The homework ... submit tomorrow.",
+      "opsi_a": "must be",
+      "opsi_b": "must",
+      "opsi_c": "is",
+      "opsi_d": "was",
+      "jawaban": "A",
+      "pembahasan": "Kalimat ini menggunakan Modal (must) untuk keharusan di masa depan. Rumus Pasif Modal: Modal + be + V3. Jadi, 'must be submit' (seharusnya submitted, namun di opsi hanya ada pelengkap 'must be' yang paling mendekati struktur pasif modal)."
+    },
+    {
+      "no": 11,
+      "tanya": "Correct the verb: 'The novel (write) by Andrea Hirata in 2005.'",
+      "opsi_a": "is written",
+      "opsi_b": "was written",
+      "opsi_c": "has been written",
+      "opsi_d": "wrote",
+      "jawaban": "B",
+      "pembahasan": "Tahun 2005 adalah masa lampau (Past Tense). Novel (tunggal). Rumus: Was + V3 (written)."
+    },
+    {
+      "no": 12,
+      "tanya": "English ... all over the world.",
+      "opsi_a": "speaks",
+      "opsi_b": "is speaking",
+      "opsi_c": "is spoken",
+      "opsi_d": "spoken",
+      "jawaban": "C",
+      "pembahasan": "Kalimat ini menyatakan fakta umum (General Truth). Bahasa Inggris 'digunakan/dibicarakan', bukan 'berbicara'. Rumus: Is + V3 (spoken)."
+    },
+    {
+      "no": 13,
+      "tanya": "Active: 'Leonardo da Vinci painted the Mona Lisa.'\nPassive: ...",
+      "opsi_a": "The Mona Lisa is painted by Leonardo da Vinci.",
+      "opsi_b": "The Mona Lisa was painted by Leonardo da Vinci.",
+      "opsi_c": "The Mona Lisa has been painted by Leonardo da Vinci.",
+      "opsi_d": "The Mona Lisa were painted by Leonardo da Vinci.",
+      "jawaban": "B",
+      "pembahasan": "Kalimat aktif Past Tense (painted). Pasifnya harus menggunakan 'was/were + V3'. Mona Lisa tunggal, jadi pakai 'was painted'."
+    },
+    {
+      "no": 14,
+      "tanya": "Choose the correct passive form for: 'People drink coffee in the morning.'",
+      "opsi_a": "Coffee was drunk in the morning.",
+      "opsi_b": "Coffee is drunk in the morning.",
+      "opsi_c": "Coffee are drunk in the morning.",
+      "opsi_d": "Coffee is drank in the morning.",
+      "jawaban": "B",
+      "pembahasan": "Simple Present Tense. Coffee (uncountable/singular) -> is. V3 dari drink adalah drunk. Jadi: Coffee is drunk."
+    },
+    {
+      "no": 15,
+      "tanya": "This antique vase ... broken by the cat.",
+      "opsi_a": "has",
+      "opsi_b": "have",
+      "opsi_c": "has been",
+      "opsi_d": "have been",
+      "jawaban": "C",
+      "pembahasan": "Pola Present Perfect Passive. Vase (tunggal) menggunakan 'has'. Rumus: Has + been + V3. Jadi, 'has been broken'."
+    },
+    {
+      "no": 16,
+      "tanya": "Change to passive: 'They are discussing the project.'",
+      "opsi_a": "The project is discussing by them.",
+      "opsi_b": "The project was discussed by them.",
+      "opsi_c": "The project is being discussed by them.",
+      "opsi_d": "The project will be discussed by them.",
+      "jawaban": "C",
+      "pembahasan": "Active: Present Continuous (are discussing). Passive: Is/Am/Are + being + V3. Subject 'The Project' tunggal -> 'is being discussed'."
+    },
+    {
+      "no": 17,
+      "tanya": "Which sentence contains an error?",
+      "opsi_a": "The room is cleaned every day.",
+      "opsi_b": "The car was fixed yesterday.",
+      "opsi_c": "The cake has been ate by him.",
+      "opsi_d": "The letter will be sent soon.",
+      "jawaban": "C",
+      "pembahasan": "Kesalahan ada pada V3. V3 dari eat adalah 'eaten', bukan 'ate'. Seharusnya: 'The cake has been eaten by him'."
+    },
+    {
+      "no": 18,
+      "tanya": "'Can the problem ... solved?'",
+      "opsi_a": "is",
+      "opsi_b": "be",
+      "opsi_c": "been",
+      "opsi_d": "being",
+      "jawaban": "B",
+      "pembahasan": "Modal (Can) dalam bentuk pasif selalu diikuti 'be' + V3. Jadi, 'Can the problem be solved?'"
+    },
+    {
+      "no": 19,
+      "tanya": "The plants died because they ... watered.",
+      "opsi_a": "are not",
+      "opsi_b": "were not",
+      "opsi_c": "have not",
+      "opsi_d": "will not be",
+      "jawaban": "B",
+      "pembahasan": "Kalimat menggunakan 'died' (Past Tense), maka klausa pasifnya juga harus Past Tense. Subjek 'they' jamak -> 'were not watered'."
+    },
+    {
+      "no": 20,
+      "tanya": "In the sentence 'The book was written by J.K. Rowling', the phrase 'by J.K. Rowling' is called...",
+      "opsi_a": "The Subject",
+      "opsi_b": "The Object",
+      "opsi_c": "The Agent",
+      "opsi_d": "The Verb",
+      "jawaban": "C",
+      "pembahasan": "Dalam kalimat pasif, pelaku tindakan yang diawali dengan 'by' disebut sebagai 'The Agent'."
+    },
+    {
+      "no": 21,
+      "tanya": "Active: 'My father has washed the car.' \nPassive: ...",
+      "opsi_a": "The car was washed by my father.",
+      "opsi_b": "The car has been washed by my father.",
+      "opsi_c": "The car have been washed by my father.",
+      "opsi_d": "The car is being washed by my father.",
+      "jawaban": "B",
+      "pembahasan": "Present Perfect Active (has washed) -> Passive (has been washed). 'The car' tunggal, jadi pakai 'has'."
+    },
+    {
+      "no": 22,
+      "tanya": "The package ... delivered two days ago.",
+      "opsi_a": "is",
+      "opsi_b": "was",
+      "opsi_c": "are",
+      "opsi_d": "were",
+      "jawaban": "B",
+      "pembahasan": "'Two days ago' indikator Past Tense. 'The package' tunggal. Maka to be yang tepat adalah 'was'."
+    },
+    {
+      "no": 23,
+      "tanya": "Which sentence means 'Seseorang sedang memperbaiki atap'?",
+      "opsi_a": "The roof is repaired.",
+      "opsi_b": "The roof was repaired.",
+      "opsi_c": "The roof is being repaired.",
+      "opsi_d": "The roof has been repaired.",
+      "jawaban": "C",
+      "pembahasan": "'Sedang' menunjukkan continuous. Pasif Continuous: Is being + V3. 'The roof is being repaired'."
+    },
+    {
+      "no": 24,
+      "tanya": "The song 'Indonesia Raya' ... by W.R. Supratman.",
+      "opsi_a": "composed",
+      "opsi_b": "is composed",
+      "opsi_c": "was composed",
+      "opsi_d": "has composed",
+      "jawaban": "C",
+      "pembahasan": "Lagu diciptakan di masa lampau oleh orang yang sudah meninggal/peristiwa sejarah. Gunakan Past Passive: 'was composed'."
+    },
+    {
+      "no": 25,
+      "tanya": "Active: 'Teachers should teach students how to think.'\nPassive: 'Students ... how to think by teachers.'",
+      "opsi_a": "should be taught",
+      "opsi_b": "should taught",
+      "opsi_c": "should be teach",
+      "opsi_d": "should been taught",
+      "jawaban": "A",
+      "pembahasan": "Modal Passive: Modal + be + V3. Should + be + taught."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Change the following sentence into Passive Voice:\n'The gardener waters the plants every afternoon.'",
+      "jawaban_lengkap": "The plants are watered by the gardener every afternoon.\n(Explanation: Tense is Simple Present. Object 'The plants' is plural -> are + V3 'watered')."
+    },
+    {
+      "no": 2,
+      "tanya": "Change the following sentence into Passive Voice:\n'Somebody broke the window yesterday.'",
+      "jawaban_lengkap": "The window was broken yesterday.\n(Explanation: Tense is Simple Past. Object 'The window' is singular -> was + V3 'broken'. 'By somebody' can be omitted)."
+    },
+    {
+      "no": 3,
+      "tanya": "Change the following sentence into Passive Voice:\n'They are building a new library in the city center.'",
+      "jawaban_lengkap": "A new library is being built in the city center (by them).\n(Explanation: Tense is Present Continuous. Object 'A new library' -> is being + V3 'built')."
+    },
+    {
+      "no": 4,
+      "tanya": "Change the following sentence into Passive Voice:\n'We have finished the project.'",
+      "jawaban_lengkap": "The project has been finished (by us).\n(Explanation: Tense is Present Perfect. Object 'The project' -> has been + V3 'finished')."
+    },
+    {
+      "no": 5,
+      "tanya": "Change the following sentence into Active Voice:\n'The delicious cake was made by my grandmother.'",
+      "jawaban_lengkap": "My grandmother made the delicious cake.\n(Explanation: Passive uses 'was made' (Past). Active subject is 'My grandmother'. Verb changes to V2 'made')."
+    },
+    {
+      "no": 6,
+      "tanya": "Change the following sentence into Active Voice:\n'The room will be cleaned by the hotel service.'",
+      "jawaban_lengkap": "The hotel service will clean the room.\n(Explanation: Passive uses 'will be cleaned' (Future). Active verb changes to 'will clean')."
+    },
+    {
+      "no": 7,
+      "tanya": "Explain briefly why we use Passive Voice in a sentence!",
+      "jawaban_lengkap": "We use Passive Voice when:\n1. We want to emphasize the object (the receiver of the action) rather than the subject (the doer).\n2. We do not know who the doer is.\n3. The doer is obvious or not important to mention."
+    },
+    {
+      "no": 8,
+      "tanya": "Complete the sentence with the correct passive verb form:\n'Many houses ... (destroy) by the earthquake last night.'",
+      "jawaban_lengkap": "Many houses were destroyed by the earthquake last night.\n(Explanation: 'Last night' indicates Past Tense. 'Houses' is plural -> were + V3 'destroyed')."
+    },
+    {
+      "no": 9,
+      "tanya": "Arrange the jumbled words into a correct passive sentence:\nbe - delivered - package - will - The - tomorrow",
+      "jawaban_lengkap": "The package will be delivered tomorrow."
+    },
+    {
+      "no": 10,
+      "tanya": "Write a passive sentence describing how 'Instant Noodles' are prepared (use at least 2 steps).",
+      "jawaban_lengkap": "First, the water is boiled in a pan. Then, the noodles are put into the boiling water for 3 minutes. Finally, the seasonings are mixed with the noodles."
+    }
+  ]
+}

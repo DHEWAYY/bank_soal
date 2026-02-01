@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Teks Tanggapan Kritis - 9 SMP Semester Genap",
+    "mapel": "B. Indonesia",
+    "jenjang": "SMP",
+    "kelas": "9 SMP",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Teks yang berisi komentar, evaluasi, kritik, pujian, dan dukungan terhadap suatu karya sastra, seni, atau fenomena disebut...",
+      "opsi_a": "Teks Eksemplum",
+      "opsi_b": "Teks Tanggapan",
+      "opsi_c": "Teks Diskusi",
+      "opsi_d": "Teks Persuasi",
+      "jawaban": "B",
+      "pembahasan": "Teks tanggapan adalah teks yang berisi tanggapan berupa dukungan (pujian) atau penolakan (kritik) terhadap suatu hal/karya yang disertai alasan logis."
+    },
+    {
+      "no": 2,
+      "tanya": "Tujuan utama dari teks tanggapan kritis adalah...",
+      "opsi_a": "Mempengaruhi pembaca untuk membeli suatu produk",
+      "opsi_b": "Memberikan penilaian objektif akan kelebihan dan kekurangan suatu karya",
+      "opsi_c": "Menceritakan pengalaman pribadi penulis",
+      "opsi_d": "Menjelaskan langkah-langkah membuat sesuatu",
+      "jawaban": "B",
+      "pembahasan": "Teks tanggapan bertujuan untuk memberikan penilaian yang objektif dan santun mengenai kelebihan dan kekurangan suatu karya atau fenomena."
+    },
+    {
+      "no": 3,
+      "tanya": "Struktur teks tanggapan yang benar secara berurutan adalah...",
+      "opsi_a": "Orientasi, Komplikasi, Resolusi",
+      "opsi_b": "Tesis, Argumen, Penegasan Ulang",
+      "opsi_c": "Evaluasi, Deskripsi Teks, Penegasan Ulang",
+      "opsi_d": "Klasifikasi, Anggota, Aspek",
+      "jawaban": "C",
+      "pembahasan": "Struktur teks tanggapan terdiri dari: 1. Evaluasi (konteks), 2. Deskripsi Teks, 3. Penegasan Ulang."
+    },
+    {
+      "no": 4,
+      "tanya": "Bagian awal teks tanggapan yang berisi pernyataan umum mengenai apa yang akan disampaikan penulis dalam teks disebut...",
+      "opsi_a": "Evaluasi",
+      "opsi_b": "Deskripsi Teks",
+      "opsi_c": "Penegasan Ulang",
+      "opsi_d": "Abstraksi",
+      "jawaban": "A",
+      "pembahasan": "Evaluasi adalah bagian awal yang berisi pernyataan umum tentang apa yang akan dikritisi atau ditanggapi."
+    },
+    {
+      "no": 5,
+      "tanya": "Bacalah kutipan berikut: 'Lukisan ini tidak hanya menggambarkan keindahan alam, tetapi juga menyiratkan pesan tentang pentingnya menjaga kelestarian hutan.' Kalimat tersebut mengandung unsur...",
+      "opsi_a": "Kritik pedas",
+      "opsi_b": "Pujian",
+      "opsi_c": "Saran",
+      "opsi_d": "Sanggahan",
+      "jawaban": "B",
+      "pembahasan": "Kalimat tersebut mengungkapkan keunggulan atau sisi positif dari lukisan, sehingga termasuk kalimat pujian."
+    },
+    {
+      "no": 6,
+      "tanya": "Kalimat kritik yang santun dan membangun di bawah ini adalah...",
+      "opsi_a": "Cerpen ini sangat membosankan dan tidak layak baca.",
+      "opsi_b": "Penulisnya pasti tidak memiliki bakat menulis sama sekali.",
+      "opsi_c": "Alur cerita ini sedikit lambat, akan lebih baik jika konflik dipercepat agar pembaca tidak jenuh.",
+      "opsi_d": "Gambar sampul buku ini jelek sekali warnanya.",
+      "jawaban": "C",
+      "pembahasan": "Opsi C memberikan penilaian kekurangan (alur lambat) namun disertai solusi/saran (konflik dipercepat) dengan bahasa yang sopan."
+    },
+    {
+      "no": 7,
+      "tanya": "Perhatikan kalimat berikut: 'Meskipun akting pemain utama sangat memukau, namun tata suara dalam film ini terdengar kurang jernih.' Konjungsi antarkalimat yang tepat untuk menggantikan kata 'namun' agar kalimat menjadi efektif adalah...",
+      "opsi_a": "Akan tetapi",
+      "opsi_b": "Sehingga",
+      "opsi_c": "Dan",
+      "opsi_d": "Tetapi",
+      "jawaban": "A",
+      "pembahasan": "Dalam bahasa Indonesia baku, 'namun' adalah konjungsi antarkalimat, sedangkan 'tetapi' intrakalimat. Namun, dalam konteks kalimat majemuk bertingkat dengan 'meskipun', sebenarnya tidak perlu konjungsi pertentangan lagi. Jika harus memilih perbaikan struktur, penggunaan 'akan tetapi' di awal kalimat baru lebih tepat untuk pertentangan, atau menghilangkan 'namun' pada kalimat tersebut."
+    },
+    {
+      "no": 8,
+      "tanya": "Bagian yang berisi informasi mendetail tentang data-data dan pendapat yang mendukung atau melemahkan tanggapan disebut...",
+      "opsi_a": "Evaluasi",
+      "opsi_b": "Deskripsi Teks",
+      "opsi_c": "Penegasan Ulang",
+      "opsi_d": "Orientasi",
+      "jawaban": "B",
+      "pembahasan": "Deskripsi teks memuat detail, data, dan argumen yang mendukung penilaian (baik positif maupun negatif) terhadap karya."
+    },
+    {
+      "no": 9,
+      "tanya": "Ciri kebahasaan teks tanggapan yang sering menggunakan kalimat kompleks. Kalimat kompleks adalah...",
+      "opsi_a": "Kalimat yang hanya memiliki satu predikat",
+      "opsi_b": "Kalimat yang memiliki lebih dari dua struktur dan dua verba",
+      "opsi_c": "Kalimat yang tidak memiliki subjek",
+      "opsi_d": "Kalimat perintah",
+      "jawaban": "B",
+      "pembahasan": "Kalimat kompleks (majemuk) adalah kalimat yang memiliki lebih dari satu struktur kalimat (klausa) dan lebih dari satu verba (kata kerja) utama."
+    },
+    {
+      "no": 10,
+      "tanya": "Bacalah teks berikut: 'Secara keseluruhan, novel ini sangat layak dibaca oleh remaja karena mengajarkan nilai persahabatan yang tulus.' Kutipan tersebut merupakan bagian...",
+      "opsi_a": "Evaluasi",
+      "opsi_b": "Deskripsi Teks",
+      "opsi_c": "Penegasan Ulang",
+      "opsi_d": "Insiden",
+      "jawaban": "C",
+      "pembahasan": "Penegasan ulang berisi simpulan akhir atau rekomendasi penulis terhadap karya yang ditanggapi."
+    },
+    {
+      "no": 11,
+      "tanya": "Kata rujukan yang sering digunakan dalam teks tanggapan adalah...",
+      "opsi_a": "Itu, ini, tersebut",
+      "opsi_b": "Dan, atau, tetapi",
+      "opsi_c": "Di, ke, dari",
+      "opsi_d": "Si, sang, hang",
+      "jawaban": "A",
+      "pembahasan": "Kata rujukan (demonstrativa) seperti ini, itu, tersebut digunakan untuk merujuk pada informasi yang sudah disebutkan sebelumnya."
+    },
+    {
+      "no": 12,
+      "tanya": "Dalam memberikan tanggapan, kita harus menghindari...",
+      "opsi_a": "Fakta dan data",
+      "opsi_b": "Bahasa yang santun",
+      "opsi_c": "Sentimen pribadi dan kata kasar",
+      "opsi_d": "Alasan yang logis",
+      "jawaban": "C",
+      "pembahasan": "Tanggapan harus objektif dan santun, tidak boleh didasari kebencian pribadi atau menggunakan kata-kata kasar."
+    },
+    {
+      "no": 13,
+      "tanya": "Perhatikan kalimat: 'Film Laskar Pelangi diadaptasi dari novel *best seller* karya Andrea Hirata.' Arti kata yang dicetak miring adalah...",
+      "opsi_a": "Paling mahal",
+      "opsi_b": "Paling laris",
+      "opsi_c": "Paling tebal",
+      "opsi_d": "Paling lama",
+      "jawaban": "B",
+      "pembahasan": "Best seller artinya produk (buku) yang paling laris terjual."
+    },
+    {
+      "no": 14,
+      "tanya": "Manakah yang merupakan kalimat persetujuan dalam teks tanggapan?",
+      "opsi_a": "Saya kurang sependapat dengan alur yang dibuat penulis.",
+      "opsi_b": "Pendapat tersebut memang benar adanya, bahwa kebersihan adalah tanggung jawab bersama.",
+      "opsi_c": "Sayangnya, pewarnaan dalam poster itu terlalu gelap.",
+      "opsi_d": "Buku ini terlalu mahal untuk kalangan pelajar.",
+      "jawaban": "B",
+      "pembahasan": "Kalimat B menunjukkan dukungan atau persetujuan terhadap suatu pendapat."
+    },
+    {
+      "no": 15,
+      "tanya": "Fungsi dari konjungsi antarkalimat 'Oleh karena itu' adalah...",
+      "opsi_a": "Menyatakan pertentangan",
+      "opsi_b": "Menyatakan penambahan",
+      "opsi_c": "Menyatakan sebab-akibat/konsekuensi",
+      "opsi_d": "Menyatakan waktu",
+      "jawaban": "C",
+      "pembahasan": "'Oleh karena itu' digunakan untuk menyimpulkan atau menyatakan akibat dari pernyataan sebelumnya."
+    },
+    {
+      "no": 16,
+      "tanya": "Berikut ini yang BUKAN merupakan syarat tanggapan yang baik adalah...",
+      "opsi_a": "Objektif",
+      "opsi_b": "Santun",
+      "opsi_c": "Logis",
+      "opsi_d": "Subjektif emosional",
+      "jawaban": "D",
+      "pembahasan": "Tanggapan tidak boleh subjektif emosional (berdasarkan perasaan pribadi sesaat tanpa logika), tetapi harus objektif."
+    },
+    {
+      "no": 17,
+      "tanya": "Karya seni yang sering dijadikan objek teks tanggapan adalah, kecuali...",
+      "opsi_a": "Lukisan",
+      "opsi_b": "Novel",
+      "opsi_c": "Film",
+      "opsi_d": "Mimpi",
+      "jawaban": "D",
+      "pembahasan": "Mimpi adalah pengalaman bawah sadar pribadi yang abstrak dan bukan karya seni publik yang bisa ditanggapi secara umum."
+    },
+    {
+      "no": 18,
+      "tanya": "Penggunaan kata 'sayangnya', 'akan tetapi', 'hanya saja' biasanya menandakan penulis sedang menyampaikan...",
+      "opsi_a": "Pujian",
+      "opsi_b": "Kritik/Kekurangan",
+      "opsi_c": "Persetujuan",
+      "opsi_d": "Deskripsi umum",
+      "jawaban": "B",
+      "pembahasan": "Kata-kata tersebut adalah konjungsi pertentangan yang sering digunakan untuk menjembatani antara kelebihan menuju kekurangan (kritik)."
+    },
+    {
+      "no": 19,
+      "tanya": "Bacalah teks: 'Penggunaan gadget pada anak memang memiliki dampak positif untuk belajar. Namun, pengawasan orang tua tetap mutlak diperlukan agar anak tidak mengakses konten negatif.' Tanggapan di atas bersifat...",
+      "opsi_a": "Menolak total",
+      "opsi_b": "Mendukung sepenuhnya",
+      "opsi_c": "Netral/Berimbang",
+      "opsi_d": "Masa bodoh",
+      "jawaban": "C",
+      "pembahasan": "Tanggapan tersebut melihat dua sisi (positif dan syarat negatifnya), sehingga bersifat berimbang atau netral."
+    },
+    {
+      "no": 20,
+      "tanya": "Judul yang tepat untuk teks tanggapan mengenai dampak kebakaran hutan adalah...",
+      "opsi_a": "Cara Membakar Hutan",
+      "opsi_b": "Keuntungan Membuka Lahan dengan Membakar",
+      "opsi_c": "Menelusuri Dampak Negatif Kebakaran Hutan bagi Kesehatan",
+      "opsi_d": "Hutan yang Indah",
+      "jawaban": "C",
+      "pembahasan": "Judul C paling relevan dengan konteks 'tanggapan' terhadap suatu fenomena/masalah."
+    },
+    {
+      "no": 21,
+      "tanya": "Kalimat yang menggunakan kata tugas (preposisi) yang tepat adalah...",
+      "opsi_a": "Dia menaruh buku di meja.",
+      "opsi_b": "Novel ini di tulis oleh penulis terkenal.",
+      "opsi_c": "Kita harus berfikir kedepan.",
+      "opsi_d": "Penonton terpukau oleh akting aktor.",
+      "jawaban": "D",
+      "pembahasan": "A (seharusnya 'di atas meja' lebih lengkap, atau 'di meja' boleh tapi kurang spesifik). B (salah, 'ditulis' harus digabung). C (salah, 'ke depan' harus dipisah). D benar (oleh adalah preposisi)."
+    },
+    {
+      "no": 22,
+      "tanya": "Apa yang dimaksud dengan 'konteks' dalam bagian evaluasi?",
+      "opsi_a": "Ringkasan cerita",
+      "opsi_b": "Apa yang ditanggapi, di mana, dan kapan kejadiannya",
+      "opsi_c": "Kelebihan karya",
+      "opsi_d": "Kekurangan karya",
+      "jawaban": "B",
+      "pembahasan": "Konteks dalam evaluasi berisi pengenalan awal tentang objek: apa karyanya, siapa pembuatnya, kapan dibuatnya/terjadinya."
+    },
+    {
+      "no": 23,
+      "tanya": "Berikut ini contoh kalimat yang mengandung penilaian terhadap karya lukisan adalah...",
+      "opsi_a": "Lukisan ini dibuat tahun 1990.",
+      "opsi_b": "Pelukisnya bernama Affandi.",
+      "opsi_c": "Goresan kuasnya sangat ekspresif dan penuh emosi.",
+      "opsi_d": "Lukisan ini dipajang di museum.",
+      "jawaban": "C",
+      "pembahasan": "Kalimat C memberikan penilaian (ekspresif, penuh emosi), sedangkan opsi lain hanya berupa fakta/informasi."
+    },
+    {
+      "no": 24,
+      "tanya": "Sinonim dari kata 'Kritik' adalah...",
+      "opsi_a": "Kecaman",
+      "opsi_b": "Pujian",
+      "opsi_c": "Sanjungan",
+      "opsi_d": "Dukungan",
+      "jawaban": "A",
+      "pembahasan": "Dalam konteks bahasa, kritik bersinonim dengan kecaman, tanggapan, atau kupasan (meski kritik akademik berbeda dengan kecaman emosional)."
+    },
+    {
+      "no": 25,
+      "tanya": "Jika kamu ingin menanggapi sebuah novel yang bahasanya sulit dimengerti, kalimat santun yang tepat adalah...",
+      "opsi_a": "Bahasanya aneh dan bikin pusing.",
+      "opsi_b": "Penulis gagal total dalam memilih kata.",
+      "opsi_c": "Alangkah lebih baik jika penulis menggunakan istilah yang lebih umum agar mudah dipahami pembaca awam.",
+      "opsi_d": "Novel ini tidak bermutu karena bahasanya tinggi.",
+      "jawaban": "C",
+      "pembahasan": "Opsi C menyampaikan kekurangan dengan cara memberikan saran perbaikan yang sopan."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Jelaskan perbedaan antara 'Pujian' dan 'Kritik' dalam teks tanggapan!",
+      "jawaban_lengkap": "Pujian adalah pernyataan pengakuan dan penghargaan atas keunggulan atau kebaikan suatu karya. Tujuannya untuk memberikan apresiasi.\nKritik adalah pernyataan yang menunjukkan kekurangan atau kesalahan suatu karya dengan tujuan untuk perbaikan atau koreksi, yang sebaiknya disertai dengan saran."
+    },
+    {
+      "no": 2,
+      "tanya": "Sebutkan dan jelaskan 3 struktur teks tanggapan kritis!",
+      "jawaban_lengkap": "1. Evaluasi: Bagian awal yang berisi pernyataan umum tentang apa yang akan ditanggapi (konteks karya).\n2. Deskripsi Teks: Bagian isi yang memuat informasi data, pendapat, serta rincian mendalam mengenai kelebihan dan kekurangan karya.\n3. Penegasan Ulang: Bagian penutup yang berisi simpulan atau penilaian akhir penulis terhadap karya tersebut."
+    },
+    {
+      "no": 3,
+      "tanya": "Buatlah satu contoh paragraf 'Evaluasi' untuk menanggapi sebuah novel!",
+      "jawaban_lengkap": "Novel 'Laskar Pelangi' karya Andrea Hirata merupakan salah satu karya sastra fenomenal di Indonesia. Novel ini pertama kali diterbitkan pada tahun 2005 dan mengangkat tema pendidikan serta perjuangan anak-anak di Belitung. Karya ini telah menginspirasi banyak pembaca tentang pentingnya bermimpi."
+    },
+    {
+      "no": 4,
+      "tanya": "Mengapa dalam memberikan kritik harus disertai dengan alasan yang logis dan saran?",
+      "jawaban_lengkap": "Kritik harus disertai alasan logis agar dapat diterima oleh akal sehat dan tidak dianggap sebagai penghinaan. Saran diperlukan agar kritik tersebut bersifat membangun (konstruktif), sehingga pencipta karya tahu bagian mana yang harus diperbaiki."
+    },
+    {
+      "no": 5,
+      "tanya": "Perbaikilah kalimat kritik berikut agar menjadi santun: 'Makanan di restoran ini rasanya tidak enak dan harganya kemahalan!'",
+      "jawaban_lengkap": "Rasa masakan di restoran ini perlu ditingkatkan lagi bumbunya agar lebih nikmat. Selain itu, harga yang ditawarkan sebaiknya disesuaikan dengan porsi dan kualitas rasa yang disajikan."
+    },
+    {
+      "no": 6,
+      "tanya": "Apa yang dimaksud dengan kalimat kompleks? Berikan satu contohnya dalam konteks menanggapi lukisan!",
+      "jawaban_lengkap": "Kalimat kompleks adalah kalimat yang memiliki lebih dari satu predikat atau terdiri dari induk kalimat dan anak kalimat.\nContoh: 'Lukisan ini menggunakan warna-warna cerah yang memanjakan mata, namun detail pada latar belakangnya terlihat kurang rapi.'"
+    },
+    {
+      "no": 7,
+      "tanya": "Jelaskan fungsi dari Deskripsi Teks dalam struktur teks tanggapan!",
+      "jawaban_lengkap": "Fungsi Deskripsi Teks adalah untuk menjabarkan fakta-fakta, data, atau bukti dari karya yang ditanggapi. Bagian ini menjadi dasar argumen penulis dalam menilai apakah karya tersebut bagus atau memiliki kekurangan."
+    },
+    {
+      "no": 8,
+      "tanya": "Sebutkan 3 kaidah kebahasaan yang sering muncul dalam teks tanggapan!",
+      "jawaban_lengkap": "1. Kalimat kompleks (majemuk).\n2. Konjungsi (kata hubung) antarkalimat dan intrakalimat.\n3. Kata rujukan (referensi).\n4. Pilihan kata (diksi) yang bersifat evaluatif (baik, buruk, indah, kurang)."
+    },
+    {
+      "no": 9,
+      "tanya": "Buatlah satu kalimat pujian dan satu kalimat kritik untuk sebuah film horor!",
+      "jawaban_lengkap": "Pujian: 'Efek visual hantu dalam film ini sangat realistis sehingga berhasil membangun suasana mencekam yang natural.'\nKritik: 'Sayangnya, alur cerita di paruh kedua film terasa terburu-buru sehingga penyelesaian konflik kurang memuaskan.'"
+    },
+    {
+      "no": 10,
+      "tanya": "Apa perbedaan antara teks tanggapan dengan teks resensi?",
+      "jawaban_lengkap": "Secara umum keduanya mirip. Namun, teks resensi biasanya lebih fokus pada ulasan buku/film untuk memberikan rekomendasi kepada pembaca (layak beli/tonton atau tidak) dengan struktur identitas karya yang lengkap. Sedangkan teks tanggapan kritis lebih fokus pada analisis tajam dan evaluasi mendalam terhadap kelebihan dan kekurangan suatu karya atau fenomena sosial (bukan hanya buku/film)."
+    }
+  ]
+}

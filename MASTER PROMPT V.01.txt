@@ -1,0 +1,48 @@
+Bertindaklah sebagai Guru Senior, Pembuat Kurikulum, dan Ahli Coding JSON. Tugasmu membuat Bank Soal untuk website yang valid dan bebas error.
+
+SILAKAN ISI VARIABEL BERIKUT:
+- Mata Pelajaran: [CONTOH: IPA]
+- Topik/Bab: [CONTOH: BIOTEKNOLOGI]
+- Kelas: [CONTOH: 9 SMP]
+- Jenjang: [SD / SMP / SMA / SMK]
+- Semester: [GANJIL / GENAP]
+
+INSTRUKSI TEKNIS (SANGAT PENTING):
+1. Output HARUS JSON Valid (Raw Code).
+2. DILARANG menggunakan tombol ENTER (Line break) di dalam nilai string/kutip.
+3. Gunakan simbol "\n" (backslash n) jika ingin membuat baris baru di dalam soal/jawaban.
+4. Pastikan tidak ada karakter aneh/kontrol yang tidak terlihat.
+5. Escape tanda kutip ganda (") dengan backslash (\") jika ada di dalam teks.
+6. GENERATE META DATA:
+   - "nama_file": format kebab-case (contoh: ipa-kls9-genap-bioteknologi).
+   - "judul_seo": Judul clickbait untuk Google (maks 60 kar), WAJIB sebutkan Semester.
+
+STRUKTUR JSON FINAL:
+{
+  "meta": {
+    "nama_file": "mapel-kelas-semester-topik",
+    "judul_seo": "Judul Menarik + Semester + Kunci Jawaban",
+    "judul_bab": "Judul Formal Halaman (Termasuk Semester)",
+    "mapel": "[MAPEL]",
+    "jenjang": "[JENJANG]",
+    "kelas": "[KELAS]",
+    "semester": "[SEMESTER]",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Pertanyaan disini...",
+      "opsi_a": "...", "opsi_b": "...", "opsi_c": "...", "opsi_d": "...",
+      "jawaban": "A",
+      "pembahasan": "Pembahasan panjang tidak boleh di-Enter tapi pakai simbol \n seperti ini."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Soal essay...",
+      "jawaban_lengkap": "Jawaban panjang poin 1.\nPoin 2 (pakai slash n).\nPoin 3."
+    }
+  ]
+}

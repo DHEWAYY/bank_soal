@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Penjumlahan & Pengurangan - 4 SD Semester Ganjil",
+    "mapel": "MATEMATIKA",
+    "jenjang": "SD",
+    "kelas": "4 SD",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Hasil dari 3.456 + 2.132 adalah...",
+      "opsi_a": "5.588",
+      "opsi_b": "5.598",
+      "opsi_c": "5.688",
+      "opsi_d": "5.488",
+      "jawaban": "A",
+      "pembahasan": "Penjumlahan bersusun: 6+2=8 (satuan), 5+3=8 (puluhan), 4+1=5 (ratusan), 3+2=5 (ribuan). Hasil: 5.588."
+    },
+    {
+      "no": 2,
+      "tanya": "Hasil pengurangan dari 8.765 - 4.321 adalah...",
+      "opsi_a": "4.444",
+      "opsi_b": "4.344",
+      "opsi_c": "4.544",
+      "opsi_d": "3.444",
+      "jawaban": "A",
+      "pembahasan": "Pengurangan bersusun: 5-1=4, 6-2=4, 7-3=4, 8-4=4. Hasil: 4.444."
+    },
+    {
+      "no": 3,
+      "tanya": "24.500 + 13.250 = n. Nilai n yang tepat adalah...",
+      "opsi_a": "37.650",
+      "opsi_b": "37.750",
+      "opsi_c": "37.850",
+      "opsi_d": "38.750",
+      "jawaban": "B",
+      "pembahasan": "0+0=0, 0+5=5, 5+2=7, 4+3=7, 2+1=3. Hasil: 37.750."
+    },
+    {
+      "no": 4,
+      "tanya": "Sebuah pabrik memproduksi 12.400 pasang sepatu pada bulan Januari dan 15.200 pasang pada bulan Februari. Jumlah produksi sepatu selama dua bulan tersebut adalah...",
+      "opsi_a": "27.600",
+      "opsi_b": "27.500",
+      "opsi_c": "26.600",
+      "opsi_d": "28.600",
+      "jawaban": "A",
+      "pembahasan": "12.400 + 15.200 = 27.600 pasang sepatu."
+    },
+    {
+      "no": 5,
+      "tanya": "Selisih antara bilangan 45.000 dan 23.500 adalah...",
+      "opsi_a": "21.500",
+      "opsi_b": "22.500",
+      "opsi_c": "11.500",
+      "opsi_d": "21.000",
+      "jawaban": "A",
+      "pembahasan": "45.000 - 23.500. 0-0=0, 0-0=0, 10-5=5 (pinjam 1), 4-3=1, 4-2=2. Hasil: 21.500."
+    },
+    {
+      "no": 6,
+      "tanya": "Hasil dari 5.678 + 3.421 - 2.099 adalah...",
+      "opsi_a": "7.000",
+      "opsi_b": "6.990",
+      "opsi_c": "7.001",
+      "opsi_d": "6.000",
+      "jawaban": "A",
+      "pembahasan": "Langkah 1: 5.678 + 3.421 = 9.099. Langkah 2: 9.099 - 2.099 = 7.000."
+    },
+    {
+      "no": 7,
+      "tanya": "Bilangan yang tepat untuk mengisi titik-titik pada operasi 12.300 + ... = 20.000 adalah...",
+      "opsi_a": "7.300",
+      "opsi_b": "7.700",
+      "opsi_c": "8.700",
+      "opsi_d": "8.300",
+      "jawaban": "B",
+      "pembahasan": "Mencari suku yang hilang dalam penjumlahan: Hasil - Suku yang ada. 20.000 - 12.300 = 7.700."
+    },
+    {
+      "no": 8,
+      "tanya": "Pak Ahmad memanen 25.400 kg padi. Sebanyak 10.200 kg dijual ke KUD dan 5.000 kg disimpan di lumbung. Sisanya dibagikan ke kerabat. Berapa kg padi yang dibagikan ke kerabat?",
+      "opsi_a": "10.000 kg",
+      "opsi_b": "10.200 kg",
+      "opsi_c": "15.200 kg",
+      "opsi_d": "11.200 kg",
+      "jawaban": "B",
+      "pembahasan": "Total - Dijual - Disimpan = 25.400 - 10.200 - 5.000. 25.400 - 10.200 = 15.200. 15.200 - 5.000 = 10.200 kg."
+    },
+    {
+      "no": 9,
+      "tanya": "Operasi hitung manakah yang hasilnya paling besar?",
+      "opsi_a": "10.000 + 5.000",
+      "opsi_b": "20.000 - 6.000",
+      "opsi_c": "8.000 + 8.000",
+      "opsi_d": "25.000 - 8.000",
+      "jawaban": "D",
+      "pembahasan": "A=15.000, B=14.000, C=16.000, D=17.000. Yang terbesar adalah D."
+    },
+    {
+      "no": 10,
+      "tanya": "Sifat komutatif pada penjumlahan ditunjukkan oleh...",
+      "opsi_a": "120 + 300 = 420",
+      "opsi_b": "120 + 300 = 300 + 120",
+      "opsi_c": "(120 + 300) + 50 = 120 + (300 + 50)",
+      "opsi_d": "120 + 0 = 120",
+      "jawaban": "B",
+      "pembahasan": "Sifat komutatif adalah pertukaran tempat: a + b = b + a."
+    },
+    {
+      "no": 11,
+      "tanya": "Sifat asosiatif (pengelompokan) pada penjumlahan ditunjukkan oleh...",
+      "opsi_a": "A + B = B + A",
+      "opsi_b": "A - B = B - A",
+      "opsi_c": "(A + B) + C = A + (B + C)",
+      "opsi_d": "A x B = B x A",
+      "jawaban": "C",
+      "pembahasan": "Sifat asosiatif adalah pengelompokan operasi hitung tiga bilangan: (a+b)+c = a+(b+c)."
+    },
+    {
+      "no": 12,
+      "tanya": "Jika 15.450 - n = 5.250, maka nilai n adalah...",
+      "opsi_a": "10.200",
+      "opsi_b": "20.700",
+      "opsi_c": "10.250",
+      "opsi_d": "9.200",
+      "jawaban": "A",
+      "pembahasan": "n adalah pengurang. n = Bilangan awal - Hasil. n = 15.450 - 5.250 = 10.200."
+    },
+    {
+      "no": 13,
+      "tanya": "Jumlah penduduk Desa A adalah 12.345 orang. Jumlah penduduk Desa B adalah 1.255 orang lebih banyak dari Desa A. Berapa jumlah penduduk Desa B?",
+      "opsi_a": "13.500",
+      "opsi_b": "13.600",
+      "opsi_c": "11.090",
+      "opsi_d": "13.590",
+      "jawaban": "B",
+      "pembahasan": "Penduduk Desa B = Penduduk A + Selisih Lebih. 12.345 + 1.255 = 13.600."
+    },
+    {
+      "no": 14,
+      "tanya": "Taksiran ke ribuan terdekat dari 4.250 + 5.870 adalah...",
+      "opsi_a": "9.000",
+      "opsi_b": "10.000",
+      "opsi_c": "11.000",
+      "opsi_d": "8.000",
+      "jawaban": "B",
+      "pembahasan": "4.250 dibulatkan ke bawah jadi 4.000. 5.870 dibulatkan ke atas jadi 6.000. 4.000 + 6.000 = 10.000."
+    },
+    {
+      "no": 15,
+      "tanya": "Ibu berbelanja ke pasar membawa uang Rp50.000. Ia membeli daging Rp28.500 dan sayuran Rp12.000. Sisa uang Ibu adalah...",
+      "opsi_a": "Rp8.500",
+      "opsi_b": "Rp9.500",
+      "opsi_c": "Rp10.500",
+      "opsi_d": "Rp9.000",
+      "jawaban": "B",
+      "pembahasan": "Total belanja = 28.500 + 12.000 = 40.500. Sisa = 50.000 - 40.500 = 9.500."
+    },
+    {
+      "no": 16,
+      "tanya": "Pada sebuah perpustakaan terdapat 3.450 buku cerita anak, 2.100 buku pelajaran, dan sisanya majalah. Jika total koleksi adalah 6.000 buku, berapa jumlah majalah?",
+      "opsi_a": "550",
+      "opsi_b": "450",
+      "opsi_c": "1.450",
+      "opsi_d": "2.550",
+      "jawaban": "B",
+      "pembahasan": "Buku yang diketahui = 3.450 + 2.100 = 5.550. Majalah = Total - Buku diketahui = 6.000 - 5.550 = 450."
+    },
+    {
+      "no": 17,
+      "tanya": "Angka 7 pada bilangan 37.450 memiliki nilai...",
+      "opsi_a": "70",
+      "opsi_b": "700",
+      "opsi_c": "7.000",
+      "opsi_d": "70.000",
+      "jawaban": "C",
+      "pembahasan": "Angka 7 menempati posisi ribuan, jadi nilainya 7.000."
+    },
+    {
+      "no": 18,
+      "tanya": "Manakah pernyataan di bawah ini yang BENAR?",
+      "opsi_a": "4.500 + 2.000 < 5.000",
+      "opsi_b": "8.000 - 3.000 > 6.000",
+      "opsi_c": "3.500 + 3.500 = 7.000",
+      "opsi_d": "9.000 - 1.000 = 7.000",
+      "jawaban": "C",
+      "pembahasan": "Cek satu per satu: A (6.500 < 5.000 Salah), B (5.000 > 6.000 Salah), C (7.000 = 7.000 Benar), D (8.000 = 7.000 Salah)."
+    },
+    {
+      "no": 19,
+      "tanya": "Ayah mengendarai mobil sejauh 125 km pada hari pertama dan 248 km pada hari kedua. Berapa total jarak yang ditempuh Ayah?",
+      "opsi_a": "363 km",
+      "opsi_b": "373 km",
+      "opsi_c": "383 km",
+      "opsi_d": "473 km",
+      "jawaban": "B",
+      "pembahasan": "125 + 248. 5+8=13 (simpan 1), 1+2+4=7, 1+2=3. Hasil: 373 km."
+    },
+    {
+      "no": 20,
+      "tanya": "Hasil dari 32.415 + 10.123 adalah...",
+      "opsi_a": "42.538",
+      "opsi_b": "42.638",
+      "opsi_c": "43.538",
+      "opsi_d": "42.528",
+      "jawaban": "A",
+      "pembahasan": "5+3=8, 1+2=3, 4+1=5, 2+0=2, 3+1=4. Hasil: 42.538."
+    },
+    {
+      "no": 21,
+      "tanya": "Selisih angka 5 dan angka 2 pada bilangan 54.210 adalah...",
+      "opsi_a": "49.800",
+      "opsi_b": "3.000",
+      "opsi_c": "2.900",
+      "opsi_d": "48.000",
+      "jawaban": "A",
+      "pembahasan": "Angka 5 bernilai 50.000. Angka 2 bernilai 200. Selisih: 50.000 - 200 = 49.800."
+    },
+    {
+      "no": 22,
+      "tanya": "Toko A menjual 1.250 roti, Toko B menjual 500 roti lebih sedikit dari Toko A. Berapa jumlah roti yang dijual Toko B?",
+      "opsi_a": "1.750",
+      "opsi_b": "750",
+      "opsi_c": "850",
+      "opsi_d": "550",
+      "jawaban": "B",
+      "pembahasan": "Toko B = Toko A - 500. 1.250 - 500 = 750 roti."
+    },
+    {
+      "no": 23,
+      "tanya": "Budi memiliki kelereng 1.500 butir. Andi memiliki kelereng 2.300 butir. Berapa butir kelereng yang harus Budi beli agar jumlah kelerengnya sama dengan Andi?",
+      "opsi_a": "800",
+      "opsi_b": "1.200",
+      "opsi_c": "3.800",
+      "opsi_d": "700",
+      "jawaban": "A",
+      "pembahasan": "Kekurangan = Milik Andi - Milik Budi = 2.300 - 1.500 = 800."
+    },
+    {
+      "no": 24,
+      "tanya": "Hasil penjumlahan dari 14.500 + 13.500 + 12.000 adalah...",
+      "opsi_a": "39.000",
+      "opsi_b": "40.000",
+      "opsi_c": "41.000",
+      "opsi_d": "38.000",
+      "jawaban": "B",
+      "pembahasan": "14.500 + 13.500 = 28.000. Kemudian 28.000 + 12.000 = 40.000."
+    },
+    {
+      "no": 25,
+      "tanya": "Bilangan ganjil terbesar yang dapat disusun dari angka 1, 5, 3, 8, 2 adalah...",
+      "opsi_a": "85.321",
+      "opsi_b": "85.312",
+      "opsi_c": "85.231",
+      "opsi_d": "85.123",
+      "jawaban": "A",
+      "pembahasan": "Agar terbesar, urutkan dari yang terbesar (8, 5, 3, 2, 1). Karena digit terakhir adalah 1 (ganjil), maka bilangan 85.321 adalah bilangan ganjil terbesar."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Penduduk kota Sukamaju terdiri dari 24.500 laki-laki dan 26.250 perempuan. Berapa jumlah total penduduk kota tersebut? Dan berapa selisih jumlah perempuan dan laki-laki?",
+      "jawaban_lengkap": "1. Total Penduduk = 24.500 + 26.250 = 50.750 orang. 2. Selisih = 26.250 - 24.500 = 1.750 orang."
+    },
+    {
+      "no": 2,
+      "tanya": "Sebuah truk mengangkut 8.500 batu bata. Di toko pertama, truk menurunkan 2.450 batu bata. Di toko kedua, truk menurunkan 3.125 batu bata. Berapa sisa batu bata di dalam truk sekarang?",
+      "jawaban_lengkap": "Total awal: 8.500. Diturunkan total: 2.450 + 3.125 = 5.575. Sisa: 8.500 - 5.575 = 2.925 batu bata."
+    },
+    {
+      "no": 3,
+      "tanya": "Tentukan nilai A dan B jika: A + B = 5.000 dan A - B = 1.000!",
+      "jawaban_lengkap": "Caranya: (5.000 + 1.000) : 2 = 6.000 : 2 = 3.000 (Ini nilai A yang lebih besar). Untuk B: 3.000 - B = 1.000, maka B = 2.000. Jadi A=3.000 dan B=2.000."
+    },
+    {
+      "no": 4,
+      "tanya": "Ibu memiliki uang Rp45.000. Ibu membeli beras seharga Rp12.500, gula Rp9.500, dan minyak goreng Rp15.000. Apakah uang Ibu cukup? Jika ya, berapa kembaliannya? Jika tidak, berapa kurangnya?",
+      "jawaban_lengkap": "Total belanja: 12.500 + 9.500 + 15.000 = 37.000. Uang Ibu: 45.000. Karena 45.000 > 37.000, uang Ibu cukup. Kembalian: 45.000 - 37.000 = Rp8.000."
+    },
+    {
+      "no": 5,
+      "tanya": "Isilah kotak kosong berikut dengan angka yang tepat: 4 [ ] 2 5 + [ ] 3 [ ] 4 = 7 8 9 9",
+      "jawaban_lengkap": "Satuan: 5+4=9 (Pas). Puluhan: 2+[ ]=9 -> [ ]=7. Ratusan: [ ]+3=8 -> [ ]=5. Ribuan: 4+[ ]=7 -> [ ]=3. Jadi angka yang hilang berturut-turut adalah 5, 3, dan 7. Operasinya: 4.525 + 3.374 = 7.899."
+    },
+    {
+      "no": 6,
+      "tanya": "Pak Budi memanen jagung selama 3 hari berturut-turut. Hari pertama 1.250 kg. Hari kedua 500 kg lebih banyak dari hari pertama. Hari ketiga 200 kg lebih sedikit dari hari kedua. Berapa total panen Pak Budi selama 3 hari?",
+      "jawaban_lengkap": "Hari 1 = 1.250 kg. Hari 2 = 1.250 + 500 = 1.750 kg. Hari 3 = 1.750 - 200 = 1.550 kg. Total = 1.250 + 1.750 + 1.550 = 4.550 kg."
+    },
+    {
+      "no": 7,
+      "tanya": "Andi, Budi, dan Cici mengumpulkan prangko. Andi punya 1.200 prangko. Budi punya 1.500 prangko. Jumlah prangko Cici sama dengan selisih prangko Andi dan Budi ditambah 500. Berapa jumlah prangko Cici?",
+      "jawaban_lengkap": "Selisih Andi dan Budi = 1.500 - 1.200 = 300. Prangko Cici = 300 + 500 = 800 prangko."
+    },
+    {
+      "no": 8,
+      "tanya": "Susunlah 4 angka: 2, 5, 8, 9 menjadi bilangan 4 angka terbesar dan terkecil, kemudian hitunglah selisih kedua bilangan tersebut!",
+      "jawaban_lengkap": "Terbesar: 9.852. Terkecil: 2.589. Selisih: 9.852 - 2.589 = 7.263."
+    },
+    {
+      "no": 9,
+      "tanya": "Sebuah stadion memiliki kapasitas 10.000 penonton. Pada pertandingan pertama hadir 4.500 penonton. Pada pertandingan kedua penonton yang hadir bertambah 1.200 orang dari pertandingan pertama. Berapa kursi kosong pada pertandingan kedua?",
+      "jawaban_lengkap": "Penonton pertandingan ke-2: 4.500 + 1.200 = 5.700. Kursi kosong: 10.000 - 5.700 = 4.300 kursi."
+    },
+    {
+      "no": 10,
+      "tanya": "Buatlah soal cerita penjumlahan dan pengurangan yang melibatkan bilangan 5.000, 2.500, dan 1.000, kemudian selesaikan!",
+      "jawaban_lengkap": "Contoh Soal: Ayah punya uang Rp5.000. Diberi kakek Rp2.500. Lalu digunakan untuk jajan Rp1.000. Berapa uang ayah sekarang? Jawab: 5.000 + 2.500 = 7.500. 7.500 - 1.000 = Rp6.500."
+    }
+  ]
+}
