@@ -2,7 +2,7 @@
 
 # 📚 BankSoal.id Engine
 
-![Bank Soal Banner](assets/banner.jpg)
+![Bank Soal Banner](assets/bank_soal.png)
 
 **Platform Latihan Soal Digital Open-Source Terlengkap** *Generate website bank soal statis dengan Python, JSON, dan GitHub Pages.*
 
