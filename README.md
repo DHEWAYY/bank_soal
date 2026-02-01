@@ -1,48 +1,36 @@
-# 📚 Bank Soal Static Generator (Serverless)
+<div align="center">
 
-Project ini adalah engine pembuat website **Bank Soal Pendidikan** yang statis, cepat, dan otomatis. Dibangun menggunakan Python untuk mengubah data soal (JSON) menjadi halaman web (HTML) dan dokumen siap cetak (.docx/Word) secara bersamaan.
+# 📚 BankSoal.id Engine
 
-Didesain khusus untuk **AdSense-ready**, **SEO Friendly**, dan **Zero Cost Hosting** (menggunakan Cloudflare Pages).
+![Bank Soal Banner](assets/banner.jpg)
+
+**Platform Latihan Soal Digital Open-Source Terlengkap** *Generate website bank soal statis dengan Python, JSON, dan GitHub Pages.*
+
+[🌐 Buka Website](https://spacenet.my.id) · [🐞 Lapor Bug](https://github.com/DHEWAYY/bank_soal/issues)
+
+</div>
+
+---
 
 ## 🔥 Fitur Utama
+* **Generate Otomatis:** Ubah data JSON jadi website HTML statis super cepat.
+* **Support Word:** Otomatis bikin file `.docx` buat user yang mau download soal.
+* **AdSense Ready:** Udah tertanam slot iklan & `ads.txt` otomatis.
+* **SEO Friendly:** Struktur HTML rapi, meta tag lengkap, dan loading ngebut.
+* **Gratis Hosting:** Didesain khusus buat jalan di GitHub Pages via Cloudflare.
 
-* **Automation:** Sekali running script, ribuan halaman HTML & file Word ter-generate.
-* **Dual Output:**
-    * 🌐 **HTML:** Website responsif dengan Tailwind CSS (via CDN).
-    * 📄 **DOCX:** Dokumen Word rapi lengkap dengan Kunci Jawaban terpisah (untuk guru).
-* **AdSense Optimized:** Slot iklan strategis (Header, Tengah Artikel, SafeLink Download).
-* **Zero Database:** Tidak perlu MySQL/PostgreSQL. Semua data berbasis file (JSON).
-* **Blazing Fast:** Tidak ada processing di server. Loading page < 1 detik.
-* **SEO Structure:** Mendukung Breadcrumb, H1 dinamis, dan Semantic HTML.
+## 🛠️ Teknologi
+* **Engine:** Python 3
+* **Database:** JSON Files
+* **Frontend:** Tailwind CSS (CDN)
+* **Hosting:** GitHub Pages
+* **CDN & DNS:** Cloudflare
 
-## 🛠️ Tech Stack
+## 🚀 Cara Pakai
+1.  Masukkan file soal (JSON) ke folder `data/`.
+2.  Jalankan script: `python generator.py`.
+3.  Push folder `docs/` ke GitHub.
+4.  Selesai! Website otomatis terupdate.
 
-* **Language:** Python 3.x
-* **Library:** `python-docx` (untuk generate Word), `json`, `os`.
-* **Frontend:** HTML5, Tailwind CSS (Utility-first).
-* **Hosting:** Cloudflare Pages (Rekomendasi).
-
-## 🚀 Cara Install (Setup Awal)
-
-1.  **Clone Repository ini:**
-    ```bash
-    git clone [https://github.com/DHEWAYY/web_bank_soal_id.git](https://github.com/DHEWAYY/web_bank_soal_id.git)
-    cd web_bank_soal_id
-    ```
-
-2.  **Install Library Python:**
-    Hanya butuh satu library tambahan untuk fitur Word.
-    ```bash
-    pip install python-docx
-    ```
-
-## 📂 Struktur Folder
-
-```text
-.
-├── data/               # Taruh file soal (JSON) disini
-├── output/             # Hasil generate HTML ada disini (JANGAN DIEDIT MANUAL)
-│   └── downloads/      # File .docx akan muncul disini
-├── generator.py        # Script ajaib (Engine utama)
-├── template.html       # Desain tampilan website
-└── README.md           # Dokumentasi ini"# web_bank_soal_id"  
+---
+&copy; 2026 BankSoal.id Project by Dhewayy.
