@@ -5,10 +5,10 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 # --- KONFIGURASI CUAN ---
 DOMAIN_UTAMA = "spacenet.my.id"
-ADSENSE_ID = "ca-pub-8957427036950408" # ID Lu Udah Gw Tanam Disini
+ADSENSE_ID = "ca-pub-8957427036950408" 
 ADS_TXT_CONTENT = "google.com, pub-8957427036950408, DIRECT, f08c47fec0942fa0"
 
-# --- TEMPLATE HTML (AMP READY + SEARCH + NAVIGASI) ---
+# --- TEMPLATE HTML (FULL AMP AD UNIT + SEARCH + NAVIGASI) ---
 TEMPLATE_HEADER = """<!DOCTYPE html>
 <html lang="id">
 <head>
@@ -20,7 +20,7 @@ TEMPLATE_HEADER = """<!DOCTYPE html>
     
     <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
     
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADS_ID}" crossorigin="anonymous"></script>
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans flex flex-col min-h-screen">
 
@@ -41,9 +41,20 @@ TEMPLATE_HEADER = """<!DOCTYPE html>
 </nav>
 
 <main class="max-w-4xl mx-auto px-4 py-8 flex-grow">
-    <div class="w-full h-[100px] bg-gray-200 rounded-lg flex items-center justify-center mb-8 border-2 border-dashed border-gray-300 text-gray-400 font-bold text-xs">[SLOT IKLAN DISPLAY]</div>
+    
+    <div class="w-full mb-8 text-center bg-white p-1 rounded border border-gray-100 overflow-hidden">
+        <amp-ad width="100vw" height="320"
+             type="adsense"
+             data-ad-client="ca-pub-8957427036950408"
+             data-ad-slot="8904659749"
+             data-auto-format="rspv"
+             data-full-width="">
+          <div overflow=""></div>
+        </amp-ad>
+    </div>
 """
 
+# --- FITUR SEARCH KOLOM ---
 TEMPLATE_SEARCH = """
     <div class="mb-8 relative">
         <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-gray-400">
@@ -76,7 +87,6 @@ TEMPLATE_SEARCH = """
 """
 
 TEMPLATE_FOOTER = """
-    <div class="w-full h-[250px] bg-gray-200 rounded-lg flex items-center justify-center mt-8 border-2 border-dashed border-gray-300 text-gray-400 font-bold text-xs">[SLOT IKLAN MATCHED CONTENT]</div>
 </main>
 <footer class="text-center py-6 text-gray-400 text-sm border-t bg-white mt-auto">
     &copy; 2026 BankSoal.id Engine<br>
@@ -102,8 +112,7 @@ def create_docx(data, filename_base):
         return path.replace('docs/', '')
     except: return "#"
 
-def write_index_page(filename, title, materi_list, is_home=False):
-    # ADS_ID otomatis masuk ke Header & AMP Body
+def write_index_page(filename, title, materi_list):
     header_html = TEMPLATE_HEADER.format(TITLE=title, ADS_ID=ADSENSE_ID)
     
     judul_html = f"<div class='text-center mb-8'><h1 class='text-3xl font-bold text-gray-900 mb-2'>{title}</h1><p class='text-gray-500'>Kumpulan soal latihan lengkap dan gratis.</p></div>"
@@ -126,7 +135,7 @@ def write_index_page(filename, title, materi_list, is_home=False):
     
     if not list_html: list_html = "<div class='col-span-2 text-center text-gray-400 py-10'>Belum ada materi di kategori ini.</div>"
 
-    content = header_html + judul_html + (TEMPLATE_SEARCH if is_home else "") + \
+    content = header_html + judul_html + TEMPLATE_SEARCH + \
               f"<div id='listSoal' class='grid grid-cols-1 md:grid-cols-2 gap-4'>{list_html}</div>" + TEMPLATE_FOOTER
     
     with open(f'docs/{filename}', 'w', encoding='utf-8') as f: f.write(content)
@@ -172,13 +181,14 @@ def generate():
 
         except Exception as e: print(f"❌ Skip {filename}: {e}")
 
-    write_index_page('index.html', 'Bank Soal Digital', all_materi, is_home=True)
+    # GENERATE SEMUA HALAMAN
+    write_index_page('index.html', 'Bank Soal Digital', all_materi)
     write_index_page('sd.html', 'Bank Soal SD', [m for m in all_materi if 'SD' in m['jenjang']])
     write_index_page('smp.html', 'Bank Soal SMP', [m for m in all_materi if 'SMP' in m['jenjang']])
     write_index_page('sma.html', 'Bank Soal SMA', [m for m in all_materi if 'SMA' in m['jenjang']])
     write_index_page('smk.html', 'Bank Soal SMK', [m for m in all_materi if 'SMK' in m['jenjang']])
 
-    print("🏁 SELESAI! Iklan AMP Auto Ads Terpasang!")
+    print("🏁 SELESAI! AMP Ad Unit Header + Auto Ads + Nav + Search = PERFECT!")
 
 if __name__ == "__main__":
     generate()
