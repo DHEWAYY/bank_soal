@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Eksponen & Logaritma - 10 SMK Semester Ganjil",
+    "mapel": "Matematika",
+    "jenjang": "SMK",
+    "kelas": "10 SMK",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Bentuk sederhana dari perkalian bilangan berpangkat 2^3 x 2^4 adalah...",
+      "opsi_a": "2^12",
+      "opsi_b": "2^7",
+      "opsi_c": "4^7",
+      "opsi_d": "4^12",
+      "jawaban": "B",
+      "pembahasan": "Sifat eksponen: a^m x a^n = a^(m+n).\n2^3 x 2^4 = 2^(3+4) = 2^7."
+    },
+    {
+      "no": 2,
+      "tanya": "Nilai dari (3^2)^3 adalah...",
+      "opsi_a": "3^5",
+      "opsi_b": "3^6",
+      "opsi_c": "9^3",
+      "opsi_d": "9^5",
+      "jawaban": "B",
+      "pembahasan": "Sifat eksponen: (a^m)^n = a^(m x n).\n(3^2)^3 = 3^(2x3) = 3^6."
+    },
+    {
+      "no": 3,
+      "tanya": "Bentuk sederhana dari (a^5 . b^3) / (a^2 . b) adalah...",
+      "opsi_a": "a^3 b^2",
+      "opsi_b": "a^7 b^4",
+      "opsi_c": "a^3 b",
+      "opsi_d": "a^2 b^3",
+      "jawaban": "A",
+      "pembahasan": "Sifat pembagian eksponen: a^m / a^n = a^(m-n).\na^(5-2) . b^(3-1) = a^3 . b^2."
+    },
+    {
+      "no": 4,
+      "tanya": "Nilai dari 5^(-2) adalah...",
+      "opsi_a": "-25",
+      "opsi_b": "-10",
+      "opsi_c": "1/10",
+      "opsi_d": "1/25",
+      "jawaban": "D",
+      "pembahasan": "Sifat eksponen negatif: a^(-n) = 1/a^n.\n5^(-2) = 1/(5^2) = 1/25."
+    },
+    {
+      "no": 5,
+      "tanya": "Bentuk sederhana dari √75 adalah...",
+      "opsi_a": "5√3",
+      "opsi_b": "3√5",
+      "opsi_c": "5√2",
+      "opsi_d": "2√5",
+      "jawaban": "A",
+      "pembahasan": "√75 = √(25 x 3) = √25 x √3 = 5√3."
+    },
+    {
+      "no": 6,
+      "tanya": "Hasil dari 3√2 + 5√2 - √2 adalah...",
+      "opsi_a": "8√2",
+      "opsi_b": "7√2",
+      "opsi_c": "6√2",
+      "opsi_d": "9√2",
+      "jawaban": "B",
+      "pembahasan": "Operasi penjumlahan/pengurangan bentuk akar sejenis:\n(3 + 5 - 1)√2 = 7√2."
+    },
+    {
+      "no": 7,
+      "tanya": "Bentuk rasional dari 6 / √3 adalah...",
+      "opsi_a": "3√3",
+      "opsi_b": "2√3",
+      "opsi_c": "6√3",
+      "opsi_d": "√3",
+      "jawaban": "B",
+      "pembahasan": "Kalikan dengan sekawan penyebut:\n(6 / √3) x (√3 / √3) = (6√3) / 3 = 2√3."
+    },
+    {
+      "no": 8,
+      "tanya": "Jika 3^(2x-1) = 27, maka nilai x adalah...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "jawaban": "B",
+      "pembahasan": "Ubah 27 menjadi basis 3 -> 3^3.\n3^(2x-1) = 3^3\n2x - 1 = 3\n2x = 4\nx = 2."
+    },
+    {
+      "no": 9,
+      "tanya": "Bentuk logaritma dari 2^5 = 32 adalah...",
+      "opsi_a": "^2log 32 = 5",
+      "opsi_b": "^5log 32 = 2",
+      "opsi_c": "^2log 5 = 32",
+      "opsi_d": "^32log 2 = 5",
+      "jawaban": "A",
+      "pembahasan": "Definisi logaritma: a^c = b <=> ^alog b = c.\n2^5 = 32 <=> ^2log 32 = 5."
+    },
+    {
+      "no": 10,
+      "tanya": "Nilai dari ^3log 81 adalah...",
+      "opsi_a": "3",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "27",
+      "jawaban": "B",
+      "pembahasan": "81 = 3^4.\n^3log 3^4 = 4 x ^3log 3 = 4 x 1 = 4."
+    },
+    {
+      "no": 11,
+      "tanya": "Nilai dari ^2log 8 + ^2log 4 adalah...",
+      "opsi_a": "3",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "6",
+      "jawaban": "C",
+      "pembahasan": "Sifat penjumlahan logaritma: ^alog b + ^alog c = ^alog (b x c).\n^2log (8 x 4) = ^2log 32 = ^2log 2^5 = 5."
+    },
+    {
+      "no": 12,
+      "tanya": "Nilai dari ^5log 100 - ^5log 4 adalah...",
+      "opsi_a": "2",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "25",
+      "jawaban": "A",
+      "pembahasan": "Sifat pengurangan logaritma: ^alog b - ^alog c = ^alog (b / c).\n^5log (100 / 4) = ^5log 25 = ^5log 5^2 = 2."
+    },
+    {
+      "no": 13,
+      "tanya": "Bentuk sederhana dari (p^2 q^-3)^-2 adalah...",
+      "opsi_a": "p^4 / q^6",
+      "opsi_b": "q^6 / p^4",
+      "opsi_c": "p^4 q^6",
+      "opsi_d": "1 / (p^4 q^6)",
+      "jawaban": "B",
+      "pembahasan": "(p^2)^-2 . (q^-3)^-2 = p^-4 . q^6 = q^6 / p^4."
+    },
+    {
+      "no": 14,
+      "tanya": "Hasil dari 27^(2/3) adalah...",
+      "opsi_a": "3",
+      "opsi_b": "6",
+      "opsi_c": "9",
+      "opsi_d": "18",
+      "jawaban": "C",
+      "pembahasan": "27 = 3^3.\n(3^3)^(2/3) = 3^(3 x 2/3) = 3^2 = 9."
+    },
+    {
+      "no": 15,
+      "tanya": "Bentuk rasional dari 4 / (3 - √5) adalah...",
+      "opsi_a": "3 + √5",
+      "opsi_b": "3 - √5",
+      "opsi_c": "4(3 + √5)",
+      "opsi_d": "12 + 4√5",
+      "jawaban": "A",
+      "pembahasan": "Kalikan sekawan (3 + √5).\n4(3 + √5) / (9 - 5) = 4(3 + √5) / 4 = 3 + √5."
+    },
+    {
+      "no": 16,
+      "tanya": "Nilai dari ^2log 3 . ^3log 5 . ^5log 8 adalah...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "jawaban": "C",
+      "pembahasan": "Sifat perkalian logaritma: ^alog b . ^blog c = ^alog c.\n^2log 3 . ^3log 5 . ^5log 8 = ^2log 8 = ^2log 2^3 = 3."
+    },
+    {
+      "no": 17,
+      "tanya": "Jika diketahui ^2log 3 = a, maka nilai ^8log 9 dalam a adalah...",
+      "opsi_a": "2a/3",
+      "opsi_b": "3a/2",
+      "opsi_c": "a",
+      "opsi_d": "2a",
+      "jawaban": "A",
+      "pembahasan": "^8log 9 = ^(2^3)log (3^2) = (2/3) . ^2log 3 = 2/3 a."
+    },
+    {
+      "no": 18,
+      "tanya": "Penyelesaian dari persamaan eksponen 5^(x^2 - 2x - 8) = 1 adalah...",
+      "opsi_a": "{-2, 4}",
+      "opsi_b": "{2, 4}",
+      "opsi_c": "{-4, 2}",
+      "opsi_d": "{2, 3}",
+      "jawaban": "A",
+      "pembahasan": "1 = 5^0. Maka pangkatnya disamakan dengan 0.\nx^2 - 2x - 8 = 0\n(x - 4)(x + 2) = 0\nx = 4 atau x = -2."
+    },
+    {
+      "no": 19,
+      "tanya": "Luas persegi panjang dengan panjang (3 + √2) cm dan lebar (3 - √2) cm adalah... cm².",
+      "opsi_a": "7",
+      "opsi_b": "8",
+      "opsi_c": "9",
+      "opsi_d": "11",
+      "jawaban": "A",
+      "pembahasan": "Luas = p x l = (3 + √2)(3 - √2) = 3^2 - (√2)^2 = 9 - 2 = 7."
+    },
+    {
+      "no": 20,
+      "tanya": "Nilai dari √8 + √18 - √32 adalah...",
+      "opsi_a": "√2",
+      "opsi_b": "2√2",
+      "opsi_c": "3√2",
+      "opsi_d": "0",
+      "jawaban": "A",
+      "pembahasan": "√8 = 2√2; √18 = 3√2; √32 = 4√2.\n2√2 + 3√2 - 4√2 = (2+3-4)√2 = 1√2 = √2."
+    },
+    {
+      "no": 21,
+      "tanya": "Diketahui f(x) = 2^(x+1). Nilai dari f(3) adalah...",
+      "opsi_a": "8",
+      "opsi_b": "16",
+      "opsi_c": "32",
+      "opsi_d": "4",
+      "jawaban": "B",
+      "pembahasan": "f(3) = 2^(3+1) = 2^4 = 16."
+    },
+    {
+      "no": 22,
+      "tanya": "Jika log 2 = 0,301 dan log 3 = 0,477, maka nilai log 6 adalah...",
+      "opsi_a": "0,778",
+      "opsi_b": "0,176",
+      "opsi_c": "0,602",
+      "opsi_d": "0,954",
+      "jawaban": "A",
+      "pembahasan": "log 6 = log (2 x 3) = log 2 + log 3 = 0,301 + 0,477 = 0,778."
+    },
+    {
+      "no": 23,
+      "tanya": "Penyelesaian dari ^2log(2x - 3) = 3 adalah...",
+      "opsi_a": "5,5",
+      "opsi_b": "5",
+      "opsi_c": "4",
+      "opsi_d": "3,5",
+      "jawaban": "A",
+      "pembahasan": "Ubah ke eksponen: 2x - 3 = 2^3\n2x - 3 = 8\n2x = 11\nx = 5,5."
+    },
+    {
+      "no": 24,
+      "tanya": "Bentuk sederhana dari (x^3 y^2 z^3) / (x^2 y^3 z) adalah...",
+      "opsi_a": "x z^2 / y",
+      "opsi_b": "x y z^2",
+      "opsi_c": "x^2 z^2 / y",
+      "opsi_d": "x z / y",
+      "jawaban": "A",
+      "pembahasan": "x^(3-2) . y^(2-3) . z^(3-1) = x^1 . y^-1 . z^2 = (x z^2) / y."
+    },
+    {
+      "no": 25,
+      "tanya": "Jika a = 27 dan b = 32, maka nilai dari 3(a^-1/3) x 4(b^2/5) adalah...",
+      "opsi_a": "16",
+      "opsi_b": "24",
+      "opsi_c": "32",
+      "opsi_d": "48",
+      "jawaban": "A",
+      "pembahasan": "a^(-1/3) = 27^(-1/3) = (3^3)^(-1/3) = 3^-1 = 1/3.\nb^(2/5) = 32^(2/5) = (2^5)^(2/5) = 2^2 = 4.\n3(1/3) x 4(4) = 1 x 16 = 16."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Sederhanakan bentuk pangkat berikut ini: ((24 a^-7 b^-2 c) / (6 a^-2 b^-3 c^-6))",
+      "jawaban_lengkap": "Langkah 1: Bagi koefisiennya: 24/6 = 4.\nLangkah 2: Kurangkan pangkat variabel yang sama (sifat pembagian a^m/a^n = a^(m-n)).\n- a: -7 - (-2) = -5\n- b: -2 - (-3) = 1\n- c: 1 - (-6) = 7\nLangkah 3: Gabungkan hasil.\nHasil = 4 a^-5 b^1 c^7 = (4bc^7) / a^5."
+    },
+    {
+      "no": 2,
+      "tanya": "Tentukan himpunan penyelesaian dari persamaan eksponen: 3^(2x-1) = 81^(x+2)",
+      "jawaban_lengkap": "Langkah 1: Samakan basisnya. 81 adalah 3^4.\n3^(2x-1) = (3^4)^(x+2)\nLangkah 2: Sederhanakan pangkat ruas kanan.\n3^(2x-1) = 3^(4x+8)\nLangkah 3: Samakan pangkatnya.\n2x - 1 = 4x + 8\n-1 - 8 = 4x - 2x\n-9 = 2x\nx = -9/2\nHP = {-4,5}."
+    },
+    {
+      "no": 3,
+      "tanya": "Rasionalkan penyebut dari pecahan berikut: 8 / (√5 + √3)",
+      "jawaban_lengkap": "Langkah 1: Kalikan dengan sekawan penyebut (√5 - √3).\n= 8 / (√5 + √3)  x  (√5 - √3) / (√5 - √3)\nLangkah 2: Operasikan.\nPembilang = 8(√5 - √3)\nPenyebut = (√5)^2 - (√3)^2 = 5 - 3 = 2\nLangkah 3: Sederhanakan.\n= 8(√5 - √3) / 2\n= 4(√5 - √3) = 4√5 - 4√3."
+    },
+    {
+      "no": 4,
+      "tanya": "Jika diketahui ^2log 3 = a dan ^3log 5 = b, tentukan nilai ^2log 15 dalam a dan b!",
+      "jawaban_lengkap": "Langkah 1: Uraikan ^2log 15.\n^2log 15 = ^2log (3 x 5)\n= ^2log 3 + ^2log 5\nLangkah 2: Cari nilai ^2log 5.\n^2log 5 = ^2log 3 x ^3log 5 (Sifat rantai logaritma)\n^2log 5 = a x b = ab\nLangkah 3: Substitusi ke persamaan awal.\n= a + ab\n= a(1 + b)."
+    },
+    {
+      "no": 5,
+      "tanya": "Tentukan nilai x yang memenuhi persamaan logaritma: ^3log(x^2 - 3) = ^3log(2x)",
+      "jawaban_lengkap": "Langkah 1: Karena basis sama, samakan numerusnya.\nx^2 - 3 = 2x\nLangkah 2: Buat persamaan kuadrat.\nx^2 - 2x - 3 = 0\n(x - 3)(x + 1) = 0\nx = 3 atau x = -1\nLangkah 3: Cek syarat numerus (> 0).\n- Untuk x = 3: 2(3) = 6 (Positif, memenuhi).\n- Untuk x = -1: 2(-1) = -2 (Negatif, tidak memenuhi).\nJadi, HP = {3}."
+    },
+    {
+      "no": 6,
+      "tanya": "Suatu zat radioaktif meluruh dengan fungsi f(t) = 100 . (1/2)^(t/10), dimana t adalah waktu dalam tahun. Berapa sisa zat tersebut setelah 30 tahun?",
+      "jawaban_lengkap": "Diketahui t = 30.\nSubstitusi t ke rumus fungsi:\nf(30) = 100 . (1/2)^(30/10)\nf(30) = 100 . (1/2)^3\nf(30) = 100 . (1/8)\nf(30) = 100 / 8\nf(30) = 12,5 gram."
+    },
+    {
+      "no": 7,
+      "tanya": "Sederhanakan bentuk (√5 + √2)^2 !",
+      "jawaban_lengkap": "Rumus: (a+b)^2 = a^2 + 2ab + b^2\nMisal a = √5, b = √2\n= (√5)^2 + 2(√5)(√2) + (√2)^2\n= 5 + 2√10 + 2\n= 7 + 2√10."
+    },
+    {
+      "no": 8,
+      "tanya": "Hitunglah nilai dari: (^2log 4 + ^2log 12 - ^2log 6)",
+      "jawaban_lengkap": "Gunakan sifat logaritma:\n^2log ((4 x 12) / 6)\n= ^2log (48 / 6)\n= ^2log 8\n= ^2log 2^3\n= 3."
+    },
+    {
+      "no": 9,
+      "tanya": "Tentukan himpunan penyelesaian dari 2^(2x) - 10.2^x + 16 = 0!",
+      "jawaban_lengkap": "Langkah 1: Misalkan 2^x = y, maka 2^(2x) = y^2.\nPersamaan menjadi: y^2 - 10y + 16 = 0\nLangkah 2: Faktorkan.\n(y - 2)(y - 8) = 0\ny = 2 atau y = 8\nLangkah 3: Kembalikan ke bentuk eksponen.\n- Jika y = 2 -> 2^x = 2^1 -> x = 1\n- Jika y = 8 -> 2^x = 2^3 -> x = 3\nJadi, HP = {1, 3}."
+    },
+    {
+      "no": 10,
+      "tanya": "Bakteri E.coli membelah diri menjadi dua setiap 20 menit. Jika jumlah awal bakteri adalah 50, berapa jumlah bakteri setelah 2 jam?",
+      "jawaban_lengkap": "Diketahui:\nJumlah awal (a) = 50\nRasio (r) = 2\nWaktu total = 2 jam = 120 menit\nPeriode pembelahan = 20 menit\nBanyak pembelahan (n) = 120 / 20 = 6 kali.\nRumus pertumbuhan: Un = a . r^n\nU6 = 50 . 2^6\nU6 = 50 . 64\nU6 = 3.200 bakteri."
+    }
+  ]
+}

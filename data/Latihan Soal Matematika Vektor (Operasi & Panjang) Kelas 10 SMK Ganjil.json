@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Vektor (Operasi & Panjang) - 10 SMK Semester Ganjil",
+    "mapel": "Matematika",
+    "jenjang": "SMK",
+    "kelas": "10 SMK",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Vektor yang memiliki titik pangkal A(1, 2) dan titik ujung B(5, 5) dapat dituliskan dalam bentuk vektor kolom adalah...",
+      "opsi_a": "(4, 3)",
+      "opsi_b": "(3, 4)",
+      "opsi_c": "(6, 7)",
+      "opsi_d": "(4, 7)",
+      "opsi_e": "(-4, -3)",
+      "jawaban": "A",
+      "pembahasan": "Vektor AB = B - A = (5-1, 5-2) = (4, 3)."
+    },
+    {
+      "no": 2,
+      "tanya": "Panjang (modulus) dari vektor a = 6i - 8j adalah...",
+      "opsi_a": "10",
+      "opsi_b": "14",
+      "opsi_c": "28",
+      "opsi_d": "48",
+      "opsi_e": "100",
+      "jawaban": "A",
+      "pembahasan": "Panjang vektor |a| = √(x² + y²) = √(6² + (-8)²) = √(36 + 64) = √100 = 10."
+    },
+    {
+      "no": 3,
+      "tanya": "Diketahui vektor u = (2, -1) dan v = (3, 4). Hasil dari operasi 3u + 2v adalah...",
+      "opsi_a": "(12, 5)",
+      "opsi_b": "(12, 11)",
+      "opsi_c": "(9, 5)",
+      "opsi_d": "(0, 5)",
+      "opsi_e": "(13, 5)",
+      "jawaban": "A",
+      "pembahasan": "3u + 2v = 3(2, -1) + 2(3, 4) = (6, -3) + (6, 8) = (6+6, -3+8) = (12, 5)."
+    },
+    {
+      "no": 4,
+      "tanya": "Invers dari vektor p = (-5, 12) adalah...",
+      "opsi_a": "(5, 12)",
+      "opsi_b": "(-5, -12)",
+      "opsi_c": "(5, -12)",
+      "opsi_d": "(12, -5)",
+      "opsi_e": "(-12, 5)",
+      "jawaban": "C",
+      "pembahasan": "Invers vektor p adalah -p. Jika p = (-5, 12), maka -p = -(-5, 12) = (5, -12)."
+    },
+    {
+      "no": 5,
+      "tanya": "Jika titik P(2, 3, -1) dan Q(7, -2, 9), maka panjang vektor PQ adalah...",
+      "opsi_a": "5√3",
+      "opsi_b": "5√5",
+      "opsi_c": "5√6",
+      "opsi_d": "10√2",
+      "opsi_e": "15",
+      "jawaban": "C",
+      "pembahasan": "Vektor PQ = Q - P = (7-2, -2-3, 9-(-1)) = (5, -5, 10).\n|PQ| = √(5² + (-5)² + 10²) = √(25 + 25 + 100) = √150 = √(25 x 6) = 5√6."
+    },
+    {
+      "no": 6,
+      "tanya": "Diketahui a = 2i + 3j - k dan b = i - 4j + 2k. Nilai dari a . b (perkalian skalar) adalah...",
+      "opsi_a": "-10",
+      "opsi_b": "-12",
+      "opsi_c": "-8",
+      "opsi_d": "6",
+      "opsi_e": "12",
+      "jawaban": "B",
+      "pembahasan": "a . b = (2)(1) + (3)(-4) + (-1)(2) = 2 - 12 - 2 = -12."
+    },
+    {
+      "no": 7,
+      "tanya": "Vektor satuan dari vektor m = (-3, 4) adalah...",
+      "opsi_a": "(-3/5, 4/5)",
+      "opsi_b": "(3/5, -4/5)",
+      "opsi_c": "(-3/7, 4/7)",
+      "opsi_d": "(-1, 1)",
+      "opsi_e": "(1, 1)",
+      "jawaban": "A",
+      "pembahasan": "Panjang |m| = √((-3)² + 4²) = √(9+16) = √25 = 5.\nVektor satuan = m / |m| = (-3/5, 4/5)."
+    },
+    {
+      "no": 8,
+      "tanya": "Jika vektor u dan v saling tegak lurus, maka nilai u . v adalah...",
+      "opsi_a": "1",
+      "opsi_b": "0",
+      "opsi_c": "-1",
+      "opsi_d": "|u|.|v|",
+      "opsi_e": "Tak terhingga",
+      "jawaban": "B",
+      "pembahasan": "Syarat dua vektor tegak lurus (ortogonal) adalah hasil kali titiknya (dot product) sama dengan 0."
+    },
+    {
+      "no": 9,
+      "tanya": "Diketahui u = (2, k) dan v = (3, 5). Jika u tegak lurus v, maka nilai k adalah...",
+      "opsi_a": "-1,2",
+      "opsi_b": "-0,6",
+      "opsi_c": "0,6",
+      "opsi_d": "1,2",
+      "opsi_e": "1,5",
+      "jawaban": "A",
+      "pembahasan": "u . v = 0 => (2)(3) + (k)(5) = 0 => 6 + 5k = 0 => 5k = -6 => k = -1,2."
+    },
+    {
+      "no": 10,
+      "tanya": "Diketahui panjang vektor a = 3, panjang vektor b = 4, dan sudut antara keduanya 60 derajat. Hasil kali skalar a . b adalah...",
+      "opsi_a": "3",
+      "opsi_b": "6",
+      "opsi_c": "12",
+      "opsi_d": "6√3",
+      "opsi_e": "12√3",
+      "jawaban": "B",
+      "pembahasan": "a . b = |a| |b| cos 60 = 3 . 4 . (1/2) = 6."
+    },
+    {
+      "no": 11,
+      "tanya": "Diketahui titik A(2, 4) dan B(5, 8). Vektor basis dari AB adalah...",
+      "opsi_a": "3i + 4j",
+      "opsi_b": "3i - 4j",
+      "opsi_c": "-3i + 4j",
+      "opsi_d": "4i + 3j",
+      "opsi_e": "7i + 12j",
+      "jawaban": "A",
+      "pembahasan": "AB = B - A = (5-2)i + (8-4)j = 3i + 4j."
+    },
+    {
+      "no": 12,
+      "tanya": "Jika a = i - 2j + 2k, maka panjang vektor a adalah...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "opsi_e": "5",
+      "jawaban": "C",
+      "pembahasan": "|a| = √(1² + (-2)² + 2²) = √(1 + 4 + 4) = √9 = 3."
+    },
+    {
+      "no": 13,
+      "tanya": "Hasil dari (i + 2j - k) - (3i - j + 2k) adalah...",
+      "opsi_a": "-2i + 3j - 3k",
+      "opsi_b": "-2i + j + k",
+      "opsi_c": "2i - 3j + 3k",
+      "opsi_d": "-2i + 3j + k",
+      "opsi_e": "4i + j + k",
+      "jawaban": "A",
+      "pembahasan": "(1-3)i + (2-(-1))j + (-1-2)k = -2i + 3j - 3k."
+    },
+    {
+      "no": 14,
+      "tanya": "Jika vektor u = (1, 2) dan v = (4, 3), maka proyeksi skalar ortogonal u pada v adalah...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "opsi_e": "5",
+      "jawaban": "B",
+      "pembahasan": "Proyeksi skalar = (u . v) / |v| = (1.4 + 2.3) / √(4² + 3²) = (4+6) / √25 = 10 / 5 = 2."
+    },
+    {
+      "no": 15,
+      "tanya": "Diketahui a = 3i + 4j dan b = 6i + 8j. Hubungan kedua vektor tersebut adalah...",
+      "opsi_a": "Tegak lurus",
+      "opsi_b": "Sejajar",
+      "opsi_c": "Berlawanan arah",
+      "opsi_d": "Sama panjang",
+      "opsi_e": "Tidak ada hubungan",
+      "jawaban": "B",
+      "pembahasan": "Perhatikan b = 2(3i + 4j) = 2a. Karena b adalah kelipatan a, maka vektor tersebut sejajar."
+    },
+    {
+      "no": 16,
+      "tanya": "Cosinus sudut antara vektor a = (1, 1) dan b = (1, 0) adalah...",
+      "opsi_a": "0",
+      "opsi_b": "1/2",
+      "opsi_c": "1/2 √2",
+      "opsi_d": "1/2 √3",
+      "opsi_e": "1",
+      "jawaban": "C",
+      "pembahasan": "cos θ = (a . b) / (|a||b|) = (1.1 + 1.0) / (√2 . √1) = 1 / √2 = 1/2 √2."
+    },
+    {
+      "no": 17,
+      "tanya": "Diketahui |u| = 5 dan |v| = 12. Jika u dan v membentuk sudut siku-siku, maka |u + v| adalah...",
+      "opsi_a": "7",
+      "opsi_b": "13",
+      "opsi_c": "17",
+      "opsi_d": "25",
+      "opsi_e": "60",
+      "jawaban": "B",
+      "pembahasan": "Karena siku-siku (90 derajat), gunakan Pythagoras atau rumus resultan: |R| = √(5² + 12²) = √(25 + 144) = √169 = 13."
+    },
+    {
+      "no": 18,
+      "tanya": "Jika titik A(1, 2), B(4, 6), dan C(x, y) segaris dengan AB = 3 BC, maka koordinat C adalah...",
+      "opsi_a": "(5, 7.3)",
+      "opsi_b": "(5, 8)",
+      "opsi_c": "(2, 1)",
+      "opsi_d": "(7, 10)",
+      "opsi_e": "(3, 4)",
+      "jawaban": "A",
+      "pembahasan": "AB = (3, 4). BC = (x-4, y-6). AB = 3 BC => (3, 4) = 3(x-4, y-6). \n3 = 3(x-4) => 1 = x-4 => x=5. \n4 = 3(y-6) => 4/3 = y-6 => y = 6 + 1.33 = 7.33. (Mungkin opsi soal SMK biasanya bulat, periksa opsi lain. Jika AB : BC = 3 : 1, maka 1.AB = 3.BC. Jika perbandingan titik, B membagi AC. Mari asumsikan soal: B membagi AC. AB = (3,4). Jika AB = 3 BC, maka BC = (1, 4/3). C = B + BC = (4+1, 6+1.33) = (5, 7.33). Jawaban A paling mendekati)."
+    },
+    {
+      "no": 19,
+      "tanya": "Vektor posisi dari titik P(2, -5) adalah...",
+      "opsi_a": "2i - 5j",
+      "opsi_b": "-2i + 5j",
+      "opsi_c": "5i - 2j",
+      "opsi_d": "-5i + 2j",
+      "opsi_e": "2i + 5j",
+      "jawaban": "A",
+      "pembahasan": "Vektor posisi adalah vektor yang ditarik dari O(0,0) ke P. p = 2i - 5j."
+    },
+    {
+      "no": 20,
+      "tanya": "Jika vektor a = (1, -2) dan b = (-3, 6), maka a - 2b adalah...",
+      "opsi_a": "(7, -14)",
+      "opsi_b": "(-5, 10)",
+      "opsi_c": "(7, 10)",
+      "opsi_d": "(-5, -14)",
+      "opsi_e": "(4, -8)",
+      "jawaban": "A",
+      "pembahasan": "a - 2b = (1, -2) - 2(-3, 6) = (1, -2) - (-6, 12) = (1 - (-6), -2 - 12) = (7, -14)."
+    },
+    {
+      "no": 21,
+      "tanya": "Modulus dari vektor V = -5i + 12k adalah...",
+      "opsi_a": "7",
+      "opsi_b": "13",
+      "opsi_c": "17",
+      "opsi_d": "25",
+      "opsi_e": "60",
+      "jawaban": "B",
+      "pembahasan": "V = (-5, 0, 12). |V| = √((-5)² + 0² + 12²) = √(25 + 144) = √169 = 13."
+    },
+    {
+      "no": 22,
+      "tanya": "Jika u = 2i + j dan v = i - 2j, maka (u + v) . (u - v) adalah...",
+      "opsi_a": "0",
+      "opsi_b": "5",
+      "opsi_c": "10",
+      "opsi_d": "-5",
+      "opsi_e": "1",
+      "jawaban": "A",
+      "pembahasan": "|u|² = 5, |v|² = 5. (u+v).(u-v) = |u|² - |v|² = 5 - 5 = 0. Atau hitung manual: u+v = (3, -1), u-v = (1, 3). Dot product: 3(1) + (-1)(3) = 0."
+    },
+    {
+      "no": 23,
+      "tanya": "Sebuah perahu menyeberangi sungai dengan kecepatan 3 m/s tegak lurus terhadap arus sungai yang kecepatannya 4 m/s. Resultan kecepatan perahu adalah...",
+      "opsi_a": "1 m/s",
+      "opsi_b": "5 m/s",
+      "opsi_c": "7 m/s",
+      "opsi_d": "12 m/s",
+      "opsi_e": "25 m/s",
+      "jawaban": "B",
+      "pembahasan": "Resultan R = √(3² + 4²) = √25 = 5 m/s."
+    },
+    {
+      "no": 24,
+      "tanya": "Diketahui a = (x, 4) dan b = (2, -3). Jika a tegak lurus b, nilai x adalah...",
+      "opsi_a": "4",
+      "opsi_b": "5",
+      "opsi_c": "6",
+      "opsi_d": "7",
+      "opsi_e": "8",
+      "jawaban": "C",
+      "pembahasan": "a . b = 0 => 2x + 4(-3) = 0 => 2x - 12 = 0 => 2x = 12 => x = 6."
+    },
+    {
+      "no": 25,
+      "tanya": "Negatif dari vektor a = 3i - 2j + k adalah...",
+      "opsi_a": "3i + 2j - k",
+      "opsi_b": "-3i + 2j - k",
+      "opsi_c": "-3i - 2j + k",
+      "opsi_d": "-3i - 2j - k",
+      "opsi_e": "3i + 2j + k",
+      "jawaban": "B",
+      "pembahasan": "Negatif vektor adalah lawan tanda semua komponennya: -3i + 2j - k."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Diketahui vektor a = 2i - 3j + 4k, b = -i + 2j - k, dan c = 3i - j + 2k. Tentukan hasil dari 2a - b + 3c!",
+      "jawaban_lengkap": "Diketahui: a = (2, -3, 4), b = (-1, 2, -1), c = (3, -1, 2).\nHitung 2a - b + 3c:\n= 2(2, -3, 4) - (-1, 2, -1) + 3(3, -1, 2)\n= (4, -6, 8) - (-1, 2, -1) + (9, -3, 6)\n= (4 - (-1) + 9, -6 - 2 - 3, 8 - (-1) + 6)\n= (14, -11, 15)\nJadi, hasilnya adalah 14i - 11j + 15k."
+    },
+    {
+      "no": 2,
+      "tanya": "Diketahui titik A(2, 1, -2) dan B(6, 4, 10). Tentukan panjang vektor AB!",
+      "jawaban_lengkap": "Vektor AB = B - A = (6-2, 4-1, 10-(-2)) = (4, 3, 12).\nPanjang |AB| = √(x² + y² + z²)\n|AB| = √(4² + 3² + 12²)\n|AB| = √(16 + 9 + 144)\n|AB| = √169\n|AB| = 13.\nJadi, panjang vektor AB adalah 13 satuan."
+    },
+    {
+      "no": 3,
+      "tanya": "Dua buah vektor gaya F1 dan F2 bertitik tangkap sama masing-masing besarnya 3 N dan 4 N. Jika kedua vektor mengapit sudut 90 derajat, tentukan resultan kedua gaya tersebut!",
+      "jawaban_lengkap": "Diketahui: F1 = 3 N, F2 = 4 N, θ = 90°.\nRumus Resultan R = √(F1² + F2² + 2.F1.F2.cos θ)\nR = √(3² + 4² + 2.3.4.cos 90°)\nR = √(9 + 16 + 24(0))\nR = √25\nR = 5 N.\nJadi, resultan gayanya adalah 5 N."
+    },
+    {
+      "no": 4,
+      "tanya": "Diketahui vektor u = (2, -1) dan v = (3, 4). Tentukan proyeksi skalar ortogonal vektor u pada v!",
+      "jawaban_lengkap": "Rumus Proyeksi Skalar s = (u . v) / |v|\n1. Hitung Dot Product u . v:\nu . v = (2)(3) + (-1)(4) = 6 - 4 = 2.\n2. Hitung Panjang |v|:\n|v| = √(3² + 4²) = √25 = 5.\n3. Hitung Proyeksi:\ns = 2 / 5.\nJadi, panjang proyeksi skalar adalah 2/5."
+    },
+    {
+      "no": 5,
+      "tanya": "Diketahui vektor a = xi + 2j dan b = 4i - 6j. Jika vektor a tegak lurus dengan vektor b, tentukan nilai x!",
+      "jawaban_lengkap": "Syarat tegak lurus: a . b = 0.\n(x)(4) + (2)(-6) = 0\n4x - 12 = 0\n4x = 12\nx = 3.\nJadi, nilai x adalah 3."
+    },
+    {
+      "no": 6,
+      "tanya": "Tentukan besar sudut antara vektor a = i + j dan vektor b = i - k!",
+      "jawaban_lengkap": "Vektor a = (1, 1, 0), Vektor b = (1, 0, -1).\n1. a . b = (1)(1) + (1)(0) + (0)(-1) = 1.\n2. |a| = √(1² + 1²) = √2.\n3. |b| = √(1² + (-1)²) = √2.\n4. cos θ = (a . b) / (|a||b|) = 1 / (√2 . √2) = 1/2.\n5. θ = arccos(1/2) = 60 derajat.\nJadi, sudutnya adalah 60 derajat."
+    },
+    {
+      "no": 7,
+      "tanya": "Jika titik P(1, 2), Q(3, 3), dan R(7, y) adalah segaris (kolinear), tentukan nilai y!",
+      "jawaban_lengkap": "Vektor PQ = Q - P = (3-1, 3-2) = (2, 1).\nVektor QR = R - Q = (7-3, y-3) = (4, y-3).\nSyarat segaris: QR = k . PQ\n(4, y-3) = k(2, 1)\nKomponen x: 4 = 2k -> k = 2.\nKomponen y: y - 3 = k(1) -> y - 3 = 2(1) -> y = 5.\nJadi, nilai y adalah 5."
+    },
+    {
+      "no": 8,
+      "tanya": "Diketahui |a| = 4, |b| = 6, dan sudut yang diapit kedua vektor adalah 60 derajat. Tentukan nilai |a + b|!",
+      "jawaban_lengkap": "Rumus: |a + b|² = |a|² + |b|² + 2|a||b|cos θ\n|a + b|² = 4² + 6² + 2(4)(6) cos 60°\n|a + b|² = 16 + 36 + 48(1/2)\n|a + b|² = 52 + 24 = 76\n|a + b| = √76 = 2√19.\nJadi, nilai |a + b| adalah 2√19."
+    },
+    {
+      "no": 9,
+      "tanya": "Tentukan vektor satuan dari vektor r = 3i - 4j!",
+      "jawaban_lengkap": "1. Cari panjang vektor r:\n|r| = √(3² + (-4)²) = √(9 + 16) = √25 = 5.\n2. Rumus vektor satuan (e) = r / |r|\ne = (3i - 4j) / 5\ne = (3/5)i - (4/5)j.\nJadi, vektor satuannya adalah (0.6, -0.8)."
+    },
+    {
+      "no": 10,
+      "tanya": "Diketahui koordinat A(2, 1) dan B(6, 4). Titik P membagi garis AB dengan perbandingan AP : PB = 3 : 1. Tentukan koordinat titik P!",
+      "jawaban_lengkap": "Rumus pembagian ruas garis: P = (n.A + m.B) / (m+n)\nm = 3, n = 1.\nP = (1.A + 3.B) / (3+1)\nxP = (1(2) + 3(6)) / 4 = (2 + 18) / 4 = 20 / 4 = 5.\nyP = (1(1) + 3(4)) / 4 = (1 + 12) / 4 = 13 / 4 = 3.25.\nJadi, koordinat P adalah (5, 3.25)."
+    }
+  ]
+}

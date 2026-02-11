@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "judul_bab": "Latihan Soal Eksponen & Logaritma - 10 SMA Semester Ganjil",
+    "mapel": "Matematika",
+    "jenjang": "SMA",
+    "kelas": "10 SMA",
+    "link_download": "#"
+  },
+  "soal_pg": [
+    {
+      "no": 1,
+      "tanya": "Bentuk sederhana dari $2^3 \\times 2^4$ adalah ...",
+      "opsi_a": "$2^{12}$",
+      "opsi_b": "$2^7$",
+      "opsi_c": "$2^1$",
+      "opsi_d": "$4^7$",
+      "opsi_e": "$4^{12}$",
+      "jawaban": "B",
+      "pembahasan": "Sifat eksponen: $a^m \\times a^n = a^{m+n}$.\nMaka: $2^3 \\times 2^4 = 2^{3+4} = 2^7$."
+    },
+    {
+      "no": 2,
+      "tanya": "Nilai dari $(3^2)^3$ adalah ...",
+      "opsi_a": "$3^5$",
+      "opsi_b": "$3^6$",
+      "opsi_c": "$3^8$",
+      "opsi_d": "$9^5$",
+      "opsi_e": "$6^3$",
+      "jawaban": "B",
+      "pembahasan": "Sifat eksponen: $(a^m)^n = a^{m \\cdot n}$.\nMaka: $(3^2)^3 = 3^{2 \\cdot 3} = 3^6$."
+    },
+    {
+      "no": 3,
+      "tanya": "Bentuk sederhana dari $\\frac{a^5 b^7 c^2}{a^3 b^4 c}$ adalah ...",
+      "opsi_a": "$a^2 b^3 c$",
+      "opsi_b": "$a^8 b^{11} c^3$",
+      "opsi_c": "$a^2 b^3$",
+      "opsi_d": "$a b^3 c$",
+      "opsi_e": "$a^2 b^3 c^2$",
+      "jawaban": "A",
+      "pembahasan": "Sifat eksponen pembagian: $\\frac{a^m}{a^n} = a^{m-n}$.\n$a^{5-3} b^{7-4} c^{2-1} = a^2 b^3 c^1 = a^2 b^3 c$."
+    },
+    {
+      "no": 4,
+      "tanya": "Nilai dari $5^{-2}$ adalah ...",
+      "opsi_a": "-25",
+      "opsi_b": "-10",
+      "opsi_c": "$\\frac{1}{25}$",
+      "opsi_d": "$\\frac{1}{10}$",
+      "opsi_e": "25",
+      "jawaban": "C",
+      "pembahasan": "Sifat eksponen negatif: $a^{-n} = \\frac{1}{a^n}$.\nMaka: $5^{-2} = \\frac{1}{5^2} = \\frac{1}{25}$."
+    },
+    {
+      "no": 5,
+      "tanya": "Bentuk sederhana dari $\\left(\\frac{x^3 y^{-2}}{x^2 y^3}\\right)^{-2}$ adalah ...",
+      "opsi_a": "$x^{-2} y^{10}$",
+      "opsi_b": "$x^{-2} y^{-10}$",
+      "opsi_c": "$x^2 y^{10}$",
+      "opsi_d": "$x^{-1} y^5$",
+      "opsi_e": "$x y^5$",
+      "jawaban": "A",
+      "pembahasan": "Sederhanakan dalam kurung dulu:\n$\\frac{x^3}{x^2} \\cdot \\frac{y^{-2}}{y^3} = x^{3-2} y^{-2-3} = x^1 y^{-5}$.\nKemudian pangkatkan -2:\n$(x y^{-5})^{-2} = x^{-2} y^{(-5)(-2)} = x^{-2} y^{10}$."
+    },
+    {
+      "no": 6,
+      "tanya": "Bentuk sederhana dari $\\sqrt{75}$ adalah ...",
+      "opsi_a": "$5\\sqrt{3}$",
+      "opsi_b": "$3\\sqrt{5}$",
+      "opsi_c": "$5\\sqrt{2}$",
+      "opsi_d": "$2\\sqrt{5}$",
+      "opsi_e": "$25\\sqrt{3}$",
+      "jawaban": "A",
+      "pembahasan": "Cari faktor kuadrat terbesar dari 75.\n$\\sqrt{75} = \\sqrt{25 \\times 3} = \\sqrt{25} \\times \\sqrt{3} = 5\\sqrt{3}$."
+    },
+    {
+      "no": 7,
+      "tanya": "Hasil dari $3\\sqrt{2} + 5\\sqrt{2} - \\sqrt{2}$ adalah ...",
+      "opsi_a": "$8\\sqrt{2}$",
+      "opsi_b": "$7\\sqrt{2}$",
+      "opsi_c": "$6\\sqrt{2}$",
+      "opsi_d": "$5\\sqrt{2}$",
+      "opsi_e": "$4\\sqrt{2}$",
+      "jawaban": "B",
+      "pembahasan": "Operasi bentuk akar sejenis:\n$(3 + 5 - 1)\\sqrt{2} = 7\\sqrt{2}$."
+    },
+    {
+      "no": 8,
+      "tanya": "Bentuk rasional dari $\\frac{6}{\\sqrt{3}}$ adalah ...",
+      "opsi_a": "$3\\sqrt{3}$",
+      "opsi_b": "$2\\sqrt{3}$",
+      "opsi_c": "$6\\sqrt{3}$",
+      "opsi_d": "$\\sqrt{3}$",
+      "opsi_e": "$2$",
+      "jawaban": "B",
+      "pembahasan": "Kalikan dengan sekawan penyebut:\n$\\frac{6}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} = \\frac{6\\sqrt{3}}{3} = 2\\sqrt{3}$."
+    },
+    {
+      "no": 9,
+      "tanya": "Bentuk rasional dari $\\frac{4}{3+\\sqrt{5}}$ adalah ...",
+      "opsi_a": "$3+\\sqrt{5}$",
+      "opsi_b": "$3-\\sqrt{5}$",
+      "opsi_c": "$4(3-\\sqrt{5})$",
+      "opsi_d": "$3\\sqrt{5}$",
+      "opsi_e": "$12-4\\sqrt{5}$",
+      "jawaban": "B",
+      "pembahasan": "Kalikan dengan sekawan $(3-\\sqrt{5})$:\n$\\frac{4}{3+\\sqrt{5}} \\times \\frac{3-\\sqrt{5}}{3-\\sqrt{5}} = \\frac{4(3-\\sqrt{5})}{9-5} = \\frac{4(3-\\sqrt{5})}{4} = 3-\\sqrt{5}$."
+    },
+    {
+      "no": 10,
+      "tanya": "Nilai $x$ yang memenuhi persamaan $2^{3x} = 64$ adalah ...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "opsi_e": "5",
+      "jawaban": "B",
+      "pembahasan": "Ubah 64 menjadi basis 2:\n$2^{3x} = 2^6$\nSamakan pangkat: $3x = 6 \\Rightarrow x = 2$."
+    },
+    {
+      "no": 11,
+      "tanya": "Himpunan penyelesaian dari persamaan $5^{x^2 - 2x - 8} = 1$ adalah ...",
+      "opsi_a": "{-2, 4}",
+      "opsi_b": "{2, 4}",
+      "opsi_c": "{-4, 2}",
+      "opsi_d": "{-4, -2}",
+      "opsi_e": "{2, 3}",
+      "jawaban": "A",
+      "pembahasan": "Ingat $a^0 = 1$. Maka pangkatnya harus 0.\n$x^2 - 2x - 8 = 0$\nFaktorkan: $(x - 4)(x + 2) = 0$\n$x = 4$ atau $x = -2$. HP = {-2, 4}."
+    },
+    {
+      "no": 12,
+      "tanya": "Bentuk logaritma dari $2^5 = 32$ adalah ...",
+      "opsi_a": "$^5\\log 2 = 32$",
+      "opsi_b": "$^2\\log 32 = 5$",
+      "opsi_c": "$^{32}\\log 2 = 5$",
+      "opsi_d": "$^5\\log 32 = 2$",
+      "opsi_e": "$^2\\log 5 = 32$",
+      "jawaban": "B",
+      "pembahasan": "Definisi logaritma: $a^c = b \\iff ^a\\log b = c$.\n$2^5 = 32 \\iff ^2\\log 32 = 5$."
+    },
+    {
+      "no": 13,
+      "tanya": "Nilai dari $^3\\log 81$ adalah ...",
+      "opsi_a": "3",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "9",
+      "opsi_e": "27",
+      "jawaban": "B",
+      "pembahasan": "$81 = 3^4$.\nMaka $^3\\log 3^4 = 4 \\cdot ^3\\log 3 = 4 \\cdot 1 = 4$."
+    },
+    {
+      "no": 14,
+      "tanya": "Nilai dari $^2\\log 8 + ^2\\log 4$ adalah ...",
+      "opsi_a": "3",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "6",
+      "opsi_e": "12",
+      "jawaban": "C",
+      "pembahasan": "Sifat penjumlahan logaritma: $^a\\log b + ^a\\log c = ^a\\log(bc)$.\n$^2\\log(8 \\times 4) = ^2\\log 32 = ^2\\log 2^5 = 5$."
+    },
+    {
+      "no": 15,
+      "tanya": "Nilai dari $^5\\log 100 - ^5\\log 4$ adalah ...",
+      "opsi_a": "2",
+      "opsi_b": "4",
+      "opsi_c": "5",
+      "opsi_d": "20",
+      "opsi_e": "25",
+      "jawaban": "A",
+      "pembahasan": "Sifat pengurangan logaritma: $^a\\log b - ^a\\log c = ^a\\log(b/c)$.\n$^5\\log(100/4) = ^5\\log 25 = ^5\\log 5^2 = 2$."
+    },
+    {
+      "no": 16,
+      "tanya": "Jika $^2\\log 3 = a$, maka nilai $^8\\log 9$ dalam $a$ adalah ...",
+      "opsi_a": "$\\frac{2}{3}a$",
+      "opsi_b": "$\\frac{3}{2}a$",
+      "opsi_c": "$a$",
+      "opsi_d": "$2a$",
+      "opsi_e": "$3a$",
+      "jawaban": "A",
+      "pembahasan": "$^8\\log 9 = ^{2^3}\\log 3^2$.\nSifat: $^{a^n}\\log b^m = \\frac{m}{n} ^a\\log b$.\n$\\frac{2}{3} ^2\\log 3 = \\frac{2}{3}a$."
+    },
+    {
+      "no": 17,
+      "tanya": "Nilai dari $^2\\log 5 \\cdot ^5\\log 3 \\cdot ^3\\log 8$ adalah ...",
+      "opsi_a": "1",
+      "opsi_b": "2",
+      "opsi_c": "3",
+      "opsi_d": "4",
+      "opsi_e": "5",
+      "jawaban": "C",
+      "pembahasan": "Sifat rantai: $^a\\log b \\cdot ^b\\log c = ^a\\log c$.\n$^2\\log 5 \\cdot ^5\\log 3 \\cdot ^3\\log 8 = ^2\\log 8$.\n$^2\\log 2^3 = 3$."
+    },
+    {
+      "no": 18,
+      "tanya": "Jika $f(x) = 2^{2x}$, maka nilai $f(3)$ adalah ...",
+      "opsi_a": "8",
+      "opsi_b": "16",
+      "opsi_c": "32",
+      "opsi_d": "64",
+      "opsi_e": "128",
+      "jawaban": "D",
+      "pembahasan": "Substitusi $x=3$ ke fungsi.\n$f(3) = 2^{2(3)} = 2^6 = 64$."
+    },
+    {
+      "no": 19,
+      "tanya": "Himpunan penyelesaian persamaan $^2\\log(2x - 3) = 4$ adalah ...",
+      "opsi_a": "{19/2}",
+      "opsi_b": "{9}",
+      "opsi_c": "{13/2}",
+      "opsi_d": "{6}",
+      "opsi_e": "{5}",
+      "jawaban": "A",
+      "pembahasan": "Ubah ke bentuk eksponen:\n$2x - 3 = 2^4$\n$2x - 3 = 16$\n$2x = 19 \\Rightarrow x = 19/2$."
+    },
+    {
+      "no": 20,
+      "tanya": "Grafik fungsi $y = 2^x$ memotong sumbu Y di titik ...",
+      "opsi_a": "(0, 0)",
+      "opsi_b": "(0, 1)",
+      "opsi_c": "(1, 0)",
+      "opsi_d": "(1, 1)",
+      "opsi_e": "(2, 1)",
+      "jawaban": "B",
+      "pembahasan": "Memotong sumbu Y berarti $x=0$.\n$y = 2^0 = 1$.\nTitik potong (0, 1)."
+    },
+    {
+      "no": 21,
+      "tanya": "Nilai $x$ yang memenuhi $9^x = 27$ adalah ...",
+      "opsi_a": "1",
+      "opsi_b": "1.5",
+      "opsi_c": "2",
+      "opsi_d": "2.5",
+      "opsi_e": "3",
+      "jawaban": "B",
+      "pembahasan": "Samakan basis ke 3.\n$(3^2)^x = 3^3$\n$3^{2x} = 3^3$\n$2x = 3 \\Rightarrow x = 3/2 = 1.5$."
+    },
+    {
+      "no": 22,
+      "tanya": "Bentuk sederhana dari $\\frac{p^2 q^3 r^{-1}}{p^{-2} q r^2}$ adalah ...",
+      "opsi_a": "$p^4 q^2 r^{-3}$",
+      "opsi_b": "$p^4 q^2 r^3$",
+      "opsi_c": "$p^2 q^2 r^{-3}$",
+      "opsi_d": "$q^2 r^{-3}$",
+      "opsi_e": "$p^4 q r^{-3}$",
+      "jawaban": "A",
+      "pembahasan": "$p^{2-(-2)} q^{3-1} r^{-1-2} = p^4 q^2 r^{-3}$."
+    },
+    {
+      "no": 23,
+      "tanya": "Nilai dari $\\sqrt{8} + \\sqrt{18} - \\sqrt{32}$ adalah ...",
+      "opsi_a": "$\\sqrt{2}$",
+      "opsi_b": "$2\\sqrt{2}$",
+      "opsi_c": "$3\\sqrt{2}$",
+      "opsi_d": "$4\\sqrt{2}$",
+      "opsi_e": "$0$",
+      "jawaban": "A",
+      "pembahasan": "$\\sqrt{8} = 2\\sqrt{2}$\n$\\sqrt{18} = 3\\sqrt{2}$\n$\\sqrt{32} = 4\\sqrt{2}$\n$2\\sqrt{2} + 3\\sqrt{2} - 4\\sqrt{2} = 1\\sqrt{2} = \\sqrt{2}$."
+    },
+    {
+      "no": 24,
+      "tanya": "Jika $^2\\log 3 = p$, maka $^9\\log 16$ adalah ...",
+      "opsi_a": "$2/p$",
+      "opsi_b": "$p/2$",
+      "opsi_c": "$4/p$",
+      "opsi_d": "$p/4$",
+      "opsi_e": "$2p$",
+      "jawaban": "A",
+      "pembahasan": "$^9\\log 16 = ^{3^2}\\log 2^4 = \\frac{4}{2} ^3\\log 2 = 2 \\cdot ^3\\log 2$.\nKarena $^2\\log 3 = p$, maka $^3\\log 2 = 1/p$.\nHasil: $2 \\cdot (1/p) = 2/p$."
+    },
+    {
+      "no": 25,
+      "tanya": "Hasil dari $8^{2/3}$ adalah ...",
+      "opsi_a": "2",
+      "opsi_b": "4",
+      "opsi_c": "8",
+      "opsi_d": "16",
+      "opsi_e": "64",
+      "jawaban": "B",
+      "pembahasan": "$8^{2/3} = (2^3)^{2/3} = 2^{3 \\cdot (2/3)} = 2^2 = 4$."
+    }
+  ],
+  "soal_essay": [
+    {
+      "no": 1,
+      "tanya": "Sederhanakan bentuk pangkat berikut: $\\frac{24 a^{-7} b^{-2} c}{6 a^{-2} b^{-3} c^{-6}}$",
+      "jawaban_lengkap": "Langkah pengerjaan:\n1. Bagi koefisien: $24/6 = 4$.\n2. Kurangkan pangkat variabel yang sama (atas - bawah):\n   - a: $-7 - (-2) = -5$\n   - b: $-2 - (-3) = 1$\n   - c: $1 - (-6) = 7$\n3. Gabungkan: $4 a^{-5} b^1 c^7 = \\frac{4bc^7}{a^5}$."
+    },
+    {
+      "no": 2,
+      "tanya": "Tentukan himpunan penyelesaian dari persamaan eksponen $9^{2x-1} = 27^{4-3x}$!",
+      "jawaban_lengkap": "1. Samakan basis (gunakan basis 3):\n   $(3^2)^{2x-1} = (3^3)^{4-3x}$\n2. Kalikan pangkat:\n   $3^{4x-2} = 3^{12-9x}$\n3. Samakan eksponen:\n   $4x - 2 = 12 - 9x$\n4. Selesaikan persamaan linear:\n   $4x + 9x = 12 + 2$\n   $13x = 14$\n   $x = 14/13$\nHP = {14/13}"
+    },
+    {
+      "no": 3,
+      "tanya": "Rasionalkan penyebut pecahan berikut: $\\frac{8}{\\sqrt{5} + \\sqrt{3}}$",
+      "jawaban_lengkap": "1. Kalikan dengan sekawan penyebut ($\\sqrt{5} - \\sqrt{3}$):\n   $\\frac{8}{\\sqrt{5} + \\sqrt{3}} \\times \\frac{\\sqrt{5} - \\sqrt{3}}{\\sqrt{5} - \\sqrt{3}}$\n2. Operasikan pembilang dan penyebut:\n   Pembilang: $8(\\sqrt{5} - \\sqrt{3})$\n   Penyebut: $(\\sqrt{5})^2 - (\\sqrt{3})^2 = 5 - 3 = 2$\n3. Sederhanakan:\n   $\\frac{8(\\sqrt{5} - \\sqrt{3})}{2} = 4(\\sqrt{5} - \\sqrt{3})$\n   $= 4\\sqrt{5} - 4\\sqrt{3}$"
+    },
+    {
+      "no": 4,
+      "tanya": "Diketahui $^2\\log 3 = a$ dan $^3\\log 5 = b$. Nyatakan $^{15}\\log 20$ dalam bentuk $a$ dan $b$!",
+      "jawaban_lengkap": "1. Ubah basis logaritma (gunakan basis 3 agar terhubung):\n   $^{15}\\log 20 = \\frac{^3\\log 20}{^3\\log 15}$\n2. Uraikan numerus:\n   $= \\frac{^3\\log(4 \\times 5)}{^3\\log(3 \\times 5)} = \\frac{^3\\log 2^2 + ^3\\log 5}{^3\\log 3 + ^3\\log 5}$\n3. Substitusi nilai:\n   Diketahui $^2\\log 3 = a \\Rightarrow ^3\\log 2 = 1/a$\n   Diketahui $^3\\log 5 = b$\n4. Masukkan ke persamaan:\n   $= \\frac{2(1/a) + b}{1 + b} = \\frac{\\frac{2}{a} + b}{1+b}$\n5. Sederhanakan (kalikan pembilang dan penyebut dengan a):\n   $= \\frac{2 + ab}{a(1+b)}$"
+    },
+    {
+      "no": 5,
+      "tanya": "Tentukan nilai $x$ yang memenuhi persamaan logaritma $^3\\log(x^2 - 3) = ^3\\log(2x)$!",
+      "jawaban_lengkap": "1. Karena basis sama, samakan numerus:\n   $x^2 - 3 = 2x$\n2. Bentuk persamaan kuadrat:\n   $x^2 - 2x - 3 = 0$\n3. Faktorkan:\n   $(x - 3)(x + 1) = 0$\n   $x = 3$ atau $x = -1$\n4. Syarat numerus logaritma harus positif ($>0$):\n   - Untuk $x = 3$: $2(3) = 6 > 0$ (Memenuhi)\n   - Untuk $x = -1$: $2(-1) = -2 < 0$ (Tidak Memenuhi)\n5. Jadi, HP = {3}"
+    },
+    {
+      "no": 6,
+      "tanya": "Sebuah zat radioaktif meluruh menjadi setengahnya dalam waktu 30 tahun. Jika mula-mula terdapat 100 gram zat, berapa sisa zat tersebut setelah 90 tahun?",
+      "jawaban_lengkap": "1. Gunakan rumus peluruhan: $M_t = M_0 (1/2)^n$\n   dimana $n = \\text{waktu total} / \\text{waktu paruh}$\n2. Hitung $n$:\n   $n = 90 / 30 = 3$\n3. Hitung sisa zat:\n   $M_t = 100 \\times (1/2)^3$\n   $M_t = 100 \\times (1/8)$\n   $M_t = 12.5$ gram."
+    },
+    {
+      "no": 7,
+      "tanya": "Tentukan himpunan penyelesaian dari $2^{2x} - 10 \\cdot 2^x + 16 = 0$!",
+      "jawaban_lengkap": "1. Misalkan $2^x = y$, maka persamaannya menjadi:\n   $y^2 - 10y + 16 = 0$\n2. Faktorkan:\n   $(y - 2)(y - 8) = 0$\n   $y = 2$ atau $y = 8$\n3. Kembalikan ke bentuk eksponen:\n   - Untuk $y = 2 \\Rightarrow 2^x = 2^1 \\Rightarrow x = 1$\n   - Untuk $y = 8 \\Rightarrow 2^x = 2^3 \\Rightarrow x = 3$\n4. HP = {1, 3}"
+    },
+    {
+      "no": 8,
+      "tanya": "Hitunglah nilai dari $\\frac{^3\\log 25 \\cdot ^5\\log 81 - ^4\\log 2}{^3\\log 36 - ^3\\log 4}$!",
+      "jawaban_lengkap": "1. Selesaikan Pembilang:\n   - $^3\\log 25 \\cdot ^5\\log 81 = ^3\\log 5^2 \\cdot ^5\\log 3^4 = (2 \\cdot 4) \\cdot ^3\\log 5 \\cdot ^5\\log 3 = 8 \\cdot ^3\\log 3 = 8$\n   - $^4\\log 2 = ^{2^2}\\log 2^1 = 1/2$\n   - Pembilang = $8 - 0.5 = 7.5$\n2. Selesaikan Penyebut:\n   - $^3\\log 36 - ^3\\log 4 = ^3\\log(36/4) = ^3\\log 9 = ^3\\log 3^2 = 2$\n3. Hasil Akhir:\n   $7.5 / 2 = 3.75$ atau $15/4$."
+    },
+    {
+      "no": 9,
+      "tanya": "Jika $f(x) = 3^{x+1}$, tentukan nilai $f(a+b)$ dinyatakan dalam $f(a)$ dan $f(b)$!",
+      "jawaban_lengkap": "1. Diketahui $f(x) = 3^{x+1}$.\n   Maka $f(a) = 3^{a+1}$ dan $f(b) = 3^{b+1}$.\n2. Cari $f(a+b)$:\n   $f(a+b) = 3^{(a+b)+1} = 3^{a+b+1}$\n3. Hubungkan dengan $f(a)$ dan $f(b)$:\n   $f(a) \\cdot f(b) = 3^{a+1} \\cdot 3^{b+1} = 3^{a+b+2}$\n   Agar menjadi $3^{a+b+1}$, kita bagi dengan 3.\n   $\\frac{f(a) \\cdot f(b)}{3} = \\frac{3^{a+b+2}}{3^1} = 3^{a+b+1} = f(a+b)$.\n4. Jadi, $f(a+b) = \\frac{1}{3} f(a) f(b)$."
+    },
+    {
+      "no": 10,
+      "tanya": "Tentukan domain (daerah asal) agar fungsi $f(x) = ^2\\log(x^2 - 5x + 6)$ terdefinisi!",
+      "jawaban_lengkap": "Syarat logaritma terdefinisi adalah numerus $> 0$.\n1. $x^2 - 5x + 6 > 0$\n2. Faktorkan pembuat nol:\n   $(x - 2)(x - 3) = 0 \\Rightarrow x=2, x=3$\n3. Uji garis bilangan:\n   +++ (2) --- (3) +++\n4. Karena diminta $> 0$ (positif), maka daerah penyelesaiannya:\n   $x < 2$ atau $x > 3$.\n5. Domain = {x | x < 2 atau x > 3, x $\\in$ R}"
+    }
+  ]
+}
