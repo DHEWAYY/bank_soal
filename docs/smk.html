@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Soal SMK | BankSoal.id</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans flex flex-col min-h-screen">
+
+<amp-auto-ads type="adsense" data-ad-client="ca-pub-8957427036950408"></amp-auto-ads>
+
+<nav class="bg-white border-b sticky top-0 z-50 shadow-sm">
+    <div class="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
+        <a href="index.html" class="font-bold text-xl text-blue-600 flex items-center gap-2">
+            <i class="fa-solid fa-book-open"></i> <span class="hidden sm:inline">BankSoal.id</span>
+        </a>
+        <div class="flex gap-1 md:gap-4 text-xs md:text-sm font-semibold text-gray-600">
+            <a href="sd.html" class="hover:text-blue-600 px-2 py-1 rounded hover:bg-blue-50 transition">SD</a>
+            <a href="smp.html" class="hover:text-blue-600 px-2 py-1 rounded hover:bg-blue-50 transition">SMP</a>
+            <a href="sma.html" class="hover:text-blue-600 px-2 py-1 rounded hover:bg-blue-50 transition">SMA</a>
+            <a href="smk.html" class="hover:text-blue-600 px-2 py-1 rounded hover:bg-blue-50 transition">SMK</a>
+        </div>
+    </div>
+</nav>
+
+<main class="max-w-4xl mx-auto px-4 py-8 flex-grow">
+    
+    <div class="w-full mb-8 text-center bg-white p-1 rounded border border-gray-100 overflow-hidden">
+        <amp-ad width="100vw" height="320"
+             type="adsense"
+             data-ad-client="ca-pub-8957427036950408"
+             data-ad-slot="8904659749"
+             data-auto-format="rspv"
+             data-full-width="">
+          <div overflow=""></div>
+        </amp-ad>
+    </div>
+<div class='text-center mb-8'><h1 class='text-3xl font-bold text-gray-900 mb-2'>Bank Soal SMK</h1><p class='text-gray-500'>Kumpulan soal latihan lengkap dan gratis.</p></div>
+    <div class="mb-8 relative">
+        <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-gray-400">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        <input type="text" id="searchInput" onkeyup="cariSoal()" placeholder="Cari materi, mapel, atau kelas..." 
+            class="w-full p-4 pl-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-blue-500 focus:border-blue-500 shadow-sm" autocomplete="off">
+    </div>
+
+    <script>
+    function cariSoal() {
+        var input, filter, container, items, title, i, txtValue;
+        input = document.getElementById("searchInput");
+        filter = input.value.toUpperCase();
+        container = document.getElementById("listSoal");
+        items = container.getElementsByClassName("soal-item");
+
+        for (i = 0; i < items.length; i++) {
+            title = items[i].getElementsByTagName("h3")[0];
+            desc = items[i].getElementsByTagName("p")[0];
+            txtValue = title.textContent + " " + desc.textContent;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                items[i].style.display = "";
+            } else {
+                items[i].style.display = "none";
+            }
+        }
+    }
+    </script>
+<div id='listSoal' class='grid grid-cols-1 md:grid-cols-2 gap-4'><div class='col-span-2 text-center text-gray-400 py-10'>Belum ada materi di kategori ini.</div></div>
+</main>
+<footer class="text-center py-6 text-gray-400 text-sm border-t bg-white mt-auto">
+    &copy; 2026 BankSoal.id Engine<br>
+    <a href="https://github.com/DHEWAYY/bank_soal" class="text-blue-500 hover:underline text-xs">Open Source Project</a>
+</footer>
+</body>
+</html>
