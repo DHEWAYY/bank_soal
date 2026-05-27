@@ -34,7 +34,7 @@ Berikut hasil tinjauan awal codebase beserta **masing-masing satu tugas** untuk 
 
 **Tugas:** Tambahkan unit test Python (mis. `tests/test_generator.py`) untuk:
 - `minify_html()` pada kasus whitespace antar tag.
-- `get_badge_color()` untuk input jenjang SD/SMP/SMK/default.
+- get_badge_color() untuk input jenjang SD/SMP/SMA/SMK/default.
 
 **Kriteria selesai:**
 - Seluruh test dapat dijalankan via `python -m unittest` atau `pytest`.
